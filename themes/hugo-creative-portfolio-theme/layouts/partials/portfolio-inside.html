@@ -5,9 +5,11 @@
           {{ range (where .Site.Pages "Section" "portfolio") }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
+                    {{ if .Params.logoimg }}
                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
-                        <img src="/img/default-img/aikido-gi.jpg" alt="" class="img-responsive">
+                        <img src="{{ .Params.logoimg }}" alt="" class="img-responsive">
                       </a>
+                      {{ end }}
                     <div class="box-masonry-text">
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">

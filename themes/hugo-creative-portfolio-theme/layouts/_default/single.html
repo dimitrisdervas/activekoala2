@@ -11,7 +11,7 @@
                           {{ end }}
                           {{ if  .Params.website }}
                            <h4>Website:</h4>
-                            <div class="box-masonry-website"><a href="http://{{ .Params.website }}" _target="blank">{{ .Params.website }}</a></div>
+                            <div class="box-masonry-website"><a href="{{ .Params.website }}" _target="blank">{{ .Params.website }}</a></div>
                           {{ end }}
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
