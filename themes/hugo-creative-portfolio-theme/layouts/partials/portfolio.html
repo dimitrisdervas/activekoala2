@@ -1,0 +1,22 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="grid">
+        <div class="row">
+          {{ range (where .Data.Pages "Section" "portfolio") }}
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                  <div class="box-masonry">
+                     <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                        <img src="/img/default-img/aikido-gi.jpg" alt="" class="img-responsive">
+                      </a>
+                    <div class="box-masonry-text">
+                          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                          <div class="box-masonry-description">
+                              <p>{{ .Summary }}</p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          {{ end }}
+        </div>
+    </div>
+</div>
