@@ -1,4 +1,4 @@
-baseurl = "http://activecoala.com/"
+baseurl = "http://activekoala.com/"
 title = "Active Coala"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
