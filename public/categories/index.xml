@@ -1,14 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Active Coala</title>
+    <link>https://activekoala.com/categories/</link>
+    <description>Recent content in Categories on Active Coala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;2018 ActiveCoala</copyright>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://activekoala.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://activekoala.com/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baby Swimming</title>
+      <link>https://activekoala.com/categories/baby-swimming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/baby-swimming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Αθλητισμός</title>
+      <link>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Πολεμικές Τέχνες</title>
+      <link>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

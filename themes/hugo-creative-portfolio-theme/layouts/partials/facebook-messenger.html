@@ -1,0 +1,24 @@
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : 'your-app-id',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v2.12'
+    });
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/el_GR/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<div class="fb-customerchat"
+  page_id="1476200412636777"
+  theme_color="#fa3c4c"
+  logged_in_greeting="Καλημέρα! Τι θα θέλατε να μάθετε;"
+  logged_out_greeting="Ευχαριστούμε."
+>
+</div>

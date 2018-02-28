@@ -41,6 +41,10 @@ googleAnalytics = ""
   url = "home2/"
 
   [[params.navlinks]]
+  name = "Search Algolia"
+  url = "search/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 

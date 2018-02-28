@@ -2,18 +2,527 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://activekoala.com/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/search/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/home2/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://activekoala.com/schools/aikido-dojo-tokaido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-kodokan-lykobrysi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-randori-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-zanshin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-athinon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://activekoala.com/schools/aikibuddha/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-academy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-athens-bushido-center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-glyfadas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-kobukan-dojo-adam-adamski-6-dan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-school-athens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-training-center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikido-zanshin-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aikidowestend/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athens-aikido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athens-aikido-society/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athens-aikikai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athens-bushido-center-uad-member/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/baby-swimming/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/budolife-awa-member/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/fukushinkan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/geobukan-budo-academy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/hakushinkai-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/hellenic-inochikan-aikikai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/jikokensan-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/jutaidokan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/kenwakai-aikido-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/kantza-aikikai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/koushinkan-dojo-peiraias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/marousi-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/martial-arts-foundation-awa-member/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/masagatsu-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/meikonikan-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/mushindokan-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/nishimachi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/panda-sto-nero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/randori-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/sei-ki-aikido-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/shu-ren-kan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/shinkendo-athens-japanese-swordsmanship-aikibujutsu-aikido-bojutsu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/shu-do-kan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/shudokan-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/shurein-dojo-uad-member/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/tenjin-dojo-athens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/titanas-gym/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/tokaido-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/umibe-no-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/warriors-spirit-dojo-awa-member/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/zen-center-athens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/a-g-s-proteas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/a-o-aigaleo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/a-o-n-s-o-milon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/a-s-eksarxeion-black-belt-shotokan-karate-brazilian-jiu-jitsu-aikido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/a-s-orionas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitiki-enosi-xaidarioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitiko-somateio-kolymb-almpatros-ano-liosion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-kolymbitikos-omilos-almpatros-ilioypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-kolymbitikos-omilos-baris-barkizas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-kolymbitikos-syllogosdelfinia-peristerioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-naytikos-omilos-argyroypolis-a-n-o-a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-naytikos-omilos-glyfadas-a-n-o-g/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-naytikos-omilos-metamorfosis-skatharia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-kolonoy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-nireas-xalandrioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-olympiada-petroypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-palaioyfaliroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-pentelikoy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-ionikos-nikaias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-olympias-73/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-triton-amaroysioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-syllogos-pera/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-syllogoskollegioy-nteri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-nireas-geraka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aiolos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/aiolos-petroypolis-athlit-omilos-ygroy-stiboy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/akadimia-aikido-kobayashi-hirokazu-ryu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/argo-athlitiko-politistiko-somateio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/artemis-78-naytathlitikos-gymnastikos-sylllogos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/athlitikos-omilos-okeanos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-syllogos-aigaleo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-syllogos-petroypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-syllogos-kifisias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-naytikos-omilos-aris-nikaias-g-n-o-a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-syllogos-ilioypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/gymnastikos-syllogos-peristerioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/das-arafin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/delfinia-metamorfosis-a-k-o/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/delfis-kolymbitikos-omilos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/ethnikos-gymnastikos-syllogos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/ethnikos-omilos-filathlon-peiraios-faliroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/ellinikos-naytikos-omilos-aigyptioton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/emp-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/ilysiakos-athlitikos-omilos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/iasonas-g-a-s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/ippokampos-athlitikos-omilos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/kolymbitikos-omilos-peristerioy-glaykos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/kolymbitikos-omilos-poseidon-ilision/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/kolymbitikos-athlitikos-omilos-ilion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/monastiraki-dojo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/naytikos-athlitikos-omilos-arion-glyfadas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/naytikos-omilos-ilioypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/naytikos-omilos-kalamakioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/naytikos-omilos-boyliagmenis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/naytilos-athlitikos-syllogos-attikis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/o-a-k-a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/o-f-n-ionias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/olympiakos-syndesmos-filathlon-peiraios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/panathinaikos-athlitikos-omilos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/panellinios-gymnastikos-syllogos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/panellinios-syllogos-marathonias-kolymbisis-mixanikon-o-leandros/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/panionios-gymnastikos-syllogos-smyrnis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/poseidon-a-o-n-psyxikoy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/roi-aqua-team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/sxoli-paradosiakoy-kinezikoy-saolin-koyngk-foy-hung-gar-wing-chun-sanda-tai-chi-yoga-aikido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/tritonas-athlitikos-omilos-ano-liosion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/schools/okeanos-athlitikos-omilos/</loc>
   </url>
   
 </urlset>

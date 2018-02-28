@@ -2,18 +2,22 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <div class="content-column-content">
+        {{ if .Params.mainimg }}
+        <div class="mainimg"><img src="{{ .Params.mainimg }}"></div>
+        {{ end }}
          <h1>{{ .Title }}</h1>
-                           {{ if  .Params.facebook }}
-                           <h4>Facebook:</h4>
-                            <div class="box-masonry-facebook"><a href="{{ .Params.facebook }}" _target="blank"><img src="/img/social/facebook-text.png"></a></div>
-                          {{ end }}
-                          {{ if  .Params.website }}
-                           <h4>Website:</h4>
-                            <div class="box-masonry-website"><a href="{{ .Params.website }}" _target="blank">{{ .Params.website }}</a></div>
-                          {{ end }}
+         {{ if  .Params.facebook }}
+         <h4>Facebook:</h4>
+          <div class="box-masonry-facebook"><a href="{{ .Params.facebook }}" _target="blank"><img src="/img/social/facebook-text.png"></a></div>
+        {{ end }}
+        {{ if  .Params.website }}
+         <h4>Website:</h4>
+          <div class="box-masonry-website"><a href="{{ .Params.website }}" _target="blank">{{ .Params.website }}</a></div>
+        {{ end }}
          {{ .Content }}
+         {{ partial "facebook-messenger.html" }}
          {{ template "_internal/disqus.html" . }}
       </div>
     </div>
