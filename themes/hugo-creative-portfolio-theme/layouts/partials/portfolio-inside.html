@@ -3,22 +3,20 @@
     <div class="grid">
         <div class="row">
           {{ range (where .Site.Pages "Section" "schools") }}
-              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <div class="box-masonry">
+              <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white masonry-item -mb-6">
                     {{ if .Params.logoimg }}
                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         <img src="{{ .Params.logoimg }}" alt="" class="img-responsive">
                       </a>
                       {{ end }}
-                    <div class="box-masonry-text">
-                          <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                          <div class="box-masonry-description">
-                              <p>{{ .Summary }}</p>
-                          </div>
-                          <div class="city">{{ .Params.city }}</div>
-                          <div class="subcategory">{{ .Params.subcategories }}</div>
+                    <div class="bpx-6 py-4">
+                          <div class="font-bold text-xl mb-2"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+                          <p class="text-grey-darker text-base">{{ .Summary }}</p>
+                          <div class="px-6 py-4">
+                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker">{{ .Params.city }}</span>
+                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2">{{ .Params.subcategories }}</span>
+                          </div> 
                       </div>
-                  </div>
               </div>
           {{ end }}
         </div>
