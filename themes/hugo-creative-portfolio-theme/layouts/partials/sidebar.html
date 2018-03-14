@@ -10,6 +10,38 @@
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
     </ul>
+
+     {{ if isset .Site.Taxonomies "Cities" }}
+          <h1 class="sidebar-heading">City</h1>
+              <ul class="sidebar-menu">
+
+                  {{ range $name, $items := .Site.Taxonomies.Cities }}
+                  <li class="category-list-item">
+                      {{ $url := printf "%s/%s" "cities" ($name | urlize | lower)}}
+                      <a class="category-list-link" href="{{ $url | absURL }}">
+                          {{ $name }}
+                      </a>
+                      <span class="category-list-count">{{ len $items }}</span>
+                  </li>
+                  {{ end }}
+              </ul>
+    {{ end }}
+
+     {{ if isset .Site.Taxonomies "Categories" }}
+          <h1 class="sidebar-heading">Κατηγοριες</h1>
+              <ul class="sidebar-menu">
+                  {{ range $name, $items := .Site.Taxonomies.Categories }}
+                  <li class="category-list-item">
+                      {{ $url := printf "%s/%s" "categories" ($name | urlize | lower)}}
+                      <a class="category-list-link" href="{{ $url | absURL }}">
+                          {{ $name }}
+                      </a>
+                      <span class="category-list-count">{{ len $items }}</span>
+                  </li>
+                  {{ end }}
+              </ul>
+    {{ end }}
+
     {{ partial "social_buttons_in_sidebar.html" . }}
 
     <div class="copyright">

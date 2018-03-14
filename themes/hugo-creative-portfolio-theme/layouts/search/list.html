@@ -13,7 +13,7 @@
 				    <ais-stats></ais-stats>
 				    <div class="filters">
 
-					<ais-refinement-list attribute-name="Subcategory"></ais-refinement-list>
+					<ais-refinement-list attribute-name="subcategories"></ais-refinement-list>
 
 <ais-clear :clears-query="false"></ais-clear>
 					</div>
@@ -25,14 +25,11 @@
 
 				            <div class="result__info">
 				              <h4 class="result__name">
-				                <ais-highlight :result="result" attribute-name="School"/>
+				                <a :href="result.uri">"{{ "{{ result.title }}" }}"</a>
 				              </h4>
-				              <div class="result__type">
-				                <ais-highlight :result="result" attribute-name="City"/>
-			              </div>
-				        <ais-highlight :result="result" attribute-name="Subcategory"/>
+				              <ais-highlight :result="result" attribute-name="city"/></ais-highlight>
+				              <ais-highlight :result="result" attribute-name="subcategories"/></ais-highlight>
 
-	
 				            </div>
 				          </div>
 				        </template>

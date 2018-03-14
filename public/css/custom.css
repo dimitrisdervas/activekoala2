@@ -2,4 +2,9 @@
 
 .content-column {
     height: 100vh;
+    float: right;
+    padding-top: 0;
+}
+.box-nasonry {
+	border-radius: 0.25rem;
 }

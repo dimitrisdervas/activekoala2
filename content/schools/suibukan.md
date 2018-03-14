@@ -1,10 +1,10 @@
 ---
 title: |
    SuiBukan
-city: "Θεσσαλονίκη"
+city: ["Θεσσαλονίκη"]
 perioxi: "Τούμπα"
-categories: "Πολεμικές τέχνες"
-subcategories: "Karate"
+categories: ["Πολεμικές τέχνες"]
+subcategories: ["Karate"]
 logoimg: "https://scontent-frt.xx.fbcdn.net/v/t1.0-1/p200x200/14237600_1185156011542753_8196304704658419131_n.jpg?oh=0321e4a8790d931f1818f625fccf5f8b&oe=5B46FAB6"
 mainimg: "http://thes.suibukan.com/assets/images/slideshow/20160903_LITOHORO_SEMINAR_184.jpg"
 website: "suibukan.com"

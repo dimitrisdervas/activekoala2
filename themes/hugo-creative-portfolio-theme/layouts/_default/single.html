@@ -1,26 +1,66 @@
 {{ define "main" }}
-<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+<div class="col-xs-12 col-sm-8 col-md-9 white-background">
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
     <div class="col-lg-12">
       <div class="content-column-content">
-        {{ if .Params.mainimg }}
-        <div class="mainimg"><img src="{{ .Params.mainimg }}"></div>
+        <div class="profile"> <img class="rounded" src="/images/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive"></div>
+        <div class="mainimg">
+        {{ if .Params.coverGraphApi }}
+          <img class="rounded" src="/images/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
+          {{ else }}
+        <img src="/img/default-img/aikido-bokken-2.jpg" alt="" class="img-responsive">
         {{ end }}
+        </div>
          <h1>{{ .Title }}</h1>
-         {{ if  .Params.facebook }}
-         <h4>Facebook:</h4>
-          <div class="box-masonry-facebook"><a href="{{ .Params.facebook }}" _target="blank"><img src="/img/social/facebook-text.png"></a></div>
+
+<div class="my-8">
+<ul id="tags">
+  {{ range .Params.Categories }}
+    <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+  {{ end }}
+</ul>
+<ul id="tags">
+  {{ range .Params.Subcategories }}
+    <li><a href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+  {{ end }}
+</ul>
+</div>
+  <div class="my-8">
+
+         {{ if  .Params.linkGraphApi }}
+          <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.linkGraphApi }}" _target="blank">facebook</a>
         {{ end }}
+
+
         {{ if  .Params.website }}
-         <h4>Website:</h4>
-          <div class="box-masonry-website"><a href="{{ .Params.website }}" _target="blank">{{ .Params.website }}</a></div>
+          <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.website }}" _target="blank">website</a>
         {{ end }}
+  </div>
          {{ .Content }}
-         {{ partial "facebook-messenger.html" }}
+         <div id="map"></div>
          {{ template "_internal/disqus.html" . }}
       </div>
     </div>
   </div>
 </div>
+
+{{ if .Params.latitudeGraphApi }}
+<script>
+// create a map in the "map" div, set the view to a given place and zoom
+var map = L.map('map').setView([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}], 14);
+// add an OpenStreetMap tile layer
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+// add a marker in the given location, attach some popup content to it and open the popup
+L.marker([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}]).addTo(map)
+    .bindPopup('{{.Params.title}} <br>,{{ .Params.streetGraphApi }}')
+    .openPopup();
+</script>
+{{ end }}
+
+{{ if .Params.FacebookApiID }}
+{{ partial "facebook-messenger.html" . }}
+{{ end }}
 {{ end }}

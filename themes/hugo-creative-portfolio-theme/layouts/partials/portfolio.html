@@ -8,12 +8,19 @@
                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         <img src="/img/default-img/aikido-gi.jpg" alt="" class="img-responsive">
                       </a>
+                                            {{ $dataJ := getJSON "/data/graph-api.json" }}
+                      {{ range  where $dataJ ".UID" "==" .Params.UID }}
+                              <li>{{ .page_token}}</li>
+                              <li>{{ .UID }} </li>
+                             <img class="rounded" src="{{ .picture}}" alt="" class="img-responsive">
+                             <img class="rounded" src="{{ .cover}}" alt="" class="img-responsive">
+                      {{ end }}
                     <div class="box-masonry-text">
                           <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                           <div class="box-masonry-description">
                               <p>{{ .Summary }}</p>
                           </div>
-                          <div class="city">{{ .Params.city }}</div>
+                          <div class="city">{{ .Params.City }}</div>
                           <div class="subcategory">{{ .Params.subcategories }}</div>
                       </div>
                   </div>

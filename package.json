@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "atomic-algolia": "^0.3.11",
     "hugo-algolia": "^1.2.13"
   },
   "scripts": {
-    "index": "hugo-algolia"
-	}
+    "index": "hugo-algolia",
+    "algolia": "atomic-algolia"
+  }
+
 }
