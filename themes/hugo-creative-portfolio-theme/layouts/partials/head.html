@@ -87,6 +87,6 @@
 <meta property="twitter:description" content="{{ .Description }}">
 <meta property="twitter:title" content="{{ .Title }}">
 {{ if .Params.thumbnail }}
-<meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
+<meta property="twitter:image" content="{{ .Site.BaseURL }}/images/{{ .Params.UID }}-cover.jpg">
 {{ end }}
 <!-- End of Twitter -->
