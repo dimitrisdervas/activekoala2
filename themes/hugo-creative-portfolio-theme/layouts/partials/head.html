@@ -44,7 +44,7 @@
 <!-- Custom stylesheet - for your changes -->
 <link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css" />
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -53,7 +53,7 @@
 
 
 {{ template "_internal/google_analytics_async.html" . }}
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js"></script>
 <!-- https://gist.github.com/vietlq/d1c7ecfb20ce7beac4a7f4df746c797c -->
 <!-- Start of Open Graph -->
 <meta property="og:title" content="{{ .Title }}">

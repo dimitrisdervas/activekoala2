@@ -76,6 +76,7 @@ L.marker([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}]).addTo(ma
 {{ end }}
 
 {{ if .Params.FacebookApiID }}
-{{ partial "facebook-messenger.html" . }}
+    {{ partial "facebook-messenger.html" . }}
 {{ end }}
+
 {{ end }}
