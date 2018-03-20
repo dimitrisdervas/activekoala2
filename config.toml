@@ -3,7 +3,7 @@ title = "Active Koala"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "gr"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-31451672-10"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
