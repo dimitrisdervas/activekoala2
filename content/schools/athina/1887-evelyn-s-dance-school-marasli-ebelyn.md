@@ -2,7 +2,7 @@
 title: |
     EVELYN`S DANCE SCHOOL&quot; ΜΑΡΑΣΛΗ ΕΒΕΛΥΝ
 School: "EVELYN`S DANCE SCHOOL&quot; ΜΑΡΑΣΛΗ ΕΒΕΛΥΝ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

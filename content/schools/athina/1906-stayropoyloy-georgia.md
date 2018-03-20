@@ -2,7 +2,7 @@
 title: |
     ΣΤΑΥΡΟΠΟΥΛΟΥ ΓΕΩΡΓΙΑ
 School: "ΣΤΑΥΡΟΠΟΥΛΟΥ ΓΕΩΡΓΙΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

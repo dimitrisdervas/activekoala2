@@ -2,7 +2,7 @@
 title: |
     ΖΑΧΑΡΟΠΟΥΛΟΥ ΣΥΛΙΑ
 School: "ΖΑΧΑΡΟΠΟΥΛΟΥ ΣΥΛΙΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

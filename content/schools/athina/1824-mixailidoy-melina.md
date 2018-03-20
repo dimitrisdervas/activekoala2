@@ -2,7 +2,7 @@
 title: |
     ΜΙΧΑΗΛΙΔΟΥ ΜΕΛΙΝΑ
 School: "ΜΙΧΑΗΛΙΔΟΥ ΜΕΛΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

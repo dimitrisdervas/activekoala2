@@ -2,7 +2,7 @@
 title: |
     DANCE PLACE MELISSIA&quot; ΑΝΑΣΤΑΣΙΑΔΟΥ ΗΒΗ &amp; ΠΑΤΡΟΥ ΕΛΕΝΗ
 School: "DANCE PLACE MELISSIA&quot; ΑΝΑΣΤΑΣΙΑΔΟΥ ΗΒΗ &amp; ΠΑΤΡΟΥ ΕΛΕΝΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΚΑΛΛΙΣΤΟΣ
 School: "ΑΟ ΚΑΛΛΙΣΤΟΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΧΑΛΑΝΔΡΙ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

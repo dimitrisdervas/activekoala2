@@ -2,7 +2,7 @@
 title: |
     ΜΑΝΟΥ ΒΑΣΙΛΙΚΗ
 School: "ΜΑΝΟΥ ΒΑΣΙΛΙΚΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

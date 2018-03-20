@@ -2,7 +2,7 @@
 title: |
     ΕΥΑΓΓΕΛΟΥ ΣΓΟΥΡΩ &quot;DANCETUDE
 School: "ΕΥΑΓΓΕΛΟΥ ΣΓΟΥΡΩ &quot;DANCETUDE"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

@@ -2,7 +2,7 @@
 title: |
     ΒΑΣΙΛΑΚΗ ΝΤΙΝΑ
 School: "ΒΑΣΙΛΑΚΗ ΝΤΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

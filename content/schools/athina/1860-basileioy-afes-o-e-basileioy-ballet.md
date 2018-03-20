@@ -2,7 +2,7 @@
 title: |
     ΒΑΣΙΛΕΙΟΥ ΑΦΕΣ Ο.Ε. &quot;ΒΑΣΙΛΕΙΟΥ BALLET
 School: "ΒΑΣΙΛΕΙΟΥ ΑΦΕΣ Ο.Ε. &quot;ΒΑΣΙΛΕΙΟΥ BALLET"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

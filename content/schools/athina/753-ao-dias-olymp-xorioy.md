@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΔΙΑΣ ΟΛΥΜΠ.ΧΩΡΙΟΥ
 School: "ΑΟ ΔΙΑΣ ΟΛΥΜΠ.ΧΩΡΙΟΥ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΑΧΑΡΝΑΙ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

@@ -2,7 +2,7 @@
 title: |
     ΚΥΠΡΙΩΤΟΥ ΒΑΣΙΛΙΚΗ
 School: "ΚΥΠΡΙΩΤΟΥ ΒΑΣΙΛΙΚΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

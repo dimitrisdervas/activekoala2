@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΟΛΥΜΠΙΑΔΑ ΚΗΦΙΣΙΑ ΕΟΚΑ
 School: "ΑΟ ΟΛΥΜΠΙΑΔΑ ΚΗΦΙΣΙΑ ΕΟΚΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΚΗΦΙΣΙΑ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

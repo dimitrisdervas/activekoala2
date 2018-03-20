@@ -2,7 +2,7 @@
 title: |
     ΞΥΜΗΤΟΥΛΙΑ ΣΑΠΦΩ
 School: "ΞΥΜΗΤΟΥΛΙΑ ΣΑΠΦΩ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

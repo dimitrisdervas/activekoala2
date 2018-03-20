@@ -2,7 +2,7 @@
 title: |
     ΠΑΠΑΧΡΗΣΤΟΥ - ΓΑΛΟΜΗΤΑΚΟΥ ΑΝΤΑ
 School: "ΠΑΠΑΧΡΗΣΤΟΥ - ΓΑΛΟΜΗΤΑΚΟΥ ΑΝΤΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

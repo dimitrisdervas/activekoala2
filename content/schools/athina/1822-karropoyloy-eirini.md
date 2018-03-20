@@ -2,7 +2,7 @@
 title: |
     ΚΑΡΡΟΠΟΥΛΟΥ ΕΙΡΗΝΗ
 School: "ΚΑΡΡΟΠΟΥΛΟΥ ΕΙΡΗΝΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

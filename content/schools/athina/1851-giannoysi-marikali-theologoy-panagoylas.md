@@ -2,7 +2,7 @@
 title: |
     ΓΙΑΝΝΟΥΣΗ ΜΑΡΙΚΑΛΗ&quot; ΘΕΟΛΟΓΟΥ ΠΑΝΑΓΟΥΛΑΣ
 School: "ΓΙΑΝΝΟΥΣΗ ΜΑΡΙΚΑΛΗ&quot; ΘΕΟΛΟΓΟΥ ΠΑΝΑΓΟΥΛΑΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

@@ -2,7 +2,7 @@
 title: |
     MOVEMENTS&quot; ΜΠΡΙΚΜΑΝ ΧΡΙΣΤΙΝΑ
 School: "MOVEMENTS&quot; ΜΠΡΙΚΜΑΝ ΧΡΙΣΤΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

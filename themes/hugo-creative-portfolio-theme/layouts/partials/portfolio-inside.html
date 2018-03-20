@@ -6,6 +6,7 @@
                     <h1 class="sidebar-heading">Υποκατηγοριες</h1>
                     <ul class="header-menu">
                         {{ range $name, $items := .Site.Taxonomies.Subcategories }}
+                        {{ if $name }}
                         <li class="category-list-item">
                             {{ $url := printf "%s/%s" "subcategories" ($name | urlize | lower)}}
                             <a class="category-list-link" href="{{ $url | absURL }}">
@@ -14,12 +15,13 @@
                             <span class="category-list-count">{{ len $items }}</span>
                         </li>
                         {{ end }}
+                        {{ end }}
                     </ul>
                 {{ end }}
-          </div>  
+          </div>
     <div class="grid">
         <div class="row">
-          {{ range first 40 (where .Site.Pages "Section" "schools") }}
+          {{ range first 15 (where .Site.Pages "Section" "schools") }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry shadow-md">
                     {{ if .Params.coverGraphApi }}
@@ -29,7 +31,6 @@
                       {{ else }}
                       <p>empty</p>
                       {{ end }}
-                      <div class="uid">1.{{.Params.UID}}</div>
                     <div class=" bg-white rounded bpx-6 py-2">
                           <div class="font-bold text-2xl mb-2 px-6 py-4">
                             <a class="text-grey-darkest" href="{{ .Permalink }}">

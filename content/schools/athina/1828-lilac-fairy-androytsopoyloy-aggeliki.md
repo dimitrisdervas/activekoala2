@@ -2,7 +2,7 @@
 title: |
     LILAC FAIRY&quot; ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΥ ΑΓΓΕΛΙΚΗ
 School: "LILAC FAIRY&quot; ΑΝΔΡΟΥΤΣΟΠΟΥΛΟΥ ΑΓΓΕΛΙΚΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

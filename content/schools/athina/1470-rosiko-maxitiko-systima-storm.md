@@ -2,7 +2,7 @@
 title: |
     ΡΩΣΙΚΟ ΜΑΧΗΤΙΚΟ ΣΥΣΤΗΜΑ STORM
 School: "ΡΩΣΙΚΟ ΜΑΧΗΤΙΚΟ ΣΥΣΤΗΜΑ STORM"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["Π.Φαληρο"]
 Categories: ["Πολεμικές τέχνες"]
 Subcategories: ["  "]

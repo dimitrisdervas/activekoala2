@@ -2,7 +2,7 @@
 title: |
     ΖΩΓΡΑΦΟΥ ΕΛΕΝΗ
 School: "ΖΩΓΡΑΦΟΥ ΕΛΕΝΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

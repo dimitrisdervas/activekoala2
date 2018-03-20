@@ -2,7 +2,7 @@
 title: |
     ΑΝΔΡΩΝΗ ΣΤΕΛΛΑ
 School: "ΑΝΔΡΩΝΗ ΣΤΕΛΛΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

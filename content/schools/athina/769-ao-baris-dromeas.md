@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΒΑΡΗΣ ΔΡΟΜΕΑΣ
 School: "ΑΟ ΒΑΡΗΣ ΔΡΟΜΕΑΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΒΑΡΗ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

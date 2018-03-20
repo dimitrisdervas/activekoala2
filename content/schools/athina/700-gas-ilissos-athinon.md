@@ -2,7 +2,7 @@
 title: |
     ΓΑΣ ΙΛΙΣΣΟΣ ΑΘΗΝΩΝ
 School: "ΓΑΣ ΙΛΙΣΣΟΣ ΑΘΗΝΩΝ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΑΝΩ ΙΛΙΣΣΙΑ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

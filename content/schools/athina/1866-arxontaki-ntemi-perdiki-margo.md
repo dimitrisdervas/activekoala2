@@ -2,7 +2,7 @@
 title: |
     ΑΡΧΟΝΤΑΚΗ ΝΤΕΜΗ - ΠΕΡΔΙΚΗ ΜΑΡΓΩ
 School: "ΑΡΧΟΝΤΑΚΗ ΝΤΕΜΗ - ΠΕΡΔΙΚΗ ΜΑΡΓΩ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

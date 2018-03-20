@@ -3,43 +3,57 @@
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
     <div class="col-lg-12">
-      <div class="content-column-content">
-        <div class="profile"> <img class="rounded" src="/images/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive"></div>
-        <div class="mainimg">
-        {{ if .Params.coverGraphApi }}
-          <img class="rounded" src="/images/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
-          {{ else }}
-        <img src="/img/default-img/aikido-bokken-2.jpg" alt="" class="img-responsive">
-        {{ end }}
+      <div class="content-column-content px-0">
+        <div class="profile bg-white shadow mb-8">
+<!-- MAIN IMAGE -->
+          <div class="mainimg py-6 flex justify-start">
+              {{ if .Params.coverGraphApi }}
+                <img class="rounded shadow" src="/images/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
+                {{ else }}
+                <img src="/img/default-img/aikido-bokken-2.jpg" alt="" class="img-responsive rounded shadow" >
+              {{ end }}
+               <div id="map" class="flex-1"></div>
+            </div>
+<!-- TITLE -->
+          <div class="title flex flex-wrap py-6 items-center ">
+              <img class="rounded p-6" src="/images/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive">
+               <h1>{{ .Title }}</h1>
+            </div>
+<!-- TAGS -->
+          <div class="tags">
+              <ul class="flex flex-wrap  items-center py-6 pl-6 mb-8 p-8 ">
+                  {{ range .Params.Cities }}
+                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ end }}
+                  {{ range .Params.Categories }}
+                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ end }}
+                  {{ if (isset .Params "Subcategories" ) }}
+                    {{ range .Params.Subcategories }}
+                      <li><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              </div>
+          </div>
+<!-- SOCIAL -->
+        <div class="social bg-white shadow mb-8 p-8 ">
+             {{ if  .Params.linkGraphApi }}
+              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.linkGraphApi }}" target="blank">facebook</a>
+            {{ end }}
+
+
+            {{ if  .Params.website }}
+              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.website }}"  target="_blank" >website</a>
+            {{ end }}
+          </div>
+<!-- DESCRIPTION -->
+        <div class="description bg-white p-6 mb-8 shadow">
+          {{ .Content }}
         </div>
-         <h1>{{ .Title }}</h1>
+<!-- MAP -->
 
-<div class="my-8">
-<ul id="tags">
-  {{ range .Params.Categories }}
-    <li><a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-  {{ end }}
-</ul>
-<ul id="tags">
-  {{ range .Params.Subcategories }}
-    <li><a href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-  {{ end }}
-</ul>
-</div>
-  <div class="my-8">
-
-         {{ if  .Params.linkGraphApi }}
-          <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.linkGraphApi }}" _target="blank">facebook</a>
-        {{ end }}
-
-
-        {{ if  .Params.website }}
-          <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.website }}" _target="blank">website</a>
-        {{ end }}
-  </div>
-         {{ .Content }}
-         <div id="map"></div>
-         {{ template "_internal/disqus.html" . }}
+      </div>
       </div>
     </div>
   </div>
@@ -50,8 +64,9 @@
 // create a map in the "map" div, set the view to a given place and zoom
 var map = L.map('map').setView([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}], 14);
 // add an OpenStreetMap tile layer
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
+  maxZoom: 18,
+  attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 // add a marker in the given location, attach some popup content to it and open the popup
 L.marker([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}]).addTo(map)

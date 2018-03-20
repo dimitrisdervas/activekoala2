@@ -2,7 +2,7 @@
 title: |
     ΥΦΑΝΤΗ ΠΑΡΑΣΚΕΥΗ
 School: "ΥΦΑΝΤΗ ΠΑΡΑΣΚΕΥΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

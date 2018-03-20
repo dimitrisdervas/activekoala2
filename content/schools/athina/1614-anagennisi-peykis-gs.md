@@ -2,7 +2,7 @@
 title: |
     ΑΝΑΓΕΝΝΗΣΗ ΠΕΥΚΗΣ ΓΣ
 School: "ΑΝΑΓΕΝΝΗΣΗ ΠΕΥΚΗΣ ΓΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΠΕΥΚΗ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

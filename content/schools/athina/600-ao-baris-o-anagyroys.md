@@ -2,8 +2,8 @@
 title: |
     ΑΟ ΒΑΡΗΣ Ο ΑΝΑΓΥΡΟΥΣ
 School: "ΑΟ ΒΑΡΗΣ Ο ΑΝΑΓΥΡΟΥΣ"
-Cities: ["ΑΘΗΝΑ"]
-Perioxi: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
+Perioxi: ["Αθήνα"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]
 Organization: ""

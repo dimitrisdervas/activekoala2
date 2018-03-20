@@ -2,7 +2,7 @@
 title: |
     ΚΩΝΣΤΑ ΧΡΙΣΤΙΝΑ
 School: "ΚΩΝΣΤΑ ΧΡΙΣΤΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

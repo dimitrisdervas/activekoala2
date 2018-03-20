@@ -2,7 +2,7 @@
 title: |
     ΒΟΡΡΕΑ ΑΓΓΕΛΙΚΗ
 School: "ΒΟΡΡΕΑ ΑΓΓΕΛΙΚΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

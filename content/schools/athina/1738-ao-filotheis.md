@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΦΙΛΟΘΕΗΣ
 School: "ΑΟ ΦΙΛΟΘΕΗΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΦΙΛΟΘΕΗ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

@@ -2,7 +2,7 @@
 title: |
     ΣΚΙΑΔΑ ΧΡΙΣΤΙΑΝΑ “URBAN DANCE SOCIETY BY CHRISTIANNA SKIADA”
 School: "ΣΚΙΑΔΑ ΧΡΙΣΤΙΑΝΑ “URBAN DANCE SOCIETY BY CHRISTIANNA SKIADA”"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

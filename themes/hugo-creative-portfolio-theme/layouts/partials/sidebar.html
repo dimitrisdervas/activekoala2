@@ -31,6 +31,7 @@
           <h1 class="sidebar-heading">Κατηγοριες</h1>
               <ul class="sidebar-menu">
                   {{ range $name, $items := .Site.Taxonomies.Categories }}
+                  {{ if $name }}
                   <li class="category-list-item">
                       {{ $url := printf "%s/%s" "categories" ($name | urlize | lower)}}
                       <a class="category-list-link" href="{{ $url | absURL }}">
@@ -38,6 +39,7 @@
                       </a>
                       <span class="category-list-count">{{ len $items }}</span>
                   </li>
+                  {{ end }}
                   {{ end }}
               </ul>
     {{ end }}

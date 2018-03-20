@@ -2,8 +2,8 @@
 title: |
     ΑΣ ΠΑΛΑΙΟΥ ΨΥΧΙΚΟΥ
 School: "ΑΣ ΠΑΛΑΙΟΥ ΨΥΧΙΚΟΥ"
-Cities: ["ΑΘΗΝΑ"]
-Perioxi: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
+Perioxi: ["Αθήνα"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]
 Organization: ""

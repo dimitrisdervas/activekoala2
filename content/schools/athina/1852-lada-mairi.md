@@ -2,7 +2,7 @@
 title: |
     ΛΑΔΑ ΜΑΙΡΗ
 School: "ΛΑΔΑ ΜΑΙΡΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

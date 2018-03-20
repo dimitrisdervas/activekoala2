@@ -2,7 +2,7 @@
 title: |
     ΜΑΘΙΟΥΔΑΚΗ ΜΑΡΙΑ
 School: "ΜΑΘΙΟΥΔΑΚΗ ΜΑΡΙΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

@@ -2,7 +2,7 @@
 title: |
     ΔΕΣΠΟΙΝΑ ΓΡΗΓΟΡΙΑΔΟΥ&quot; ΒΑΚΚΑ ΣΠΥΡΟΥ
 School: "ΔΕΣΠΟΙΝΑ ΓΡΗΓΟΡΙΑΔΟΥ&quot; ΒΑΚΚΑ ΣΠΥΡΟΥ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

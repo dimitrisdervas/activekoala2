@@ -2,7 +2,7 @@
 title: |
     ΚΑΤΣΙΑΝΟΥ ΣΤΑΥΡΟΥΛΑ
 School: "ΚΑΤΣΙΑΝΟΥ ΣΤΑΥΡΟΥΛΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

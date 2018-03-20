@@ -2,7 +2,7 @@
 title: |
     ΑΟ ΠΕΥΚΗΣ
 School: "ΑΟ ΠΕΥΚΗΣ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: ["ΠΕΥΚΗ"]
 Categories: ["Αθλητισμός"]
 Subcategories: ["Στίβος  "]

@@ -2,7 +2,7 @@
 title: |
     ΜΑΘΙΟΥΔΑΚΗ ΒΙΒΕΤΤΑ &quot; I - DANCE
 School: "ΜΑΘΙΟΥΔΑΚΗ ΒΙΒΕΤΤΑ &quot; I - DANCE"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

@@ -2,7 +2,7 @@
 title: |
     ΓΑΛΑΤΟΠΟΥΛΟΥ ΙΣΙΔΩΡΑ
 School: "ΓΑΛΑΤΟΠΟΥΛΟΥ ΙΣΙΔΩΡΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

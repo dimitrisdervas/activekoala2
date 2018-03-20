@@ -2,7 +2,7 @@
 title: |
     ΑΛΕΞΟΠΟΥΛΟΥ ΒΕΡΑ &amp; ΡΕΓΓΙΝΑ
 School: "ΑΛΕΞΟΠΟΥΛΟΥ ΒΕΡΑ &amp; ΡΕΓΓΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

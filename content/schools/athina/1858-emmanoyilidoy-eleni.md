@@ -2,7 +2,7 @@
 title: |
     ΕΜΜΑΝΟΥΗΛΙΔΟΥ ΕΛΕΝΗ
 School: "ΕΜΜΑΝΟΥΗΛΙΔΟΥ ΕΛΕΝΗ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

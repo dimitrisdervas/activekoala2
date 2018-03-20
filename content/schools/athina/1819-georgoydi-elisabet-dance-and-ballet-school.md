@@ -2,7 +2,7 @@
 title: |
     ΓΕΩΡΓΟΥΔΗ ΕΛΙΣΑΒΕΤ &quot;DANCE &amp; BALLET SCHOOL
 School: "ΓΕΩΡΓΟΥΔΗ ΕΛΙΣΑΒΕΤ &quot;DANCE &amp; BALLET SCHOOL"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

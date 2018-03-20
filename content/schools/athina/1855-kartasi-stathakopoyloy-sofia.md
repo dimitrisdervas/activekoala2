@@ -2,7 +2,7 @@
 title: |
     ΚΑΡΤΑΣΗ - ΣΤΑΘΑΚΟΠΟΥΛΟΥ ΣΟΦΙΑ
 School: "ΚΑΡΤΑΣΗ - ΣΤΑΘΑΚΟΠΟΥΛΟΥ ΣΟΦΙΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]

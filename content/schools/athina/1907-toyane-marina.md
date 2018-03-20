@@ -2,7 +2,7 @@
 title: |
     ΤΟΥΑΝΕ ΜΑΡΙΝΑ
 School: "ΤΟΥΑΝΕ ΜΑΡΙΝΑ"
-Cities: ["ΑΘΗΝΑ"]
+Cities: ["Αθήνα"]
 Perioxi: [""]
 Categories: ["Χορός"]
 Subcategories: ["  "]
