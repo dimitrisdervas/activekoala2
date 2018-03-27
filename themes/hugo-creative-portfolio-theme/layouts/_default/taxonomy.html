@@ -7,7 +7,7 @@
           {{ range first 40 .Data.Pages  }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry shadow-md">
-                    {{ if .Params.coverGraphApi }}
+                  {{ if .Params.coverGraphApi }}
                      <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
                         <img class="rounded" src="/images/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
                       </a>
