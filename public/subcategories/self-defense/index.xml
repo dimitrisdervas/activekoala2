@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self Defense on Active Koala</title>
+    <link>https://activekoala.com/subcategories/self-defense/</link>
+    <description>Recent content in Self Defense on Active Koala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>gr</language>
+    
+	<atom:link href="https://activekoala.com/subcategories/self-defense/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STREET DEFENCE CLUB
+</title>
+      <link>https://activekoala.com/schools/athina/1224-street-defence-club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/schools/athina/1224-street-defence-club/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

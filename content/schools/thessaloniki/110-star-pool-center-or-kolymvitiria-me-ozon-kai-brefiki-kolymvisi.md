@@ -38,7 +38,6 @@ streetGraphApi: "Αγ. Γεωργίου 9, Πατριαρχικό Πυλαίας
 longitudeGraphApi: "22.989749908447"
 latitudeGraphApi: "40.555645720934"
 locatedinGraphApi: ""
-
 ---
 
 
