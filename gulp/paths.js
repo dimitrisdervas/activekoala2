@@ -1,17 +1,17 @@
 'use strict';
-var schools = {};
+var schoolsPath = {};
 
-schools.collection: 'content/schools/nunjuckrenser';
-schools.csv       : 'data/schools';
-schools.template  : '_gulp-templates/nunjucks/schools.html';
+schoolsPath.collection = 'content/schools';
+schoolsPath.csv        = 'data/schools';
+schoolsPath.template   = '_gulp-templates/nunjucks/schools.html';
 
-module.exports = schools;
+module.exports = schoolsPath;
 
 var categories = {};
 
-categories.collection: 'content/categories';
-categories.csv       : '_data/categories';
-categories.template  : '_gulp-templates/nunjucks/categories.hbs';
+categories.collection = 'content/categories';
+categories.csv        = '_data/categories';
+categories.template   = '_gulp-templates/nunjucks/categories.hbs';
 
-module.exports = schools;
+module.exports = categories;
 

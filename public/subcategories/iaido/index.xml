@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Iaido on Active Koala</title>
+    <title>Iaido
+ on Active Koala</title>
     <link>https://activekoala.com/subcategories/iaido/</link>
-    <description>Recent content in Iaido on Active Koala</description>
+    <description>Recent content in Iaido
+ on Active Koala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gr</language>
     
 	<atom:link href="https://activekoala.com/subcategories/iaido/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ZEN CENTER ATHENS
-</title>
-      <link>https://activekoala.com/schools/athina/1620-zen-center-athens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/1620-zen-center-athens/</guid>
-      <description>To Zen Center είναι ένας χώρος διδασκαλίας των πρακτικών ανατολικής φιλοσοφίας (διαλογισμός, πολεμικές τέχνες, yoga), οι οποίες αφορούν όλες τις διαστάσεις της ανθρώπινης ζωής και επηρεάζουν την εξέλιξη του ατόμου μέσω της ανάπτυξης της αυτογνωσίας και της αυτοπειθαρχίας. Μέσα από τις τέχνες και τις πρακτικές που φιλοξενεί, στοχεύει αφενός στην απόκτηση καλύτερης υγείας και ευρωστίας και αφετέρου στην ανάπτυξη ανθρωπίνων αρετών όπως των αυτοσεβασμού, αλληλοσεβασμού, σθένους, φιλευσπλαχνίας, τιμιότητας και ευθυκρισίας, διαμορφώνοντας με αυτόν τον τρόπο χαρακτήρες ικανούς να συμπορευθούν αρμονικά και δημιουργικά με τους συνανθρώπους τους.</description>
-    </item>
     
   </channel>
 </rss>

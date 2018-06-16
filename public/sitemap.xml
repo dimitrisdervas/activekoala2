@@ -28,17 +28,12 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://activekoala.com/places/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/</loc>
+    <loc>https://activekoala.com/subcategories/</loc>
     <priority>0</priority>
   </url>
   
@@ -47,63 +42,46 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/627-2be-fit/</loc>
+    <loc>https://activekoala.com/categories/#n/a/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1194-4el/</loc>
+    <loc>https://activekoala.com/subcategories/#n/a/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/thessaloniki/166-9-dojo/</loc>
+    <loc>https://activekoala.com/categories/#ref/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1486-a-s-orionas-pagkratioy/</loc>
+    <loc>https://activekoala.com/schools/athina/1194/athina/4el/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1043-a2z-fitness/</loc>
+    <loc>https://activekoala.com/schools/athina/1043/athina/a2z-fitness/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1638-aa-water-ski-porto-rafti/</loc>
+    <loc>https://activekoala.com/schools/athina/1352/athina/ace-fitness/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1352-ace-fitness/</loc>
+    <loc>https://activekoala.com/schools/athina/1316/athina/aikido-dojo-tokaido/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1316-aikido-dojo-tokaido/</loc>
+    <loc>https://activekoala.com/schools/athina/1250/athina/aikido-kodokan-lykobrysi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1250-aikido-kodokan-lykobrysi/</loc>
+    <loc>https://activekoala.com/schools/athina/170/athina/aikido-athinon/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1623-aikido-randori-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/170-aikido-athinon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/99-aqua-swimming-center/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/815-athletic-shape/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/762-acharnai-tennis-academy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/353-action-martial-arts-and-fitness-a-s-taekwondo-argyroypolis/</loc>
+    <loc>https://activekoala.com/schools/athina/762/athina/acharnai-tennis-academy/</loc>
   </url>
   
   <url>
@@ -113,20 +91,11 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1446-activities/</loc>
+    <loc>https://activekoala.com/schools/athina/1198/athina/aiantas-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1198-aiantas-fitness-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1264-aikibuddha/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/aikido/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1264/athina/aikibuddha/</loc>
   </url>
   
   <url>
@@ -134,136 +103,95 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/914-aikido-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/914/athina/aikido-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1338-aikido-kobukan-dojo-adam-adamski-6-dan/</loc>
+    <loc>https://activekoala.com/schools/athina/557/athina/aikido-training-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/557-aikido-training-center/</loc>
+    <loc>https://activekoala.com/schools/athina/1335/athina/aikido-zanshin-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1335-aikido-zanshin-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/79/athina/apollon-dance-studio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/763-aikidowestend/</loc>
+    <loc>https://activekoala.com/schools/athina/309/athina/arcane-fighthood/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/79-apollon-dance-studio/</loc>
+    <loc>https://activekoala.com/schools/athina/94/athina/arte-movimento-capoeira-athens/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/309-arcane-fighthood/</loc>
+    <loc>https://activekoala.com/schools/athina/1764/athina/ashtanga-yoga-halandri/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/94-arte-movimento-capoeira-athens/</loc>
+    <loc>https://activekoala.com/schools/athina/1273/athina/askitis-boxing-kick-boxing-academy-a-o-diagoras/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1764-ashtanga-yoga-halandri/</loc>
+    <loc>https://activekoala.com/schools/athina/810/athina/athens-aikido-society/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1273-askitis-boxing-kick-boxing-academy-a-o-diagoras/</loc>
+    <loc>https://activekoala.com/schools/athina/1192/athina/athens-bushido-center-uad-member/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/104-asteries/</loc>
+    <loc>https://activekoala.com/schools/athina/92/athina/athens-center-of-capoeira-corpo-fechado/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/810-athens-aikido-society/</loc>
+    <loc>https://activekoala.com/schools/athina/91/athina/athens-lindy-hop-or-mathimata-swing-xoroy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1192-athens-bushido-center-uad-member/</loc>
+    <loc>https://activekoala.com/schools/athina/976/athina/athens-tai-chi-chuan-association/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/92-athens-center-of-capoeira-corpo-fechado/</loc>
+    <loc>https://activekoala.com/schools/athina/675/athina/athens-yoga/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/91-athens-lindy-hop-or-mathimata-swing-xoroy/</loc>
+    <loc>https://activekoala.com/schools/athina/1540/athina/attica-beach-volley/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/976-athens-tai-chi-chuan-association/</loc>
+    <loc>https://activekoala.com/schools/athina/1765/athina/axion-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/675-athens-yoga/</loc>
+    <loc>https://activekoala.com/schools/athina/1805/athina/brasa-hellas-iraklis-grigoriadis-fight-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1217-athina-diving/</loc>
+    <loc>https://activekoala.com/schools/athina/833/athina/budo-life/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/317-athletic-club-panorama/</loc>
+    <loc>https://activekoala.com/schools/athina/173/athina/bujinkan-banbutsu-ruten-dojo-hellas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1540-attica-beach-volley/</loc>
+    <loc>https://activekoala.com/schools/athina/714/athina/bujinkan-nichigetsu-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1765-axion-fitness-club/</loc>
+    <loc>https://activekoala.com/categories/baby/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1121-azzurro-diving/</loc>
+    <loc>https://activekoala.com/subcategories/baby-swimming/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/290-aias-xolargoy-boxing-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/295-athlitikos-omilos-xolargoy-judokan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/baby-swimming/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1805-brasa-hellas-iraklis-grigoriadis-fight-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/833-budo-life/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/173-bujinkan-banbutsu-ruten-dojo-hellas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/714-bujinkan-nichigetsu-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/thessaloniki/109-baby-swimming-thessaloniki-peirates-tis-pisinas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/thessaloniki/125-baby-artist/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/95-barracao-da-capoeira-athens/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/basket/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/95/athina/barracao-da-capoeira-athens/</loc>
   </url>
   
   <url>
@@ -271,44 +199,31 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/765-batista-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/329/athina/battle-arena/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/329-battle-arena/</loc>
+    <loc>https://activekoala.com/schools/athina/775/athina/bavelas-and-chatzinikolaou-tennis-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/775-bavelas-and-chatzinikolaou-tennis-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/1353/athina/body-and-soul/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1353-body-and-soul/</loc>
+    <loc>https://activekoala.com/schools/athina/915/athina/body-concept/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1085-body-care-ladies/</loc>
+    <loc>https://activekoala.com/schools/athina/1246/athina/body-trainer/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1246-body-trainer/</loc>
+    <loc>https://activekoala.com/schools/athina/1716/athina/bodyfit/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1716-bodyfit/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/744-bodymental-studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/916-bodytone/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/boxing/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/916/athina/bodytone/</loc>
   </url>
   
   <url>
@@ -316,16 +231,11 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/895-boxing-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/895/athina/boxing-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/brazilian-jiu-jitsu/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/brazilian-jiu-jitsu/</loc>
+    <loc>https://activekoala.com/subcategories/brazilian/</loc>
   </url>
   
   <url>
@@ -333,48 +243,27 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/270-brothers-gym-chalkias-boxing-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/824/athina/budolife-awa-member/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/824-budolife-awa-member/</loc>
+    <loc>https://activekoala.com/schools/athina/328/athina/bulls-fight-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/328-bulls-fight-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/1547/athina/colosseum-fighting-arena-peiraias/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1317-choros-center/</loc>
+    <loc>https://activekoala.com/schools/athina/963/athina/coriolanos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1547-colosseum-fighting-arena-peiraias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/963-coriolanos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/cross-fit/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/668-caestus-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/668/athina/caestus-gym/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/capoeira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/capoeira/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/70-catedral-estudio-de-tango/</loc>
   </url>
   
   <url>
@@ -383,19 +272,19 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/676-central-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/676/athina/central-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/271-champions-athletic-club/</loc>
+    <loc>https://activekoala.com/schools/athina/271/athina/champions-athletic-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/304-chatzichronoglou-fight-academy-cfa/</loc>
+    <loc>https://activekoala.com/schools/athina/304/athina/chatzichronoglou-fight-academy-cfa/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/297-choke-luta-livre-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/297/athina/choke-luta-livre-academy/</loc>
   </url>
   
   <url>
@@ -404,48 +293,31 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/302-colosseum-fighting-arena/</loc>
+    <loc>https://activekoala.com/schools/athina/302/athina/colosseum-fighting-arena/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/cross-fit/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/crossfit/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1354-cross-training-club/</loc>
+    <loc>https://activekoala.com/schools/athina/1354/athina/cross-training-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/829-crossfit-northzone/</loc>
+    <loc>https://activekoala.com/schools/athina/1541/athina/crossfit-piraeus/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1541-crossfit-piraeus/</loc>
+    <loc>https://activekoala.com/schools/athina/917/athina/crossfit-south-factory/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/917-crossfit-south-factory/</loc>
+    <loc>https://activekoala.com/schools/athina/81/athina/cubania-dancehouse/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/81-cubania-dancehouse/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1282-cube15/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/74-dance-moments-studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1817-dance-place-melissia-anastasiadoy-ibi-and-patroy-eleni/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/103-dais-athletic-center-amarousio/</loc>
+    <loc>https://activekoala.com/schools/athina/103/athina/dais-athletic-center-amarousio/</loc>
   </url>
   
   <url>
@@ -453,115 +325,88 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/83-dance-up/</loc>
+    <loc>https://activekoala.com/schools/athina/83/athina/dance-up/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/314-diamond-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/314/athina/diamond-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1586-dojo-club-peristeri/</loc>
+    <loc>https://activekoala.com/schools/athina/1586/athina/dojo-club-peristeri/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1172-doo-be-bop/</loc>
+    <loc>https://activekoala.com/schools/athina/1469/athina/dynamo-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1469-dynamo-club/</loc>
+    <loc>https://activekoala.com/schools/athina/859/athina/edge-performance-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/thessaloniki/1044-ebmas-wing-tzun-thessaloniki/</loc>
+    <loc>https://activekoala.com/schools/athina/630/athina/entasis-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/859-edge-performance-center/</loc>
+    <loc>https://activekoala.com/schools/athina/713/athina/evolution-tiger-school/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/630-entasis-fitness-club/</loc>
+    <loc>https://activekoala.com/schools/athina/80/athina/el-abrazo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1223-evalution-eskrima-hellas/</loc>
+    <loc>https://activekoala.com/schools/athina/322/athina/fight-lab/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1887-evelyn-s-dance-school-marasli-ebelyn/</loc>
+    <loc>https://activekoala.com/schools/athina/867/athina/fight-way/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/713-evolution-tiger-school/</loc>
+    <loc>https://activekoala.com/schools/athina/1087/athina/fit-me/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/80-el-abrazo/</loc>
+    <loc>https://activekoala.com/schools/athina/730/athina/flow-taiji-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/660-equalibre-pilates-gyrotonic-and-yoga-studio/</loc>
+    <loc>https://activekoala.com/false/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/322-fight-lab/</loc>
+    <loc>https://activekoala.com/schools/athina/366/athina/fight-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/867-fight-way/</loc>
+    <loc>https://activekoala.com/schools/athina/816/athina/fight-club-central-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1087-fit-me/</loc>
+    <loc>https://activekoala.com/schools/athina/286/athina/fight-club-central-gym-galatsi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/730-flow-taiji-center/</loc>
+    <loc>https://activekoala.com/schools/athina/947/athina/fighting-spirit-kick-boxing-club-zografoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1626-fu-jow-pai-kifisias/</loc>
+    <loc>https://activekoala.com/schools/athina/1429/athina/fitness-lab/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1401-fudoshin-dojo-nea-smyrni/</loc>
+    <loc>https://activekoala.com/schools/athina/289/athina/five-star-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/366-fight-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/1485/athina/flamingo-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/257-fight-academy-peramatos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/816-fight-club-central-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/286-fight-club-central-gym-galatsi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/947-fighting-spirit-kick-boxing-club-zografoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1429-fitness-lab/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/289-five-star-academy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1485-flamingo-fitness-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1430-flow-center/</loc>
+    <loc>https://activekoala.com/schools/athina/1430/athina/flow-center/</loc>
   </url>
   
   <url>
@@ -569,52 +414,31 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1124-fukushinkan/</loc>
+    <loc>https://activekoala.com/schools/athina/75/athina/gadala-ekseidikeymenes-sxoles-xoroy-oriental-belly-dance-xoros-tis-koilias-oriental-bellydancing/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/75-gadala-ekseidikeymenes-sxoles-xoroy-oriental-belly-dance-xoros-tis-koilias-oriental-bellydancing/</loc>
+    <loc>https://activekoala.com/schools/athina/817/athina/golden-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/817-golden-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/1205/athina/golden-gym-kypseli/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1205-golden-gym-kypseli/</loc>
+    <loc>https://activekoala.com/schools/athina/887/athina/geobukan/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1639-groupakia/</loc>
+    <loc>https://activekoala.com/schools/athina/1796/athina/go-go-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/841-gazicrossfit/</loc>
+    <loc>https://activekoala.com/schools/athina/1381/athina/golden-gym-nea-ionia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/887-geobukan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/831-gerakas-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1796-go-go-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1381-golden-gym-nea-ionia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1473-golden-peak-fitness/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/grappling/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1473/athina/golden-peak-fitness/</loc>
   </url>
   
   <url>
@@ -622,19 +446,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/728-gym-addict/</loc>
+    <loc>https://activekoala.com/schools/athina/1137/athina/gym-royale/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1137-gym-royale/</loc>
+    <loc>https://activekoala.com/schools/athina/1734/athina/hot-yoga/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1734-hot-yoga/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/952-hakushinkai-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/952/athina/hakushinkai-dojo/</loc>
   </url>
   
   <url>
@@ -643,49 +463,34 @@
   
   <url>
     <loc>https://activekoala.com/subcategories/hapkido/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/hapkido/</loc>
+    <loc>https://activekoala.com/schools/athina/1379/athina/healthcure/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1379-healthcure/</loc>
+    <loc>https://activekoala.com/schools/athina/1474/athina/heartbeat-training-studio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1474-heartbeat-training-studio/</loc>
+    <loc>https://activekoala.com/schools/athina/708/athina/hellenic-inochikan-aikikai/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/708-hellenic-inochikan-aikikai/</loc>
+    <loc>https://activekoala.com/schools/athina/254/athina/hellenic-krav-maga-federation-hkmf/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/254-hellenic-krav-maga-federation-hkmf/</loc>
+    <loc>https://activekoala.com/schools/athina/919/athina/hippocampus-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/919-hippocampus-fitness-club/</loc>
+    <loc>https://activekoala.com/schools/athina/102/athina/holmes-place-east-med-b-v/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/102-holmes-place-east-med-b-v/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/hwal-moo-do/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/hwal-moo-do/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/iaido/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/jwai-moo-do/</loc>
   </url>
   
   <url>
@@ -693,87 +498,43 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/255-imba-muay-boran-acharnes/</loc>
+    <loc>https://activekoala.com/schools/athina/255/athina/imba-muay-boran-acharnes/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/880-inshape-fitness-club/</loc>
+    <loc>https://activekoala.com/schools/athina/287/athina/ioannidis-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/287-ioannidis-team/</loc>
+    <loc>https://activekoala.com/subcategories/jujitsu/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/jiu-jitsu/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/judi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/jiu-jitsu/</loc>
+    <loc>https://activekoala.com/schools/athina/524/athina/jutaidokan/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/ju-jitsu/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/635/athina/karate-aigaleo-i-kardia-toy-polemisti/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/ju-jitsu/</loc>
+    <loc>https://activekoala.com/schools/athina/1420/athina/kenwakai-aikido-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/judo/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/977/athina/koza-sports/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/judo/</loc>
+    <loc>https://activekoala.com/schools/athina/1595/athina/krav-maga-papavlachopoulos-ioannis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/524-jutaidokan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/301-k1-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/832-k1-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/635-karate-aigaleo-i-kardia-toy-polemisti/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/582-keiko-shotokan-karate-do/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1420-kenwakai-aikido-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/977-koza-sports/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1595-krav-maga-papavlachopoulos-ioannis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/636-krav-maga-aigaleo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1596-krav-maga-peristeri/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kali/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/636/athina/krav-maga-aigaleo/</loc>
   </url>
   
   <url>
@@ -782,36 +543,14 @@
   
   <url>
     <loc>https://activekoala.com/subcategories/karate/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/karate/</loc>
+    <loc>https://activekoala.com/schools/athina/315/athina/karate-peiraias/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/315-karate-peiraias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1052-kavouri-tennis-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kendo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kick-boxing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kickboxing/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/kickboxing/</loc>
+    <loc>https://activekoala.com/schools/athina/1052/athina/kavouri-tennis-club/</loc>
   </url>
   
   <url>
@@ -819,7 +558,7 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1766-kitesurf-in-athens/</loc>
+    <loc>https://activekoala.com/schools/athina/1766/athina/kitesurf-in-athens/</loc>
   </url>
   
   <url>
@@ -827,33 +566,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1247-kodokan-aikido-boreion-proasteion/</loc>
+    <loc>https://activekoala.com/subcategories/krav-manga/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/690-kouros-club-anavyssos/</loc>
+    <loc>https://activekoala.com/schools/athina/303/athina/krav-maga-mentality/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/krav-maga/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/krav-maga/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/303-krav-maga-mentality/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/363-kritikos-camp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kung-fu/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/363/athina/kritikos-camp/</loc>
   </url>
   
   <url>
@@ -861,57 +582,19 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kung-fu-fu-jow-pai/</loc>
+    <loc>https://activekoala.com/schools/athina/86/athina/la-secta-dance-company/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kung-fu-fu---jow---pai/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1283/athina/life-ergo-ergometriko-kentro/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kyuk-too-ki/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1475/athina/livestrong/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kyuk-too-ki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1828-lilac-fairy-androytsopoyloy-aggeliki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/86-la-secta-dance-company/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/331-legacy-fight-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1283-life-ergo-ergometriko-kentro/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1475-livestrong/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/280-mad-gym-by-drinas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1433-martial-arts-foundation/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/medical/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1302-mirmidon-fighters/</loc>
+    <loc>https://activekoala.com/schools/athina/1433/athina/martial-arts-foundation/</loc>
   </url>
   
   <url>
@@ -919,57 +602,27 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1853-movements-mprikman-xristina/</loc>
+    <loc>https://activekoala.com/schools/athina/1390/athina/mvs-tennis-systems/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1390-mvs-tennis-systems/</loc>
+    <loc>https://activekoala.com/schools/athina/1342/athina/martial-arts-foundation-awa-member/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1140-marily-s-fitness/</loc>
+    <loc>https://activekoala.com/schools/athina/1604/athina/masagatsu-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1265-marousi-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/1544/athina/mediterranean-dive-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1342-martial-arts-foundation-awa-member/</loc>
+    <loc>https://activekoala.com/schools/athina/1315/athina/monastiraki-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1604-masagatsu-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1544-mediterranean-dive-center/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/558-meikonikan-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/mma/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1315-monastiraki-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/965-mpasdekis-gym-prive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/muay-thai/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/muay-thai/</loc>
+    <loc>https://activekoala.com/schools/athina/965/athina/mpasdekis-gym-prive/</loc>
   </url>
   
   <url>
@@ -977,27 +630,11 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/321-muay-thai-plexousakis-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/336/athina/muaythai-nea-smyrni-blue-dragon-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1603-muay-thai-plexousakis-camp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/336-muaythai-nea-smyrni-blue-dragon-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1431-my-house-training-studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1147-northern-eagle-claw-kung-fu-gregory-vasilakis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/313-nas-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/1147/athina/northern-eagle-claw-kung-fu-gregory-vasilakis/</loc>
   </url>
   
   <url>
@@ -1005,15 +642,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1141-navasana/</loc>
+    <loc>https://activekoala.com/schools/athina/1141/athina/navasana/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1029-new-life-up/</loc>
+    <loc>https://activekoala.com/schools/athina/1029/athina/new-life-up/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1276-nick-s-athletic-center/</loc>
+    <loc>https://activekoala.com/schools/athina/1276/athina/nick-s-athletic-center/</loc>
   </url>
   
   <url>
@@ -1021,51 +658,39 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1569-nishimachi/</loc>
+    <loc>https://activekoala.com/schools/athina/1456/athina/oaka-indoor-climbing/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/745-nissakia-surf-club/</loc>
+    <loc>https://activekoala.com/schools/athina/143/athina/oakabox/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1456-oaka-indoor-climbing/</loc>
+    <loc>https://activekoala.com/schools/athina/330/athina/old-school-fight-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/143-oakabox/</loc>
+    <loc>https://activekoala.com/schools/athina/292/athina/operational-krav-maga-hellenic-department/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/330-old-school-fight-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/144/athina/oso-yoga/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1500-okeanos-sports-center/</loc>
+    <loc>https://activekoala.com/schools/athina/1809/athina/planet-fitness-and-more/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/574-olympian-team/</loc>
+    <loc>https://activekoala.com/schools/athina/798/athina/planet-fitness-and-more/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/332-olympian-team-athlitikos-syllogos-agias-barvaras/</loc>
+    <loc>https://activekoala.com/schools/athina/1406/athina/pma-hellas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/292-operational-krav-maga-hellenic-department/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1120-orthosomia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/144-oso-yoga/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/145-outdoor-fitness-club-oaka/</loc>
+    <loc>https://activekoala.com/schools/athina/84/athina/polosi-pole-studio/</loc>
   </url>
   
   <url>
@@ -1073,59 +698,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/796-panda-sto-nero/</loc>
+    <loc>https://activekoala.com/schools/athina/358/athina/pagration-arena/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/personal-trainer/</loc>
+    <loc>https://activekoala.com/schools/athina/948/athina/pagration-arena/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/pilates/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ping-pong/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1809-planet-fitness-and-more/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/798-planet-fitness-and-more/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1710-play-and-fly/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1406-pma-hellas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/84-polosi-pole-studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/966-president-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/358-pagration-arena/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/948-pagration-arena/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1349-palaistra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/146-performance-22/</loc>
+    <loc>https://activekoala.com/schools/athina/146/athina/performance-22/</loc>
   </url>
   
   <url>
@@ -1134,66 +715,47 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/632-personal-center/</loc>
+    <loc>https://activekoala.com/schools/athina/632/athina/personal-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1118-personal-group-by-g-papadimakis/</loc>
+    <loc>https://activekoala.com/schools/athina/1118/athina/personal-group-by-g-papadimakis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/678-personal-studio-by-g-papadimakis/</loc>
+    <loc>https://activekoala.com/schools/athina/678/athina/personal-studio-by-g-papadimakis/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/personal-trainer/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/360-petroutsos-team-boxing-club/</loc>
+    <loc>https://activekoala.com/schools/athina/256/athina/phoenix-boxing-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/256-phoenix-boxing-club/</loc>
+    <loc>https://activekoala.com/schools/athina/1476/athina/physical-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/797-physical-fitness-club/</loc>
+    <loc>https://activekoala.com/schools/athina/545/athina/physiomedica-dr-iliadis-team-athens/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1476-physical-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/545-physiomedica-dr-iliadis-team-athens/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1777-physiopolis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/679-physioway/</loc>
+    <loc>https://activekoala.com/schools/athina/1777/athina/physiopolis/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/pilates/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/920-pilates-by-mandy-and-more/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/ping-pong/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/250-pirates-headquarters/</loc>
+    <loc>https://activekoala.com/schools/athina/250/athina/pirates-headquarters/</loc>
   </url>
   
   <url>
@@ -1202,63 +764,51 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1229-planet-blue-diving-center/</loc>
+    <loc>https://activekoala.com/schools/athina/1229/athina/planet-blue-diving-center/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/351-pliakos-muay-thai-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/351/athina/pliakos-muay-thai-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/78-pole-jam/</loc>
+    <loc>https://activekoala.com/schools/athina/78/athina/pole-jam/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/88-polessence-pole-dance-and-acrobatics-studio/</loc>
+    <loc>https://activekoala.com/schools/athina/88/athina/polessence-pole-dance-and-acrobatics-studio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1634-polis-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/1767/athina/promachos-boxing-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1767-promachos-boxing-club/</loc>
+    <loc>https://activekoala.com/schools/athina/1447/athina/psilopatis-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1447-psilopatis-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/275/athina/pyrsos-fight-team-ags-koropioy-el-pyrsos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1810-psychiko-box-nine76/</loc>
+    <loc>https://activekoala.com/schools/athina/72/athina/quickstep-dance-school/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/569-pulse/</loc>
+    <loc>https://activekoala.com/schools/athina/595/athina/real-ryder-studio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/275-pyrsos-fight-team-ags-koropioy-el-pyrsos/</loc>
+    <loc>https://activekoala.com/schools/athina/799/athina/redblossom-body-and-mind/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/72-quickstep-dance-school/</loc>
+    <loc>https://activekoala.com/schools/athina/148/athina/replayce/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/595-real-ryder-studio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/799-redblossom-body-and-mind/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/148-replayce/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/85-rising-stars-dance-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/85/athina/rising-stars-dance-academy/</loc>
   </url>
   
   <url>
@@ -1266,68 +816,39 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/978-rock-way-climbing-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/978/athina/rock-way-climbing-gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/299-royal-academy-mogadam-team/</loc>
+    <loc>https://activekoala.com/schools/athina/1305/athina/shidokan-shirasagi-dojo-athens/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1248-royal-academy-of-kick-boxing-and-muay-thai/</loc>
+    <loc>https://activekoala.com/schools/athina/1597/athina/shitokai-greece/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1513-satya/</loc>
+    <loc>https://activekoala.com/schools/athina/1591/athina/social-arenas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1206-sei-ki-aikido-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/1224/athina/street-defence-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1305-shidokan-shirasagi-dojo-athens/</loc>
+    <loc>https://activekoala.com/schools/athina/87/athina/studio-seli-kanou/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1597-shitokai-greece/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1591-social-arenas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1224-street-defence-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/87-studio-seli-kanou/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/864-super-soccer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/729-surya-bali-yoga-center/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/thessaloniki/111-swim-college/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1278-sahaja-yoga/</loc>
+    <loc>https://activekoala.com/schools/athina/1278/athina/sahaja-yoga/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/sanda/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/sanda/</loc>
+    <loc>https://activekoala.com/subcategories/savate/</loc>
   </url>
   
   <url>
@@ -1336,44 +857,31 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1204-sei-ki-aikido-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/self-defense/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://activekoala.com/subcategories/self-defense/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/979-shaolin-gong-fu-i-pigi-toy-nearoy-dasoys/</loc>
+    <loc>https://activekoala.com/schools/athina/979/athina/shaolin-gong-fu-i-pigi-toy-nearoy-dasoys/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/883-shaolin-gongfu/</loc>
+    <loc>https://activekoala.com/schools/athina/883/athina/shaolin-gongfu/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1159-shiai-club/</loc>
+    <loc>https://activekoala.com/schools/athina/1159/athina/shiai-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/717-shinken-dojo-athens/</loc>
+    <loc>https://activekoala.com/schools/athina/105/athina/shinkendo-athens-japanese-swordsmanship-aikibujutsu-aikido-bojutsu/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/105-shinkendo-athens-japanese-swordsmanship-aikibujutsu-aikido-bojutsu/</loc>
+    <loc>https://activekoala.com/schools/athina/1142/athina/silvereight/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1142-silvereight/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/261-skarogiannis-team-house-of-champions/</loc>
+    <loc>https://activekoala.com/schools/athina/261/athina/skarogiannis-team-house-of-champions/</loc>
   </url>
   
   <url>
@@ -1381,63 +889,47 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1554-slice-fitness-hall/</loc>
+    <loc>https://activekoala.com/schools/athina/1554/athina/slice-fitness-hall/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1590-smiles/</loc>
+    <loc>https://activekoala.com/schools/athina/1590/athina/smiles/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1388-social-arenas/</loc>
+    <loc>https://activekoala.com/schools/athina/1388/athina/social-arenas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1127-social-arenas-keratsini/</loc>
+    <loc>https://activekoala.com/schools/athina/1127/athina/social-arenas-keratsini/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1297-social-arenas-melissia/</loc>
+    <loc>https://activekoala.com/schools/athina/1297/athina/social-arenas-melissia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1380-social-arenas-nea-erythraia/</loc>
+    <loc>https://activekoala.com/schools/athina/1380/athina/social-arenas-nea-erythraia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1524-social-arenas-pireas/</loc>
+    <loc>https://activekoala.com/schools/athina/1524/athina/social-arenas-pireas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1076-social-arenas-kalithea/</loc>
+    <loc>https://activekoala.com/schools/athina/1076/athina/social-arenas-kalithea/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/90-spintop-athens-studio-pole-aerial-dance-fitness/</loc>
+    <loc>https://activekoala.com/schools/athina/90/athina/spintop-athens-studio-pole-aerial-dance-fitness/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/thessaloniki/110-star-pool-center-or-kolymvitiria-me-ozon-kai-brefiki-kolymvisi/</loc>
+    <loc>https://activekoala.com/schools/athina/1160/athina/studio-pilates-san-tsai/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/89-street-shadows-dance-school/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/680-studio-bodycentric/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1160-studio-pilates-san-tsai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1416-studio-pilates-by-georgia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/studio-xoroy/</loc>
+    <loc>https://activekoala.com/subcategories/studio-xorou/</loc>
   </url>
   
   <url>
@@ -1446,41 +938,23 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1403/athina/tai-chi-chuan-neas-smyrnis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/suibukan/</loc>
+    <loc>https://activekoala.com/schools/athina/68/athina/tangart/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1403-tai-chi-chuan-neas-smyrnis/</loc>
+    <loc>https://activekoala.com/schools/athina/1294/athina/team-wolf-31/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/68-tangart/</loc>
+    <loc>https://activekoala.com/schools/athina/972/athina/tora-shotokan-karate-do/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1294-team-wolf-31/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/tennis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/972-tora-shotokan-karate-do/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1047-tzanos-karate-academy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/tae-kwon-do/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1047/athina/tzanos-karate-academy/</loc>
   </url>
   
   <url>
@@ -1488,25 +962,11 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/888-taekwondo-jaguar/</loc>
+    <loc>https://activekoala.com/schools/athina/888/athina/taekwondo-jaguar/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/281-taiko-ryu-martial-arts/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/318-talent-boxing-academy-dimatos-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/tennis/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/thai-boxing/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/318/athina/talent-boxing-academy-dimatos-team/</loc>
   </url>
   
   <url>
@@ -1514,97 +974,76 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/591-the-brotherhood/</loc>
+    <loc>https://activekoala.com/schools/athina/591/athina/the-brotherhood/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1717-the-concept-group-fitness-terminal/</loc>
+    <loc>https://activekoala.com/schools/athina/1717/athina/the-concept-group-fitness-terminal/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/252-the-gun-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/252/athina/the-gun-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/276-the-immortals/</loc>
+    <loc>https://activekoala.com/schools/athina/276/athina/the-immortals/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1621-the-pilates-lab/</loc>
+    <loc>https://activekoala.com/schools/athina/1621/athina/the-pilates-lab/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/251-the-ring-boxing-academy/</loc>
+    <loc>https://activekoala.com/schools/athina/251/athina/the-ring-boxing-academy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/340-tiger-muay-thai-boran-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/340/athina/tiger-muay-thai-boran-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1267-titanas-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/1654/athina/tokaido-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1654-tokaido-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/312/athina/tragakis-studio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/312-tragakis-studio/</loc>
+    <loc>https://activekoala.com/schools/athina/818/athina/triantafyllis-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1161-triantafyllis-kifissia-north-team/</loc>
+    <loc>https://activekoala.com/schools/athina/98/athina/tribe/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/818-triantafyllis-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/98-tribe/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/662-twins-fit-aliki-and-maria-dimakopoulou/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1046-tzanos-karate-academy-tka/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/t%CE%AD%CE%BD%CE%B9%CF%82-main/</loc>
+    <loc>https://activekoala.com/true/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/tenis-main/</loc>
+    <loc>https://activekoala.com/schools/athina/662/athina/twins-fit-aliki-and-maria-dimakopoulou/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/742-umibe-no-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/785/athina/urban-yoga/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/785-urban-yoga/</loc>
+    <loc>https://activekoala.com/schools/athina/771/athina/vari-tennis-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/771-vari-tennis-club/</loc>
+    <loc>https://activekoala.com/schools/athina/269/athina/viper-fight-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/269-viper-fight-club/</loc>
+    <loc>https://activekoala.com/schools/athina/324/athina/vizantinos-target-sport-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/324-vizantinos-target-sport-club/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/volley/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/voley/</loc>
   </url>
   
   <url>
@@ -1612,32 +1051,27 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/153-vyzantinos-target-sport-club/</loc>
+    <loc>https://activekoala.com/schools/athina/153/athina/vyzantinos-target-sport-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/882-way-out-fitness-club/</loc>
+    <loc>https://activekoala.com/schools/athina/882/athina/way-out-fitness-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/712-wing-chun-kung-fu-brebos/</loc>
+    <loc>https://activekoala.com/schools/athina/712/athina/wing-chun-kung-fu-brebos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/663-workout-hall/</loc>
+    <loc>https://activekoala.com/schools/athina/663/athina/workout-hall/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/350-white-tiger-muay-thai-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/350/athina/white-tiger-muay-thai-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1478-whitebox-crossfit/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/wing-chun/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/1478/athina/whitebox-crossfit/</loc>
   </url>
   
   <url>
@@ -1645,547 +1079,275 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1249-workbox/</loc>
+    <loc>https://activekoala.com/schools/athina/1249/athina/workbox/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1408-wu-yongchunquan-academy-foshan-wingchun/</loc>
+    <loc>https://activekoala.com/schools/athina/1408/athina/wu-yongchunquan-academy-foshan-wingchun/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/247-x-fight-nation/</loc>
+    <loc>https://activekoala.com/schools/athina/247/athina/x-fight-nation/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/334-xtreme-defence-club/</loc>
+    <loc>https://activekoala.com/schools/athina/334/athina/xtreme-defence-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/973-ying-jow-pai-ilioypolis/</loc>
+    <loc>https://activekoala.com/schools/athina/973/athina/ying-jow-pai-ilioypolis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/yoga/</loc>
+    <loc>https://activekoala.com/schools/athina/265/athina/yao-bao-foshan-wing-chun/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1607-yoga-studio-ardin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/265-yao-bao-foshan-wing-chun/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1143-ying-jow-pai/</loc>
+    <loc>https://activekoala.com/schools/athina/1143/athina/ying-jow-pai/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/yoga/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1714-yoga-balance-and-pilates-shala/</loc>
+    <loc>https://activekoala.com/schools/athina/1714/athina/yoga-balance-and-pilates-shala/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1769-yoga-halandri/</loc>
+    <loc>https://activekoala.com/schools/athina/1620/athina/zen-center-athens/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1620-zen-center-athens/</loc>
+    <loc>https://activekoala.com/schools/athina/273/athina/zen-fighting-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/273-zen-fighting-club/</loc>
+    <loc>https://activekoala.com/schools/athina/852/athina/zen-fighters/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/852-zen-fighters/</loc>
+    <loc>https://activekoala.com/subcategories/zografiki/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/877-zongas-fighting-team/</loc>
+    <loc>https://activekoala.com/schools/athina/1422/athina/ileana-s-pilates-house/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/577-zambidis-club/</loc>
+    <loc>https://activekoala.com/schools/athina/76/athina/tangofix/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1422-ileana-s-pilates-house/</loc>
+    <loc>https://activekoala.com/schools/athina/1122/athina/enosi-filon-antisfairisis-xalandrioy-efax/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/76-tangofix/</loc>
+    <loc>https://activekoala.com/schools/athina/164/athina/omilos-antisfairisis-xolargoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/922-athlos-athlitikos-syllogos-karate-ellinikoy/</loc>
+    <loc>https://activekoala.com/schools/athina/1752/athina/a-ks-i-a-akadimia-ksifaskias/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1122-enosi-filon-antisfairisis-xalandrioy-efax/</loc>
+    <loc>https://activekoala.com/schools/athina/1032/athina/a-o-ilioy-judo-club/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/164-omilos-antisfairisis-xolargoy/</loc>
+    <loc>https://activekoala.com/schools/athina/1350/athina/a-o-spartacus-nea-politeia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1191-a-o-dynamikis-aytoamynas-koropioy/</loc>
+    <loc>https://activekoala.com/schools/athina/637/athina/a-o-aigaleo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/272-a-g-s-elit-palaioy-faliroy-elite-fightsports-vasilis-papanikolaou/</loc>
+    <loc>https://activekoala.com/schools/athina/1417/athina/a-o-mpalios/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1655-a-g-s-proteas/</loc>
+    <loc>https://activekoala.com/schools/athina/264/athina/a-s-coriolanos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/362-a-g-s-proteas-rafinas/</loc>
+    <loc>https://activekoala.com/schools/athina/293/athina/a-s-taekwondo-peristerioy-parasidis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1752-a-ks-i-a-akadimia-ksifaskias/</loc>
+    <loc>https://activekoala.com/schools/athina/243/athina/a-s-oi-monomaxoi-gladiator-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1032-a-o-ilioy-judo-club/</loc>
+    <loc>https://activekoala.com/schools/athina/1592/athina/a-s-atlantes-peristerioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1350-a-o-spartacus-nea-politeia/</loc>
+    <loc>https://activekoala.com/schools/athina/319/athina/a-s-eleysis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/637-a-o-aigaleo/</loc>
+    <loc>https://activekoala.com/schools/athina/259/athina/a-s-olympion-romi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/949-a-o-thiseas/</loc>
+    <loc>https://activekoala.com/schools/athina/1424/athina/a-s-polemikon-texnon-protathlites/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1417-a-o-mpalios/</loc>
+    <loc>https://activekoala.com/schools/athina/320/athina/a-s-polemikon-texnon-protathlites-lagos-v-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/264-a-s-coriolanos/</loc>
+    <loc>https://activekoala.com/schools/athina/352/athina/a-s-spartiatiki-akadimia-psilopatis-camp/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/262-a-s-diogenis-fighters/</loc>
+    <loc>https://activekoala.com/schools/athina/260/athina/a-s-tzoynto-eyathlos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/346-a-s-taekwondo-ethnikos-95/</loc>
+    <loc>https://activekoala.com/schools/athina/1636/athina/a-s-atrapos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/293-a-s-taekwondo-peristerioy-parasidis/</loc>
+    <loc>https://activekoala.com/schools/athina/1773/athina/a-s-atrapos-xalandrioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/243-a-s-oi-monomaxoi-gladiator-team/</loc>
+    <loc>https://activekoala.com/schools/athina/158/athina/a-s-armonia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1592-a-s-atlantes-peristerioy/</loc>
+    <loc>https://activekoala.com/schools/athina/1803/athina/a-s-boreios-aetos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/349-a-s-attiki-enosi/</loc>
+    <loc>https://activekoala.com/schools/athina/199/athina/a-s-boreios-aetos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/319-a-s-eleysis/</loc>
+    <loc>https://activekoala.com/schools/athina/296/athina/a-s-drakos-moschonas-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1564-a-s-ermis-peramatos/</loc>
+    <loc>https://activekoala.com/schools/athina/911/athina/a-s-eleysinas-arena/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/337-a-s-krataios/</loc>
+    <loc>https://activekoala.com/schools/athina/566/athina/a-s-i-atrapos-ag-ioanni-renti/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/365-a-s-megas-aleksandros-magoylas/</loc>
+    <loc>https://activekoala.com/schools/athina/647/athina/a-s-maxitiki-akadimia-platonos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1030-a-s-maiandros-ilioy/</loc>
+    <loc>https://activekoala.com/schools/athina/1753/athina/a-s-oi-nikites/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/354-a-s-makedon/</loc>
+    <loc>https://activekoala.com/schools/athina/1421/athina/a-s-tai-tsi-tsoyan-athinas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/259-a-s-olympion-romi/</loc>
+    <loc>https://activekoala.com/schools/athina/1497/athina/ae-mesogeion-ameinias-palineys/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1424-a-s-polemikon-texnon-protathlites/</loc>
+    <loc>https://activekoala.com/schools/athina/703/athina/athlitiko-somateio-kolymb-almpatros-ano-liosion/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/320-a-s-polemikon-texnon-protathlites-lagos-v-team/</loc>
+    <loc>https://activekoala.com/schools/athina/732/athina/athlitikos-naytikos-omilos-argyroypolis-a-n-o-a/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/352-a-s-spartiatiki-akadimia-psilopatis-camp/</loc>
+    <loc>https://activekoala.com/schools/athina/160/athina/athlitikos-omilos-antisfairisis-papagoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/333-a-s-troes-alimoy/</loc>
+    <loc>https://activekoala.com/schools/athina/392/athina/athlitikos-omilos-kolonoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/260-a-s-tzoynto-eyathlos/</loc>
+    <loc>https://activekoala.com/schools/athina/1296/athina/athlitikos-omilos-pentelikoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1487-a-s-orionas/</loc>
+    <loc>https://activekoala.com/schools/athina/1281/athina/athlitikos-omilos-triton-amaroysioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1322-a-s-to-mosxato/</loc>
+    <loc>https://activekoala.com/schools/athina/1772/athina/athlokinisi-xalandrioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/731-a-s-tae-kwon-do-hapkido-argyroypolis/</loc>
+    <loc>https://activekoala.com/schools/athina/834/athina/akadimia-aikido-kobayashi-hirokazu-ryu/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/157-a-s-aris-tae-kwon-do-ano-patision/</loc>
+    <loc>https://activekoala.com/schools/athina/1409/athina/akadimia-ekseligmenon-maxitikon-texnon/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/311-a-s-aigeas/</loc>
+    <loc>https://activekoala.com/schools/athina/866/athina/akadimia-toksobolias/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1636-a-s-atrapos/</loc>
+    <loc>https://activekoala.com/schools/athina/769/athina/ao-baris-dromeas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1773-a-s-atrapos-xalandrioy/</loc>
+    <loc>https://activekoala.com/schools/athina/600/athina/ao-baris-o-anagyroys/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/158-a-s-armonia/</loc>
+    <loc>https://activekoala.com/schools/athina/753/athina/ao-dias-olymp-xorioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1803-a-s-boreios-aetos/</loc>
+    <loc>https://activekoala.com/schools/athina/1757/athina/ao-kallistos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/199-a-s-boreios-aetos/</loc>
+    <loc>https://activekoala.com/schools/athina/1738/athina/ao-filotheis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1771-a-s-dynamikon-athlimaton-xalandrioy/</loc>
+    <loc>https://activekoala.com/schools/athina/602/athina/as-palaioy-psyxikoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/296-a-s-drakos-moschonas-team/</loc>
+    <loc>https://activekoala.com/schools/athina/936/athina/athlitiko-parko-fokianoy-fokianos-sport-park/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1387-a-s-ethnikos-95-taekwondo-palatianis-ilion/</loc>
+    <loc>https://activekoala.com/schools/athina/161/athina/athlitikos-omilos-okeanos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/911-a-s-eleysinas-arena/</loc>
+    <loc>https://activekoala.com/schools/athina/244/athina/athlitikos-gymnastikos-syllogos-agias-barvaras-mavridis-team/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/566-a-s-i-atrapos-ag-ioanni-renti/</loc>
+    <loc>https://activekoala.com/schools/athina/368/athina/athlitikos-syllogos-taekwondo-theagenis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1088-a-s-theagenis/</loc>
+    <loc>https://activekoala.com/schools/athina/344/athina/athlitikos-syllogos-zanshin/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1280-a-s-karate-o-dromos-tis-eirinis/</loc>
+    <loc>https://activekoala.com/schools/athina/282/athina/athlitikos-syllogos-dynami-byrona/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/868-a-s-krataios/</loc>
+    <loc>https://activekoala.com/schools/athina/359/athina/athlitikos-syllogos-karate-armonia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/647-a-s-maxitiki-akadimia-platonos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1016-a-s-niki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1721-a-s-oi-koyrites-aleksandros-petroy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1753-a-s-oi-nikites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1346-a-s-pyrsos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1418-a-s-pyrsos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1101-a-s-somatikis-diaplasis-peiraia-body-art-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1421-a-s-tai-tsi-tsoyan-athinas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/800-a-s-tzoynto-brilission-tokai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1392-a-s-faethon-thessalonikis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/342-a-s-orion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/664-a-s-orion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1483-a-s-orionas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1497-ae-mesogeion-ameinias-palineys/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/athlimata-boynoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/968-athlitiko-kentro-mpasdekis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/703-athlitiko-somateio-kolymb-almpatros-ano-liosion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/698-athlitikos-kolymbitikos-omilos-almpatros-ilioypolis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/732-athlitikos-naytikos-omilos-argyroypolis-a-n-o-a/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/160-athlitikos-omilos-antisfairisis-papagoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/392-athlitikos-omilos-kolonoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1259-athlitikos-omilos-palaioyfaliroy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1296-athlitikos-omilos-pentelikoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1281-athlitikos-omilos-triton-amaroysioy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1756-athlitikos-syllogos-aiolos-taekbonto-xaidari/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/540-athlitikos-syllogos-anatasis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1144-athlitikos-syllogos-karate-keratsinioy-nisiza/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1622-athlitikos-syllogos-fokeas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1772-athlokinisi-xalandrioy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/969-athlos-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/245-aias-xolargoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/834-akadimia-aikido-kobayashi-hirokazu-ryu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1409-akadimia-ekseligmenon-maxitikon-texnon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/866-akadimia-toksobolias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1826-aleksopoyloy-bera-and-reggina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1827-aleksopoyloy-bera-and-reggina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1614-anagennisi-peykis-gs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1829-androni-stella/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/769-ao-baris-dromeas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/600-ao-baris-o-anagyroys/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/753-ao-dias-olymp-xorioy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1757-ao-kallistos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1156-ao-olympiada-kifisia-eoka/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1615-ao-peykis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1738-ao-filotheis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1866-arxontaki-ntemi-perdiki-margo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/602-as-palaioy-psyxikoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/cities/%CE%B1%CE%B8%CE%AE%CE%BD%CE%B1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%85/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/936-athlitiko-parko-fokianoy-fokianos-sport-park/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/279-athlitikos-omilos-spetson-kickboxing/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/161-athlitikos-omilos-okeanos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/244-athlitikos-gymnastikos-syllogos-agias-barvaras-mavridis-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/368-athlitikos-syllogos-taekwondo-theagenis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/344-athlitikos-syllogos-zanshin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/285-athlitikos-syllogos-o-kyriarxos-the-master/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/282-athlitikos-syllogos-dynami-byrona/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/249-athlitikos-syllogos-exetlaios/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/359-athlitikos-syllogos-karate-armonia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/355-athlitikos-syllogos-karate-o-dromos-tis-eirinis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/253-athlitikos-syllogos-kynaigeiros/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/258-athlitikos-syllogos-maxitikon-athlimaton-aiginas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/367-athlitikos-syllogos-odysseas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/283-athlitikos-syllogos-panthires/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/246-athlitikos-syllogos-foiniks/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/253/athina/athlitikos-syllogos-kynaigeiros/</loc>
   </url>
   
   <url>
@@ -2193,187 +1355,51 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/antisfairisi/</loc>
+    <loc>https://activekoala.com/schools/athina/298/athina/aristoteleio-pygmaxikos-g-s-peristerioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/298-aristoteleio-pygmaxikos-g-s-peristerioy/</loc>
+    <loc>https://activekoala.com/subcategories/violin/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/162-attiki-enosi-tae-kwon-do/</loc>
+    <loc>https://activekoala.com/categories/athlimata-vounou/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1823-basilaki-ntina/</loc>
+    <loc>https://activekoala.com/schools/athina/101/athina/gorgones-kai-magkes/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1860-basileioy-afes-o-e-basileioy-ballet/</loc>
+    <loc>https://activekoala.com/subcategories/gym/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1883-borrea-aggeliki/</loc>
+    <loc>https://activekoala.com/schools/athina/1804/athina/dimotiko-gymnastirio-xolargoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/boxe-savate/</loc>
+    <loc>https://activekoala.com/schools/athina/393/athina/ethnikos-gymnastikos-syllogos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/bioli/</loc>
+    <loc>https://activekoala.com/schools/athina/923/athina/emp-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/%CE%B2%CE%BF%CF%87%CE%B5-savate/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/categories/ekpaideutika/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/356-g-s-palaistra/</loc>
+    <loc>https://activekoala.com/subcategories/gymnastics-rithmiki/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1865-galatopoyloy-isidora/</loc>
+    <loc>https://activekoala.com/subcategories/ergastiri-kalitexniko/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/700-gas-ilissos-athinon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1819-georgoydi-elisabet-dance-and-ballet-school/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1851-giannoysi-marikali-theologoy-panagoylas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/gymnastirio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/101-gorgones-kai-magkes/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CE%B3%CF%85%CE%BC%CE%BD%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%BF/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CE%B3%CF%85%CE%BC%CE%BD%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/gymnastiki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1545-d-club-dikaios/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1031-dekathlon-gym/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1842-despoina-grigoriadoy-bakka-spyroy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1804-dimotiko-gymnastirio-xolargoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/393-ethnikos-gymnastikos-syllogos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/871-ellinikos-naytikos-omilos-aigyptioton/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1858-emmanoyilidoy-eleni/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/923-emp-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1818-eyaggeloy-sgoyro-dancetude/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1012-eyrytos-kickboxing-street-fighting/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/ekpaideytika/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ekpaideytikos-xoros-moysikis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CE%B5%CE%BD%CF%8C%CF%81%CE%B3%CE%B1%CE%BD%CE%B7/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/enorgani/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-mathisis-kai-dimioyrgikis-ekfrasis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-moysikis-dimioyrgikis-apasxolisis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-moysikis-propaideias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-moysikokinitikis-brefon-kai-nipion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-ekmathisis-kitharas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastiri-xoroy-kai-tragoydioy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/ergastirio-dimioyrgikis-apasxolisis-gia-paidia-dimotikoy-or-paidikos-stathmos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1886-zaxaropoyloy-sylia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1832-zografoy-eleni/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/thalassia-spor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/thalassia-spor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/thalassa/</loc>
+    <loc>https://activekoala.com/categories/water-sports/</loc>
   </url>
   
   <url>
@@ -2381,94 +1407,39 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%B1-%CF%83%CF%80%CE%BF%CF%81/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/theatro/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/theatriki/</loc>
+    <loc>https://activekoala.com/categories/medical/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/theatriko-ergastiri/</loc>
+    <loc>https://activekoala.com/subcategories/horse-riding/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/cities/%CE%B8%CE%B5%CF%83%CF%83%CE%B1%CE%BB%CE%BF%CE%BD%CE%AF%CE%BA%CE%B7/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/sailing/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/69-thodoris-panas-sxoli-xoroy-athinon/</loc>
+    <loc>https://activekoala.com/schools/athina/1548/athina/karate-peiraias/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/ippasia/</loc>
+    <loc>https://activekoala.com/schools/athina/847/athina/kentro-maxitikon-texnon-tasos-zerbas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/istioploia/</loc>
+    <loc>https://activekoala.com/schools/athina/699/athina/kolymbitikos-omilos-poseidon-ilision/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/thessaloniki/112-ixtheis-aqua-club/</loc>
+    <loc>https://activekoala.com/subcategories/canoe-kayak/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/thessaloniki/113-ixtheis-aqua-club-baby-swimming-thessaloniki-akadimies-kolymvisis-aqua-yoga/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1548-karate-peiraias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1822-karropoyloy-eirini/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1855-kartasi-stathakopoyloy-sofia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/katadytika-kentra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/katadytika-kentra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1834-katsianoy-stayroyla/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/847-kentro-maxitikon-texnon-tasos-zerbas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/699-kolymbitikos-omilos-poseidon-ilision/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1863-kypriotoy-basiliki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1868-konsta-xristina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kanoe-kagiak/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kentro-dimioyrgikis-apasxolisispaidion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/%CE%BA%CE%B1%CE%BB%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AC/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/dimiourgiki-apasxolisi/</loc>
   </url>
   
   <url>
@@ -2476,8 +1447,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/%CE%BA%CE%B1%CF%84%CE%B1%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B1/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/diving/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/guitar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/kleistou-xorou/</loc>
   </url>
   
   <url>
@@ -2485,176 +1463,91 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%BF%CF%8D-%CF%87%CF%8E%CF%81%CE%BF%CF%85/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/athina/71/athina/kratiki-sxoli-orxistikis-texnis-ksot/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/kleistoy-xoroy/</loc>
+    <loc>https://activekoala.com/subcategories/rowing/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/koinoniki-synetairistiki-epixeirisi/</loc>
+    <loc>https://activekoala.com/schools/athina/1318/athina/monastiraki-dojo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/%CE%BA%CE%BF%CE%BB%CF%8D%CE%BC%CE%B2%CE%B7%CF%83%CE%B7/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/schools/thessaloniki/7597/thessaloniki/mikro-epistimoniko-sxoliki-meleti-kai-drastiriotites/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kolymvisi/</loc>
+    <loc>https://activekoala.com/subcategories/modern-dance/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/71-kratiki-sxoli-orxistikis-texnis-ksot/</loc>
+    <loc>https://activekoala.com/categories/mousiki/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/kopilasia/</loc>
+    <loc>https://activekoala.com/subcategories/mousiki-propaidia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1852-lada-mairi/</loc>
+    <loc>https://activekoala.com/subcategories/moudiki-sxoli/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1885-mathioydaki-bibetta-i-dance/</loc>
+    <loc>https://activekoala.com/schools/athina/870/athina/naytikos-athlitikos-omilos-arion-glyfadas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1856-mathioydaki-maria/</loc>
+    <loc>https://activekoala.com/schools/athina/665/athina/naytikos-omilos-kalamakioy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1830-manoy-basiliki/</loc>
+    <loc>https://activekoala.com/schools/athina/1774/athina/naytilos-athlitikos-syllogos-attikis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1824-mixailidoy-melina/</loc>
+    <loc>https://activekoala.com/subcategories/fencing/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1318-monastiraki-dojo/</loc>
+    <loc>https://activekoala.com/schools/athina/165/athina/omilos-ksifaskias-glyfadas/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/monternos-xoros/</loc>
+    <loc>https://activekoala.com/schools/athina/575/athina/odysseas-agias-barvaras/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/moysiki/</loc>
+    <loc>https://activekoala.com/schools/athina/291/athina/p-a-s-arxaia-olympia-taekvonto/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/moysiki-propaideia/</loc>
+    <loc>https://activekoala.com/schools/athina/390/athina/panathinaikos-athlitikos-omilos/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/moysiki-sxoli/</loc>
+    <loc>https://activekoala.com/schools/athina/1059/athina/panellinia-enosi-goysoy-koyngk-foy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/moysiko-ergastiri-or-mpanta-dromoy-or-moysiko-paixnidotheama/</loc>
+    <loc>https://activekoala.com/schools/athina/1549/athina/politistiko-kentro-interchina-peiraia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/870-naytikos-athlitikos-omilos-arion-glyfadas/</loc>
+    <loc>https://activekoala.com/schools/athina/1357/athina/poseidon-a-o-n-psyxikoy/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/665-naytikos-omilos-kalamakioy/</loc>
+    <loc>https://activekoala.com/subcategories/wrestling/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1774-naytilos-athlitikos-syllogos-attikis/</loc>
+    <loc>https://activekoala.com/subcategories/pagratio/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/ksifaskia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1861-ksymitoylia-sapfo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CE%BE%CE%B9%CF%86%CE%B1%CF%83%CE%BA%CE%B9%CE%B1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/165-omilos-ksifaskias-glyfadas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/575-odysseas-agias-barvaras/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/767-oreivatikos-syllogos-axarnon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/291-p-a-s-arxaia-olympia-taekvonto/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/390-panathinaikos-athlitikos-omilos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1059-panellinia-enosi-goysoy-koyngk-foy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1841-papaxristoy-galomitakoy-anta/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/podilasia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/podosfairo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1549-politistiko-kentro-interchina-peiraia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/polyxoros/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1357-poseidon-a-o-n-psyxikoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CF%80%CE%AC%CE%BB%CE%B7/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/pali/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CF%80%CE%B1%CE%B3%CE%BA%CF%81%CE%AC%CF%84%CE%B9%CE%BF/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/pagkratio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/paidagogika/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/paidikos-stathmos-kallitexniko-ergastiri/</loc>
+    <loc>https://activekoala.com/categories/paidagogika-kallitexnika/</loc>
   </url>
   
   <url>
@@ -2662,26 +1555,15 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1594-paradosiako-saolin-and-tai-tsi-shaolin-temple-greece-peristeri/</loc>
+    <loc>https://activekoala.com/schools/athina/1594/athina/paradosiako-saolin-and-tai-tsi-shaolin-temple-greece-peristeri/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/%CF%80%CE%BF%CE%B4%CE%B7%CE%BB%CE%B1%CF%83%CE%B9%CE%B1/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/cycling/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/%CF%80%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%BF/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/podosfairo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/football/</loc>
   </url>
   
   <url>
@@ -2689,53 +1571,27 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/protypo-moysiko-ergastiri/</loc>
+    <loc>https://activekoala.com/categories/polyxoros/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/391-roi-aqua-team/</loc>
+    <loc>https://activekoala.com/subcategories/moudiko-ergastiri/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/rythmiki-enorgani/</loc>
+    <loc>https://activekoala.com/schools/athina/124/athina/rythmos-and-kinisi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1470-rosiko-maxitiko-systima-storm/</loc>
+    <loc>https://activekoala.com/schools/athina/634/athina/s-fi-ga-syllogos-filon-gymnastikis-aigaleo/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/%CF%81%CF%85%CE%B8%CE%BC%CE%B9%CE%BA%CE%B7---%CE%B5%CE%BD%CE%BF%CF%81%CE%B3%CE%B1%CE%BD%CE%B7/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/chess/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/124-rythmos-and-kinisi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/634-s-fi-ga-syllogos-filon-gymnastikis-aigaleo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1859-skiada-xristiana-urban-dance-society-by-christianna-skiada/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1906-stayropoyloy-georgia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/skaki/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/stegi-politismoy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CF%83%CF%84%CE%AF%CE%B2%CE%BF%CF%82/</loc>
-    <priority>0</priority>
+    <loc>https://activekoala.com/subcategories/polyxoros/</loc>
   </url>
   
   <url>
@@ -2743,77 +1599,31 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/sxoli-moysikis-kai-xoroy/</loc>
+    <loc>https://activekoala.com/subcategories/sxoli-xorou/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/subcategories/sxoli-mpaletoy/</loc>
+    <loc>https://activekoala.com/schools/athina/704/athina/tritonas-athlitikos-omilos-ano-liosion/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/73-sxoli-xoroy-freds-american-dance-center-pagkrati/</loc>
+    <loc>https://activekoala.com/subcategories/tennis/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1802-sxoli-paradosiakoy-kinezikoy-saolin-koyngk-foy-hung-gar-wing-chun-sanda-tai-chi-yoga-aikido/</loc>
+    <loc>https://activekoala.com/subcategories/texniki-kolimvisi/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/97-sxoli-capoeira-maroussi/</loc>
+    <loc>https://activekoala.com/subcategories/toxovolia/</loc>
   </url>
   
   <url>
-    <loc>https://activekoala.com/schools/athina/1546-soma-and-fos-enallaktiko-gymnastirio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/toksobolia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1907-toyane-marina/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/704-tritonas-athlitikos-omilos-ano-liosion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/tenis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/texniki-kolymvisi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/%CF%84%CE%BF%CE%BE%CE%BF%CE%B2%CE%BF%CE%BB%CE%B9%CE%B1/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1821-yfanti-paraskeyi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1479-ygeia-kai-diaplasi-gym/</loc>
+    <loc>https://activekoala.com/schools/athina/1479/athina/ygeia-kai-diaplasi-gym/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/categories/ypaithries-drastiriotites/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1889-xelioti-petroy-gianna-ekfrasi-armonias/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/xoreytiki-kai-moysikotheatriki-agogi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/%CF%87%CE%BF%CF%81%CF%8C%CF%82/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2826,22 +1636,6 @@
   
   <url>
     <loc>https://activekoala.com/subcategories/odeio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/zografikis-kai-theatroy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/kentro-meletis-and-dimioyrgikis-apasxolisis/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/subcategories/moysikis-kai-paixnidioy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/schools/athina/1850-xoreytiko-ergastiri-symigdala-maria/</loc>
   </url>
   
 </urlset>

@@ -11,79 +11,30 @@
     
     
     <item>
-      <title></title>
-      <link>https://activekoala.com/categories/</link>
+      <title>#N/A</title>
+      <link>https://activekoala.com/categories/#n/a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/</guid>
+      <guid>https://activekoala.com/categories/#n/a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>BABY SWIMMING
+      <title>#Ref</title>
+      <link>https://activekoala.com/categories/#ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/#ref/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baby
 </title>
-      <link>https://activekoala.com/categories/baby-swimming/</link>
+      <link>https://activekoala.com/categories/baby/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/baby-swimming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kickboxing
-</title>
-      <link>https://activekoala.com/categories/kickboxing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/kickboxing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MEDICAL
-</title>
-      <link>https://activekoala.com/categories/medical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/medical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Muay Thai
-</title>
-      <link>https://activekoala.com/categories/muay-thai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/muay-thai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ΑΘΛΗΜΑΤΑ ΒΟΥΝΟΥ
-</title>
-      <link>https://activekoala.com/categories/athlimata-boynoy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/athlimata-boynoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Αθληματα Βουνου</title>
-      <link>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%85/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CE%BC%CE%B1%CF%84%CE%B1-%CE%B2%CE%BF%CF%85%CE%BD%CE%BF%CF%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Αθλητισμός</title>
-      <link>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%B1%CE%B8%CE%BB%CE%B7%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82/</guid>
+      <guid>https://activekoala.com/categories/baby/</guid>
       <description></description>
     </item>
     
@@ -98,32 +49,32 @@
     </item>
     
     <item>
-      <title>Εκπαιδευτικά
+      <title>Βουνό
 </title>
-      <link>https://activekoala.com/categories/ekpaideytika/</link>
+      <link>https://activekoala.com/categories/athlimata-vounou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/ekpaideytika/</guid>
+      <guid>https://activekoala.com/categories/athlimata-vounou/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ΘΑΛΑΣΣΙΑ ΣΠΟΡ
+      <title>Εκπαιδευτικά
 </title>
-      <link>https://activekoala.com/categories/thalassia-spor/</link>
+      <link>https://activekoala.com/categories/ekpaideutika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/thalassia-spor/</guid>
+      <guid>https://activekoala.com/categories/ekpaideutika/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Θάλασσα
 </title>
-      <link>https://activekoala.com/categories/thalassa/</link>
+      <link>https://activekoala.com/categories/water-sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/thalassa/</guid>
+      <guid>https://activekoala.com/categories/water-sports/</guid>
       <description></description>
     </item>
     
@@ -138,30 +89,12 @@
     </item>
     
     <item>
-      <title>Θαλασσια Σπορ</title>
-      <link>https://activekoala.com/categories/%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%B1-%CF%83%CF%80%CE%BF%CF%81/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%B1-%CF%83%CF%80%CE%BF%CF%81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ΚΑΤΑΔΥΤΙΚΑ ΚΕΝΤΡΑ
+      <title>Ιατρικά
 </title>
-      <link>https://activekoala.com/categories/katadytika-kentra/</link>
+      <link>https://activekoala.com/categories/medical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/katadytika-kentra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Καλιτεχνικά</title>
-      <link>https://activekoala.com/categories/%CE%BA%CE%B1%CE%BB%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%BA%CE%B1%CE%BB%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AC/</guid>
+      <guid>https://activekoala.com/categories/medical/</guid>
       <description></description>
     </item>
     
@@ -176,79 +109,32 @@
     </item>
     
     <item>
-      <title>Καταδυτικα Κεντρα</title>
-      <link>https://activekoala.com/categories/%CE%BA%CE%B1%CF%84%CE%B1%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%BA%CE%B1%CF%84%CE%B1%CE%B4%CF%85%CF%84%CE%B9%CE%BA%CE%B1-%CE%BA%CE%B5%CE%BD%CF%84%CF%81%CE%B1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Κλειστού Χώρου</title>
-      <link>https://activekoala.com/categories/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%BF%CF%8D-%CF%87%CF%8E%CF%81%CE%BF%CF%85/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%BF%CF%8D-%CF%87%CF%8E%CF%81%CE%BF%CF%85/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Κλειστού Χώρου
 </title>
-      <link>https://activekoala.com/categories/kleistoy-xoroy/</link>
+      <link>https://activekoala.com/categories/kleistou-xorou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/kleistoy-xoroy/</guid>
+      <guid>https://activekoala.com/categories/kleistou-xorou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Μουσική
 </title>
-      <link>https://activekoala.com/categories/moysiki/</link>
+      <link>https://activekoala.com/categories/mousiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/moysiki/</guid>
+      <guid>https://activekoala.com/categories/mousiki/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ΠΟΔΟΣΦΑΙΡΟ
+      <title>Παιδαγωγικά &#43; Καλιτεχνικά
 </title>
-      <link>https://activekoala.com/categories/podosfairo/</link>
+      <link>https://activekoala.com/categories/paidagogika-kallitexnika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://activekoala.com/categories/podosfairo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ΠΟΛΥΧΩΡΟΣ
-</title>
-      <link>https://activekoala.com/categories/polyxoros/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/polyxoros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Παιδαγωγικά
-</title>
-      <link>https://activekoala.com/categories/paidagogika/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/paidagogika/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Πολεμικές Τέχνες</title>
-      <link>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</guid>
+      <guid>https://activekoala.com/categories/paidagogika-kallitexnika/</guid>
       <description></description>
     </item>
     
@@ -263,21 +149,22 @@
     </item>
     
     <item>
+      <title>Πολυχώρος
+</title>
+      <link>https://activekoala.com/categories/polyxoros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://activekoala.com/categories/polyxoros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Υπαιθρίες Δραστηριότητες
 </title>
       <link>https://activekoala.com/categories/ypaithries-drastiriotites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://activekoala.com/categories/ypaithries-drastiriotites/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Χορός</title>
-      <link>https://activekoala.com/categories/%CF%87%CE%BF%CF%81%CF%8C%CF%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/categories/%CF%87%CE%BF%CF%81%CF%8C%CF%82/</guid>
       <description></description>
     </item>
     

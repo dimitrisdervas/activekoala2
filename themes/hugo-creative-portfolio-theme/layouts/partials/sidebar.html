@@ -27,7 +27,7 @@
               </ul>
     {{ end }}
 
-     {{ if isset .Site.Taxonomies "categories" }}
+    <!--  {{ if isset .Site.Taxonomies "categories" }}
           <h1 class="sidebar-heading">Κατηγοριες</h1>
               <ul class="sidebar-menu">
                   {{ range $title, $items := .Site.Taxonomies.categories }}
@@ -40,7 +40,15 @@
                   </li>
                   {{ end }}
               </ul>
-    {{ end }}
+    {{ end }} -->
+<h1 class="sidebar-heading">Κατηγοριες</h1>
+<ul>
+  {{ range where .Site.Pages "Section" "categories" }}
+    <li>
+      <a href="/categories/{{ .Params.slugCategories}}">{{ .Title }}</a>
+    </li>
+  {{ end}}
+</ul>
 
     {{ partial "social_buttons_in_sidebar.html" . }}
 

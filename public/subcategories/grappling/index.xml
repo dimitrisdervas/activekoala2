@@ -1,74 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grappling on Active Koala</title>
+    <title>Grappling
+ on Active Koala</title>
     <link>https://activekoala.com/subcategories/grappling/</link>
-    <description>Recent content in Grappling on Active Koala</description>
+    <description>Recent content in Grappling
+ on Active Koala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>gr</language>
     
 	<atom:link href="https://activekoala.com/subcategories/grappling/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Arcane Fighthood
-</title>
-      <link>https://activekoala.com/schools/athina/309-arcane-fighthood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/309-arcane-fighthood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Choke Luta Livre Academy
-</title>
-      <link>https://activekoala.com/schools/athina/297-choke-luta-livre-academy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/297-choke-luta-livre-academy/</guid>
-      <description>CHOKE LUTA LIVRE is a Luta Livre Submission(Brazilian Grappling) and MMA Academy located in Athens, Greece. Our trainer, George Thomadakis is a Black Belt in Luta Livre under Mestre Marcio Cromado(RFT) and Mestre Daniel D&amp;#39; Dane. CHOKE LUTA LIVRE is an official member of the Federacao de Luta Livre Submission do estado do Rio de Janeiro.</description>
-    </item>
-    
-    <item>
-      <title>Olympian Team – Αθλητικός Σύλλογος Αγίας Βαρβάρας
-</title>
-      <link>https://activekoala.com/schools/athina/332-olympian-team-athlitikos-syllogos-agias-barvaras/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/332-olympian-team-athlitikos-syllogos-agias-barvaras/</guid>
-      <description>OLYMPIAN TEAM KICK BOXING Κ1 GRAPPLING MMA ΠΑΓΚΡΑΤΙΟΝ JU-JUTSU ΚΟΥΝΤΟΥΡΙΩΤΟΥ 3 ΑΓΙΑ ΒΑΡΒΑΡΑ (στον πεζόδρομο απέναντι από τα Goody&amp;#39;s) τμήματα: αρχαρίων, παιδικά, γυναικεία, ανδρικά και ειδικά τμήματα για σώματα ασφαλείας.</description>
-    </item>
-    
-    <item>
-      <title>Pyrsos Fight Team (ΑΓΣ ΚΟΡΩΠΙΟΥ ΕΛ. ΠΥΡΣΟΣ)
-</title>
-      <link>https://activekoala.com/schools/athina/275-pyrsos-fight-team-ags-koropioy-el-pyrsos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/275-pyrsos-fight-team-ags-koropioy-el-pyrsos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>X Fight Nation
-</title>
-      <link>https://activekoala.com/schools/athina/247-x-fight-nation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/247-x-fight-nation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Α.Σ. ΑΙΓΕΑΣ
-</title>
-      <link>https://activekoala.com/schools/athina/311-a-s-aigeas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://activekoala.com/schools/athina/311-a-s-aigeas/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

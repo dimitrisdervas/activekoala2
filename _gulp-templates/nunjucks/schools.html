@@ -1,22 +1,25 @@
 ---
 title: |
-   {{School}}
-city: ["{{City}}"]
-perioxi: ["{{Perioxi}}"]
-categories: ["{{Category}}"]
-subcategories: ["{{ Subcategory | replace("," , " % ") }}"]
-address: "{{Address}}"
-logoimg: "{{Logo}}"
-website: "{{Website | replace("http://", "") | replace("https://", "") }}"
-facebook: "{{Facebook | replace("https://", "") | replace("http://", "") }}"
-phone: "{{Phone}}"
+   {{school}}
+city: ["{{city}}"]
+perioxi: ["{{perioxi}}"]
+categories: ["{{slugCategories}}"]
+subcategories: ["{% if  slugSubcategories == "#REF!" %} {% else %} {{ slugSubcategories | replace(',', '","' ) | safe  }} {% endif %}"]
+address: "{{address}}"
+logoimg: "{{logo}}"
+website: "{{website | replace("http://", "") | replace("https://", "") }}"
+facebook: "{{facebook | replace("https://", "") | replace("http://", "") }}"
+phone: "{{phone}}"
 email: "{{email}}"
-courses: "{{Courses}}"
-places: ["{{Place}}"]
-rensponsibles: "{{Rensponsible}}"
+courses: "{{courses}}"
+places: ["{{place}}"]
+rensponsibles: "{{rensponsible}}"
 zipcode: ["{{zipcode}}"]
 UID: "{{UID}}"
+slug: "{{UID}}/{{cityTranslit}}/{{schoolTranslit}}"
+aliases:
+    - /{{UID}}
+    - /{{UID}}#{{schoolTranslit}}
 ---
 
-{{Description}}
-
+{{description}}

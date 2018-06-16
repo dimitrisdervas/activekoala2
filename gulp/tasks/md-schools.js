@@ -1,92 +1,117 @@
-var gulp         = require('gulp');
-var Papa         = require("papaparse");
-var fs           = require('fs');
-var nunjucksRender = require('gulp-nunjucks-render');
+var gulp            = require('gulp');
+var Papa            = require("papaparse");
+var fs              = require('fs');
+var nunjucks     = require('gulp-nunjucks');
+var nunjucksRender  = require('gulp-nunjucks-render');
+var translit        = require('speakingurl');
+var rename          = require('gulp-rename');
+var shell           = require('shelljs');
+var runSequence     = require('run-sequence');
+var del             = require('del');
 
 
-gulp.task('airschool-nunjuckrender', function() {
 
-    fs.readFile('./'+schools.csv+'.csv', 'utf8', function(err, data){
+var schoolsPath = {};
+schoolsPath.collection = 'content/schools';
+schoolsPath.csv        = 'data/google/schools';
+schoolsPath.template   = '_gulp-templates/nunjucks/schools.html';
+module.exports = schoolsPath;
+
+
+gulp.task('download:schools', done => {
+    shell.exec('python3 twilliosheets.py');
+    done();
+});
+
+
+
+gulp.task('md:schools', function() {
+
+    fs.readFile('./'+ schoolsPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
         for(var i = 1; i < rows.length; i++) {
-            var items = rows[i];
+            var items = rows[i]
+         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
+            var cityTranslit = translit(items[4], {
+                lang: 'en'
+              })
+            var schoolTranslit = translit(items[23], {
+                lang: 'en'
+              })
 
             var templateData = {
-                    School : items[0],
-                    City: items[1],
-                    Perioxi: items[2],
-                    Category: items[3],
-                    Subcategory: [items[4]],
-                    Facebook: items[5],
-                    Website: items[6],
-                    email: items[7],
-                    Organization: items[8],
-                    Logo: items[9],
-                    Address: items[10],
-                    zipcode: items[11],
-                    Phone: items[12],
-                    Courses: items[13],
-                    Place: items[14],
-                    Rensponsible: items[15],
-                    Description: items[16],
-                    Publish: items[23],
-                    UID: items[24],
+              UID : items[1],
+                address : items[2],
+                category : items[3],
+                city : items[4],
+                courses : items[5],
+                coverPhoto : items[6],
+                customCategory : items[7],
+                dataOrigin : items[8],
+                dateAdded : items[9],
+                description : items[10],
+                email : items[11],
+                facebook : items[12],
+                facebookID : items[13],
+                logo : items[14],
+                mapblock : items[15],
+                mobile : items[16],
+                organization : items[17],
+                perioxi : items[18],
+                phone : items[19],
+                place : items[20],
+                profilePhoto : items[21],
+                rensponsible : items[22],
+                school : items[23],
+                slugCategories : items[24],
+                slugSubcategories : items[25],
+                subcategory : items[26],
+                toPublish : items[27],
+                type : items[28],
+                userID : items[29],
+                verified : items[30],
+                website : items[31],
+                yearCreated : items[32],
+                zipcode : items[33],
+                schoolTranslit : schoolTranslit,
+                cityTranslit : cityTranslit,
             };
 
-// 0 School
-// 1 City
-// 2 Perioxi
-// 3 Category
-// 4 Subcategory
-// 5 Website
-// 6 Facebook
-// 7 email
-// 8 Organization
-// 9 Logo
-// 10 Address
-// 11 TK
-// 12 Phone
-// 13 Courses
-// 14 Place
-// 15 Rensponsible
-// 16 Description
-// 17 Verified
-// 18 map block field
-// 19 έτος ίδρυσης
-// 20 data origin
-// 21 gulp-main-bower-files
-// 22 type
-// 23 topublish
-// 24 UID
-
-            var items1 = translit(items[1], {
-                lang: 'en'
-              })
-            var items0 = translit(items[0], {
-                lang: 'en'
-              })
-
-            // https://github.com/mozilla/nunjucks/issues/396
-            var manageEnvironment = function(environment) {
-              environment.addFilter('split', function(str, seperator) {
-                    return str.split(seperator);
-                });
-            }
 
 
-            // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            gulp.src(schools.template)
+
+            gulp.src(schoolsPath.template)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: schools.collection+'/'+items1,
-                    basename: items[24] + "-" + items0,
+                    dirname: schoolsPath.collection +'/'+ cityTranslit,
+                    basename: items[1] + "-" + schoolTranslit,
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
             }
       });
+
+});
+
+gulp.task('del:schools', function () {
+  return del([
+    // here we use a globbing pattern to match everything inside the `mobile` folder
+    'content/schools/**/*',
+  ]);
+});
+
+gulp.task('content:schools', function(){ return runSequence(
+    'del:schools',
+    'download:schools',
+    'md:schools'
+    )});
+
+gulp.task('recontent:schools', function(){ return runSequence(
+    'del:schools',
+    'md:schools'
+    )});
