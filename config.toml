@@ -2,6 +2,7 @@ baseurl = "https://activekoala.com/"
 title = "Active Koala"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "gr"
+defaultContentLanguage = "gr"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-31451672-10"
 
@@ -65,8 +66,11 @@ params = ["city", "categories", "subcategories"]
 
 
 [taxonomies]
-  City = "Cities"
-  Category = "Categories"
-  Perioxi = "Perioxes"
-  Subcategory = "Subcategories"
-  Place = "Places"
+  city = "cities"
+  category = "categories"
+  perioxi = "perioxes"
+  subcategory = "subcategories"
+  place = "places"
+
+PreserveTaxonomyNames = false
+RemovePathAccents = true

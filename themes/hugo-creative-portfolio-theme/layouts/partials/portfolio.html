@@ -8,7 +8,7 @@
                      <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         <img src="/img/default-img/aikido-gi.jpg" alt="" class="img-responsive">
                       </a>
-                                            {{ $dataJ := getJSON "/data/graph-api.json" }}
+                      {{ $dataJ := getJSON "/data/graph-api.json" }}
                       {{ range  where $dataJ ".UID" "==" .Params.UID }}
                               <li>{{ .page_token}}</li>
                               <li>{{ .UID }} </li>

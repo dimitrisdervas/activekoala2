@@ -28,17 +28,17 @@
   </url>
   
   <url>
-    <loc>https://activekoala.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://activekoala.com/subcategories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://activekoala.com/places/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -122,6 +122,11 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/1264-aikibuddha/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/aikido/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -225,6 +230,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/baby-swimming/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1805-brasa-hellas-iraklis-grigoriadis-fight-team/</loc>
   </url>
   
@@ -238,11 +247,6 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/714-bujinkan-nichigetsu-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/baby-swimming/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -260,6 +264,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/basket/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/basket/</loc>
   </url>
   
   <url>
@@ -304,12 +312,24 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/boxing/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/895-boxing-academy/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/brazilian-jiu-jitsu/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/brazilian-jiu-jitsu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/bridge/</loc>
   </url>
   
   <url>
@@ -337,12 +357,20 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/cross-fit/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/668-caestus-gym/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/subcategories/capoeira/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/capoeira/</loc>
   </url>
   
   <url>
@@ -418,6 +446,10 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/103-dais-athletic-center-amarousio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/dance-school/</loc>
   </url>
   
   <url>
@@ -533,6 +565,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/flying/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1124-fukushinkan/</loc>
   </url>
   
@@ -582,6 +618,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/grappling/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/728-gym-addict/</loc>
   </url>
   
@@ -598,8 +638,16 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/handball/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/hapkido/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/hapkido/</loc>
   </url>
   
   <url>
@@ -632,8 +680,16 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/hwal-moo-do/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/iaido/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/iaido/</loc>
   </url>
   
   <url>
@@ -654,13 +710,25 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/jiu-jitsu/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/ju-jitsu/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/ju-jitsu/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/judo/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/judo/</loc>
   </url>
   
   <url>
@@ -709,8 +777,16 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kali/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/karate/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/karate/</loc>
   </url>
   
   <url>
@@ -722,12 +798,32 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kendo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kick-boxing/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/kickboxing/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/kickboxing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kickboxing/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1766-kitesurf-in-athens/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kobudo/</loc>
   </url>
   
   <url>
@@ -744,6 +840,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/krav-maga/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/303-krav-maga-mentality/</loc>
   </url>
   
@@ -757,6 +857,14 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kung-fu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kung-fu-fu-jow-pai/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/kung-fu-fu---jow---pai/</loc>
     <priority>0</priority>
   </url>
@@ -764,6 +872,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/kyuk-too-ki/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kyuk-too-ki/</loc>
   </url>
   
   <url>
@@ -795,7 +907,15 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/medical/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1302-mirmidon-fighters/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/mma/</loc>
   </url>
   
   <url>
@@ -820,11 +940,6 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/1604-masagatsu-dojo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://activekoala.com/categories/medical/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -854,6 +969,14 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/muay-thai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/muay-thai/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/321-muay-thai-plexousakis-camp/</loc>
   </url>
   
@@ -878,6 +1001,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/natural-movement/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1141-navasana/</loc>
   </url>
   
@@ -887,6 +1014,10 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/1276-nick-s-athletic-center/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ninjutsu/</loc>
   </url>
   
   <url>
@@ -938,7 +1069,23 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/padel-tennis/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/796-panda-sto-nero/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/personal-trainer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/pilates/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ping-pong/</loc>
   </url>
   
   <url>
@@ -1115,6 +1262,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/robotics/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/978-rock-way-climbing-gym/</loc>
   </url>
   
@@ -1176,6 +1327,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/sanda/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/</loc>
     <priority>0</priority>
   </url>
@@ -1187,6 +1342,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/self-defense/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/self-defense/</loc>
   </url>
   
   <url>
@@ -1215,6 +1374,10 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/261-skarogiannis-team-house-of-champions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ski/</loc>
   </url>
   
   <url>
@@ -1274,6 +1437,15 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/studio-xoroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/</loc>
     <priority>0</priority>
   </url>
@@ -1295,6 +1467,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/tennis/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/972-tora-shotokan-karate-do/</loc>
   </url>
   
@@ -1305,6 +1481,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/tae-kwon-do/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/tae-kwon-do/</loc>
   </url>
   
   <url>
@@ -1327,6 +1507,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/thai-boxing/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/thai-boxing/</loc>
   </url>
   
   <url>
@@ -1395,6 +1579,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/tenis-main/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/742-umibe-no-dojo/</loc>
   </url>
   
@@ -1417,6 +1605,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/volley/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/volley/</loc>
   </url>
   
   <url>
@@ -1449,6 +1641,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/wing-chun/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1249-workbox/</loc>
   </url>
   
@@ -1466,6 +1662,10 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/973-ying-jow-pai-ilioypolis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/yoga/</loc>
   </url>
   
   <url>
@@ -1778,6 +1978,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/athlimata-boynoy/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/968-athlitiko-kentro-mpasdekis/</loc>
   </url>
   
@@ -1985,6 +2189,14 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/athlitismos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/antisfairisi/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/298-aristoteleio-pygmaxikos-g-s-peristerioy/</loc>
   </url>
   
@@ -2002,6 +2214,14 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/1883-borrea-aggeliki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/boxe-savate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/bioli/</loc>
   </url>
   
   <url>
@@ -2030,6 +2250,10 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/gymnastirio/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/101-gorgones-kai-magkes/</loc>
   </url>
   
@@ -2041,6 +2265,10 @@
   <url>
     <loc>https://activekoala.com/subcategories/%CE%B3%CF%85%CE%BC%CE%BD%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%AE/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/gymnastiki/</loc>
   </url>
   
   <url>
@@ -2084,8 +2312,48 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/ekpaideytika/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ekpaideytikos-xoros-moysikis/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/%CE%B5%CE%BD%CF%8C%CF%81%CE%B3%CE%B1%CE%BD%CE%B7/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/enorgani/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-mathisis-kai-dimioyrgikis-ekfrasis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-moysikis-dimioyrgikis-apasxolisis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-moysikis-propaideias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-moysikokinitikis-brefon-kai-nipion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-ekmathisis-kitharas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastiri-xoroy-kai-tragoydioy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ergastirio-dimioyrgikis-apasxolisis-gia-paidia-dimotikoy-or-paidikos-stathmos/</loc>
   </url>
   
   <url>
@@ -2097,8 +2365,32 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/thalassia-spor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/thalassia-spor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/thalassa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/theatro/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/categories/%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%B1-%CF%83%CF%80%CE%BF%CF%81/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/theatriki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/theatriko-ergastiri/</loc>
   </url>
   
   <url>
@@ -2108,6 +2400,14 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/69-thodoris-panas-sxoli-xoroy-athinon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ippasia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/istioploia/</loc>
   </url>
   
   <url>
@@ -2131,6 +2431,14 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/katadytika-kentra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/katadytika-kentra/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1834-katsianoy-stayroyla/</loc>
   </url>
   
@@ -2151,8 +2459,20 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kanoe-kagiak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kentro-dimioyrgikis-apasxolisispaidion/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/categories/%CE%BA%CE%B1%CE%BB%CE%B9%CF%84%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AC/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/kalitexnika/</loc>
   </url>
   
   <url>
@@ -2161,8 +2481,20 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kithara/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/categories/%CE%BA%CE%BB%CE%B5%CE%B9%CF%83%CF%84%CE%BF%CF%8D-%CF%87%CF%8E%CF%81%CE%BF%CF%85/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/kleistoy-xoroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/koinoniki-synetairistiki-epixeirisi/</loc>
   </url>
   
   <url>
@@ -2171,7 +2503,15 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/kolymvisi/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/71-kratiki-sxoli-orxistikis-texnis-ksot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kopilasia/</loc>
   </url>
   
   <url>
@@ -2199,6 +2539,26 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/monternos-xoros/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/moysiki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/moysiki-propaideia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/moysiki-sxoli/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/moysiko-ergastiri-or-mpanta-dromoy-or-moysiko-paixnidotheama/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/870-naytikos-athlitikos-omilos-arion-glyfadas/</loc>
   </url>
   
@@ -2208,6 +2568,10 @@
   
   <url>
     <loc>https://activekoala.com/schools/athina/1774-naytilos-athlitikos-syllogos-attikis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/ksifaskia/</loc>
   </url>
   
   <url>
@@ -2248,7 +2612,19 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/podilasia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/podosfairo/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1549-politistiko-kentro-interchina-peiraia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/polyxoros/</loc>
   </url>
   
   <url>
@@ -2261,8 +2637,28 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/pali/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/%CF%80%CE%B1%CE%B3%CE%BA%CF%81%CE%AC%CF%84%CE%B9%CE%BF/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/pagkratio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/paidagogika/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/paidikos-stathmos-kallitexniko-ergastiri/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/paradosiakoi-xoroi/</loc>
   </url>
   
   <url>
@@ -2280,12 +2676,28 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/podosfairo/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/categories/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%B9%CE%BA%CE%AD%CF%82-%CF%84%CE%AD%CF%87%CE%BD%CE%B5%CF%82/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/polemikes-texnes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/protypo-moysiko-ergastiri/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/391-roi-aqua-team/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/rythmiki-enorgani/</loc>
   </url>
   
   <url>
@@ -2314,8 +2726,28 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/skaki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/stegi-politismoy/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/subcategories/%CF%83%CF%84%CE%AF%CE%B2%CE%BF%CF%82/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/stivos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/sxoli-moysikis-kai-xoroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/sxoli-mpaletoy/</loc>
   </url>
   
   <url>
@@ -2335,11 +2767,23 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/subcategories/toksobolia/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1907-toyane-marina/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/schools/athina/704-tritonas-athlitikos-omilos-ano-liosion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/tenis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/texniki-kolymvisi/</loc>
   </url>
   
   <url>
@@ -2356,12 +2800,44 @@
   </url>
   
   <url>
+    <loc>https://activekoala.com/categories/ypaithries-drastiriotites/</loc>
+  </url>
+  
+  <url>
     <loc>https://activekoala.com/schools/athina/1889-xelioti-petroy-gianna-ekfrasi-armonias/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/xoreytiki-kai-moysikotheatriki-agogi/</loc>
   </url>
   
   <url>
     <loc>https://activekoala.com/categories/%CF%87%CE%BF%CF%81%CF%8C%CF%82/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/categories/xoros/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/xoros-texnis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/odeio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/zografikis-kai-theatroy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/kentro-meletis-and-dimioyrgikis-apasxolisis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://activekoala.com/subcategories/moysikis-kai-paixnidioy/</loc>
   </url>
   
   <url>

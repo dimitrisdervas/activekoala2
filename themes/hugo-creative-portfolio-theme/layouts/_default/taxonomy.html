@@ -1,5 +1,5 @@
 {{ define "main" }}
-<h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+<h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}{{ range .Params.subcategory }}<a href="/subcategories/>{{ . }}</a>{{ end }}</h2>
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
