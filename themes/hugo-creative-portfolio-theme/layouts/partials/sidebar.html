@@ -27,28 +27,30 @@
               </ul>
     {{ end }}
 
-    <!--  {{ if isset .Site.Taxonomies "categories" }}
+
+
+ {{ if isset .Site.Taxonomies "categories" }}
           <h1 class="sidebar-heading">Κατηγοριες</h1>
               <ul class="sidebar-menu">
                   {{ range $title, $items := .Site.Taxonomies.categories }}
+                  {{ if eq $title "#n/a" }}
+                   {{ else }}
                   <li class="category-list-item">
                       {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+
+                                          
                       <a class="category-list-link" href="{{ $url | absURL }}">
-                          {{ $title }}
+                        {{ $author := index $.Site.Data.yml.categories ($title) }}
+                        {{ $author.title }}
                       </a>
                       <span class="category-list-count">{{ len $items }}</span>
+                      
                   </li>
                   {{ end }}
+                  {{ end }}
               </ul>
-    {{ end }} -->
-<h1 class="sidebar-heading">Κατηγοριες</h1>
-<ul>
-  {{ range where .Site.Pages "Section" "categories" }}
-    <li>
-      <a href="/categories/{{ .Params.slugCategories}}">{{ .Title }}</a>
-    </li>
-  {{ end}}
-</ul>
+    {{ end }}
+
 
     {{ partial "social_buttons_in_sidebar.html" . }}
 
