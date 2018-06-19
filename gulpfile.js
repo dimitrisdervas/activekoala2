@@ -43,11 +43,6 @@ var tasks      = requireDir('./gulp/tasks', {recurse: true}); // eslint-disable-
 var paths      = require('./gulp/paths');
 
 
-gulp.task('hugo:build', done => {
-    shell.exec('hugo serve');
-    done();
-});
-
 gulp.task('download:csvs', done => {
     shell.exec('python3 sheetsAll.py');
     done();
