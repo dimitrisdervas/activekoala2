@@ -27,15 +27,43 @@ var autoprefixer = require('gulp-autoprefixer');
 var sorting      = require('postcss-sorting');
 var assets       = require('postcss-assets');
 var responsive   = require('gulp-responsive');
-var shell        = require("gulp-shell");
 var baby         = require('babyparse');
 var Papa         = require("papaparse")
 var translit     = require('speakingurl');
 var gulp         = require('gulp');
 var webshot      =require('gulp-webshot');
+var gulpSequence = require('gulp-sequence')
+var shell        = require('shelljs');
+var del             = require('del');
 
 var requireDir = require('require-dir');
 var tasks      = requireDir('./gulp/tasks', {recurse: true}); // eslint-disable-line
 
 // include paths file
 var paths      = require('./gulp/paths');
+
+
+gulp.task('hugo:build', done => {
+    shell.exec('hugo serve');
+    done();
+});
+
+gulp.task('download:csvs', done => {
+    shell.exec('python3 sheetsAll.py');
+    done();
+});
+
+gulp.task('del:all', function () {
+  return del([
+    // here we use a globbing pattern to match everything inside the `mobile` folder
+    'content/schools/**/*',
+    'content/categories/**/*',
+    'data/yml/categories/**/*',
+    'content/subcategories/**/*',
+    'data/yml/subcategories/**/*',
+  ]);
+});
+
+
+gulp.task('default:create', gulpSequence( 'download:csvs','del:all',['md:schools','md:categories','md:subcategories'],['yml:subcategories','yml:categories']))
+

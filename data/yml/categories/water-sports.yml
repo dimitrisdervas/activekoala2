@@ -1,7 +1,6 @@
 ---
 title: "Θάλασσα"
-schools: [""]
-subcategory: ["Ιστιοπλοϊα","Κάνοε-Καγιάκ","Κατάδυση"]
-slug: ""
-slugSubcategory: ["sailing","canoe-kayak","diving"]
+slug: "water-sports"
+subcategory: ["Kitesurf","Ιστιοπλοϊα","Κάνοε-Καγιάκ","Κατάδυση"]
+slugSubcategory: ["kitesurf","sailing","canoe-kayak","diving"]
 ---
