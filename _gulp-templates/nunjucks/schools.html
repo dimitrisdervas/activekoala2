@@ -3,7 +3,7 @@ title: |
    {{school}}
 city: ["{{city}}"]
 perioxi: ["{{perioxi}}"]
-categories: ["{{slugCategories}}"]
+categories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %} {% else %} {{slugCategories}} {% endif %}"]
 subcategories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %} {% else %} {{ slugSubcategories | replace(',', '","' ) | safe  }} {% endif %}"]
 address: "{{address}}"
 logoimg: "{{logo}}"
