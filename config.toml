@@ -68,9 +68,7 @@ params = ["city", "categories", "subcategories"]
 [taxonomies]
   city = "cities"
   category = "categories"
-  perioxi = "perioxes"
   subcategory = "subcategories"
-  place = "places"
 
 PreserveTaxonomyNames = false
 RemovePathAccents = true
