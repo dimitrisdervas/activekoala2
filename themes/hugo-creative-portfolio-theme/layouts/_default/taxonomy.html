@@ -1,11 +1,15 @@
 {{ define "main" }}
 <h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+{{ $paginator := (.Paginator 20) (.Data.Pages) }}
+{{ partial "pagination.html" . }}
 
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
-          {{ range first 40 .Data.Pages  }}
+
+
+{{ range $paginator.Pages }}              
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry shadow-md">
                      <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
@@ -21,7 +25,6 @@
 
                           {{ if .Params.Categories }}
                             {{ range .Params.Categories }}
-
                               <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ $author := index $.Site.Data.yml.categories (.) }}{{ $author.title }}</a></span>
                             {{ end }}
                           {{ end }}
@@ -30,7 +33,11 @@
                               <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ . }}</a> </span>
                             {{ end }}
                           {{ end }}
+                          {{ if .Params.longitude }}
+                              <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map</span>
+                          {{ end }}
                           </div>
+
                       </div>
                   </div>
               </div>

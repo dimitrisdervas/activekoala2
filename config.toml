@@ -74,3 +74,19 @@ params = ["city", "categories", "subcategories"]
 
 PreserveTaxonomyNames = false
 RemovePathAccents = true
+
+[params.pagination]
+    # These are all optional and default to true
+
+    class = "pagination-lg justify-content-center"      # Add classes to the nav element
+    showBeginEnd = true       # If false it will hide the First/Previous/Next/Last if it evaluates to false
+    showFirst = true          # If false it will hide the First page nav button
+    #firstIndicator = "<i class='material-icons'>chevron_left</i>"       # Change the default indicator to something else, like "First" or an icon wrapped in an i element
+    showPrevious = true       # If false it will hide the previous button
+    previousIndicator = "Previous"    # Change the default indicator to something else, like "Previous" or an icon wrapped in an i element
+    showNext = true           # True by default - Only "false" will hide the next button
+    nextIndicator = "Next"        # Change the default indicator to something else, like "Next" or an icon wrapped in an i element
+    showLast = true           
+    #lastIndicator = "<i class='material-icons'>chevron_right</i>"        
+    showPageNumbers = true    # If false it will hide the numbering of pages
+    pagesBetweenActive = 2    # Shows how many page numbers to show between the active page - it defaults to 3

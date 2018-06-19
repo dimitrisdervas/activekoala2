@@ -7,11 +7,7 @@
         <div class="profile bg-white shadow mb-8">
 <!-- MAIN IMAGE -->
           <div class="mainimg py-6 flex justify-start">
-              {{ if .Params.coverGraphApi }}
                 <img class="rounded shadow" src="/images/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
-                {{ else }}
-                <img src="/img/default-img/aikido-bokken-2.jpg" alt="" class="img-responsive rounded shadow" >
-              {{ end }}
                <div id="map" class="flex-1"></div>
             </div>
 <!-- TITLE -->
@@ -38,12 +34,12 @@
           </div>
 <!-- SOCIAL -->
         <div class="social bg-white shadow mb-8 p-8 ">
-             {{ if  .Params.linkGraphApi }}
+             {{ if  .Params.facebook }}
               <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.linkGraphApi }}" target="blank">facebook</a>
             {{ end }}
 
 
-            {{ if  .Params.website }}
+            {{ if .Params.website }}
               <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
             {{ end }}
           </div>
@@ -59,18 +55,18 @@
   </div>
 </div>
 
-{{ if .Params.latitudeGraphApi }}
+{{ if .Params.latitude }}
 <script>
 // create a map in the "map" div, set the view to a given place and zoom
-var map = L.map('map').setView([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}], 14);
+var map = L.map('map').setView([{{.Params.latitude}}, {{.Params.longitude}}], 14);
 // add an OpenStreetMap tile layer
 L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
   maxZoom: 18,
   attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 // add a marker in the given location, attach some popup content to it and open the popup
-L.marker([{{.Params.latitudeGraphApi}}, {{.Params.longitudeGraphApi}}]).addTo(map)
-    .bindPopup('{{.Params.title}} <br>,{{ .Params.streetGraphApi }}')
+L.marker([{{.Params.latitude}}, {{.Params.longitude}}]).addTo(map)
+    .bindPopup('{{.Params.title}} <br>,{{ .Params.address }}')
     .openPopup();
 </script>
 {{ end }}

@@ -13,13 +13,14 @@ var del             = require('del');
 
 var subcategoriesPath = {};
 subcategoriesPath.collection = 'content/subcategories';
-subcategoriesPath.csv        = 'data/google/subcategories';
+subcategoriesPath.csv        = 'csv/google/subcategories';
 subcategoriesPath.template   = '_gulp-templates/nunjucks/subcategories.html';
+subcategoriesPath.templateyml   = '_gulp-templates/nunjucks/subcategoriesyml.html';
 module.exports = subcategoriesPath;
 
 
 gulp.task('download:subcategories', done => {
-    shell.exec('python3 twilliosheets.py');
+    shell.exec('python3 sheetsAll.py');
     done();
 });
 
@@ -37,21 +38,18 @@ gulp.task('md:subcategories', function() {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var subcategoryTranslit = translit(items[2], {
+            var subcategoryTranslit = translit(items[1], {
                 lang: 'en'
               })
 
             var templateData = {
-                subcategory : items[2],
-                SchoolsUID : items[3],
-                category: items[1],
+                subcategory : items[1],
+                category: items[2],
+                SchoolsUID: items[3],
+                slugSubcategory:  items[4],
+                slugCategory: items[5],
                 subcategoryTranslit: subcategoryTranslit,
-                slugCategory : items[4],
-                slugSubcategory: items[5],
-
             };
-
-
 
 
 
@@ -69,20 +67,63 @@ gulp.task('md:subcategories', function() {
 
 });
 
+gulp.task('yml:subcategories', function() {
+
+    fs.readFile('./'+ subcategoriesPath.csv +'.csv', 'utf8', function(err, data){
+        if (err) throw err;
+
+        parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
+        rows = parsed.data;
+
+        for(var i = 1; i < rows.length; i++) {
+            var items = rows[i]
+
+         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
+            var subcategoryTranslit = translit(items[1], {
+                lang: 'en'
+              })
+
+            var templateData = {
+                subcategory : items[1],
+                category: items[2],
+                slugSubcategory: items[4],
+                slugCategory : items[5],
+                subcategoryTranslit: subcategoryTranslit,
+
+
+            };
+
+            gulp.src(subcategoriesPath.template)
+                .pipe(nunjucksRender({
+                  data: templateData
+                }))
+                .pipe(rename({
+                    dirname: "data/yml/subcategories",
+                    basename: templateData.slugSubcategory,
+                    extname: ".yml"}))
+                .pipe(gulp.dest('.'));
+            }
+      });
+
+});
+
 gulp.task('del:subcategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
     'content/subcategories/**/*',
+    'data/yml/subcategories/**/*'
   ]);
 });
 
-gulp.task('content:subcategories', function(){ return runSequence(
+gulp.task('create:subcategories', function(){ return runSequence(
     'del:subcategories',
     'download:subcategories',
-    'md:subcategories'
+    'md:subcategories',
+    'yml:subcategories'
     )});
 
-gulp.task('recontent:subcategories', function(){ return runSequence(
+gulp.task('recreate:subcategories', function(){ return runSequence(
     'del:subcategories',
-    'md:subcategories'
-    )});var gulp         = require('gulp');
+    'md:subcategories',
+    'yml:subcategories'
+    )});

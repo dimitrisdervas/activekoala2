@@ -9,27 +9,27 @@ var shell           = require('shelljs');
 var runSequence     = require('run-sequence');
 var gulpSequence = require('gulp-sequence')
 var del             = require('del');
+var download = require("gulp-download");
 
 
+var rssPath = {};
+rssPath.collection = 'content/rss';
+rssPath.csv        = 'csv/google/rss';
+rssPath.template   = '_gulp-templates/nunjucks/rssfeed.html';
+
+module.exports = rssPath;
 
 
-var schoolsPath = {};
-schoolsPath.collection = 'content/schools';
-schoolsPath.csv        = 'csv/google/schools';
-schoolsPath.template   = '_gulp-templates/nunjucks/schools.html';
-module.exports = schoolsPath;
-
-// DOWNLAOD CSV
-gulp.task('download:schools', done => {
-    shell.exec('python3 sheetsAll.py');
+gulp.task('download:rss', done => {
+    shell.exec('python3 twilliosheets.py');
     done();
 });
 
 
-// CREATE SCHOOLS MS FILES
-gulp.task('md:schools', function() {
 
-    fs.readFile('./'+ schoolsPath.csv +'.csv', 'utf8', function(err, data){
+gulp.task('downloadrss:rss', function() {
+
+    fs.readFile('./'+ rssPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -86,63 +86,47 @@ gulp.task('md:schools', function() {
                 cityTranslit : cityTranslit,
             };
 
-
-
-
-            gulp.src(schoolsPath.template)
-                .pipe(nunjucksRender({
-                  data: templateData
-                }))
+                gulp.src(rssPath.template)
+                download("http://fetchrss.com/rss/5b279ede8a93f8e87f8b4567732938689.csv")
                 .pipe(rename({
-                    dirname: schoolsPath.collection +'/'+ cityTranslit,
+                    dirname: rssPath.collection,
                     basename: items[26] + "-" + schoolTranslit,
-                    extname: ".md"}))
+                    extname: ".csv"}))
                 .pipe(gulp.dest('.'));
+
             }
+
       });
 
 });
 
-// DELETE FOLDER SCHOOLS
-gulp.task('del:schools', function () {
+
+
+
+
+
+gulp.task('del:rss', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/schools/**/*'
+    'content/rss/**/*',
+    'content/rss/undefined-.md',
   ]);
 });
 
-// DELETE FOLDER
-// DOWNLAOD CSV
-// CREATE SCHOOLS MS FILES
-// DEL UNDEFINE-.MD - NOT WORKING
-gulp.task('csv:schools', gulpSequence( 
-    'del:schools',
-    'download:schools',
-    'md:schools'
-    ));
+gulp.task('content:rss', function(){ return runSequence(
+    'del:rss',
+    'download:rss',
+    'md:rss',
+    'del:undefined'
+    )});
 
-gulp.task('create:schools', gulpSequence( 
-        'csv:schools',
-        'del:undefined'
-        ));
+gulp.task('recontent:rss', function(){ 
+    gulpSequence( 'del:rss','md:rss','del:undefined')});
 
-// DELETE FOLDER
-// CREATE SCHOOLS MS FILES
-// DEL UNDEFINE-.MD - NOT WORKING
-gulp.task('nocsv:schools', gulpSequence( 
-        'del:schools',
-        'md:schools'
-        ));
 
-gulp.task('recreate:schools', gulpSequence( 
-        'nocsv:schools',
-        'del:undefined'
-        ));
-
-// DEL UNDEFINE-.MD - NOT WORKING
 gulp.task('del:undefined', function () {
-   del([
+  return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/schools/*.md',
+    'content/rss/undefined-.md',
   ]);
 });

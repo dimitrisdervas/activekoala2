@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 import os
 
-dirPath = "data/google/"
+dirPath = "csv/google/"
 fileList = os.listdir(dirPath)
 for fileName in fileList:
  os.remove(dirPath+"/"+fileName)
@@ -16,25 +16,29 @@ client = gspread.authorize(creds)
  
 # Find a workbook by name and open the first sheet
 # Make sure you use the right name here.
-schools = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(1)
-subcategories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(3)
-categories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(2)
+schools = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(2)
+categories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(3)
+subcategories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(4)
+rss = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(7)
 
 # Extract all of the records for each row.
 schools_data = schools.get_all_records()
 schools_data = pd.DataFrame(schools_data)
-schools_data.to_csv('data/google/schools.csv')
+schools_data.to_csv('csv/google/schools.csv')
 
 # Extract all of the records for each row.
 subcategories_data = subcategories.get_all_records()
 subcategories_data = pd.DataFrame(subcategories_data)
-subcategories_data.to_csv('data/google/subcategories.csv')
+subcategories_data.to_csv('csv/google/subcategories.csv')
 
 # Extract all of the records for each row.
 categories_data = categories.get_all_records()
 categories_data = pd.DataFrame(categories_data)
-categories_data.to_csv('data/google/categories.csv')
+categories_data.to_csv('csv/google/categories.csv')
 
-
+# Extract all of the records for each row.
+rss_data = rss.get_all_records()
+rss_data = pd.DataFrame(rss_data)
+rss_data.to_csv('csv/google/rss.csv')
 
 

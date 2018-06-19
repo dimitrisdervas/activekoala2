@@ -13,13 +13,14 @@ var del             = require('del');
 
 var categoriesPath = {};
 categoriesPath.collection = 'content/categories';
-categoriesPath.csv        = 'data/google/categories';
+categoriesPath.csv        = 'csv/google/categories';
 categoriesPath.template   = '_gulp-templates/nunjucks/categories.html';
+categoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesyml.html';
 module.exports = categoriesPath;
 
 
 gulp.task('download:categories', done => {
-    shell.exec('python3 twilliosheets.py');
+    shell.exec('python3 sheetsAll.py');
     done();
 });
 
@@ -37,15 +38,16 @@ gulp.task('md:categories', function() {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var categoryTranslit = translit(items[2], {
+            var categoryTranslit = translit(items[1], {
                 lang: 'en'
               })
 
             var templateData = {
+                category: items[1],
+                Courses: items[2],
                 SchoolsUID : items[3],
                 subcategory : items[4],
-                category: items[2],
-                slugCategories: items[5],
+                slugCategory: items[5],
                 slugSubcategories: items[6],
             };
 
@@ -55,7 +57,7 @@ gulp.task('md:categories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: categoriesPath.collection + "/" + templateData.slugCategories,
+                    dirname: categoriesPath.collection + "/" + templateData.slugCategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -64,22 +66,65 @@ gulp.task('md:categories', function() {
 
 });
 
+gulp.task('yml:categories', function() {
 
+    fs.readFile('./'+ categoriesPath.csv +'.csv', 'utf8', function(err, data){
+        if (err) throw err;
+
+        parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
+        rows = parsed.data;
+
+        for(var i = 1; i < rows.length; i++) {
+            var items = rows[i]
+
+         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
+            var categoryTranslit = translit(items[2], {
+                lang: 'en'
+              })
+
+            var templateData = {
+                category: items[1],
+                subcategory : items[4],
+                slugCategory: items[5],
+                slugSubcategories: items[6],
+            };
+
+
+            gulp.src(categoriesPath.templateyml)
+                .pipe(nunjucksRender({
+                  data: templateData
+                }))
+                .pipe(rename({
+                    dirname: "data/yml/categories",
+                    basename: templateData.slugCategory,
+                    extname: ".yml"}))
+                .pipe(gulp.dest('.'));
+            }
+      });
+
+});
 
 gulp.task('del:categories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
     'content/categories/**/*',
+    'data/yml/categories/**/*'
   ]);
 });
 
-gulp.task('content:categories', function(){ return runSequence(
+// DELETE FOLDER
+// DOWNLAOD CSV
+// CREATE SCHOOLS MS FILES
+// DEL UNDEFINE-.MD - NOT WORKING
+gulp.task('create:categories', function(){ return runSequence(
     'del:categories',
     'download:categories',
-    'md:categories'
+    'md:categories',
+    'yml:categories'
     )});
 
-gulp.task('recontent:categories', function(){ return runSequence(
+gulp.task('recreate:categories', function(){ return runSequence(
     'del:categories',
-    'md:categories'
-    )});var gulp         = require('gulp');
+    'md:categories',
+    'yml:categories'
+    )});
