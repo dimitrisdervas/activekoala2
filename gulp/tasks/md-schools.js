@@ -47,7 +47,7 @@ gulp.task('md:schools', function() {
 
             var templateData = {
                 school : items[1],
-                city : items[2],
+                cities : items[2],
                 perioxi : items[3],
                 category : items[4],
                 subcategory : items[5],

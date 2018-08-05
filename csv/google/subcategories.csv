@@ -54,44 +54,43 @@
 52,Tennis,Αθλητισμός,"160,164,324,762,771,775,1052",tennis,athlitismos
 53,Thai Boxing,Πολεμικές τέχνες,#N/A,thai-boxing,polemikes-texnes
 54,Volley,Αθλητισμός,1540,volley,athlitismos
-55,Volley,Αθλητισμός,1540,voley,athlitismos
-56,Wing Chun,Πολεμικές τέχνες,265,wing-chun,polemikes-texnes
-57,Yoga,Κλειστού Χώρου,"144,785,1430,1734,1764",yoga,kleistou-xorou
-58,Zumba,Χορός,#N/A,zumba,xoros
-59,Zωγραφική,Καλιτεχνικά,#N/A,zografiki,kalitexnika
-60,Αφρικάνικος Χορός,Χορός,87,african-dance,xoros
-61,Βιολί,Μουσική,#N/A,violin,mousiki
-62,Γυμναστήριο,Κλειστού Χώρου,"143,146,148,545,595,630,632,662,663,668,675,676,798,817,882,915,919,936,1029,1043,1076,1087,1127,1137,1142,1205,1246,1276,1283,1297,1353,1379,1380,1381,1388,1469,1473,1474,1476,1479,1485,1524,1554,1590,1591,1716,1765,1777,1796,1809",gym,kleistou-xorou
-63,Ενόργανη-Ρυθμική,Αθλητισμός,"124,634,1772",gymnastics-rithmiki,athlitismos
-64,Εργαστήριο δημιουργικής απασχόλησης για παιδιά δημοτικού | Παιδικός Σταθμός,Καλιτεχνικά,#N/A,ergastiri-kalitexniko,kalitexnika
-65,Θεατρικό Εργαστήρι,Καλιτεχνικά,#N/A,theatro,kalitexnika
-66,Ιππασία,Υπαιθρίες Δραστηριότητες,#N/A,horse-riding,ypaithries-drastiriotites
-67,Ιστιοπλοϊα,Θάλασσα,#N/A,sailing,water-sports
-68,Κάνοε-Καγιάκ,Θάλασσα,#N/A,canoe-kayak,water-sports
-69,Κατάδυση,Θάλασσα,"1229,1544",diving,water-sports
-70,Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών,Εκπαιδευτικά,7597,dimiourgiki-apasxolisi,ekpaideutika
-71,Κιθάρα,Μουσική,#N/A,guitar,mousiki
-72,Κολύμβηση,Αθλητισμός,"161,390,392,393,637,665,699,703,704,732,870,1281,1296,1357,1774",kithara,athlitismos
-73,Κωπηλασία,Αθλητισμός,#N/A,rowing,athlitismos
-74,Μοντερνος Χορός,Χορός,#N/A,modern-dance,xoros
-75,Μοντέρνος Χορός,Χορός,"71,83",modern-dance,xoros
-76,Μουσική Προπαιδεία,Μουσική,#N/A,mousiki-propaidia,mousiki
-77,Μουσική Σχολή,Μουσική,#N/A,moudiki-sxoli,mousiki
-78,Ξιφασκία,Αθλητισμός,"165,1406,1752",fencing,athlitismos
-79,Παγκράτιο,Πολεμικές τέχνες,#N/A,pagratio,polemikes-texnes
-80,Πάλη,Αθλητισμός,#N/A,wrestling,athlitismos
-81,Παραδοσιακοί Χοροί,Χορός,#N/A,paradosiakoi-xoroi,xoros
-82,Ποδηλασία,Αθλητισμός,#N/A,cycling,athlitismos
-83,Ποδόσφαιρο,Αθλητισμός,#N/A,football,athlitismos
-84,Πρότυπο Μουσικό Εργαστήρι,Μουσική,#N/A,moudiko-ergastiri,mousiki
-85,Σκάκι,Κλειστού Χώρου,#N/A,chess,kleistou-xorou
-86,Στέγη Πολιτισμού,Πολυχώρος,#N/A,polyxoros,polyxoros
-87,Στίβος,Αθλητισμός,"600,602,753,769,1497,1738,1757",stivos,athlitismos
-88,Σχολή Χορού,Χορός,#N/A,sxoli-xorou,xoros
-89,Τάνγκο,Χορός,"68,72,76,80",tango,xoros
-90,Τένις,Αθλητισμός,#N/A,tennis,athlitismos
-91,Τεχνική Κολύμβηση,Αθλητισμός,#N/A,texniki-kolimvisi,athlitismos
-92,Τοξοβολία,Αθλητισμός,866,toxovolia,athlitismos
-93,Χώρος Τέχνης,Πολυχώρος,#N/A,xoros-texnis,polyxoros
-94,Ωδείο,Μουσική,75,odeio,mousiki
-95,Climbing,Κλειστού Χώρου,,climbing,kleistou-xorou
+55,Wing Chun,Πολεμικές τέχνες,265,wing-chun,polemikes-texnes
+56,Yoga,Κλειστού Χώρου,"144,785,1430,1734,1764",yoga,kleistou-xorou
+57,Zumba,Χορός,#N/A,zumba,xoros
+58,Zωγραφική,Καλιτεχνικά,#N/A,zografiki,kalitexnika
+59,Αφρικάνικος Χορός,Χορός,87,african-dance,xoros
+60,Βιολί,Μουσική,#N/A,violin,mousiki
+61,Γυμναστήριο,Κλειστού Χώρου,"143,146,148,545,595,630,632,662,663,668,675,676,798,817,882,915,919,936,948,1029,1043,1076,1087,1127,1137,1142,1205,1246,1276,1283,1297,1353,1379,1380,1381,1388,1469,1473,1474,1476,1479,1485,1524,1554,1590,1591,1716,1765,1777,1796,1809",gym,kleistou-xorou
+62,Ενόργανη-Ρυθμική,Αθλητισμός,"124,634,1772",gymnastics-rithmiki,athlitismos
+63,Εργαστήριο δημιουργικής απασχόλησης για παιδιά δημοτικού | Παιδικός Σταθμός,Καλιτεχνικά,#N/A,ergastiri-kalitexniko,kalitexnika
+64,Θεατρικό Εργαστήρι,Καλιτεχνικά,#N/A,theatro,kalitexnika
+65,Ιππασία,Υπαιθρίες Δραστηριότητες,#N/A,horse-riding,ypaithries-drastiriotites
+66,Ιστιοπλοϊα,Θάλασσα,#N/A,sailing,water-sports
+67,Κάνοε-Καγιάκ,Θάλασσα,#N/A,canoe-kayak,water-sports
+68,Κατάδυση,Θάλασσα,"1229,1544",diving,water-sports
+69,Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών,Εκπαιδευτικά,7597,dimiourgiki-apasxolisi,ekpaideutika
+70,Κιθάρα,Μουσική,#N/A,guitar,mousiki
+71,Κολύμβηση,Αθλητισμός,"161,390,392,393,637,665,699,703,704,732,870,1281,1296,1357,1774",kithara,athlitismos
+72,Κωπηλασία,Αθλητισμός,#N/A,rowing,athlitismos
+73,Μοντερνος Χορός,Χορός,#N/A,modern-dance,xoros
+74,Μοντέρνος Χορός,Χορός,"71,83",modern-dance,xoros
+75,Μουσική Προπαιδεία,Μουσική,#N/A,mousiki-propaidia,mousiki
+76,Μουσική Σχολή,Μουσική,#N/A,moudiki-sxoli,mousiki
+77,Ξιφασκία,Αθλητισμός,"165,1406,1752",fencing,athlitismos
+78,Παγκράτιο,Πολεμικές τέχνες,#N/A,pagratio,polemikes-texnes
+79,Πάλη,Αθλητισμός,#N/A,wrestling,athlitismos
+80,Παραδοσιακοί Χοροί,Χορός,#N/A,paradosiakoi-xoroi,xoros
+81,Ποδηλασία,Αθλητισμός,#N/A,cycling,athlitismos
+82,Ποδόσφαιρο,Αθλητισμός,#N/A,football,athlitismos
+83,Πρότυπο Μουσικό Εργαστήρι,Μουσική,#N/A,moudiko-ergastiri,mousiki
+84,Σκάκι,Κλειστού Χώρου,#N/A,chess,kleistou-xorou
+85,Στέγη Πολιτισμού,Πολυχώρος,#N/A,polyxoros,polyxoros
+86,Στίβος,Αθλητισμός,"600,602,753,769,1497,1738,1757",stivos,athlitismos
+87,Σχολή Χορού,Χορός,#N/A,sxoli-xorou,xoros
+88,Τάνγκο,Χορός,"68,72,76,80",tango,xoros
+89,Τένις,Αθλητισμός,#N/A,tennis,athlitismos
+90,Τεχνική Κολύμβηση,Αθλητισμός,#N/A,texniki-kolimvisi,athlitismos
+91,Τοξοβολία,Αθλητισμός,866,toxovolia,athlitismos
+92,Χώρος Τέχνης,Πολυχώρος,#N/A,xoros-texnis,polyxoros
+93,Ωδείο,Μουσική,75,odeio,mousiki
+94,Climbing,Κλειστού Χώρου,,climbing,kleistou-xorou

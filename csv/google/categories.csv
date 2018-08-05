@@ -1,6 +1,6 @@
 ,01-Name,02-Courses,03-SchoolsUID,04-Subcategories,05-slug,06-slugSubcategories
 0,Baby,,"101,102,103",Baby Swimming,baby,baby-swimming
-1,Αθλητισμός,,"124,160,161,164,165,390,392,393,575,600,602,634,637,665,699,703,704,732,753,762,769,771,775,866,870,977,1052,1122,1281,1296,1357,1390,1406,1497,1540,1738,1752,1757,1772,1774","Handball,Padel Tennis,Ping Pong,Tennis,Volley,Volley,Ενόργανη-Ρυθμική,Κολύμβηση,Κωπηλασία,Ξιφασκία,Πάλη,Ποδηλασία,Ποδόσφαιρο,Στίβος,Τένις,Τεχνική Κολύμβηση,Τοξοβολία",athlitismos,"handball,padel-tennis,ping-pong,tennis,volley,voley,gymnastics-rithmiki,kithara,rowing,fencing,wrestling,cycling,football,stivos,tennis,texniki-kolimvisi,toxovolia"
+1,Αθλητισμός,,"124,160,161,164,165,390,392,393,575,600,602,634,637,665,699,703,704,732,753,762,769,771,775,866,870,977,1052,1122,1281,1296,1357,1390,1406,1497,1540,1738,1752,1757,1772,1774","Handball,Padel Tennis,Ping Pong,Tennis,Volley,Ενόργανη-Ρυθμική,Κολύμβηση,Κωπηλασία,Ξιφασκία,Πάλη,Ποδηλασία,Ποδόσφαιρο,Στίβος,Τένις,Τεχνική Κολύμβηση,Τοξοβολία",athlitismos,"handball,padel-tennis,ping-pong,tennis,volley,gymnastics-rithmiki,kithara,rowing,fencing,wrestling,cycling,football,stivos,tennis,texniki-kolimvisi,toxovolia"
 2,Βουνό,,#N/A,Ski,athlimata-vounou,ski
 3,Εκπαιδευτικά,,#N/A,"Robotics,Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών",ekpaideutika,"robotics,dimiourgiki-apasxolisi"
 4,Θάλασσα,,"1229,1544,1766","Kitesurf,Ιστιοπλοϊα,Κάνοε-Καγιάκ,Κατάδυση",water-sports,"kitesurf,sailing,canoe-kayak,diving"

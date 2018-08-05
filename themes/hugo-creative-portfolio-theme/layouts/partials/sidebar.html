@@ -14,14 +14,13 @@
      {{ if isset .Site.Taxonomies "cities" }}
           <h1 class="sidebar-heading">City</h1>
               <ul class="sidebar-menu">
-
                   {{ range $name, $items := .Site.Taxonomies.cities }}
                   <li class="category-list-item">
                       {{ $url := printf "%s/%s" "cities" ($name | urlize | lower)}}
                       <a class="category-list-link" href="{{ $url | absURL }}">
                           {{ $name }}
+                          <span class="category-list-count">{{ len $items }}</span>
                       </a>
-                      <span class="category-list-count">{{ len $items }}</span>
                   </li>
                   {{ end }}
               </ul>
@@ -37,14 +36,11 @@
                    {{ else }}
                   <li class="category-list-item">
                       {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
-
-                                          
                       <a class="category-list-link" href="{{ $url | absURL }}">
-                        {{ $author := index $.Site.Data.yml.categories ($title) }}
-                        {{ $author.title }}
+                        {{ $category := index $.Site.Data.yml.categories ($title) }}
+                        {{ $category.title }}
+                        <span class="category-list-count">{{ len $items }}</span>
                       </a>
-                      <span class="category-list-count">{{ len $items }}</span>
-                      
                   </li>
                   {{ end }}
                   {{ end }}
