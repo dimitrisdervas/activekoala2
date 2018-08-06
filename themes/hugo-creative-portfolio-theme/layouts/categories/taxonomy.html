@@ -5,6 +5,13 @@
     {{ range $title, .Params.slugSubcategory }}
       {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
       {{ if eq $subcategory.schoolscount "0" }}
+      <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed" href="/addnew">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
       {{ else }}
         <li class="flex m-2">
         {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
@@ -41,23 +48,23 @@
                         {{ range .Params.City }}
                           <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
                         {{ end }}
-                          {{ range .Params.categories }}
+                          {{ range $title, .Params.categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
                               <a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
-                                {{ $title := . }}{{ $title }}
                                 {{ $category := index $.Site.Data.yml.categories ($title) }}
                                 {{ $category.title }}
-                                {{ $.Params.categoryNoSLug }}
                               </a>
                             </span>
                           {{ end }}
                         {{ if .Params.subcategories }}
-                          {{ range .Params.subcategories }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ . }}</a> </span>
+                          {{ range $title, .Params.subcategories }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">
+                              {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a>
+                              </span>
                           {{ end }}
                         {{ end }}
                         {{ if .Params.longitude }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map</span>
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map available</span>
                         {{ end }}
                         </div>
 

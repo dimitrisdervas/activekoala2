@@ -35,7 +35,7 @@
 <!-- SOCIAL -->
         <div class="social bg-white shadow mb-8 p-8 ">
              {{ if  .Params.facebook }}
-              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ .Params.linkGraphApi }}" target="blank">facebook</a>
+              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
             {{ end }}
 
 

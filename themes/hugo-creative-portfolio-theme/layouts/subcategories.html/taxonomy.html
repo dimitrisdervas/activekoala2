@@ -24,23 +24,22 @@
                         {{ range .Params.City }}
                           <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
                         {{ end }}
-                          {{ range .Params.categories }}
+                          {{ range $title, .Params.categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
                               <a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
-                                {{ $title := . }}{{ $title }}
                                 {{ $category := index $.Site.Data.yml.categories ($title) }}
                                 {{ $category.title }}
-                                {{ $.Params.categoryNoSLug }}
                               </a>
                             </span>
                           {{ end }}
                         {{ if .Params.subcategories }}
-                          {{ range .Params.subcategories }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ . }}</a> </span>
+                          {{ range $title, .Params.subcategories }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}"> 
+                            {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
                           {{ end }}
                         {{ end }}
                         {{ if .Params.longitude }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map</span>
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map available</span>
                         {{ end }}
                         </div>
 
