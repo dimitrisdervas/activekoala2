@@ -1,9 +1,8 @@
 ---
-title: |
-   Karate
-schools: [""]
-category: "Πολεμικές τέχνες"
+title: "Karate"
 slug: "karate"
+category: "Πολεμικές τέχνες"
 slugCategory: "polemikes-texnes"
+schoolscount: "13"
+schools: ["158", "261", "271", "315", "344", "359", "635", "818", "972", "1047", "1305", "1548", "1597"]
 ---
-

@@ -1,9 +1,8 @@
 ---
-title: |
-   Climbing
-schools: [""]
-category: "Κλειστού Χώρου"
+title: "Climbing"
 slug: "climbing"
+category: "Κλειστού Χώρου"
 slugCategory: "kleistou-xorou"
+schoolscount: "2"
+schools: ["978", "1456"]
 ---
-

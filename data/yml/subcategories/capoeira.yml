@@ -1,9 +1,8 @@
 ---
-title: |
-   Capoeira
-schools: [""]
-category: "Πολεμικές τέχνες"
+title: "Capoeira"
 slug: "capoeira"
+category: "Πολεμικές τέχνες"
 slugCategory: "polemikes-texnes"
+schoolscount: "5"
+schools: ["92", "94", "95", "98", "1717"]
 ---
-

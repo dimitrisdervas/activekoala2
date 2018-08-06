@@ -1,9 +1,8 @@
 ---
-title: |
-   Ninjutsu
-schools: [""]
-category: "Πολεμικές τέχνες"
+title: "Ninjutsu"
 slug: "ninjutsu"
+category: "Πολεμικές τέχνες"
 slugCategory: "polemikes-texnes"
+schoolscount: "2"
+schools: ["173", "714"]
 ---
-

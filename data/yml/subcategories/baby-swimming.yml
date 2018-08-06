@@ -1,9 +1,8 @@
 ---
-title: |
-   Baby Swimming
-schools: [""]
-category: "BABY"
+title: "Baby Swimming"
 slug: "baby-swimming"
+category: "BABY"
 slugCategory: "baby"
+schoolscount: "3"
+schools: ["101", "102", "103"]
 ---
-

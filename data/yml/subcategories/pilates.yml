@@ -1,9 +1,8 @@
 ---
-title: |
-   Pilates
-schools: [""]
-category: "Κλειστού Χώρου"
+title: "Pilates"
 slug: "pilates"
+category: "Κλειστού Χώρου"
 slugCategory: "kleistou-xorou"
+schoolscount: "4"
+schools: ["799", "916", "1160", "1422"]
 ---
-

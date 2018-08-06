@@ -1,9 +1,8 @@
 ---
-title: |
-   Ξιφασκία
-schools: [""]
+title: "Ξιφασκία"
+slug: "fencing"
 category: "Αθλητισμός"
-slug: "ksifaskia"
 slugCategory: "athlitismos"
+schoolscount: "3"
+schools: ["165", "1406", "1752"]
 ---
-

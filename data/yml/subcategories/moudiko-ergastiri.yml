@@ -1,9 +1,8 @@
 ---
-title: |
-   Πρότυπο Μουσικό Εργαστήρι
-schools: [""]
+title: "Πρότυπο Μουσικό Εργαστήρι"
+slug: "moudiko-ergastiri"
 category: "Μουσική"
-slug: "protypo-moysiko-ergastiri"
 slugCategory: "mousiki"
----
+schoolscount: "0"
 
+---

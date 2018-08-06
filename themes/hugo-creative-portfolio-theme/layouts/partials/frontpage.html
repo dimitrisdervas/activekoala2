@@ -1,7 +1,6 @@
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="categories">
-     
                  {{ if isset .Site.Taxonomies "Subcategories" }}
                     <h1 class="sidebar-heading">Υποκατηγοριες</h1>
                     <ul class="header-menu">
@@ -39,8 +38,10 @@
                           {{ range .Params.City }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
                           {{ end }}
-                          {{ range .Params.Category }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
+                          {{ range $title, .Params.Categories }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
+                                  {{ index $.Site.Data.yml.categories }}
+                            </a> </span>
                           {{ end }}
                           {{ range .Params.Subcategories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ . }}</a> </span>

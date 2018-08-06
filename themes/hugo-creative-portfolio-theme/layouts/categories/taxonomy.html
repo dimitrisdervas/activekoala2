@@ -1,5 +1,22 @@
 {{ define "main" }}
 <h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
+  <ul class="filters-menu list-reset flex flex-wrap justify-start">
+    {{ range $title, .Params.slugSubcategory }}
+      {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
+      {{ if eq $subcategory.schoolscount "0" }}
+      {{ else }}
+        <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="{{ $url | absURL }}">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>
 
 {{ $paginator := (.Paginator 30) (.Data.Pages) }}
 {{ partial "pagination.html" . }}

@@ -48,6 +48,7 @@ gulp.task('md:subcategories', function() {
                 SchoolsUID: items[3],
                 slugSubcategory:  items[4],
                 slugCategory: items[5],
+                schoolscount: items[6],
                 subcategoryTranslit: subcategoryTranslit,
             };
 
@@ -88,12 +89,13 @@ gulp.task('yml:subcategories', function() {
                 category: items[2],
                 slugSubcategory: items[4],
                 slugCategory : items[5],
+                schools: items[3],
+                schoolscount: items[6],
                 subcategoryTranslit: subcategoryTranslit,
-
 
             };
 
-            gulp.src(subcategoriesPath.template)
+            gulp.src(subcategoriesPath.templateyml)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))

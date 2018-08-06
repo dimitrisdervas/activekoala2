@@ -1,9 +1,8 @@
 ---
-title: |
-   Ju Jitsu
-schools: [""]
+title: "Ju Jitsu"
+slug: "jujitsu"
 category: "Πολεμικές τέχνες"
-slug: "ju-jitsu"
 slugCategory: "polemikes-texnes"
+schoolscount: "10"
+schools: ["250", "286", "296", "309", "329", "358", "591", "887", "911", "1805"]
 ---
-

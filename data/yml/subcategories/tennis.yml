@@ -1,9 +1,8 @@
 ---
-title: |
-   Τένις
-schools: [""]
+title: "Tennis"
+slug: "tennis"
 category: "Αθλητισμός"
-slug: "tenis"
 slugCategory: "athlitismos"
+schoolscount: "7"
+schools: ["160", "164", "324", "762", "771", "775", "1052"]
 ---
-

@@ -2,5 +2,6 @@
 title: "Μουσική"
 slug: "mousiki"
 subcategory: ["Βιολί","Κιθάρα","Μουσική Προπαιδεία","Μουσική Σχολή","Πρότυπο Μουσικό Εργαστήρι","Ωδείο"]
-slugSubcategory: ["violin","guitar","mousiki-propaidia","moudiki-sxoli","moudiko-ergastiri","odeio"]
+slugSubcategory: ["violin","guitar","mousiki-propaidia","mousiki-sxoli","moudiko-ergastiri","odeio"]
+schoolscount: "0"
 ---

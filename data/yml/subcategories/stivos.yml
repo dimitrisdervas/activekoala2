@@ -1,9 +1,8 @@
 ---
-title: |
-   Στίβος
-schools: [""]
-category: "Αθλητισμός"
+title: "Στίβος"
 slug: "stivos"
+category: "Αθλητισμός"
 slugCategory: "athlitismos"
+schoolscount: "7"
+schools: ["600", "602", "753", "769", "1497", "1738", "1757"]
 ---
-

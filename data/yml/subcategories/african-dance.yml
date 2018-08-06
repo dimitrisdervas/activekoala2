@@ -1,9 +1,8 @@
 ---
-title: |
-   Αφρικάνικος Χορός
-schools: [""]
+title: "Αφρικάνικος Χορός"
+slug: "african-dance"
 category: "Χορός"
-slug: "afrikanikos-xoros"
 slugCategory: "xoros"
+schoolscount: "1"
+schools: ["87"]
 ---
-

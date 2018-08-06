@@ -1,9 +1,8 @@
 ---
-title: |
-   Ping Pong
-schools: [""]
-category: "Αθλητισμός"
+title: "Ping Pong"
 slug: "ping-pong"
+category: "Αθλητισμός"
 slugCategory: "athlitismos"
----
+schoolscount: "0"
 
+---

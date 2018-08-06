@@ -7,7 +7,7 @@ import os
 dirPath = "csv/google/"
 fileList = os.listdir(dirPath)
 for fileName in fileList:
-os.remove(dirPath+"/"+fileName)
+ os.remove(dirPath+"/"+fileName)
 
 # use creds to create a client to interact with the Google Drive API
 scope = ['https://spreadsheets.google.com/feeds']

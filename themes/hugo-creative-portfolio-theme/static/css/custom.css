@@ -25,3 +25,13 @@ min-width: 150px;
     margin: 4px;
 	}
 
+.taxonomy-filters .filters-menu li a {
+    color: #555555;
+}
+
+.filters-menu li:before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin: 0 5px 0 -15px;
+    color: #999999;
+}

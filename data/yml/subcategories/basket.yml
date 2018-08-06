@@ -1,9 +1,8 @@
 ---
-title: |
-   Basket
-schools: [""]
-category: "Κλειστού Χώρου"
+title: "Basket"
 slug: "basket"
+category: "Κλειστού Χώρου"
 slugCategory: "kleistou-xorou"
+schoolscount: "1"
+schools: ["575"]
 ---
-

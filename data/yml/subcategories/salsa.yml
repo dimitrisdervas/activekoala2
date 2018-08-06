@@ -1,9 +1,8 @@
 ---
-title: |
-   Salsa
-schools: [""]
-category: "Χορός"
+title: "Salsa"
 slug: "salsa"
+category: "Χορός"
 slugCategory: "xoros"
+schoolscount: "2"
+schools: ["79", "81"]
 ---
-

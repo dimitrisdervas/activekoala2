@@ -1,9 +1,8 @@
 ---
-title: |
-   Muay Thai
-schools: [""]
-category: "Πολεμικές τέχνες"
+title: "Muay Thai"
 slug: "muay-thai"
+category: "Πολεμικές τέχνες"
 slugCategory: "polemikes-texnes"
+schoolscount: "13"
+schools: ["247", "255", "289", "314", "319", "322", "336", "340", "350", "351", "352", "963", "1447"]
 ---
-

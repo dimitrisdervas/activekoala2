@@ -1,9 +1,8 @@
 ---
-title: |
-   Judo
-schools: [""]
+title: "Judo"
+slug: "judi"
 category: "Πολεμικές τέχνες"
-slug: "judo"
 slugCategory: "polemikes-texnes"
+schoolscount: "3"
+schools: ["1032", "1159", "1586"]
 ---
-

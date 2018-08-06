@@ -37,8 +37,7 @@
                   <li class="category-list-item">
                       {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
                       <a class="category-list-link" href="{{ $url | absURL }}">
-                        {{ $category := index $.Site.Data.yml.categories ($title) }}
-                        {{ $category.title }}
+                        {{ (index $.Site.Data.yml.categories ($title)).title }}
                         <span class="category-list-count">{{ len $items }}</span>
                       </a>
                   </li>

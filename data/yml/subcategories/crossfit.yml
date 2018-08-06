@@ -1,9 +1,8 @@
 ---
-title: |
-   Cross Fit
-schools: [""]
+title: "Cross Fit"
+slug: "crossfit"
 category: "Κλειστού Χώρου"
-slug: "cross-fit"
 slugCategory: "kleistou-xorou"
+schoolscount: "6"
+schools: ["917", "1249", "1354", "1429", "1478", "1541"]
 ---
-

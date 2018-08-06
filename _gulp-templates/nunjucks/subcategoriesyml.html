@@ -3,5 +3,6 @@ title: "{{subcategory}}"
 slug: "{{slugSubcategory}}"
 category: "{{category}}"
 slugCategory: "{{slugCategory}}"
-schoolsNumber: "{{ schools | length }}"
+schoolscount: "{{schoolscount}}"
+{% if schools|length %}{% if (schools == "#REF!") or (schools == "#N/A") %}{% else %}schools: ["{{ schools | replace(',', '", "' ) | safe  }}"]{% endif %}{% endif %}
 ---

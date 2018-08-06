@@ -1,9 +1,8 @@
 ---
-title: |
-   Tae Kwon Do
-schools: [""]
-category: "Πολεμικές τέχνες"
+title: "Tae Kwon Do"
 slug: "tae-kwon-do"
+category: "Πολεμικές τέχνες"
 slugCategory: "polemikes-texnes"
+schoolscount: "12"
+schools: ["253", "259", "291", "368", "847", "888", "1424", "1592", "1636", "1773", "1804", "1350"]
 ---
-

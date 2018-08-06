@@ -1,9 +1,8 @@
 ---
-title: |
-   Σκάκι
-schools: [""]
+title: "Σκάκι"
+slug: "chess"
 category: "Κλειστού Χώρου"
-slug: "skaki"
 slugCategory: "kleistou-xorou"
----
+schoolscount: "0"
 
+---

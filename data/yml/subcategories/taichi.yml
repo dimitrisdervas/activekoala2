@@ -1,9 +1,8 @@
 ---
-title: |
-   Tai Chi
-schools: [""]
+title: "Tai Chi"
+slug: "taichi"
 category: "Πολεμικές τέχνες"
-slug: "tai-chi"
 slugCategory: "polemikes-texnes"
----
+schoolscount: "2"
 
+---

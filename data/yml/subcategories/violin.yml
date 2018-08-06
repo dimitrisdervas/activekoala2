@@ -1,9 +1,8 @@
 ---
-title: |
-   Βιολί
-schools: [""]
+title: "Βιολί"
+slug: "violin"
 category: "Μουσική"
-slug: "bioli"
 slugCategory: "mousiki"
----
+schoolscount: "0"
 
+---

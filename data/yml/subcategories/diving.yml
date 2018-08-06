@@ -1,9 +1,8 @@
 ---
-title: |
-   Κατάδυση
-schools: [""]
+title: "Κατάδυση"
+slug: "diving"
 category: "Θάλασσα"
-slug: "katadysi"
 slugCategory: "water-sports"
+schoolscount: "2"
+schools: ["1229", "1544"]
 ---
-

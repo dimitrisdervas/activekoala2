@@ -1,9 +1,8 @@
 ---
-title: |
-   Kick Boxing
-schools: [""]
+title: "Kick Boxing"
+slug: "kickboxing"
 category: "Πολεμικές τέχνες"
-slug: "kick-boxing"
 slugCategory: "polemikes-texnes"
+schoolscount: "15"
+schools: ["252", "282", "293", "302", "304", "318", "328", "330", "334", "363", "366", "947", "1273", "1294", "1753"]
 ---
-

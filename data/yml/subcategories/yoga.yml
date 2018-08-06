@@ -1,9 +1,8 @@
 ---
-title: |
-   Yoga
-schools: [""]
-category: "Κλειστού Χώρου"
+title: "Yoga"
 slug: "yoga"
+category: "Κλειστού Χώρου"
 slugCategory: "kleistou-xorou"
+schoolscount: "5"
+schools: ["144", "785", "1430", "1734", "1764"]
 ---
-

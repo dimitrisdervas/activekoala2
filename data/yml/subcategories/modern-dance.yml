@@ -1,9 +1,8 @@
 ---
-title: |
-   Μοντερνος Χορός
-schools: [""]
+title: "Μοντέρνος Χορός"
+slug: "modern-dance"
 category: "Χορός"
-slug: "monternos-xoros"
 slugCategory: "xoros"
+schoolscount: "2"
+schools: ["71", "83"]
 ---
-

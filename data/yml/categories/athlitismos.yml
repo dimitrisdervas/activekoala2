@@ -1,6 +1,7 @@
 ---
 title: "Αθλητισμός"
 slug: "athlitismos"
-subcategory: ["Handball","Padel Tennis","Ping Pong","Tennis","Volley","Ενόργανη-Ρυθμική","Κολύμβηση","Κωπηλασία","Ξιφασκία","Πάλη","Ποδηλασία","Ποδόσφαιρο","Στίβος","Τένις","Τεχνική Κολύμβηση","Τοξοβολία"]
-slugSubcategory: ["handball","padel-tennis","ping-pong","tennis","volley","gymnastics-rithmiki","kithara","rowing","fencing","wrestling","cycling","football","stivos","tennis","texniki-kolimvisi","toxovolia"]
+subcategory: ["Handball","Padel Tennis","Ping Pong","Tennis","Volley","Ενόργανη-Ρυθμική","Κολύμβηση","Κωπηλασία","Ξιφασκία","Πάλη","Ποδηλασία","Ποδόσφαιρο","Στίβος","Τεχνική Κολύμβηση","Τοξοβολία","Bridge","Natural Movement"]
+slugSubcategory: ["handball","padel-tennis","ping-pong","tennis","volley","gymnastics-rithmiki","kithara","rowing","fencing","wrestling","cycling","football","stivos","texniki-kolimvisi","toxovolia","bridge","natural-movement"]
+schoolscount: "40"
 ---

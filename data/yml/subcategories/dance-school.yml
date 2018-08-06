@@ -1,9 +1,8 @@
 ---
-title: |
-   Dance School
-schools: [""]
-category: "Χορός"
+title: "Dance School"
 slug: "dance-school"
+category: "Χορός"
 slugCategory: "xoros"
----
+schoolscount: "0"
 
+---

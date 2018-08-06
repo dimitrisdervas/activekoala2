@@ -1,9 +1,8 @@
 ---
-title: |
-   Krav Maga
-schools: [""]
+title: "Krav Maga"
+slug: "krav-manga"
 category: "Πολεμικές τέχνες"
-slug: "krav-maga"
 slugCategory: "polemikes-texnes"
+schoolscount: "8"
+schools: ["254", "260", "264", "269", "292", "303", "636", "1595"]
 ---
-

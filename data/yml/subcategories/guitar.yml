@@ -1,9 +1,8 @@
 ---
-title: |
-   Κιθάρα
-schools: [""]
+title: "Κιθάρα"
+slug: "guitar"
 category: "Μουσική"
-slug: "kithara"
 slugCategory: "mousiki"
----
+schoolscount: "0"
 
+---
