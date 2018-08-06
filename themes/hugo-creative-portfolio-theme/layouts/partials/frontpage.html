@@ -40,7 +40,7 @@
                           {{ end }}
                           {{ range $title, .Params.Categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
-                                  {{ index $.Site.Data.yml.categories }}
+                                  {{ $subcategory := index $.Site.Data.yml.categories }}{{ index $subcategory ($title) }}{{ . }}
                             </a> </span>
                           {{ end }}
                           {{ range .Params.Subcategories }}
