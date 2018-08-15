@@ -39,6 +39,10 @@ googleAnalytics = "UA-31451672-10"
   name = "Σχετικά"
   url = "about/"
 
+  [[params.navlinks]]
+  name = "Καταχώρηση"
+  url = "schoolowner/"
+
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"

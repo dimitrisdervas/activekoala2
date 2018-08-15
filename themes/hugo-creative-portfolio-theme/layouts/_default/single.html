@@ -21,12 +21,13 @@
                   {{ range .Params.Cities }}
                     <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
                   {{ end }}
-                  {{ range .Params.Categories }}
-                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ range $title, .Params.categories }}
+                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
+                                {{ $category.title }}</a></li>
                   {{ end }}
-                  {{ if (isset .Params "Subcategories" ) }}
-                    {{ range .Params.Subcategories }}
-                      <li><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ if (isset .Params "subcategories" ) }}
+                    {{ range $title, .Params.subcategories }}
+                      <li><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
                     {{ end }}
                   {{ end }}
                 </ul>

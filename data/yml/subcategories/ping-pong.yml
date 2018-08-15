@@ -3,6 +3,6 @@ title: "Ping Pong"
 slug: "ping-pong"
 category: "Αθλητισμός"
 slugCategory: "athlitismos"
-schoolscount: "0"
-
+schoolscount: "1"
+schools: ["977"]
 ---

@@ -1,18 +1,18 @@
 ,01-Name,02-Categories,03-SchoolsUID,04-slug,05-slugCategory,06-SchoolsCount
-0,Baby Swimming,BABY,"101,102,103",baby-swimming,baby,3
+0,Baby Swimming,BABY,"103,102,101",baby-swimming,baby,3
 1,Handball,Αθλητισμός,#N/A,handball,athlitismos,0
 2,Padel Tennis,Αθλητισμός,#N/A,padel-tennis,athlitismos,0
-3,Ping Pong,Αθλητισμός,#N/A,ping-pong,athlitismos,0
-4,Tennis,Αθλητισμός,"160,164,324,762,771,775,1052",tennis,athlitismos,7
+3,Ping Pong,Αθλητισμός,977,ping-pong,athlitismos,1
+4,Tennis,Αθλητισμός,"762,775,1052,771,324,160,164,1963",tennis,athlitismos,8
 5,Volley,Αθλητισμός,1540,volley,athlitismos,1
-6,Ενόργανη-Ρυθμική,Αθλητισμός,"124,634,1772",gymnastics-rithmiki,athlitismos,3
-7,Κολύμβηση,Αθλητισμός,"161,390,392,393,637,665,699,703,704,732,870,1281,1296,1357,1774",kithara,athlitismos,15
+6,Ενόργανη-Ρυθμική,Αθλητισμός,"1772,124,634",gymnastics-rithmiki,athlitismos,3
+7,Κολύμβηση,Αθλητισμός,"637,703,732,392,1296,1281,161,393,699,870,665,1774,390,1357,704",kithara,athlitismos,15
 8,Κωπηλασία,Αθλητισμός,#N/A,rowing,athlitismos,0
-9,Ξιφασκία,Αθλητισμός,"165,1406,1752",fencing,athlitismos,3
+9,Ξιφασκία,Αθλητισμός,"1406,1752,165",fencing,athlitismos,3
 10,Πάλη,Αθλητισμός,#N/A,wrestling,athlitismos,0
 11,Ποδηλασία,Αθλητισμός,#N/A,cycling,athlitismos,0
 12,Ποδόσφαιρο,Αθλητισμός,#N/A,football,athlitismos,0
-13,Στίβος,Αθλητισμός,"600,602,753,769,1497,1738,1757",stivos,athlitismos,7
+13,Στίβος,Αθλητισμός,"1497,769,600,753,1757,1738,602",stivos,athlitismos,7
 14,Τεχνική Κολύμβηση,Αθλητισμός,#N/A,texniki-kolimvisi,athlitismos,0
 15,Τοξοβολία,Αθλητισμός,866,toxovolia,athlitismos,1
 16,Ski,Βουνό,#N/A,ski,athlimata-vounou,0
@@ -21,18 +21,18 @@
 19,Kitesurf,Θάλασσα,,kitesurf,water-sports,1
 20,Ιστιοπλοϊα,Θάλασσα,#N/A,sailing,water-sports,0
 21,Κάνοε-Καγιάκ,Θάλασσα,#N/A,canoe-kayak,water-sports,0
-22,Κατάδυση,Θάλασσα,"1229,1544",diving,water-sports,2
+22,Κατάδυση,Θάλασσα,"1544,1229",diving,water-sports,2
 23,Zωγραφική,Καλιτεχνικά,#N/A,zografiki,kalitexnika,0
 24,Εργαστήριο δημιουργικής απασχόλησης για παιδιά δημοτικού | Παιδικός Σταθμός,Καλιτεχνικά,#N/A,ergastiri-kalitexniko,kalitexnika,0
 25,Θεατρικό Εργαστήρι,Καλιτεχνικά,#N/A,theatro,kalitexnika,0
 26,Basket,Κλειστού Χώρου,575,basket,kleistou-xorou,1
-27,Cross Fit,Κλειστού Χώρου,"917,1249,1354,1429,1478,1541",crossfit,kleistou-xorou,6
-28,Personal Trainer,Κλειστού Χώρου,"678,859,1118,1352",personal-trainer,kleistou-xorou,4
-29,Pilates,Κλειστού Χώρου,"799,916,1160,1422",pilates,kleistou-xorou,4
-30,Yoga,Κλειστού Χώρου,"144,785,1430,1734,1764",yoga,kleistou-xorou,5
-31,Γυμναστήριο,Κλειστού Χώρου,"143,146,148,545,595,630,632,662,663,668,675,676,798,817,882,915,919,936,948,1029,1043,1076,1087,1127,1137,1142,1205,1246,1276,1283,1297,1353,1379,1380,1381,1388,1469,1473,1474,1476,1479,1485,1524,1554,1590,1591,1716,1765,1777,1796,1809",gym,kleistou-xorou,51
+27,Cross Fit,Κλειστού Χώρου,"1354,1541,917,1429,1478,1249",crossfit,kleistou-xorou,6
+28,Personal Trainer,Κλειστού Χώρου,"1352,859,1118,678",personal-trainer,kleistou-xorou,4
+29,Pilates,Κλειστού Χώρου,"916,1422,799,1160",pilates,kleistou-xorou,4
+30,Yoga,Κλειστού Χώρου,"1764,1430,1734,144,785",yoga,kleistou-xorou,5
+31,Γυμναστήριο,Κλειστού Χώρου,"1043,675,1765,1353,915,1246,1716,668,676,1469,630,1087,1485,1796,817,1205,1381,1473,1137,1379,1474,919,1283,1029,1276,143,948,146,632,1476,545,1777,1809,798,595,148,1142,1554,1590,1388,1591,1076,1127,1297,1380,1524,662,882,663,936,1479",gym,kleistou-xorou,51
 32,Σκάκι,Κλειστού Χώρου,#N/A,chess,kleistou-xorou,0
-33,Climbing,Κλειστού Χώρου,"978,1456",climbing,kleistou-xorou,2
+33,Climbing,Κλειστού Χώρου,"1456,978",climbing,kleistou-xorou,2
 34,Βιολί,Μουσική,#N/A,violin,mousiki,0
 35,Κιθάρα,Μουσική,#N/A,guitar,mousiki,0
 36,Μουσική Προπαιδεία,Μουσική,#N/A,mousiki-propaidia,mousiki,0
@@ -40,30 +40,30 @@
 38,Πρότυπο Μουσικό Εργαστήρι,Μουσική,#N/A,moudiko-ergastiri,mousiki,0
 39,Ωδείο,Μουσική,75,odeio,mousiki,1
 40,Εργαστηρι Χορού,Παιδαγωγικά + Καλιτεχνικά,#N/A,ergastiri-xorou,paidagogika-kallitexnika,0
-41,Aikido,Πολεμικές τέχνες,"105,170,524,557,708,810,824,833,834,914,923,952,1192,1198,1250,1264,1315,1316,1318,1335,1342,1420,1433,1604,1620,1654",aikido,polemikes-texnes,26
-42,Boxing,Πολεμικές τέχνες,"153,251,252,256,276,282,293,298,302,304,318,328,330,334,363,366,816,895,947,1273,1294,1417,1753,1767",boxing,polemikes-texnes,24
+41,Aikido,Πολεμικές τέχνες,"1198,1264,914,1316,1250,557,1335,170,810,1192,833,824,952,708,524,1420,1433,1342,1604,1315,105,1654,1620,834,923,1318",aikido,polemikes-texnes,26
+42,Boxing,Πολεμικές τέχνες,"1273,895,328,304,302,366,816,947,363,330,256,1767,318,1294,252,276,251,153,334,1417,293,1753,282,298",boxing,polemikes-texnes,24
 43,Brazilian Jiu Jitsu,Πολεμικές τέχνες,#N/A,brazilian,polemikes-texnes,0
-44,Capoeira,Πολεμικές τέχνες,"92,94,95,98,1717",capoeira,polemikes-texnes,5
+44,Capoeira,Πολεμικές τέχνες,"94,92,95,1717,98",capoeira,polemikes-texnes,5
 45,Grappling,Πολεμικές τέχνες,#N/A,grappling,polemikes-texnes,0
-46,Hapkido,Πολεμικές τέχνες,"243,867",hapkido,polemikes-texnes,2
+46,Hapkido,Πολεμικές τέχνες,"867,243",hapkido,polemikes-texnes,2
 47,Hwal Moo Do,Πολεμικές τέχνες,#N/A,jwai-moo-do,polemikes-texnes,0
 48,Iaido,Πολεμικές τέχνες,#N/A,iaido,polemikes-texnes,0
-49,Ju Jitsu,Πολεμικές τέχνες,"250,286,296,309,329,358,591,887,911,1805",jujitsu,polemikes-texnes,10
-50,Judo,Πολεμικές τέχνες,"1032,1159,1586",judi,polemikes-texnes,3
+49,Ju Jitsu,Πολεμικές τέχνες,"309,329,1805,286,887,358,250,591,296,911",jujitsu,polemikes-texnes,10
+50,Judo,Πολεμικές τέχνες,"1586,1159,1032",judi,polemikes-texnes,3
 51,Kali,Πολεμικές τέχνες,#N/A,kali,polemikes-texnes,0
-52,Karate,Πολεμικές τέχνες,"158,261,271,315,344,359,635,818,972,1047,1305,1548,1597",karate,polemikes-texnes,13
+52,Karate,Πολεμικές τέχνες,"271,315,635,1305,1597,261,972,818,1047,158,344,359,1548",karate,polemikes-texnes,13
 53,Kendo,Πολεμικές τέχνες,#N/A,kobudo,polemikes-texnes,0
-54,Kick Boxing,Πολεμικές τέχνες,"252,282,293,302,304,318,328,330,334,363,366,947,1273,1294,1753",kickboxing,polemikes-texnes,15
+54,Kick Boxing,Πολεμικές τέχνες,"1273,328,304,302,366,947,363,330,318,1294,252,334,293,1753,282",kickboxing,polemikes-texnes,15
 55,Kobudo,Πολεμικές τέχνες,#N/A,kobudo,polemikes-texnes,0
-56,Krav Maga,Πολεμικές τέχνες,"254,260,264,269,292,303,636,1595",krav-manga,polemikes-texnes,8
-57,Kung Fu,Πολεμικές τέχνες,"199,273,647,712,713,730,852,883,973,979,1059,1143,1147,1194,1403,1408,1421,1549,1803",kung-fu,polemikes-texnes,19
-58,MMA,Πολεμικές τέχνες,"1409,1547",mma,polemikes-texnes,2
-59,Muay Thai,Πολεμικές τέχνες,"247,255,289,314,319,322,336,340,350,351,352,963,1447",muay-thai,polemikes-texnes,13
+56,Krav Maga,Πολεμικές τέχνες,"254,303,1595,636,292,269,264,260",krav-manga,polemikes-texnes,8
+57,Kung Fu,Πολεμικές τέχνες,"1194,713,730,1147,979,883,1403,712,1408,1143,973,852,273,199,1803,647,1421,1059,1549",kung-fu,polemikes-texnes,19
+58,MMA,Πολεμικές τέχνες,"1547,1409",mma,polemikes-texnes,2
+59,Muay Thai,Πολεμικές τέχνες,"963,314,322,289,255,336,351,1447,340,350,247,319,352",muay-thai,polemikes-texnes,13
 60,Ninjutsu,Πολεμικές τέχνες,"173,714",ninjutsu,polemikes-texnes,2
 61,Sanda,Πολεμικές τέχνες,312,sanda,polemikes-texnes,1
 62,Savate,Πολεμικές τέχνες,287,savate,polemikes-texnes,1
 63,Self-Defense,Πολεμικές τέχνες,1224,self-defense,polemikes-texnes,1
-64,Tae Kwon Do,Πολεμικές τέχνες,"253,259,291,368,847,888,1424,1592,1636,1773,1804,1350",tae-kwon-do,polemikes-texnes,12
+64,Tae Kwon Do,Πολεμικές τέχνες,"888,1350,1592,259,1424,1636,1773,368,253,1804,847,291",tae-kwon-do,polemikes-texnes,12
 65,Tai Chi,Πολεμικές τέχνες,,taichi,polemikes-texnes,2
 66,Tang Soo Do,Πολεμικές τέχνες,,tang-soo-do,polemikes-texnes,1
 67,Thai Boxing,Πολεμικές τέχνες,#N/A,thai-boxing,polemikes-texnes,0
@@ -81,15 +81,15 @@
 79,Merengue,Χορός,#N/A,merengue,xoros,0
 80,Oriental,Χορός,#N/A,oriental,xoros,0
 81,Pachanga,Χορός,#N/A,pachanga,xoros,0
-82,Pole Dance,Χορός,"78,84,88,90",pole-dance,xoros,4
+82,Pole Dance,Χορός,"78,88,84,90",pole-dance,xoros,4
 83,Salsa,Χορός,"79,81",salsa,xoros,2
 84,Studio χορού,Χορός,#N/A,studio-xorou,xoros,0
 85,Swing,Χορός,91,swing,xoros,1
 86,Zumba,Χορός,#N/A,zumba,xoros,0
 87,Αφρικάνικος Χορός,Χορός,87,african-dance,xoros,1
-88,Μοντέρνος Χορός,Χορός,"71,83",modern-dance,xoros,2
+88,Μοντέρνος Χορός,Χορός,"83,71",modern-dance,xoros,2
 89,Παραδοσιακοί Χοροί,Χορός,#N/A,paradosiakoi-xoroi,xoros,0
 90,Σχολή Χορού,Χορός,#N/A,sxoli-xorou,xoros,0
-91,Τάνγκο,Χορός,"68,72,76,80",tango,xoros,4
+91,Τάνγκο,Χορός,"80,72,68,76",tango,xoros,4
 92,Bridge,Αθλητισμός,#N/A,bridge,athlitismos,0
 93,Natural Movement,Αθλητισμός,#N/A,natural-movement,athlitismos,0
