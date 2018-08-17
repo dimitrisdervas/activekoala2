@@ -22,7 +22,7 @@
                         </div>
                         <div class="px-6 py-4">
                         {{ range .Params.cities }}
-                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
+                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/cities/{{ . | urlize }}">{{ . }}</a> </span>
                         {{ end }}
                           {{ range $title, .Params.categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
