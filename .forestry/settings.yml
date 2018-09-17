@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/schools
+  label: Schools
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: directory
   path: content/home2
   label: Home2
   create: all
