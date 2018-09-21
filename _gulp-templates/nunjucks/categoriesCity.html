@@ -1,0 +1,13 @@
+---
+title: |
+   {{category}}
+schools: ["{{ SchoolsUID | replace(',', '","' ) | safe }}"]
+subcategory: ["{{subcategory | replace(',', '","' ) | safe }}"]
+slugCategory: "{{slugCategory}}"
+slugSubcategory: ["{{slugSubcategories | replace(',', '","' ) | safe }}"]
+schoolscount: "{{schoolscount}}"
+city: "{{city}}"
+---
+
+{{description}}
+

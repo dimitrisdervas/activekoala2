@@ -1,5 +1,63 @@
 {{ define "main" }}
 <h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+
+<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
+  <ul class="filters-menu list-reset flex flex-wrap justify-start">
+{{ $.Scratch.Set "counter" 0 }}
+{{ range  .Data.Pages }}
+{{ if in .Params.Cities  "Αθήνα" }}
+{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+{{ end }}
+{{ end }}
+
+{{ $.Scratch.Set "counter1" 0 }}
+{{ range  .Data.Pages }}
+{{ if in .Params.Cities  "Θεσσαλονίκη" }}
+{{ $.Scratch.Set "counter1" (add ($.Scratch.Get "counter1") 1) }}
+{{ end }}
+{{ end }}
+
+
+  {{ $title := .Params.slug }}
+
+  {{ if gt ($.Scratch.Get "counter") "0"}}
+   <li class="flex m-2">
+      {{ $url := printf "%s/%s" "categoriesathens" ($title | urlize | lower)}}
+      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
+          Αθήνα - {{ $.Scratch.Get "counter" }}
+      </a>
+    </li>
+    {{ else }}
+    <li class="flex m-2">
+
+      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
+          Αθήνα - {{ $.Scratch.Get "counter" }}
+      </a>
+    </li>
+  {{ end }}
+
+{{ if gt ($.Scratch.Get "counter1") "0"}}
+  <li class="flex m-2">
+  {{ $url := printf "%s/%s" "categoriesthess" ($title | urlize | lower)}}
+  <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
+      Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
+  </a>
+</li>
+  {{ else }}
+   <li class="flex m-2">
+
+  <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
+      Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
+  </a>
+</li>
+{{ end }}
+
+
+
+
+  </ul>
+</div>
+
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
   <ul class="filters-menu list-reset flex flex-wrap justify-start">
     {{ range $title, .Params.slugSubcategory }}
@@ -7,7 +65,7 @@
       {{ if eq $subcategory.schoolscount "0" }}
       <li class="flex m-2">
         {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="/addnew">
+        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
             {{ $subcategory.title }}
             <span>( {{ $subcategory.schoolscount }} )</span>
         </a>

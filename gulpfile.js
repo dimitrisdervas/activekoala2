@@ -60,5 +60,5 @@ gulp.task('del:all', function () {
 });
 
 
-gulp.task('default:create', gulpSequence( 'download:csvs','del:all',['md:schools','md:categories','md:subcategories'],['yml:subcategories','yml:categories']))
+gulp.task('default:create', gulpSequence( 'download:csvs','del:all',['md:schools','md:categories','create:categoriescity','md:subcategories','create:subcategoriesCity'],['yml:subcategories','yml:categories']))
 

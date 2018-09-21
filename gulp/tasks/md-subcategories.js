@@ -37,11 +37,6 @@ gulp.task('md:subcategories', function() {
         for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
 
-         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var subcategoryTranslit = translit(items[1], {
-                lang: 'en'
-              })
-
             var templateData = {
                 subcategory : items[1],
                 category: items[2],
@@ -49,7 +44,6 @@ gulp.task('md:subcategories', function() {
                 slugSubcategory:  items[4],
                 slugCategory: items[5],
                 schoolscount: items[6],
-                subcategoryTranslit: subcategoryTranslit,
             };
 
 
