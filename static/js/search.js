@@ -45,7 +45,7 @@ var options = {
             enabled: true
         }
     },
-    placeholder: "Αναζήτηση"
+    placeholder: "Αναζήτηση",
     theme: "square"
 };
 
