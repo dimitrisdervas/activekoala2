@@ -53,7 +53,6 @@ googleAnalytics = "UA-31451672-10"
   instagram     = "full profile url in instagram"
   github        = "full profile url in github"
 
-
 [outputFormats.Algolia]
 baseName = "algolia"
 isPlainText = true
@@ -61,7 +60,7 @@ mediaType = "application/json"
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS", "Algolia", "JSON"]
 
 
 [params.algolia]

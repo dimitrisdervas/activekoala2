@@ -1,23 +1,10 @@
-<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
+      <form action="{{ "search" | absURL }}">
+        <input id="search-query" name="s"/>
+      </form>
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
-    <div class="categories">
-                 {{ if isset .Site.Taxonomies "Subcategories" }}
-                    <h1 class="sidebar-heading">Υποκατηγοριες</h1>
-                    <ul class="header-menu">
-                        {{ range $name, $items := .Site.Taxonomies.Subcategories }}
-                        {{ if $name }}
-                        <li class="category-list-item">
-                            {{ $url := printf "%s/%s" "subcategories" ($name | urlize | lower)}}
-                            <a class="category-list-link" href="{{ $url | absURL }}">
-                                {{ $name }}
-                            </a>
-                            <span class="category-list-count">{{ len $items }}</span>
-                        </li>
-                        {{ end }}
-                        {{ end }}
-                    </ul>
-                {{ end }}
-          </div>
     <div class="grid">
         <div class="row">
           {{ range first 140 (where .Site.Pages "Section" "schools") }}

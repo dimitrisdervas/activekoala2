@@ -24,3 +24,27 @@ min-width: 150px;
     padding: 8px;
     margin: 4px;
 	}
+
+/*SEARCH*/
+/*.input--xlarge {
+    height: auto;
+    padding: 10px;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.form-control {
+    background: transparent;
+    width: 100%;
+    border: none;
+    outline: none;
+    color: #5d686f;
+    font-weight: 300;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.16), 0 0 0 1px rgba(0,0,0,.08);
+    transition: box-shadow .2s cubic-bezier(.4,0,.2,1),background-color .2s cubic-bezier(.4,0,.2,1);
+    margin-bottom: 20px;
+}*/
+.fa-level-down:before {
+    content: "\f149";
+}

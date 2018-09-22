@@ -94,8 +94,8 @@ gulp.task('md:schools', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: schoolsPath.collection +'/'+ cityTranslit,
-                    basename: items[26] + "-" + schoolTranslit,
+                    dirname: schoolsPath.collection +'/'+ cityTranslit + '/' + items[26] + "-" + schoolTranslit,
+                    basename: "index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
             }
