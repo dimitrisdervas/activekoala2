@@ -34,7 +34,6 @@ var options = {
     getValue: "title",
 
     template: {
-        type: "description",
         type: "custom",
         method: function(value, item) {
           return "<a href='" + item.permalink + " '> " +  item.title + "</a>" + " - " + item.categoryNoSLug ;
@@ -46,7 +45,7 @@ var options = {
             enabled: true
         }
     },
-
+    placeholder: "Αναζήτηση"
     theme: "square"
 };
 
