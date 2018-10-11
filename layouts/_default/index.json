@@ -1,5 +1,5 @@
-{{- $.Scratch.Add "index" slice -}}
-{{- range where .Data.Pages "Section" "schools" -}}
-    {{- $.Scratch.Add "index" (dict "title" .Title "city" .Params.Cities "subcategories"  .Params.Subcategories "categories" .Params.Categories "subcategoriesNoSLug" .Params.SubcategoriesNoSLug "categoryNoSLug" .Params.CategoryNoSLug "UID" .Params.UID "permalink" .Permalink "slug" .Params.slug ) -}}
-{{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{{ $.Scratch.Add "index" slice }}
+{{ range where .Data.Pages "Section" "schools" }}
+    {{ $.Scratch.Add "index" (dict "title" .Title "city" .Params.Cities "subcategories"  .Params.Subcategories "categories" .Params.Categories "subcategoriesNoSLug" .Params.SubcategoriesNoSLug "categoryNoSLug" .Params.CategoryNoSLug "UID" .Params.UID "permalink" .Permalink "slug" .Params.slug ) }}
+{{ end }}
+{{ $.Scratch.Get "index" | jsonify }}
