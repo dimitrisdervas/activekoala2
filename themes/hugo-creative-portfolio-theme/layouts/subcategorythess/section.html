@@ -28,12 +28,12 @@
                           {{ range .Params.Cities }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
                           {{ end }}
-                          {{ range $title, .Params.Categories }}
+                          {{ range $title := .Params.Categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
                                   {{ $subcategory := index $.Site.Data.yml.categories ($title)}}{{ $subcategory.title }}
                             </a> </span>
                           {{ end }}
-                          {{ range $title, .Params.Subcategories }}
+                          {{ range $title := .Params.Subcategories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
                           {{ end }}
                           {{ if .Params.latitudeGraphApi }}

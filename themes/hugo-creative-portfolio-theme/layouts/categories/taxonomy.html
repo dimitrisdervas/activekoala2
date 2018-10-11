@@ -106,7 +106,7 @@
                         {{ range .Params.cities }}
                           <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/cities/{{ . | urlize }}">{{ . }}</a> </span>
                         {{ end }}
-                          {{ range $title, .Params.categories }}
+                          {{ range $title := .Params.categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
                               <a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
                                 {{ $category := index $.Site.Data.yml.categories ($title) }}
@@ -115,7 +115,7 @@
                             </span>
                           {{ end }}
                         {{ if .Params.subcategories }}
-                          {{ range $title, .Params.subcategories }}
+                          {{ range $title := .Params.subcategories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">
                               {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a>
                               </span>

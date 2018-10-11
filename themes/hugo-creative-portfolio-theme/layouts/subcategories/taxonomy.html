@@ -62,13 +62,13 @@
       {{ $slug := .Params.slug }}
       {{ $category := index $.Site.Data.yml.categories (.Params.slugCategory) }}
 
-    {{ range $title, $category.slugSubcategory }}
+    {{ range $title := $category.slugSubcategory }}
     {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
       {{ if eq $subcategory.schoolscount "0" }}
       <li class="flex m-2">
         {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
         <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-            {{ $title }}
+            {{ $subcategory.title }}
             <span>( {{ $subcategory.schoolscount }} )</span>
         </a>
       </li>
@@ -82,7 +82,7 @@
           bg-transparent
         {{ end }}
          hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-            {{ $title }}
+            {{ $subcategory.title }}
             <span>( {{ $subcategory.schoolscount }} )</span>
         </a>
       </li>
@@ -116,7 +116,7 @@
                         {{ range .Params.Cities }}
                           <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
                         {{ end }}
-                          {{ range $title, .Params.categories }}
+                          {{ range $title := .Params.categories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
                               <a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
                                 {{ $category := index $.Site.Data.yml.categories ($title) }}
@@ -125,7 +125,7 @@
                             </span>
                           {{ end }}
                         {{ if .Params.subcategories }}
-                          {{ range $title, .Params.subcategories }}
+                          {{ range $title := .Params.subcategories }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}"> 
                             {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
                           {{ end }}
