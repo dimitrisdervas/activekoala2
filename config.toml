@@ -60,7 +60,7 @@ mediaType = "application/json"
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "Algolia", "JSON"]
+home = ["HTML", "JSON"]
 
 
 [params.algolia]
