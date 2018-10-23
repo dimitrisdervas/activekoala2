@@ -17,7 +17,7 @@
 {{ end }}
 {{ end }}
 
-
+{{ if isset  .Params "slug" }}
   {{ $title := .Params.slug }}
   {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
 
@@ -36,6 +36,8 @@
       </a>
     </li>
   {{ end }}
+
+
 
 {{ if gt ($.Scratch.Get "counter1") "0"}}
   <li class="flex m-2">
@@ -56,13 +58,14 @@
   </ul>
 </div>
 
-
+  {{ end}}
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
   <ul class="filters-menu list-reset flex flex-wrap justify-start">
+      {{ if isset  .Params "slug" }}
       {{ $slug := .Params.slug }}
       {{ $category := index $.Site.Data.yml.categories (.Params.slugCategory) }}
 
-    {{ range $title := $category.slugSubcategory }}
+    {{ range $title := $category.slugsubcategory }}
     {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
       {{ if eq $subcategory.schoolscount "0" }}
       <li class="flex m-2">
@@ -87,6 +90,7 @@
         </a>
       </li>
       {{ end }}
+       {{ end }}
     {{ end }}
   </ul>
 </div>

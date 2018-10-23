@@ -1,7 +1,7 @@
 ---
 title: "Πολεμικές τέχνες"
 slug: "polemikes-texnes"
-subcategory: ["Aikido", "Boxing", "Brazilian Jiu Jitsu", "Capoeira", "Grappling", "Hapkido", "Hwal Moo Do", "Iaido", "Ju Jitsu", "Judo", "Kali", "Karate", "Kendo", "Kick Boxing", "Kobudo", "Krav Maga", "Kung Fu", "MMA", "Muay Thai", "Ninjutsu", "Sanda", "Savate", "Self-Defense", "Tae Kwon Do", "Tai Chi", "Tang Soo Do", "Thai Boxing", "Wing Chun", "Παγκράτιο"]
-slugSubcategory: ["aikido", "boxing", "brazilian", "capoeira", "grappling", "hapkido", "jwai-moo-do", "iaido", "jujitsu", "judi", "kali", "karate", "kobudo", "kickboxing", "kobudo", "krav-manga", "kung-fu", "mma", "muay-thai", "ninjutsu", "sanda", "savate", "self-defense", "tae-kwon-do", "taichi", "tang-soo-do", "thai-boxing", "wing-chun", "pagratio"]
+subcategory: ["Aikido","Boxing","Brazilian Jiu Jitsu","Capoeira","Grappling","Hapkido","Hwal Moo Do","Iaido","Ju Jitsu","Judo","Kali","Karate","Kendo","Kick Boxing","Kobudo","Krav Maga","Kung Fu","MMA","Muay Thai","Ninjutsu","Sanda","Savate","Self-Defense","Tae Kwon Do","Tai Chi","Tang Soo Do","Thai Boxing","Wing Chun","Παγκράτιο"]
+slugsubcategory: ["aikido","boxing","brazilian","capoeira","grappling","hapkido","jwai-moo-do","iaido","jujitsu","judi","kali","karate","kobudo","kickboxing","kobudo","krav-manga","kung-fu","mma","muay-thai","ninjutsu","sanda","savate","self-defense","tae-kwon-do","taichi","tang-soo-do","thai-boxing","wing-chun","pagratio"]
 schoolscount: "151"
 ---

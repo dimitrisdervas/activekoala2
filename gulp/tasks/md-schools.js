@@ -35,7 +35,7 @@ gulp.task('md:schools', function() {
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
-        for(var i = 1; i < rows.length; i++) {
+        for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
             var cityTranslit = translit(items[2], {
@@ -47,7 +47,7 @@ gulp.task('md:schools', function() {
 
             var templateData = {
                 school : items[1],
-                city : items[2],
+                cities : items[2],
                 perioxi : items[3],
                 category : items[4],
                 subcategory : items[5],
@@ -94,8 +94,8 @@ gulp.task('md:schools', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: schoolsPath.collection +'/'+ cityTranslit,
-                    basename: items[26] + "-" + schoolTranslit,
+                    dirname: schoolsPath.collection +'/'+ cityTranslit + '/' + items[26] + "-" + schoolTranslit,
+                    basename: "index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
             }

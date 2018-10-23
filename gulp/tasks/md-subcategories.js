@@ -8,7 +8,7 @@ var rename          = require('gulp-rename');
 var shell           = require('shelljs');
 var runSequence     = require('run-sequence');
 var del             = require('del');
-
+var gulpSequence = require('gulp-sequence')
 
 
 var subcategoriesPath = {};
@@ -34,7 +34,7 @@ gulp.task('md:subcategories', function() {
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
-        for(var i = 1; i < rows.length; i++) {
+        for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
@@ -43,12 +43,12 @@ gulp.task('md:subcategories', function() {
               })
 
             var templateData = {
-                subcategory : items[1],
+                 subcategory : items[1],
                 category: items[2],
                 SchoolsUID: items[3],
                 slugSubcategory:  items[4],
                 slugCategory: items[5],
-                subcategoryTranslit: subcategoryTranslit,
+                schoolscount: items[6],
             };
 
 
@@ -75,7 +75,7 @@ gulp.task('yml:subcategories', function() {
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
-        for(var i = 1; i < rows.length; i++) {
+        for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
@@ -88,12 +88,13 @@ gulp.task('yml:subcategories', function() {
                 category: items[2],
                 slugSubcategory: items[4],
                 slugCategory : items[5],
-                subcategoryTranslit: subcategoryTranslit,
+                schools: items[3],
+                schoolscount: items[6],
 
 
             };
 
-            gulp.src(subcategoriesPath.template)
+            gulp.src(subcategoriesPath.templateyml)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
@@ -115,15 +116,15 @@ gulp.task('del:subcategories', function () {
   ]);
 });
 
-gulp.task('create:subcategories', function(){ return runSequence(
+gulp.task('create:subcategories', gulpSequence(
     'del:subcategories',
     'download:subcategories',
     'md:subcategories',
     'yml:subcategories'
-    )});
+    ));
 
-gulp.task('recreate:subcategories', function(){ return runSequence(
+gulp.task('recreate:subcategories', gulpSequence(
     'del:subcategories',
     'md:subcategories',
     'yml:subcategories'
-    )});
+    ));

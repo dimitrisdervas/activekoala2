@@ -1,10 +1,12 @@
 ---
 title: |
    {{school}}
-city: ["{{city}}"]
+cities: ["{{cities}}"]
 perioxi: ["{{perioxi}}"]
-categories: ["{{slugCategories}}"]
-subcategories: ["{% if  slugSubcategories == "#REF!" %} {% else %} {{ slugSubcategories | replace(',', '","' ) | safe  }} {% endif %}"]
+categoryNoSLug: "{{category}}"
+subcategoriesNoSLug: ["{{ subcategory | replace(',', '","' ) | safe  }}"]
+categories: ["{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}"]
+subcategories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"]
 address: "{{address}}"
 logoimg: "{{logo}}"
 website: "{{website | replace("http://", "") | replace("https://", "") }}"

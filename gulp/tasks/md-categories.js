@@ -8,7 +8,7 @@ var rename          = require('gulp-rename');
 var shell           = require('shelljs');
 var runSequence     = require('run-sequence');
 var del             = require('del');
-
+var gulpSequence = require('gulp-sequence')
 
 
 var categoriesPath = {};
@@ -34,7 +34,7 @@ gulp.task('md:categories', function() {
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
-        for(var i = 1; i < rows.length; i++) {
+        for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
@@ -75,7 +75,7 @@ gulp.task('yml:categories', function() {
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
         rows = parsed.data;
 
-        for(var i = 1; i < rows.length; i++) {
+        for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
 
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
@@ -88,6 +88,7 @@ gulp.task('yml:categories', function() {
                 subcategory : items[4],
                 slugCategory: items[5],
                 slugSubcategories: items[6],
+                schoolscount: items[7],
             };
 
 
@@ -117,15 +118,15 @@ gulp.task('del:categories', function () {
 // DOWNLAOD CSV
 // CREATE SCHOOLS MS FILES
 // DEL UNDEFINE-.MD - NOT WORKING
-gulp.task('create:categories', function(){ return runSequence(
+gulp.task('create:categories', gulpSequence( 
     'del:categories',
     'download:categories',
     'md:categories',
     'yml:categories'
-    )});
+    ));
 
-gulp.task('recreate:categories', function(){ return runSequence(
+gulp.task('recreate:categories', gulpSequence( 
     'del:categories',
     'md:categories',
     'yml:categories'
-    )});
+    ));
