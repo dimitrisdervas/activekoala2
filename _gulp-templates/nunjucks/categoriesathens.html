@@ -1,10 +1,14 @@
 ---
+{% if city == "Αθήνα" %}
 title: |
    {{category}}
 schools: ["{{ SchoolsUID | replace(',', '","' ) | safe }}"]
 subcategory: ["{{subcategory | replace(',', '","' ) | safe }}"]
 slug: "{{slugCategory}}"
 slugSubcategory: ["{{slugSubcategories | replace(',', '","' ) | safe }}"]
+schoolscount: {{schoolscount}}
+city: {{city}}
+{% endif %}
 ---
 
 {{description}}

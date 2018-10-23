@@ -11,24 +11,24 @@ var del             = require('del');
 
 
 
-var categoriesPath = {};
-categoriesPath.collection = 'content/categories';
-categoriesPath.csv        = 'csv/google/categories';
-categoriesPath.template   = '_gulp-templates/nunjucks/categories.html';
-categoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesyml.html';
-module.exports = categoriesPath;
+var thesscategoriesPath = {};
+thesscategoriesPath.collection = 'content/categoriesthess';
+thesscategoriesPath.csv        = 'csv/google/categories';
+thesscategoriesPath.template   = '_gulp-templates/nunjucks/categoriesthess.html';
+thesscategoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesthessyml.html';
+module.exports = thesscategoriesPath;
 
 
-gulp.task('download:categories', done => {
+gulp.task('download:thesscategories', done => {
     shell.exec('python3 sheetsAll.py');
     done();
 });
 
 
 
-gulp.task('md:categories', function() {
+gulp.task('md:thesscategories', function() {
 
-    fs.readFile('./'+ categoriesPath.csv +'.csv', 'utf8', function(err, data){
+    fs.readFile('./'+ thesscategoriesPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -45,19 +45,21 @@ gulp.task('md:categories', function() {
             var templateData = {
                 category: items[1],
                 Courses: items[2],
-                SchoolsUID : items[3],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
+                slugCategory: items[5],                
+                city: items[13], 
+                SchoolsUID : items[14],
+                subcategory : items[15],                
+                slugSubcategories: items[16],
+                schoolscount: items[17],
             };
 
 
-            gulp.src(categoriesPath.template)
+            gulp.src(thesscategoriesPath.template)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: categoriesPath.collection + "/" + templateData.slugCategory,
+                    dirname: thesscategoriesPath.collection + "/" + templateData.slugCategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -66,9 +68,9 @@ gulp.task('md:categories', function() {
 
 });
 
-gulp.task('yml:categories', function() {
+gulp.task('yml:thesscategories', function() {
 
-    fs.readFile('./'+ categoriesPath.csv +'.csv', 'utf8', function(err, data){
+    fs.readFile('./'+ thesscategoriesPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -90,12 +92,12 @@ gulp.task('yml:categories', function() {
             };
 
 
-            gulp.src(categoriesPath.templateyml)
+            gulp.src(thesscategoriesPath.templateyml)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: "data/yml/categories",
+                    dirname: "data/yml/categoriesthess",
                     basename: templateData.slugCategory,
                     extname: ".yml"}))
                 .pipe(gulp.dest('.'));
@@ -104,11 +106,11 @@ gulp.task('yml:categories', function() {
 
 });
 
-gulp.task('del:categories', function () {
+gulp.task('del:thesscategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/categories/**/*',
-    'data/yml/categories/**/*'
+    'content/categoriesthess/**/*',
+    'data/yml/categoriesthess/**/*'
   ]);
 });
 
@@ -116,15 +118,15 @@ gulp.task('del:categories', function () {
 // DOWNLAOD CSV
 // CREATE SCHOOLS MS FILES
 // DEL UNDEFINE-.MD - NOT WORKING
-gulp.task('create:categories', function(){ return runSequence(
-    'del:categories',
-    'download:categories',
-    'md:categories',
-    'yml:categories'
+gulp.task('create:thesscategories', function(){ return runSequence(
+    'del:thesscategories',
+    'download:thesscategories',
+    'md:thesscategories',
+    'yml:thesscategories'
     )});
 
-gulp.task('recreate:categories', function(){ return runSequence(
-    'del:categories',
-    'md:categories',
-    'yml:categories'
+gulp.task('recreate:thesscategories', function(){ return runSequence(
+    'del:thesscategories',
+    'md:thesscategories',
+    'yml:thesscategories'
     )});

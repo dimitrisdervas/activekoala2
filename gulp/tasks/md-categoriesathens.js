@@ -11,24 +11,24 @@ var del             = require('del');
 
 
 
-var categoriesPath = {};
-categoriesPath.collection = 'content/categories';
-categoriesPath.csv        = 'csv/google/categories';
-categoriesPath.template   = '_gulp-templates/nunjucks/categories.html';
-categoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesyml.html';
-module.exports = categoriesPath;
+var athenscategoriesPath = {};
+athenscategoriesPath.collection = 'content/categoriesathens';
+athenscategoriesPath.csv        = 'csv/google/categories';
+athenscategoriesPath.template   = '_gulp-templates/nunjucks/categoriesathens.html';
+athenscategoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesathensyml.html';
+module.exports = athenscategoriesPath;
 
 
-gulp.task('download:categories', done => {
+gulp.task('download:athenscategories', done => {
     shell.exec('python3 sheetsAll.py');
     done();
 });
 
 
 
-gulp.task('md:categories', function() {
+gulp.task('md:athenscategories', function() {
 
-    fs.readFile('./'+ categoriesPath.csv +'.csv', 'utf8', function(err, data){
+    fs.readFile('./'+ athenscategoriesPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -45,19 +45,21 @@ gulp.task('md:categories', function() {
             var templateData = {
                 category: items[1],
                 Courses: items[2],
-                SchoolsUID : items[3],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
+                slugCategory: items[5],                
+                city: items[8], 
+                SchoolsUID : items[9],
+                subcategory : items[10],                
+                slugSubcategories: items[11],
+                schoolscount: items[12],
             };
 
 
-            gulp.src(categoriesPath.template)
+            gulp.src(athenscategoriesPath.template)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: categoriesPath.collection + "/" + templateData.slugCategory,
+                    dirname: athenscategoriesPath.collection + "/" + templateData.slugCategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -66,9 +68,9 @@ gulp.task('md:categories', function() {
 
 });
 
-gulp.task('yml:categories', function() {
+gulp.task('yml:athenscategories', function() {
 
-    fs.readFile('./'+ categoriesPath.csv +'.csv', 'utf8', function(err, data){
+    fs.readFile('./'+ athenscategoriesPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -77,25 +79,24 @@ gulp.task('yml:categories', function() {
         for(var i = 1; i < rows.length; i++) {
             var items = rows[i]
 
-         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var categoryTranslit = translit(items[2], {
-                lang: 'en'
-              })
-
             var templateData = {
                 category: items[1],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
+                Courses: items[2],
+                slugCategory: items[5],                
+                city: items[8], 
+                SchoolsUID : items[9],
+                subcategory : items[10],                
+                slugSubcategories: items[11],
+                schoolscount: items[12],
             };
 
 
-            gulp.src(categoriesPath.templateyml)
+            gulp.src(athenscategoriesPath.templateyml)
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: "data/yml/categories",
+                    dirname: "data/yml/categoriesathens",
                     basename: templateData.slugCategory,
                     extname: ".yml"}))
                 .pipe(gulp.dest('.'));
@@ -104,11 +105,11 @@ gulp.task('yml:categories', function() {
 
 });
 
-gulp.task('del:categories', function () {
+gulp.task('del:athenscategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/categories/**/*',
-    'data/yml/categories/**/*'
+    'content/categoriesathens/**/*',
+    'data/yml/categoriesathens/**/*'
   ]);
 });
 
@@ -116,15 +117,15 @@ gulp.task('del:categories', function () {
 // DOWNLAOD CSV
 // CREATE SCHOOLS MS FILES
 // DEL UNDEFINE-.MD - NOT WORKING
-gulp.task('create:categories', function(){ return runSequence(
-    'del:categories',
-    'download:categories',
-    'md:categories',
-    'yml:categories'
+gulp.task('create:athenscategories', function(){ return runSequence(
+    'del:athenscategories',
+    'download:athenscategories',
+    'md:athenscategories',
+    'yml:athenscategories'
     )});
 
-gulp.task('recreate:categories', function(){ return runSequence(
-    'del:categories',
-    'md:categories',
-    'yml:categories'
+gulp.task('recreate:athenscategories', function(){ return runSequence(
+    'del:athenscategories',
+    'md:athenscategories',
+    'yml:athenscategories'
     )});
