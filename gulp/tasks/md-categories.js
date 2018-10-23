@@ -49,6 +49,7 @@ gulp.task('md:categories', function() {
                 subcategory : items[4],
                 slugCategory: items[5],
                 slugSubcategories: items[6],
+                schoolscount: items[7],
             };
 
 
