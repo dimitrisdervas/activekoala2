@@ -56,9 +56,14 @@ gulp.task('del:all', function () {
     'data/yml/categories/**/*',
     'content/subcategories/**/*',
     'data/yml/subcategories/**/*',
+    'content/categoriesathens/**/*',
+    'data/yml/categoriesathens/**/*',
+    'content/categoriesthess/**/*',
+    'data/yml/categoriesthess/**/*'
+
   ]);
 });
 
 
-gulp.task('default:create', gulpSequence( 'download:csvs','del:all',['md:schools','md:categories','create:categoriescity','md:subcategories','create:subcategoriesCity'],['yml:subcategories','yml:categories']))
+gulp.task('default:create', gulpSequence( 'download:csvs','del:all',['md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories',]))
 
