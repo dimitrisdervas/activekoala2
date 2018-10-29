@@ -19,7 +19,7 @@ client = gspread.authorize(creds)
 schools = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(2)
 categories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(3)
 subcategories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(4)
-rss = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(7)
+
 
 # Extract all of the records for each row.
 schools_data = schools.get_all_records()
@@ -35,10 +35,5 @@ subcategories_data.to_csv('csv/google/subcategories.csv')
 categories_data = categories.get_all_records()
 categories_data = pd.DataFrame(categories_data)
 categories_data.to_csv('csv/google/categories.csv')
-
-# Extract all of the records for each row.
-rss_data = rss.get_all_records()
-rss_data = pd.DataFrame(rss_data)
-rss_data.to_csv('csv/google/rss.csv')
 
 
