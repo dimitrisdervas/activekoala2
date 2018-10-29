@@ -1,7 +1,7 @@
 node_modules
 public
 googlesheets
-csv/google/**
+csv/google
 content/schools
 content/categories
 content/subcategories
