@@ -1,7 +1,6 @@
 node_modules
 public
 googlesheets
-csv/google
 content/schools
 content/categories
 content/subcategories
@@ -10,3 +9,8 @@ content/categoriesathens
 content/subcategoryathens
 content/categoriesthess
 content/subcategorythess
+data/yml/categories
+data/yml/categoriesathens
+data/yml/categoriesthess
+data/yml/subcategories
+csv/google
