@@ -12,10 +12,10 @@ var del             = require('del');
 
 
 var thesscategoriesPath = {};
-thesscategoriesPath.collection = 'content/categoriesthess';
+thesscategoriesPath.collection = 'content/categoriesthessaloniki';
 thesscategoriesPath.csv        = 'csv/google/categories';
-thesscategoriesPath.template   = '_gulp-templates/nunjucks/categoriesthess.html';
-thesscategoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesthessyml.html';
+thesscategoriesPath.template   = '_gulp-templates/nunjucks/categoriesthessaloniki.html';
+thesscategoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesthessalonikiyml.html';
 module.exports = thesscategoriesPath;
 
 
@@ -97,7 +97,7 @@ gulp.task('yml:thesscategories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: "data/yml/categoriesthess",
+                    dirname: "data/yml/categoriesthessaloniki",
                     basename: templateData.slugCategory,
                     extname: ".yml"}))
                 .pipe(gulp.dest('.'));
@@ -109,8 +109,8 @@ gulp.task('yml:thesscategories', function() {
 gulp.task('del:thesscategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/categoriesthess/**/*',
-    'data/yml/categoriesthess/**/*'
+    'content/categoriesthessaloniki/**/*',
+    'data/yml/categoriesthessaloniki/**/*'
   ]);
 });
 

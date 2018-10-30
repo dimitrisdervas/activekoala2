@@ -20,7 +20,8 @@ zipcode: ["{{zipcode}}"]
 UID: "{{UID}}"
 latitude: "{{latitude}}"
 longitude: "{{longitude}}"
-slug: "{{UID}}/{{cityTranslit}}/{{schoolTranslit}}"
+url: "{{schoolTranslit}}/{{cityTranslit}}/{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}/{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"
+slug: "{{schoolTranslit}}"
 aliases:
     - /{{UID}}
 ---
