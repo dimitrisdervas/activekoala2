@@ -10,10 +10,10 @@ googleAnalytics = "UA-31451672-10"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
+  description = "Δραστηρίοτητες για τον ελεύθερο Χρόνο"
   copyright = "&copy;2018 ActiveCoala"
   sidebarAbout = [
-    "Μαζέψαμε δεδομένα για αθλητικές δραστηριότητες και όχι μόνο μετά από πολύ προσπάθεια από όλο το internet.",
+    "Όλες οι δραστηρίότητες για τον ελεύθερο χρόνο μικρών και μεγάλων",
     "Αρχικά για Αθήνα και Θεσσαλονική, σύντομα και στην υπόλοιπη Ελλάδα."
   ]
   # Contact page
@@ -28,7 +28,7 @@ googleAnalytics = "UA-31451672-10"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "info@activekoala.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
