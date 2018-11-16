@@ -45,10 +45,10 @@ gulp.task('md:thesscategories', function() {
             var templateData = {
                 category: items[1],
                 Courses: items[2],
-                slugCategory: items[5],                
-                city: items[13], 
+                slugCategory: items[5],
+                city: items[13],
                 SchoolsUID : items[14],
-                subcategory : items[15],                
+                subcategory : items[15],
                 slugSubcategories: items[16],
                 schoolscount: items[17],
             };
