@@ -57,7 +57,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js"></script>
 <!-- https://gist.github.com/vietlq/d1c7ecfb20ce7beac4a7f4df746c797c -->
 <!-- Start of Open Graph -->
-<meta property="og:title" content="{{ .Title }}">
+<meta property="og:title" content="Activekoala.com / {{ .Title }}">
 {{ if .IsPage }}
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
@@ -80,10 +80,10 @@
     {{ else if .Description }}
 <meta property="twitter:card" content="{{.Params.categories}} - {{.Params.cities }} - {{.Params.subcategories }}">
     {{ else }}
-<meta property="twitter:card" content="{{ .Title }}">
+<meta property="twitter:card" content="Activekoala.com / {{ .Title }}">
     {{ end }}
 
-<meta property="twitter:title" content="{{ .Title }}">
+<meta property="twitter:title" content="Activekoala.com / {{ .Title }}">
 <meta property="twitter:description" content="{{ .Content }}">
 
 {{ if .Params.thumbnail }}
