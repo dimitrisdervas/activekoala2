@@ -12,7 +12,7 @@
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-<meta name="title" content="Activekoala.com | {{ .Title }}">
+<meta name="title" content="{{ .Title }}">
 <meta name="description" content="{{ range .Params.Cities }}{{.}}{{end}},{{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }},{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}}">
 
 <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
@@ -57,36 +57,28 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.js"></script>
 <!-- https://gist.github.com/vietlq/d1c7ecfb20ce7beac4a7f4df746c797c -->
 <!-- Start of Open Graph -->
-<meta property="og:title" content="Activekoala.com | {{ .Title }}">
+<meta property="og:title" content="{{ .Title }}">
 {{ if .IsPage }}
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="{{ .Date.Format "2006-01-02" }}">
 {{ else }}
 <meta property="og:type" content="website">
 {{ end }}
-<meta property="og:description" content="{{ range .Params.Cities }}{{.}}{{end}},{{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }},{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}}">
+<meta property="og:description" content="{{ range .Params.Cities }}{{.}}{{end}} | {{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }} | {{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}} | {{ .Content}}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:image" content="{{ .Site.BaseURL }}/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg">
+<meta property="og:site_name" content="ActiveKoala.com">
+<meta property="og:image" content="{{ .Site.BaseURL }}/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg">
 
-<meta property="og:tags" content="{{ range .Params.Cities }}{{.}}{{end}},{{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }},{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}}">
+<meta property="og:tags" content="Activekoala.com | {{ range .Params.Cities }}{{.}}{{end}} | {{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }} | {{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}}">
 
 <!-- End of Open Graph -->
 
 <!-- Start of Twitter -->
+<meta property="twitter:card" content="Activekoala | {{.Params.categories}} | {{.Params.cities }} | {{.Params.subcategories }}">
 
-    {{ if .Params.twitter_summary }}
-<meta property="twitter:card" content="{{ .Params.twitter_summary }}">
-    {{ else if .Description }}
-<meta property="twitter:card" content="{{.Params.categories}} - {{.Params.cities }} - {{.Params.subcategories }}">
-    {{ else }}
-<meta property="twitter:card" content="Activekoala.com | {{ .Title }}">
-    {{ end }}
+<meta property="twitter:title" content="Activekoala | {{ .Title }}">
 
-<meta property="twitter:title" content="Activekoala.com | {{ .Title }}">
-<meta property="twitter:description" content="{{ range .Params.Cities }}{{.}}{{end}},{{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }},{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}}">
+<meta property="twitter:description" content="{{ range .Params.Cities }}{{.}}{{end}} | {{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }} | {{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}} | {{.Params.Content}}">
 
-{{ if .Params.thumbnail }}
 <meta property="twitter:image" content="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg">
-{{ end }}
 <!-- End of Twitter -->
