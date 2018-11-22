@@ -10,7 +10,7 @@ googleAnalytics = "UA-31451672-10"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Δραστηρίοτητες για τον ελεύθερο Χρόνο"
+  description = "Κατάλογος δραστηριοτήτων για Αθήνα και Θεσσαλόνικη"
   copyright = "&copy;2018 ActiveCoala"
   sidebarAbout = [
     "Όλες οι δραστηρίότητες για τον ελεύθερο χρόνο μικρών και μεγάλων",

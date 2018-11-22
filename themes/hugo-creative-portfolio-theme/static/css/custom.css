@@ -48,3 +48,7 @@ min-width: 150px;
 .fa-level-down:before {
     content: "\f149";
 }
+
+p {
+    color: #323232;
+}
