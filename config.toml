@@ -80,6 +80,6 @@ RemovePathAccents = true
     showNext = true           # True by default - Only "false" will hide the next button
     nextIndicator = "Next"        # Change the default indicator to something else, like "Next" or an icon wrapped in an i element
     showLast = true
-    #lastIndicator = "<i class='material-icons'>chevron_right</i>"        
+    #lastIndicator = "<i class='material-icons'>chevron_right</i>"
     showPageNumbers = true    # If false it will hide the numbering of pages
     pagesBetweenActive = 2    # Shows how many page numbers to show between the active page - it defaults to 3

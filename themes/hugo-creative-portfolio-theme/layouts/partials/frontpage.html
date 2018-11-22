@@ -24,12 +24,15 @@
     {{ end }}
 </div>
 
+{{ $paginator := (.Paginator 30) (where .Site.Pages "Section" "schools") }}
+{{ partial "pagination.html" . }}
 
-    <div class="col-xs-12 col-sm-8 col-md-9 content-column">
+
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
-          {{ range first 140 (where .Site.Pages "Section" "schools") }}
+          {{ range $paginator.Pages }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                 <div class="box-masonry shadow-md">
                      <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
@@ -67,3 +70,4 @@
         </div>
     </div>
 </div>
+{{ partial "structured_data_sections.html" $paginator }}
