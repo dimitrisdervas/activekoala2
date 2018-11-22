@@ -7,7 +7,7 @@
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
      {{ if isset .Site.Taxonomies "categories" }}
              <ul class="filters-menu list-reset flex flex-wrap justify-start">
-{{ $.Scratch.Set "counter" 0 }}
+                  {{ $.Scratch.Set "counter" 0 }}
                   {{ range $title, $items := .Site.Taxonomies.categories }}
                   {{ if eq $title "#n/a" }}
                    {{ else }}
@@ -23,6 +23,8 @@
               </ul>
     {{ end }}
 </div>
+
+
     <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
@@ -58,6 +60,7 @@
                           {{ end }}
                           </div>
                       </div>
+                      
                   </div>
               </div>
           {{ end }}
