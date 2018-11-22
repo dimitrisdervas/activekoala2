@@ -5,7 +5,7 @@ cities: ["{{cities}}"]
 perioxi: ["{{perioxi}}"]
 categoryNoSLug: "{{category}}"
 subcategoriesNoSLug: ["{{ subcategory | replace(',', '","' ) | safe  }}"]
-categories: ["{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}"]
+categories: ["{% if (slugCategories == "#REF!") or (slugCategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}"]
 subcategories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"]
 address: "{{address}}"
 logoimg: "{{logo}}"
