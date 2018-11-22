@@ -43,7 +43,7 @@ gulp.task('md:subcategories', function() {
               })
 
             var templateData = {
-                 subcategory : items[1],
+                subcategory : items[1],
                 category: items[2],
                 SchoolsUID: items[3],
                 slugSubcategory:  items[4],

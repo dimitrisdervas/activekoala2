@@ -83,7 +83,10 @@
 </div>
 
 {{ $paginator := (.Paginator 30) (.Data.Pages) }}
+
 {{ partial "pagination.html" . }}
+
+{{ partial "structured_data_sections.html" $paginator }}
 
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
