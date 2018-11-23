@@ -70,4 +70,27 @@
         </div>
     </div>
 </div>
-{{ partial "structured_data_sections.html" $paginator }}
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+     "itemListElement": [
+      {{ $pageurl := .Permalink }}
+      {{ $list := .Pages}}
+      {{ $len := (len $list)}}
+      {{ range $index, $element := $list }}
+        {
+          "@type": "ListItem",
+          "position": "{{$index}}",
+          "item": {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "{{trim .Title "\n"}}",
+            "url": "{{  $pageurl }}",
+            "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg"
+          }
+        }{{if eq (add $index 1) $len}}{{else}},{{end}}
+      {{ end }}
+      ]
+    }
+</script>
