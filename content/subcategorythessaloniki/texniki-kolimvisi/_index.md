@@ -1,9 +1,10 @@
 ---
 title: |
    Τεχνική Κολύμβηση
-slugSubcategory: "texniki-kolimvisi"
+schools: [""]
 category: "Αθλητισμός"
+slug: "texniki-kolimvisi"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Iaido
-slugSubcategory: "iaido"
+schools: [""]
 category: "Πολεμικές τέχνες"
+slug: "iaido"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

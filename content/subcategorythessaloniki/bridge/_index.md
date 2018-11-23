@@ -1,9 +1,10 @@
 ---
 title: |
    Bridge
-slugSubcategory: "bridge"
+schools: [""]
 category: "Αθλητισμός"
+slug: "bridge"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

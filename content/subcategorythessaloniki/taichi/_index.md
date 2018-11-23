@@ -1,9 +1,10 @@
 ---
 title: |
    Tai Chi
-slugSubcategory: "taichi"
+schools: ["school201120180753","school241120181812"]
 category: "Πολεμικές τέχνες"
+slug: "taichi"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

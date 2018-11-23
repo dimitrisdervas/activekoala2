@@ -1,9 +1,10 @@
 ---
 title: |
    Zumba
-slugSubcategory: "zumba"
+schools: [""]
 category: "Χορός"
+slug: "zumba"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

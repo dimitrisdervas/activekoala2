@@ -1,9 +1,10 @@
 ---
 title: |
    Climbing
-slugSubcategory: "climbing"
+schools: ["school231120181505","school171120181422"]
 category: "Κλειστού Χώρου"
+slug: "climbing"
 slugCategory: "kleistou-xorou"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

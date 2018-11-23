@@ -3,7 +3,8 @@
     "@context": "http://schema.org",
     "@type": "ItemList",
      "itemListElement": [
-      {{$list := .Pages}}
+      {{ $pageurl := .Permalink }}
+      {{ $list := .Pages}}
       {{ $len := (len $list)}}
       {{ range $index, $element := $list }}
         {
@@ -13,7 +14,7 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "{{trim .Title "\n"}}",
-            "url": "https://activekoala.com/{{.Params.UID}}",
+            "url": "{{  $pageurl }}",
             "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg"
           }
         }{{if eq (add $index 1) $len}}{{else}},{{end}}

@@ -1,9 +1,10 @@
 ---
 title: |
    Grappling
-slugSubcategory: "grappling"
+schools: [""]
 category: "Πολεμικές τέχνες"
+slug: "grappling"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

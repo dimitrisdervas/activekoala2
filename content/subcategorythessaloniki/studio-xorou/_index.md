@@ -1,9 +1,10 @@
 ---
 title: |
    Studio χορού
-slugSubcategory: "studio-xorou"
+schools: [""]
 category: "Χορός"
+slug: "studio-xorou"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

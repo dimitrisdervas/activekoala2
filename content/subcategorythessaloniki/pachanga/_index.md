@@ -1,9 +1,10 @@
 ---
 title: |
    Pachanga
-slugSubcategory: "pachanga"
+schools: [""]
 category: "Χορός"
+slug: "pachanga"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

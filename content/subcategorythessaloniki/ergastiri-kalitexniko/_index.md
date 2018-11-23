@@ -1,9 +1,10 @@
 ---
 title: |
    Εργαστήριο δημιουργικής απασχόλησης για παιδιά δημοτικού | Παιδικός Σταθμός
-slugSubcategory: "ergastiri-kalitexniko"
+schools: [""]
 category: "Καλιτεχνικά"
+slug: "ergastiri-kalitexniko"
 slugCategory: "kalitexnika"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

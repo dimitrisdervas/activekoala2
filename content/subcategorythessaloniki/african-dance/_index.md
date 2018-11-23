@@ -1,9 +1,10 @@
 ---
 title: |
    Αφρικάνικος Χορός
-slugSubcategory: "african-dance"
+schools: ["school131120180251"]
 category: "Χορός"
+slug: "african-dance"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

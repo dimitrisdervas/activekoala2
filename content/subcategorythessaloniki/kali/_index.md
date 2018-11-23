@@ -1,9 +1,10 @@
 ---
 title: |
    Kali
-slugSubcategory: "kali"
+schools: ["school231120182246"]
 category: "Πολεμικές τέχνες"
+slug: "kali"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

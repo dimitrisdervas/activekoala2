@@ -1,9 +1,10 @@
 ---
 title: |
    Latin-Ballroom
-slugSubcategory: "latin-ballroom"
+schools: [""]
 category: "Χορός"
+slug: "latin-ballroom"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Παγκράτιο
-slugSubcategory: "pagratio"
+schools: [""]
 category: "Πολεμικές τέχνες"
+slug: "pagratio"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

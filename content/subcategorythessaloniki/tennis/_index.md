@@ -1,9 +1,10 @@
 ---
 title: |
    Tennis
-slugSubcategory: "tennis"
+schools: ["school121120181451","school121120181520","school121120181548","school121120181603","school121120181617","school121120181632","school121120181646","school121120181700","school121120181715","school121120181812","school121120181827","school121120181841","school121120181856","school121120181910","school181120181520","school181120182022","school201120182120","school231120180012","school191120180948","school181120181700","school151120181144","school131120182022","school251120181115","school131120182105","school021220182246","school021220182148","school021220181003"]
 category: "Αθλητισμός"
+slug: "tennis"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "2"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Χώρος Τέχνης
-slugSubcategory: "xoros-texnis"
+schools: [""]
 category: "Πολυχώρος"
+slug: "xoros-texnis"
 slugCategory: "polyxoros"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

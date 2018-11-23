@@ -1,9 +1,10 @@
 ---
 title: |
    Πρότυπο Μουσικό Εργαστήρι
-slugSubcategory: "moudiko-ergastiri"
+schools: [""]
 category: "Μουσική"
+slug: "moudiko-ergastiri"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

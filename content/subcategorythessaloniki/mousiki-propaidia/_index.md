@@ -1,9 +1,10 @@
 ---
 title: |
    Μουσική Προπαιδεία
-slugSubcategory: "mousiki-propaidia"
+schools: [""]
 category: "Μουσική"
+slug: "mousiki-propaidia"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

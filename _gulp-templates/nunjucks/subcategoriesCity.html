@@ -1,9 +1,11 @@
 ---
 title: |
    {{subcategory}}
+schools: ["{{ SchoolsUID | replace(',', '","' ) | safe  }}"]
 slugSubcategory: "{{slugSubcategory}}"
 category: "{{category}}"
 slugCategory: "{{slugCategory}}"
+schoolscount: "{{schoolscount}}"
 city: "{{city}}"
 ---
 

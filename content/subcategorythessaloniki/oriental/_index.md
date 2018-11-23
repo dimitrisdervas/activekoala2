@@ -1,9 +1,10 @@
 ---
 title: |
    Oriental
-slugSubcategory: "oriental"
+schools: [""]
 category: "Χορός"
+slug: "oriental"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

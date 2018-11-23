@@ -1,9 +1,10 @@
 ---
 title: |
    Merengue
-slugSubcategory: "merengue"
+schools: [""]
 category: "Χορός"
+slug: "merengue"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

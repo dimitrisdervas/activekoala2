@@ -1,9 +1,10 @@
 ---
 title: |
    Cha Cha Cha
-slugSubcategory: "cha-cha-cha"
+schools: ["school131120180222"]
 category: "Χορός"
+slug: "cha-cha-cha"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

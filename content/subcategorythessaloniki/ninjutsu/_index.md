@@ -1,9 +1,10 @@
 ---
 title: |
    Ninjutsu
-slugSubcategory: "ninjutsu"
+schools: ["school131120182315","school161120182036","school211120182105"]
 category: "Πολεμικές τέχνες"
+slug: "ninjutsu"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "2"
 ---
 

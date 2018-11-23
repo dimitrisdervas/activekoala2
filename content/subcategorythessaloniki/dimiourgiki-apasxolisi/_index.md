@@ -1,9 +1,10 @@
 ---
 title: |
    Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών
-slugSubcategory: "dimiourgiki-apasxolisi"
+schools: [""]
 category: "Εκπαιδευτικά"
+slug: "dimiourgiki-apasxolisi"
 slugCategory: "ekpaideutika"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

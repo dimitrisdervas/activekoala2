@@ -1,9 +1,10 @@
 ---
 title: |
    Ωδείο
-slugSubcategory: "odeio"
+schools: [""]
 category: "Μουσική"
+slug: "odeio"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

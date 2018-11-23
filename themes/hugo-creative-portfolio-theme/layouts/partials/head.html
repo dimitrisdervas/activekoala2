@@ -12,7 +12,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 <meta name="title" content="{{ .Title }}">
-<meta name="description" content="{{ range .Params.Cities }}{{.}}{{end}}|{{ range $title := .Params.categories }}{{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }}|{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}{{end}} | {{ .Content}}">
+<meta name="description" content="{{ range .Params.Cities }}{{.}}{{end}}{{ range $title := .Params.categories }} | {{ $category := index $.Site.Data.yml.categories ($title) }}{{ $category.title }}{{ end }}{{ range $title := .Params.subcategories }}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }} | {{ $subcategory.title }}{{end}}">
 <!-- Start of Open Graph -->
 <meta property="og:title" content="{{ .Title }}">
 {{ if .IsPage }}

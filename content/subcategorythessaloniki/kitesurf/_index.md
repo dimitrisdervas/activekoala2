@@ -1,9 +1,10 @@
 ---
 title: |
    Kitesurf
-slugSubcategory: "kitesurf"
+schools: ["school251120181715"]
 category: "Θάλασσα"
+slug: "kitesurf"
 slugCategory: "water-sports"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

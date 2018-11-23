@@ -1,9 +1,10 @@
 ---
 title: |
    Natural Movement
-slugSubcategory: "natural-movement"
+schools: [""]
 category: "Αθλητισμός"
+slug: "natural-movement"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

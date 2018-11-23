@@ -1,9 +1,10 @@
 ---
 title: |
    Self-Defense
-slugSubcategory: "self-defense"
+schools: ["school211120182134"]
 category: "Πολεμικές τέχνες"
+slug: "self-defense"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

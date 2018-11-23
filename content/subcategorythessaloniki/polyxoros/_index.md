@@ -1,9 +1,10 @@
 ---
 title: |
    Στέγη Πολιτισμού
-slugSubcategory: "polyxoros"
+schools: [""]
 category: "Πολυχώρος"
+slug: "polyxoros"
 slugCategory: "polyxoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

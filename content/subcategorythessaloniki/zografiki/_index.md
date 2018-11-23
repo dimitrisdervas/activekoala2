@@ -1,9 +1,10 @@
 ---
 title: |
    Zωγραφική
-slugSubcategory: "zografiki"
+schools: [""]
 category: "Καλιτεχνικά"
+slug: "zografiki"
 slugCategory: "kalitexnika"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

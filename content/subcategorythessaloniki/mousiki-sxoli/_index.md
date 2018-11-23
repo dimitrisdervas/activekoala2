@@ -1,9 +1,10 @@
 ---
 title: |
    Μουσική Σχολή
-slugSubcategory: "mousiki-sxoli"
+schools: [""]
 category: "Μουσική"
+slug: "mousiki-sxoli"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "5"
 ---
 

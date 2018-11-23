@@ -1,9 +1,10 @@
 ---
 title: |
    Βιολί
-slugSubcategory: "violin"
+schools: [""]
 category: "Μουσική"
+slug: "violin"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

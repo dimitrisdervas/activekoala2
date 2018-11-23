@@ -16,6 +16,7 @@ subcategoriesPath.collection = 'content/subcategories';
 subcategoriesPath.csv        = 'csv/google/subcategories';
 subcategoriesPath.template   = '_gulp-templates/nunjucks/subcategories.html';
 subcategoriesPath.templateyml   = '_gulp-templates/nunjucks/subcategoriesyml.html';
+subcategoriesPath.templatecity = '_gulp-templates/nunjucks/subcategoriesCity.html';
 module.exports = subcategoriesPath;
 
 
@@ -59,6 +60,90 @@ gulp.task('md:subcategories', function() {
                 }))
                 .pipe(rename({
                     dirname: subcategoriesPath.collection + "/" + templateData.slugSubcategory,
+                    basename: "_index",
+                    extname: ".md"}))
+                .pipe(gulp.dest('.'));
+            }
+      });
+
+});
+
+gulp.task('md:subcategoryathens', function() {
+
+    fs.readFile('./'+ subcategoriesPath.csv +'.csv', 'utf8', function(err, data){
+        if (err) throw err;
+
+        parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
+        rows = parsed.data;
+
+        for(var i = 1; i < (rows.length)-1; i++) {
+            var items = rows[i]
+
+         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
+            var subcategoryTranslit = translit(items[1], {
+                lang: 'en'
+              })
+
+            var templateData = {
+                subcategory : items[1],
+                category: items[2],
+                SchoolsUID: items[8],
+                slugSubcategory:  items[4],
+                slugCategory: items[5],
+                schoolscount: items[9],
+                city: items[7],
+            };
+
+
+
+            gulp.src(subcategoriesPath.template)
+                .pipe(nunjucksRender({
+                  data: templateData
+                }))
+                .pipe(rename({
+                    dirname: 'content/subcategoryathens' + "/" + templateData.slugSubcategory,
+                    basename: "_index",
+                    extname: ".md"}))
+                .pipe(gulp.dest('.'));
+            }
+      });
+
+});
+
+gulp.task('md:subcategorythessaloniki', function() {
+
+    fs.readFile('./'+ subcategoriesPath.csv +'.csv', 'utf8', function(err, data){
+        if (err) throw err;
+
+        parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
+        rows = parsed.data;
+
+        for(var i = 1; i < (rows.length)-1; i++) {
+            var items = rows[i]
+
+         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
+            var subcategoryTranslit = translit(items[1], {
+                lang: 'en'
+              })
+
+            var templateData = {
+                subcategory : items[1],
+                category: items[2],
+                SchoolsUID: items[8],
+                slugSubcategory:  items[4],
+                slugCategory: items[5],
+                schoolscount: items[12],
+                city: items[10],
+            };
+
+
+
+            gulp.src(subcategoriesPath.template)
+                .pipe(nunjucksRender({
+                  data: templateData
+                }))
+                .pipe(rename({
+                    dirname: 'content/subcategorythessaloniki' + "/" + templateData.slugSubcategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -112,6 +197,8 @@ gulp.task('del:subcategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
     'content/subcategories/**/*',
+    'content/subcategoryathens/**/*',
+    'content/subcategorythessaloniki/**/*',
     'data/yml/subcategories/**/*'
   ]);
 });
@@ -120,6 +207,8 @@ gulp.task('create:subcategories', gulpSequence(
     'del:subcategories',
     'download:subcategories',
     'md:subcategories',
+    'md:subcategoryathens',
+    'md:subcategorythessaloniki',
     'yml:subcategories'
     ));
 

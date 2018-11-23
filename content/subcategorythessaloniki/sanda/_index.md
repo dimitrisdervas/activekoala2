@@ -1,9 +1,10 @@
 ---
 title: |
    Sanda
-slugSubcategory: "sanda"
+schools: ["school131120180808","school151120180753"]
 category: "Πολεμικές τέχνες"
+slug: "sanda"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

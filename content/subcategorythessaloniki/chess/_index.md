@@ -1,9 +1,10 @@
 ---
 title: |
    Σκάκι
-slugSubcategory: "chess"
+schools: [""]
 category: "Κλειστού Χώρου"
+slug: "chess"
 slugCategory: "kleistou-xorou"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

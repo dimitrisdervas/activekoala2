@@ -1,9 +1,10 @@
 ---
 title: |
    Μοντέρνος Χορός
-slugSubcategory: "modern-dance"
+schools: ["school131120180153","school121120182300"]
 category: "Χορός"
+slug: "modern-dance"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

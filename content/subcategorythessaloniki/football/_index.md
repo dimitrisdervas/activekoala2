@@ -1,9 +1,10 @@
 ---
 title: |
    Ποδόσφαιρο
-slugSubcategory: "football"
+schools: ["school171120181339","school181120180934","school021220182329","school021220180822"]
 category: "Αθλητισμός"
+slug: "football"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Στίβος
-slugSubcategory: "stivos"
+schools: ["school221120180110","school231120181046","school231120181603","school211120181451","school241120180320","school171120181603","school231120180529","school181120181617","school171120180334","school181120181451","school201120182358","school251120181310","school201120180836","school231120180808","school251120181129","school211120181505","school151120181256","school171120181408","school251120181729","school161120181646","school271120180139","school271120180305","school021220181548","school171120180417","school021220180753"]
 category: "Αθλητισμός"
+slug: "stivos"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "13"
 ---
 

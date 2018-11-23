@@ -1,9 +1,10 @@
 ---
 title: |
    Εργαστηρι Χορού
-slugSubcategory: "ergastiri-xorou"
+schools: [""]
 category: "Παιδαγωγικά + Καλιτεχνικά"
+slug: "ergastiri-xorou"
 slugCategory: "paidagogika-kallitexnika"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

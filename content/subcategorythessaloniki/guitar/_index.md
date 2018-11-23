@@ -1,9 +1,10 @@
 ---
 title: |
    Κιθάρα
-slugSubcategory: "guitar"
+schools: [""]
 category: "Μουσική"
+slug: "guitar"
 slugCategory: "mousiki"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

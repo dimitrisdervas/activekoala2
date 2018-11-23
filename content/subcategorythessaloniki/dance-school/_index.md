@@ -1,9 +1,10 @@
 ---
 title: |
    Dance School
-slugSubcategory: "dance-school"
+schools: [""]
 category: "Χορός"
+slug: "dance-school"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Swing
-slugSubcategory: "swing"
+schools: ["school131120180348"]
 category: "Χορός"
+slug: "swing"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

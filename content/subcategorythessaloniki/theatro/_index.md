@@ -1,9 +1,10 @@
 ---
 title: |
    Θεατρικό Εργαστήρι
-slugSubcategory: "theatro"
+schools: [""]
 category: "Καλιτεχνικά"
+slug: "theatro"
 slugCategory: "kalitexnika"
-city: "Θεσσαλονίκη"
+schoolscount: "5"
 ---
 

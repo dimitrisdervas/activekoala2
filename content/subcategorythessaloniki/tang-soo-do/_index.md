@@ -1,9 +1,10 @@
 ---
 title: |
    Tang Soo Do
-slugSubcategory: "tang-soo-do"
+schools: ["school161120182022","school241120181353"]
 category: "Πολεμικές τέχνες"
+slug: "tang-soo-do"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

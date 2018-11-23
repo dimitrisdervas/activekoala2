@@ -1,9 +1,10 @@
 ---
 title: |
    Ski
-slugSubcategory: "ski"
+schools: ["school231120181715"]
 category: "Βουνό"
+slug: "ski"
 slugCategory: "athlimata-vounou"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

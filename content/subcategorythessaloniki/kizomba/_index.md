@@ -1,9 +1,10 @@
 ---
 title: |
    Kizomba
-slugSubcategory: "kizomba"
+schools: [""]
 category: "Χορός"
+slug: "kizomba"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: |
    Παραδοσιακοί Χοροί
-slugSubcategory: "paradosiakoi-xoroi"
+schools: [""]
 category: "Χορός"
+slug: "paradosiakoi-xoroi"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

@@ -54,7 +54,7 @@ googleAnalytics = "UA-31451672-10"
   github        = "full profile url in github"
 
 [permalinks]
-  categoriesthess="categories/thessaloniki"
+  categoriesthessaloniki="categories/thessaloniki"
 
 [outputs]
 home = ["HTML", "JSON"]

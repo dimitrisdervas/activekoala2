@@ -1,9 +1,10 @@
 ---
 title: |
    Bachata
-slugSubcategory: "bachata"
+schools: ["school131120180236"]
 category: "Χορός"
+slug: "bachata"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

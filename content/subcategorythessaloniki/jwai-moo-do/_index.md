@@ -1,9 +1,10 @@
 ---
 title: |
    Hwal Moo Do
-slugSubcategory: "jwai-moo-do"
+schools: [""]
 category: "Πολεμικές τέχνες"
+slug: "jwai-moo-do"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

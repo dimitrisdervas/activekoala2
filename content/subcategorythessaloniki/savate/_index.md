@@ -1,9 +1,10 @@
 ---
 title: |
    Savate
-slugSubcategory: "savate"
+schools: ["school151120180124"]
 category: "Πολεμικές τέχνες"
+slug: "savate"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

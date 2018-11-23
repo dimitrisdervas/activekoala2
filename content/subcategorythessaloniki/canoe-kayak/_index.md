@@ -1,9 +1,10 @@
 ---
 title: |
    Κάνοε-Καγιάκ
-slugSubcategory: "canoe-kayak"
+schools: ["school021220181646"]
 category: "Θάλασσα"
+slug: "canoe-kayak"
 slugCategory: "water-sports"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

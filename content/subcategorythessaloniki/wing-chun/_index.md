@@ -1,9 +1,10 @@
 ---
 title: |
    Wing Chun
-slugSubcategory: "wing-chun"
+schools: [""]
 category: "Πολεμικές τέχνες"
+slug: "wing-chun"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "1"
 ---
 

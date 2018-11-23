@@ -1,9 +1,10 @@
 ---
 title: |
    Padel Tennis
-slugSubcategory: "padel-tennis"
+schools: [""]
 category: "Αθλητισμός"
+slug: "padel-tennis"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

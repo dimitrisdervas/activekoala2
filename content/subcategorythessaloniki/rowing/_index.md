@@ -1,9 +1,10 @@
 ---
 title: |
    Κωπηλασία
-slugSubcategory: "rowing"
+schools: ["school021220181617"]
 category: "Αθλητισμός"
+slug: "rowing"
 slugCategory: "athlitismos"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

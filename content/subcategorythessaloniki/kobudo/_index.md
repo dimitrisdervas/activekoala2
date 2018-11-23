@@ -1,9 +1,10 @@
 ---
 title: |
-   Kobudo
-slugSubcategory: "kobudo"
+   Kendo
+schools: ["school231120180236"]
 category: "Πολεμικές τέχνες"
+slug: "kobudo"
 slugCategory: "polemikes-texnes"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

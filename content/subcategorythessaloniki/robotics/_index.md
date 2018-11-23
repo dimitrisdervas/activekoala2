@@ -1,9 +1,10 @@
 ---
 title: |
    Robotics
-slugSubcategory: "robotics"
+schools: [""]
 category: "Εκπαιδευτικά"
+slug: "robotics"
 slugCategory: "ekpaideutika"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

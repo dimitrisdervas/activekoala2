@@ -1,9 +1,10 @@
 ---
 title: |
    Cross Fit
-slugSubcategory: "crossfit"
+schools: ["school221120182008","school181120180139","school241120180403","school191120182344","school231120181353","school181120180612","school241120180641","school241120180153","school221120180222"]
 category: "Κλειστού Χώρου"
+slug: "crossfit"
 slugCategory: "kleistou-xorou"
-city: "Θεσσαλονίκη"
+schoolscount: "0"
 ---
 

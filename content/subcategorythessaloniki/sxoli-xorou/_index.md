@@ -1,9 +1,10 @@
 ---
 title: |
    Σχολή Χορού
-slugSubcategory: "sxoli-xorou"
+schools: [""]
 category: "Χορός"
+slug: "sxoli-xorou"
 slugCategory: "xoros"
-city: "Θεσσαλονίκη"
+schoolscount: "3"
 ---
 
