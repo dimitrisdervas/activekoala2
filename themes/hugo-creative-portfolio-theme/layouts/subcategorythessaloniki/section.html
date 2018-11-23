@@ -52,4 +52,21 @@
         </div>
     </div>
   </main>
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+     "itemListElement": [
+      {{ $list := where $.Site.Pages "Section" "schools"}}
+      {{ $len := (len $list)}}
+      {{ range $index, $element := $list }}
+        {
+          "@type": "ListItem",
+          "position": "{{$index}}",
+          "url": "{{  .Permalink}}"
+        }{{if eq (add $index 1) $len}}{{else}},{{end}}
+      {{ end }}
+      ]
+    }
+</script>
 {{ end }}
