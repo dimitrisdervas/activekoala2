@@ -96,7 +96,7 @@ gulp.task('md:subcategoryathens', function() {
 
 
 
-            gulp.src(subcategoriesPath.template)
+            gulp.src(subcategoriesPath.templatecity )
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
@@ -138,7 +138,7 @@ gulp.task('md:subcategorythessaloniki', function() {
 
 
 
-            gulp.src(subcategoriesPath.template)
+            gulp.src(subcategoriesPath.templatecity )
                 .pipe(nunjucksRender({
                   data: templateData
                 }))
@@ -215,5 +215,7 @@ gulp.task('create:subcategories', gulpSequence(
 gulp.task('recreate:subcategories', gulpSequence(
     'del:subcategories',
     'md:subcategories',
+    'md:subcategoryathens',
+    'md:subcategorythessaloniki',
     'yml:subcategories'
     ));
