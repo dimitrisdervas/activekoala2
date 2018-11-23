@@ -16,7 +16,7 @@
             "url": "https://activekoala.com/{{.Params.UID}}",
             "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg"
           }
-        }{{if eq (add $index 1) $len}}{{else}}{{end}}
+        }{{if eq (add $index 1) $len}}{{else}},{{end}}
       {{ end }}
       ]
     }
