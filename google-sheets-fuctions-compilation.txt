@@ -1,3 +1,5 @@
+./test-tools/start-image.sh
+
 =filter('00-bulk-Schools'!A:AN,('00-bulk-Schools'!Y:Y="YES"),('00-bulk-Schools'!B:B="Αθήνα")+('00-bulk-Schools'!B:B="Θεσσαλονίκη"))
 
  school : items[2],

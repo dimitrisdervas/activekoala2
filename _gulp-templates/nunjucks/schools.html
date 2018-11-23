@@ -9,6 +9,8 @@ categories: ["{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/
 subcategories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"]
 address: "{{address}}"
 logoimg: "{{logo}}"
+profilePhoto : "{{profilePhoto}}"
+coverPhoto : "{{coverPhoto }}"
 website: "{{website | replace("http://", "") | replace("https://", "") }}"
 facebook: "{{facebook | replace("https://", "") | replace("http://", "") }}"
 phone: "{{phone}}"

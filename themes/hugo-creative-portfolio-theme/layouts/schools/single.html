@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 <!-- {{.Params.UID}}-->
 <div class="col-xs-12 col-sm-8 col-md-9 white-background">
   {{ partial "mobile_nav_toggle.html" . }}
@@ -96,7 +97,7 @@ L.marker([{{.Params.latitude}}, {{.Params.longitude}}]).addTo(map)
     {{ partial "facebook-messenger.html" . }}
 {{ end }}
 
-{{ end }}
+
 
 <script type="application/ld+json">
 {
@@ -112,3 +113,4 @@ L.marker([{{.Params.latitude}}, {{.Params.longitude}}]).addTo(map)
   ]
 }
 </script>
+{{ end }}

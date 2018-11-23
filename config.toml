@@ -46,7 +46,7 @@ googleAnalytics = "UA-31451672-10"
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "info@activekoala.com"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
