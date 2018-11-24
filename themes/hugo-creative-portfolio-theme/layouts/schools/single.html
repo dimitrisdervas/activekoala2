@@ -32,7 +32,10 @@
             </div>
 <!-- TITLE -->
           <div class="title flex flex-wrap py-6 items-center ">
+            {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
+            {{ if (fileExists $filenameprofile )}}
               <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive">
+              {{ end }}
                <h1>{{ .Title }}</h1>
             </div>
 <!-- TAGS -->

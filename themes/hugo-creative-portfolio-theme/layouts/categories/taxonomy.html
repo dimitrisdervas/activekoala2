@@ -1,5 +1,9 @@
 {{ define "main" }}
-<h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+<div class="col-xs-12 col-sm-8 col-md-9 p-6">
+  <h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
+</div>
+
+
 
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
   <ul class="filters-menu list-reset flex flex-wrap justify-start">
@@ -135,6 +139,7 @@
                   </div>
               </div>
           {{ end }}
+          {{ partial "form_newschool.html" . }}
         </div>
     </div>
 </div>

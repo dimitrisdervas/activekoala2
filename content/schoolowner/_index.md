@@ -7,10 +7,11 @@ index= "false"
 Η καταχώρηση θα είναι πάντα δωρεάν και οι χρεώσεις θα αφορούν για τον έξτρα κόπο να προσθέτουμε τρόπους επικοινωνίας όπως messenger chat, online forms, κτλ.
 
 
+## Απλή καταχώρηση
+
 ### Βήμα 1
 
-
-**Απλή καταχώρηση:** Απλά στείλτε τη διεύθυνση της σελίδας σας στο Facebook και εμείς θα σας καταχωρήσουμε στο ActiveKoala.
+Απλά στείλτε τη διεύθυνση της σελίδας σας στο Facebook και εμείς θα σας καταχωρήσουμε στο ActiveKoala.
 
 <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" name="contact" method="POST" netlify-honeypot="bot-field" netlify>
 	<p class="hidden">
@@ -40,6 +41,6 @@ index= "false"
 
 ### Βήμα 2
 
-**Απλή καταχώρηση:** Στη συνέχεια θα σας στείλουμε το λινκ της καταχώρησης με τα στοιχεία που βρήκαμε στο facebook.
+Στη συνέχεια θα σας στείλουμε το λινκ της καταχώρησης με τα στοιχεία που βρήκαμε στο facebook.
 
 <script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiMwMDkyY2MiLCJ3ZWIiOnsiYm90SWQiOiI1YjZjMDA3ZTM5YzM2ODAwNjI4NWZlZWUiLCJ0aGVtZSI6IiMwMDkyY2MifX0=" async defer></script>
