@@ -27,14 +27,14 @@
 
 {{ end }}
 
-                <img class="rounded shadow" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
+                <img class="rounded shadow" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
                <div id="map" class="flex-1"></div>
             </div>
 <!-- TITLE -->
           <div class="title flex flex-wrap py-6 items-center ">
             {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
             {{ if (fileExists $filenameprofile )}}
-              <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive">
+              <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
               {{ end }}
                <h1>{{ .Title }}</h1>
             </div>

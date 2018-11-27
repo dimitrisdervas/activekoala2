@@ -96,13 +96,14 @@
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
+          {{ partial "form_newschool.html" . }}
         {{ range $paginator.Pages }}
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
               <div class="box-masonry shadow-md">
                    <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
                                           {{ $filenamecover := printf "static/images/%s/%s-cover.jpg" .Params.UID .Params.UID }}
                       {{ if (fileExists $filenamecover )}}
-                      <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
+                      <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
                       {{ end }}
                     </a>
                   <div class=" bg-white rounded bpx-6 py-4">
@@ -139,7 +140,7 @@
                   </div>
               </div>
           {{ end }}
-          {{ partial "form_newschool.html" . }}
+
         </div>
     </div>
 </div>

@@ -38,14 +38,14 @@
                      <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
                       {{ $filenamecover := printf "static/images/%s/%s-cover.jpg" .Params.UID .Params.UID }}
                       {{ if (fileExists $filenamecover )}}
-                        <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="" class="img-responsive">
+                        <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
                         {{ end }}
                       </a>
                     <div class=" bg-white rounded bpx-6 py-2">
                           <div class="font-bold text-2xl mb-2 px-6 py-4">
                             <a class="text-grey-darkest" href="{{ .Permalink }}">
                           {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
-                          {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="" class="img-responsive">
+                          {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
                               {{ end }}
                              {{ .Title }}
                             </a>
