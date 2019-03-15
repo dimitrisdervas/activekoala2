@@ -83,6 +83,7 @@ gulp.task('md:schools', function() {
                 latitude : items[35],
                 Fetchrss : items[36],
                 about: items[41],
+                organisationid: items[46],
                 schoolTranslit : schoolTranslit,
                 cityTranslit : cityTranslit
             };

@@ -16,10 +16,10 @@ client = gspread.authorize(creds)
  
 # Find a workbook by name and open the first sheet
 # Make sure you use the right name here.
-schools = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(2)
-categories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(3)
-subcategories = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(4)
-organizations = client.open_by_key("1b50PZ60dxLpcu-Rz4lWo3xO_9CSRlb3EhKY92l_STwM").get_worksheet(7)
+schools = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(0)
+categories = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(1)
+subcategories = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(2)
+organisations = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(3)
 
 
 # Extract all of the records for each row.
@@ -28,9 +28,9 @@ schools_data = pd.DataFrame(schools_data)
 schools_data.to_csv('csv/google/schools.csv')
 
 # Extract all of the records for each row.
-organisations_data = organizations.get_all_records()
+organisations_data = organisations.get_all_records()
 organisations_data = pd.DataFrame(organisations_data)
-organisations_data.to_csv('csv/google/organizations.csv')
+organisations_data.to_csv('csv/google/organisations.csv')
 
 # Extract all of the records for each row.
 subcategories_data = subcategories.get_all_records()
