@@ -70,7 +70,7 @@ gulp.task('md:thesscategories', function() {
 
 gulp.task('yml:thesscategories', function() {
 
-    fs.readFile('./'+ thesscategoriesPath.csv +'.csv', 'utf8', function(err, data){
+ fs.readFile('./'+ thesscategoriesPath.csv +'.csv', 'utf8', function(err, data){
         if (err) throw err;
 
         parsed = Papa.parse(data,{delimiter: ',',   newline: ''});
@@ -79,16 +79,15 @@ gulp.task('yml:thesscategories', function() {
         for(var i = 1; i < rows.length; i++) {
             var items = rows[i]
 
-         // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var categoryTranslit = translit(items[2], {
-                lang: 'en'
-              })
-
             var templateData = {
                 category: items[1],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
+                Courses: items[2],
+                slugCategory: items[5],                
+                city: items[13], 
+                SchoolsUID : items[9],
+                subcategory : items[10],                
+                slugSubcategories: items[11],
+                schoolscount: items[12],
             };
 
 

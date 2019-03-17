@@ -44,6 +44,11 @@ gulp.task('md:schools', function() {
             var schoolTranslit = translit(items[1], {
                 lang: 'en'
               })
+            var orgTranslit = translit(items[7], {
+                lang: 'en'
+              })
+            var orgURL = items[42] + "-" + orgTranslit
+
 
             var templateData = {
                 school : items[1],
@@ -83,7 +88,9 @@ gulp.task('md:schools', function() {
                 latitude : items[35],
                 Fetchrss : items[36],
                 about: items[41],
-                organisationid: items[46],
+                organisationid: items[42],
+                organisation: items[7],
+                orgurl: orgURL,
                 schoolTranslit : schoolTranslit,
                 cityTranslit : cityTranslit
             };

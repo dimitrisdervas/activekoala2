@@ -131,6 +131,9 @@
                               </span>
                           {{ end }}
                         {{ end }}
+                        {{ if .Params.organisationurl }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/organisations/{{.Params.organisationurl}}">{{.Params.organisation}}</a></span>
+                          {{ end }}
                         {{ if .Params.longitude }}
                             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map available</span>
                         {{ end }}
