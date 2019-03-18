@@ -12,7 +12,7 @@ var del             = require('del');
 
 
 var thesscategoriesPath = {};
-thesscategoriesPath.collection = 'content/categoriesthessaloniki';
+thesscategoriesPath.collection = 'content/categoriesthess';
 thesscategoriesPath.csv        = 'csv/google/categories';
 thesscategoriesPath.template   = '_gulp-templates/nunjucks/categoriesthessaloniki.html';
 thesscategoriesPath.templateyml   = '_gulp-templates/nunjucks/categoriesthessalonikiyml.html';
@@ -108,7 +108,7 @@ gulp.task('yml:thesscategories', function() {
 gulp.task('del:thesscategories', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
-    'content/categoriesthessaloniki/**/*',
+    'content/categoriesthess/**/*',
     'data/yml/categoriesthessaloniki/**/*'
   ]);
 });

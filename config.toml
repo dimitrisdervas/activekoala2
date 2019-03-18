@@ -5,7 +5,6 @@ languageCode = "gr"
 defaultContentLanguage = "gr"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-31451672-10"
-
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling

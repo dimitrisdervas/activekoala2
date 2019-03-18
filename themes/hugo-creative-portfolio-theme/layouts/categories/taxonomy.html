@@ -41,7 +41,7 @@
 
 {{ if gt ($.Scratch.Get "counter1") "0"}}
   <li class="flex m-2">
-  {{ $url := printf "%s/%s" "categoriesthessaloniki" ($title | urlize | lower)}}
+  {{ $url := printf "%s/%s" "categoriesthess" ($title | urlize | lower)}}
   <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
       Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
   </a>

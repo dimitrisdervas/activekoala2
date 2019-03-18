@@ -52,6 +52,7 @@ gulp.task('del:all', function () {
   return del([
     // here we use a globbing pattern to match everything inside the `mobile` folder
     'content/schools/**/*',
+    'content/organisations/**/*',
     'content/categories/**/*',
     'data/yml/categories/**/*',
     'content/subcategories/**/*',
@@ -67,8 +68,8 @@ gulp.task('del:all', function () {
 });
 
 
-gulp.task('default:create', gulpSequence( 'del:all','download:csvs',['md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
+gulp.task('default:create', gulpSequence( 'del:all','download:csvs',['md:organisations','md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
 
 
-gulp.task('default:createmd', gulpSequence( 'del:all',['md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
+gulp.task('default:createmd', gulpSequence( 'del:all',['md:organisations','md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
 

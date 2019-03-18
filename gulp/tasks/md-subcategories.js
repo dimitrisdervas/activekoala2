@@ -175,8 +175,10 @@ gulp.task('yml:subcategories', function() {
                 slugCategory : items[5],
                 schools: items[3],
                 schoolscount: items[6],
-
-
+                athensschools: items[8],
+                athensschoolscount: items[9],
+                thessschools: items[11],
+                thessschoolscount: items[12],
             };
 
             gulp.src(subcategoriesPath.templateyml)

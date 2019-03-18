@@ -2,6 +2,7 @@
 title: |
    {{organisation}}
 UID: ["{{UID}}"]
+schoolsUID: ["{{schoolsUID | replace(',', '","' ) | safe  }}"]
 schoolcategories: ["{{schoolscategory | replace(',', '","' ) | safe  }}"]
 schoolsubcategories: ["{{ schoolssubcategory | replace(',', '","' ) | safe  }}"]
 facebook: "{{facebook}}"

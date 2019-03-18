@@ -5,4 +5,8 @@ category: "{{category}}"
 slugCategory: "{{slugCategory}}"
 schoolscount: "{{schoolscount}}"
 {% if schools|length %}{% if (schools == "#REF!") or (schools == "#N/A") %}{% else %}schools: ["{{ schools | replace(',', '", "' ) | safe  }}"]{% endif %}{% endif %}
+athensschools: ["{{athensschools | replace(',', '","' ) | safe }}"]
+athensschoolscount: "{{athensschoolscount}}"
+thessschools: ["{{thessschools | replace(',', '","' ) | safe}}"]
+thessschoolscount: "{{thessschoolscount}}"
 ---
