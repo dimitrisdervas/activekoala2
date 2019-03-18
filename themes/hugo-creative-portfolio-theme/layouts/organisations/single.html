@@ -1,0 +1,159 @@
+{{ define "main" }}
+
+<!-- {{.Params.UID}}-->
+<div class="col-xs-12 col-sm-8 col-md-9 white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="content-column-content px-0">
+        <div class="profile bg-white shadow mb-8">
+<!-- MAIN IMAGE -->
+          <div class="mainimg py-6 flex justify-start">
+{{ if in .Title "GADALA"}}
+
+  {{ range $original:= .Resources.Match "*cover.jpg" }}
+  {{ $image310x207:= $original.Fill "310x207 Center" }}
+  {{ $image300x200:= $original.Fill "300x200 Center" }}
+  {{ $image768x512:= $original.Fill "768x512 Center" }}
+  {{ $image450x300:= $original.Fill "450x300 Center" }}
+
+  <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
+    src="{{ $image310x207.RelPermalink }}"
+    alt="{{ .Title }}"
+    srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
+    sizes="(max-width: 310px) 100vw, 310px"/>
+    
+{{ end }}
+
+{{ end }}
+
+                <img class="rounded shadow" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+               <div id="map" class="flex-1"></div>
+            </div>
+<!-- TITLE -->
+          <div class="title flex flex-wrap py-6 items-center ">
+            {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
+            {{ if (fileExists $filenameprofile )}}
+              <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
+              {{ end }}
+               <h1>{{ .Title }}</h1>
+            </div>
+<!-- TAGS -->
+          <div class="tags">
+              <ul class="flex flex-wrap  items-center py-6 pl-6 mb-8 p-8 ">
+                  {{ range .Params.Cities }}
+                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ end }}
+                  {{ range $title := .Params.categories }}
+                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
+                                {{ $category.title }}</a></li>
+                  {{ end }}
+                  {{ if (isset .Params "subcategories" ) }}
+                    {{ range $title := .Params.subcategories }}
+                      <li><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
+                    {{ end }}
+                  {{ end }}
+                </ul>
+              </div>
+          </div>
+<!-- SOCIAL -->
+        <div class="social bg-white shadow mb-8 p-8 ">
+             {{ if  .Params.facebook }}
+              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
+            {{ end }}
+
+
+            {{ if .Params.website }}
+              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
+            {{ end }}
+          </div>
+<!-- DESCRIPTION -->
+        <div class="description bg-white p-6 mb-8 shadow text-black">
+          {{ .Content }}
+        </div>
+
+<div class="col-xs-12 col-sm-8 col-md-12 content-column">
+    <div class="grid">
+        <div class="row">
+          {{ range  $schooluid := .Params.schoolsUID }}
+          {{ range where $.Site.Pages "Section" "schools"}}
+              {{ if in .Params.UID $schooluid  }}
+              <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
+                <div class="box-masonry shadow-md">
+                     <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
+                      {{ $filenamecover := printf "static/images/%s/%s-cover.jpg" .Params.UID .Params.UID }}
+                      {{ if (fileExists $filenamecover )}}
+                        <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+                        {{ end }}
+                      </a>
+                    <div class=" bg-white rounded bpx-6 py-2">
+                          <div class="font-bold text-2xl mb-2 px-6 py-4">
+                            <a class="text-grey-darkest" href="{{ .Permalink }}">
+                          {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
+                          {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
+                              {{ end }}
+                             {{ .Title }}
+                            </a>
+                          </div>
+                          <div class="px-6 py-4 border-t border-grey-lightest">
+                          {{ range .Params.City }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
+                          {{ end }}
+                          {{ range $title := .Params.Categories }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
+                                  {{ $subcategory := index $.Site.Data.yml.categories ($title)}}{{ $subcategory.title }}
+                            </a> </span>
+                          {{ end }}
+
+                          {{ range $title := .Params.Subcategories }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
+                          {{ end }}
+                          {{ if .Params.organisationurl }}
+                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/organisations/{{.Params.organisationurl}}">{{.Params.organisation}}</a></span>
+                          {{ end }}
+                          {{ if .Params.latitudeGraphApi }}
+                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">Map</span>
+                          {{ end }}
+                          </div>
+                      </div>
+                      
+                  </div>
+              </div>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+    </div>
+</div>
+        <div class=" bg-white rounded text-grey text-xs ">{{.Params.UID}}</div>
+<!-- MAP -->
+
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+{{ if .Params.FacebookApiID }}
+    {{ partial "facebook-messenger.html" . }}
+{{ end }}
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "{{trim .Title "\n"}}",
+  "address": "{{.Params.address}}",
+  "url": "https://activekoala.com/{{.Params.UID}}",
+  "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg",
+  "logo": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg",
+  "sameAs": [
+    ".Params.facebook"
+  ]
+}
+</script>
+{{ end }}
