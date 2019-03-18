@@ -6,6 +6,11 @@
       <div class="container-fluid">
           <div class="row row-offcanvas row-offcanvas-left">
               {{ partial "sidebar.html" . }}
+                <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
+                  <form action="{{ "search" | absURL }}">
+                    <input id="search-query" name="s"/>
+                  </form>
+                </div>
               {{ block "main" . }}
               {{ end }}
           </div>
