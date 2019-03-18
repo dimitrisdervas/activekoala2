@@ -5,7 +5,7 @@ perioxi: [""]
 categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
-subcategories: ["gym"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: [""]
 UID: "school131120181744"
 latitude: ""
 longitude: ""
-url: "performance-22/athina/kleistou-xorou/gym"
+url: "performance-22/athina/kleistou-xorou/"
 slug: "performance-22"
 aliases:
     - /school131120181744

@@ -5,7 +5,7 @@ perioxi: [""]
 categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
-subcategories: ["personal-trainer"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: [""]
 UID: "school131120180012"
 latitude: "38.04867748"
 longitude: "23.78785892"
-url: "outdoor-fitness-club-oaka/athina/kleistou-xorou/personal-trainer"
+url: "outdoor-fitness-club-oaka/athina/kleistou-xorou/"
 slug: "outdoor-fitness-club-oaka"
 aliases:
     - /school131120180012

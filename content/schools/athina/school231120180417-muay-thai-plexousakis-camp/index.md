@@ -5,7 +5,7 @@ perioxi: ["ΠεριστέριμετρόΑγίουΑντώνιου"]
 categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
-subcategories: ["muay-thai"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: ["12131"]
 UID: "school231120180417"
 latitude: "38.00725339"
 longitude: "23.67420858"
-url: "muay-thai-plexousakis-camp/athina/polemikes-texnes/muay-thai"
+url: "muay-thai-plexousakis-camp/athina/polemikes-texnes/"
 slug: "muay-thai-plexousakis-camp"
 aliases:
     - /school231120180417

@@ -5,7 +5,7 @@ perioxi: [""]
 categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
-subcategories: ["muay-thai"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: [""]
 UID: "school151120181451"
 latitude: "37.949217"
 longitude: "23.7222066"
-url: "muaythai-nea-smyrni-blue-dragon-team/athina/polemikes-texnes/muay-thai"
+url: "muaythai-nea-smyrni-blue-dragon-team/athina/polemikes-texnes/"
 slug: "muaythai-nea-smyrni-blue-dragon-team"
 aliases:
     - /school151120181451

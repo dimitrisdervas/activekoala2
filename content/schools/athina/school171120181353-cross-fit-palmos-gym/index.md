@@ -3,7 +3,7 @@ title: "Cross Fit Palmos Gym"
 cities: ["Αθήνα"]
 perioxi: ["Αχαρνές"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["CROSS FIT"]
+subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""

@@ -5,7 +5,7 @@ perioxi: ["Ελληνικό"]
 categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
-subcategories: ["pilates"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: ["16777"]
 UID: "school181120181827"
 latitude: ""
 longitude: ""
-url: "pilates-by-mandy-and-more/athina/kleistou-xorou/pilates"
+url: "pilates-by-mandy-and-more/athina/kleistou-xorou/"
 slug: "pilates-by-mandy-and-more"
 aliases:
     - /school181120181827

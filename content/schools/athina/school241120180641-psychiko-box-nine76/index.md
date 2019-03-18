@@ -5,7 +5,7 @@ perioxi: ["Ψυχικό"]
 categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
-subcategories: ["crossfit"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: ["11525"]
 UID: "school241120180641"
 latitude: ""
 longitude: ""
-url: "psychiko-box-nine76/athina/kleistou-xorou/crossfit"
+url: "psychiko-box-nine76/athina/kleistou-xorou/"
 slug: "psychiko-box-nine76"
 aliases:
     - /school241120180641

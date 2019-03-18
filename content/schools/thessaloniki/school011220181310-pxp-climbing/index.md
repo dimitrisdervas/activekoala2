@@ -5,7 +5,7 @@ perioxi: [""]
 categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Climbing"]
 categories: ["athlitismos"]
-subcategories: ["anarixisi"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: [""]
 UID: "school011220181310"
 latitude: ""
 longitude: ""
-url: "pxp-climbing/thessaloniki/athlitismos/anarixisi"
+url: "pxp-climbing/thessaloniki/athlitismos/"
 slug: "pxp-climbing"
 aliases:
     - /school011220181310

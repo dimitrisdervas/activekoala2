@@ -5,7 +5,7 @@ perioxi: ["Ηλιούπολη"]
 categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
-subcategories: ["personal-trainer"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: ["16342"]
 UID: "school201120180710"
 latitude: ""
 longitude: ""
-url: "mpasdekis-gym-prive/athina/kleistou-xorou/personal-trainer"
+url: "mpasdekis-gym-prive/athina/kleistou-xorou/"
 slug: "mpasdekis-gym-prive"
 aliases:
     - /school201120180710

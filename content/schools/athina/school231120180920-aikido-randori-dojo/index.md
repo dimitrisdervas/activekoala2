@@ -5,7 +5,7 @@ perioxi: ["πλησίονΠανεπιστημίουΠειραιά"]
 categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: [""]
 categories: ["polemikes-texnes"]
-subcategories: ["aikido"]
+subcategories: [""]
 organisationid: ""
 organisation: ""
 orgurl: "-"
@@ -24,7 +24,7 @@ zipcode: [""]
 UID: "school231120180920"
 latitude: ""
 longitude: ""
-url: "aikido-randori-dojo/athina/polemikes-texnes/aikido"
+url: "aikido-randori-dojo/athina/polemikes-texnes/"
 slug: "aikido-randori-dojo"
 aliases:
     - /school231120180920
