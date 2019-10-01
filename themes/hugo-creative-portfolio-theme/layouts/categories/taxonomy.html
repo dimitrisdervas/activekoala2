@@ -64,7 +64,7 @@
 
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
   <ul class="filters-menu list-reset flex flex-wrap justify-start">
-    {{ range $title:=.Params.slugSubcategory }}
+    {{ range $title, .Params.slugSubcategory }}
       {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
       {{ if eq $subcategory.schoolscount "0" }}
       <li class="flex m-2">
