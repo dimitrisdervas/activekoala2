@@ -8,7 +8,7 @@ categories: ["athlimata-vounou"]
 subcategories: ["climbing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Φιλαδελφειας 126, 13673 Acharnae, Attiki, Greece"
 logoimg: "67405_155892637896813_1015583624_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["13673"]
 UID: "school171120181422"
-latitude: "38.0711379"
-longitude: "23.7387384"
+latitude: "38,0711379"
+longitude: "23,7387384"
 url: "oreivatikos-syllogos-axarnon/athina/athlimata-vounou/climbing"
 slug: "oreivatikos-syllogos-axarnon"
 aliases:

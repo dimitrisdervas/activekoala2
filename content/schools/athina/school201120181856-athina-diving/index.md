@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "38 Km Coastal Road Athens-Sounio, Lagonisi, 19010 Athens, Greece"
 logoimg: "logo (84).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["19010"]
 UID: "school201120181856"
-latitude: "37.79696868"
-longitude: "23.87122056"
+latitude: "37,79696868"
+longitude: "23,87122056"
 url: "athina-diving/athina/water-sports/"
 slug: "athina-diving"
 aliases:

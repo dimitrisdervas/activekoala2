@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ειρηνης 4 - Αγία Παρασκευή, 15341 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

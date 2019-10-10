@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kali"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πανταζίδου 15, 11145 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20138511348440.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120182246"
-latitude: "38.01452015"
-longitude: "23.72265279"
+latitude: "38,01452015"
+longitude: "23,72265279"
 url: "a-s-oi-koyrites-aleksandros-petroy/athina/polemikes-texnes/kali"
 slug: "a-s-oi-koyrites-aleksandros-petroy"
 aliases:

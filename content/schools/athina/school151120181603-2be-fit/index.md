@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Markou Mpotsari 5 Aigalew, 12241 Athens, Greece"
 logoimg: "1782336_460899507369727_1724637596_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12241"]
 UID: "school151120181603"
-latitude: "37.99142145"
-longitude: "23.67832929"
+latitude: "37,99142145"
+longitude: "23,67832929"
 url: "2be-fit/athina/kleistou-xorou/gym"
 slug: "2be-fit"
 aliases:

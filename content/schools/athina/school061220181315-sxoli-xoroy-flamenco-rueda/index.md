@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Pentelis 71, Vrilissia, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

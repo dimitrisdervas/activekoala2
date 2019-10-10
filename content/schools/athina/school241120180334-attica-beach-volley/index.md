@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Στάδιο Ειρήνης &amp; Φιλίας"
 logoimg: "538483_313639825371046_2006619110_n.jpg"
 profilePhoto : "downloaded"

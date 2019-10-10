@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201792420344358.jpg"
 profilePhoto : "downloaded"

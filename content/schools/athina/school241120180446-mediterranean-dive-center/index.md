@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["diving"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφ. Αλεξάνδρου Παπαναστασίου 95 (πρώην Βασιλέως Παύλου), 185 33 Piraeus, Greece"
 logoimg: "10734002_761801870573001_5355553794265906313_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18533"]
 UID: "school241120180446"
-latitude: "37.94013617"
-longitude: "23.66018414"
+latitude: "37,94013617"
+longitude: "23,66018414"
 url: "mediterranean-dive-center/athina/water-sports/diving"
 slug: "mediterranean-dive-center"
 aliases:

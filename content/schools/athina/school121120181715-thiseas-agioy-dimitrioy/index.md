@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δημοτικό Γυμναστήριο Αγίου Δημητρίου, 17342"
 logoimg: ""
 profilePhoto : "downloaded"

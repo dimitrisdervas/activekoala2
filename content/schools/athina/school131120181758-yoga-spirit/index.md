@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: "yoga-spirit.jpg"
 profilePhoto : "downloaded"

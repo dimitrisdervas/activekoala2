@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κολυμβητήριο O.A.K.A, 15123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

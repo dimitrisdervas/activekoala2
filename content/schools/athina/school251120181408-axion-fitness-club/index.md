@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δουκισσης Πλακεντιας 8, Πλ. Κέννεντυ, Χαλάνδρι, 15234 Athens, Greece"
 logoimg: "logo (22).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15234"]
 UID: "school251120181408"
-latitude: "38.01913944"
-longitude: "23.80902529"
+latitude: "38,01913944"
+longitude: "23,80902529"
 url: "axion-fitness-club/athina/kleistou-xorou/gym"
 slug: "axion-fitness-club"
 aliases:

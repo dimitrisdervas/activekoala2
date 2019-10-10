@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πρωτογένους 1, 10551 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

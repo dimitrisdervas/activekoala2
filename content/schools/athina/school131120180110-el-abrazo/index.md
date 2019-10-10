@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["tango"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kapetan Petroutsou 5-7, 11 523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180110"
-latitude: "37.9893913"
-longitude: "23.7597275"
+latitude: "37,9893913"
+longitude: "23,7597275"
 url: "el-abrazo/athina/xoros/tango"
 slug: "el-abrazo"
 aliases:

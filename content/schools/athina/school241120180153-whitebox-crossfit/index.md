@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "61 Amfitheas Ave., 17564 Athens, Greece"
 logoimg: "logo (52).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17564"]
 UID: "school241120180153"
-latitude: "37.93632515"
-longitude: "23.70139475"
+latitude: "37,93632515"
+longitude: "23,70139475"
 url: "whitebox-crossfit/athina/kleistou-xorou/crossfit"
 slug: "whitebox-crossfit"
 aliases:

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "OAKA - Μαρούσι, 15123 Αμαρυσίας Αρτέμιδος 43-45 ,Μαρούσι"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11257"]
 UID: "school171120181408"
-latitude: "38.04040321"
-longitude: "23.78792174"
+latitude: "38,04040321"
+longitude: "23,78792174"
 url: "as-palaioy-psyxikoy/athina/athlitismos/stivos"
 slug: "as-palaioy-psyxikoy"
 aliases:

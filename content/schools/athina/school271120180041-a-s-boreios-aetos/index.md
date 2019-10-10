@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "269 Mesogeion Av., 15231 Athens, Greece"
 logoimg: "north-eagle-logo_web.jpg"
 profilePhoto : "downloaded"

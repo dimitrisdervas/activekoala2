@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βασιλίσσης Σοφίας 38, 15124 Amaroúsion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/14633148_10154039577686235_8485523858568511124_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120182148"
-latitude: "38.05429"
-longitude: "23.8085099"
+latitude: "38,05429"
+longitude: "23,8085099"
 url: "zen-fighting-club/athina/polemikes-texnes/kung-fu"
 slug: "zen-fighting-club"
 aliases:

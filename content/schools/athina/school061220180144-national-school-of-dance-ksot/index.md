@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "55, Omirou Str, 106 72 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school061220180144"
-latitude: "37.98082"
-longitude: "23.73817"
+latitude: "37,98082"
+longitude: "23,73817"
 url: "national-school-of-dance-ksot/athina/xoros/"
 slug: "national-school-of-dance-ksot"
 aliases:

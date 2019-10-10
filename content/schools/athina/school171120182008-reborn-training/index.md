@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Συγγρού 147, 17121 Néa Smírni, Greece"
 logoimg: "35482_441542812565180_1670816511_n.jpg"
 profilePhoto : "downloaded"

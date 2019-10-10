@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "105 52, Leof. Vasilissis Olgas 2, Athina 105 57, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

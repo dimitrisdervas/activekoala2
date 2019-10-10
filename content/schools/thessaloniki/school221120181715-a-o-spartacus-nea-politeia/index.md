@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ωκεανού/Προέκταση Ολυμπιαδος, 56200 Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017931204520498.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school221120181715"
-latitude: "40.68145165"
-longitude: "22.91509867"
+latitude: "40,68145165"
+longitude: "22,91509867"
 url: "a-o-spartacus-nea-politeia/thessaloniki/polemikes-texnes/tae-kwon-do"
 slug: "a-o-spartacus-nea-politeia"
 aliases:

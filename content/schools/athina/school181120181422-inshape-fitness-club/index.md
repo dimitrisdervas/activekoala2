@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Αθηνών 336, 12462 Chaidari"
 logoimg: "logo-in-shape-h80.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12462"]
 UID: "school181120181422"
-latitude: "38.01129019"
-longitude: "23.65006437"
+latitude: "38,01129019"
+longitude: "23,65006437"
 url: "inshape-fitness-club/athina/kleistou-xorou/gym"
 slug: "inshape-fitness-club"
 aliases:

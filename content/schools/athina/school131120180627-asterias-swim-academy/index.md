@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βουνοπλαγιά, 45500 Ioánnina, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180627"
-latitude: "39.67446995"
-longitude: "20.80209108"
+latitude: "39,67446995"
+longitude: "20,80209108"
 url: "asterias-swim-academy/athina/baby/baby-swimming"
 slug: "asterias-swim-academy"
 aliases:

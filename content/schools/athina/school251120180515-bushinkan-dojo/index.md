@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κώστα Βάρναλη 52, Χαλάνδρι, 15233 Athens, Greece"
 logoimg: "logo (25).jpg"
 profilePhoto : "downloaded"

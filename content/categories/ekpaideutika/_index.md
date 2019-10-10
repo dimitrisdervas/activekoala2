@@ -2,7 +2,7 @@
 title: |
    Εκπαιδευτικά
 schools: [""]
-subcategory: ["Robotics","Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών"]
+subcategory: [""]
 slug: "ekpaideutika"
 slugSubcategory: ["robotics","dimiourgiki-apasxolisi"]
 ---

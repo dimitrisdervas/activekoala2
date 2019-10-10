@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kασταμονής 99Α &amp; Μακρυγιάννη, Αλσούπολη Νέας Ιωνίας, 142 35 Athens, Greece"
 logoimg: "logo (66).jpg"
 profilePhoto : "downloaded"

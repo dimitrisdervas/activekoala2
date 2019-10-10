@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΓΑΡΥΤΤΟΥ 13, 15232 Χαλανδρι"
 logoimg: ""
 profilePhoto : "downloaded"

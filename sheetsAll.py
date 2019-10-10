@@ -13,13 +13,17 @@ for fileName in fileList:
 scope = ['https://spreadsheets.google.com/feeds']
 creds = ServiceAccountCredentials.from_json_keyfile_name('client_secret.json', scope)
 client = gspread.authorize(creds)
- 
+
+
+scope = ['https://spreadsheets.google.com/feeds',
+         'https://www.googleapis.com/auth/drive']
+
 # Find a workbook by name and open the first sheet
 # Make sure you use the right name here.
-schools = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(0)
-categories = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(1)
-subcategories = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(2)
-organisations = client.open_by_key("1-Ae0iTTMM8UpxIvO7w3WORFq_VHcDmZccZ1FiDP_Ewc").get_worksheet(3)
+schools = client.open_by_key("1-DwJZAfWU_ChYNP8KQ7uG45Bf_5Pp5iZ6R3NfwG11KA").get_worksheet(0)
+categories = client.open_by_key("1-DwJZAfWU_ChYNP8KQ7uG45Bf_5Pp5iZ6R3NfwG11KA").get_worksheet(1)
+subcategories = client.open_by_key("1-DwJZAfWU_ChYNP8KQ7uG45Bf_5Pp5iZ6R3NfwG11KA").get_worksheet(2)
+organisations = client.open_by_key("1-DwJZAfWU_ChYNP8KQ7uG45Bf_5Pp5iZ6R3NfwG11KA").get_worksheet(3)
 
 
 # Extract all of the records for each row.

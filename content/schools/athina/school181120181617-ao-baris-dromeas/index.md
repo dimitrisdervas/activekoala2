@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ ΒΑΡΗΣ( Γραφείο εντός σταδίου), 16672 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16672"]
 UID: "school181120181617"
-latitude: "37.8333511"
-longitude: "23.7842007"
+latitude: "37,8333511"
+longitude: "23,7842007"
 url: "ao-baris-dromeas/athina/athlitismos/stivos"
 slug: "ao-baris-dromeas"
 aliases:

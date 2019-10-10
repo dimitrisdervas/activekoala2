@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βασιλείου Αδαμίδη 14, 54351 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220181324"
-latitude: "40.61488904"
-longitude: "22.97427088"
+latitude: "40,61488904"
+longitude: "22,97427088"
 url: "oreivatiki-and-anarrixitiki-lesxi-thessalonikis/thessaloniki/athlitismos/anarixisi"
 slug: "oreivatiki-and-anarrixitiki-lesxi-thessalonikis"
 aliases:

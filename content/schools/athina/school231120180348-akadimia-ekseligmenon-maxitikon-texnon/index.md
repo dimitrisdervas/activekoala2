@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "4 Alexandrou Papanastasiou Street, 14341 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014112419159216.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120180348"
-latitude: "38.03400652"
-longitude: "23.74174241"
+latitude: "38,03400652"
+longitude: "23,74174241"
 url: "akadimia-ekseligmenon-maxitikon-texnon/athina/polemikes-texnes/mma"
 slug: "akadimia-ekseligmenon-maxitikon-texnon"
 aliases:

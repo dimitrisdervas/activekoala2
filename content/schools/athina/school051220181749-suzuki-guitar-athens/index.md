@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πινδάρου 16, 17563"
 logoimg: ""
 profilePhoto : "downloaded"

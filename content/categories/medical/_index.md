@@ -1,8 +1,8 @@
 ---
 title: |
    Ιατρικά
-schools: ["school221120180710"]
-subcategory: [""]
+schools: ["Αθήνα"]
+subcategory: ["school221120180710"]
 slug: "medical"
 slugSubcategory: [""]
 ---

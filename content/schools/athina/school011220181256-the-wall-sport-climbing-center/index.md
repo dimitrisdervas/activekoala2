@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίου Αθανασίου 12, 15351 Pallíni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γράμμου 42 Βριλήσσια, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

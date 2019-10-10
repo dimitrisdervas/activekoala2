@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γρυπάρη 103 και Μενελάου, 17672 Athens, Greece"
 logoimg: "1925329_595530060525755_886731998_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17672"]
 UID: "school211120180320"
-latitude: "37.95751581"
-longitude: "23.70701926"
+latitude: "37,95751581"
+longitude: "23,70701926"
 url: "fit-me/athina/kleistou-xorou/gym"
 slug: "fit-me"
 aliases:

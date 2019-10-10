@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθνικό Καυτανζόγλειο Στάδιο, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

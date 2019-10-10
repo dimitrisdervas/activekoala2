@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αλυτρώτων Ελλήνων 22. Δασκάλους, 85100 Rhodes"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201481913244558.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school181120181408"
-latitude: "36.4306634"
-longitude: "28.2220163"
+latitude: "36,4306634"
+longitude: "28,2220163"
 url: "zongas-fighting-team/athina/polemikes-texnes/kickboxing"
 slug: "zongas-fighting-team"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓ. ΠΕΤΡΟΥ 36 ΑΧΑΡΝΑΙ, 13674 Menidi, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/arxaia-olimpia-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Υμηττού 119 ΠΑΓΚΡΑΤΙ * Λ. Βουλιαγμένης 583 ΑΡΓΥΡΟΥΠΟΛΗ, 11633 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school061220181803"
-latitude: "37.9657898"
-longitude: "23.7500896"
+latitude: "37,9657898"
+longitude: "23,7500896"
 url: "quick-step-dance-schools/athina/xoros/"
 slug: "quick-step-dance-schools"
 aliases:

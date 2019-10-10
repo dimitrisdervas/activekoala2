@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κύμης &amp; Απόλλωνος, 14451 Metamórfosi, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

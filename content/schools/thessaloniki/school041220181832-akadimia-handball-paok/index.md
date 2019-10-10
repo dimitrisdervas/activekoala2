@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["handball"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

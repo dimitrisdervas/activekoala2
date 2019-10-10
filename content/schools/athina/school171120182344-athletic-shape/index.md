@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΒΕΙΚΟΥ&amp;ΣΥΡΟΥ 5, 11147 Galátsion, Greece"
 logoimg: "314993_370359656412489_2113028247_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11147"]
 UID: "school171120182344"
-latitude: "38.0125084"
-longitude: "23.7551746"
+latitude: "38,0125084"
+longitude: "23,7551746"
 url: "athletic-shape/athina/kleistou-xorou/gym"
 slug: "athletic-shape"
 aliases:

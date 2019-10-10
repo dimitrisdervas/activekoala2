@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λένορμαν 114, 104.44 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school201120181324"
-latitude: "37.99148"
-longitude: "23.71519"
+latitude: "37,99148"
+longitude: "23,71519"
 url: "shu-ren-kan/athina/polemikes-texnes/aikido"
 slug: "shu-ren-kan"
 aliases:

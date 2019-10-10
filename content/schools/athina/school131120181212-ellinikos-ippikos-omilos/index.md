@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Paradeisou 18, 151 25 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181212"
-latitude: "38.0338288"
-longitude: "23.80028999"
+latitude: "38,0338288"
+longitude: "23,80028999"
 url: "ellinikos-ippikos-omilos/athina/ypaithries-drastiriotites/horse-riding"
 slug: "ellinikos-ippikos-omilos"
 aliases:

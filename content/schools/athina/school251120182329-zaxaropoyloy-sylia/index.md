@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γεωργίου Ζωγράφου 33, 15772 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120182329"
-latitude: "37.9743039"
-longitude: "23.7739271"
+latitude: "37,9743039"
+longitude: "23,7739271"
 url: "zaxaropoyloy-sylia/athina/xoros/"
 slug: "zaxaropoyloy-sylia"
 aliases:

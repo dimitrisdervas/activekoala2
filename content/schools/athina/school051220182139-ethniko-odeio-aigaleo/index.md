@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μαυροκορδάτου 4, Στάση μετρό, Αγ.Μαρίνα,, 12244 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

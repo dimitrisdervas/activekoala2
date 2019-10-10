@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σκιάθου 26, Ηλιούπολη, 16346 Athens, Greece"
 logoimg: "188290_334457883322756_92954993_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16346"]
 UID: "school201120180627"
-latitude: "37.94263"
-longitude: "23.74671"
+latitude: "37,94263"
+longitude: "23,74671"
 url: "coriolanos/athina/polemikes-texnes/muay-thai"
 slug: "coriolanos"
 aliases:

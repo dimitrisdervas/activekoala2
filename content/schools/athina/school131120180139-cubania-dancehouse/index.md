@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["salsa"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Kifisias 1, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180139"
-latitude: "37.98672867"
-longitude: "23.76137247"
+latitude: "37,98672867"
+longitude: "23,76137247"
 url: "cubania-dancehouse/athina/xoros/salsa"
 slug: "cubania-dancehouse"
 aliases:

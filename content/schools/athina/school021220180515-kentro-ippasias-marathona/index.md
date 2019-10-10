@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πλαταιων 57,Τσεπι, 19007 Marathón"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school021220180515"
-latitude: "38.12669671"
-longitude: "23.95856918"
+latitude: "38,12669671"
+longitude: "23,95856918"
 url: "kentro-ippasias-marathona/athina/ypaithries-drastiriotites/horse-riding"
 slug: "kentro-ippasias-marathona"
 aliases:

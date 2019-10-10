@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελικώνος 121, 11364 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

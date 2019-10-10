@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΣΤΡΑΤΗΓΟΥ ΔΑΓΚΛΗ 49, ΚΑΤΩ ΠΑΤΗΣΙΑ, 10445 Athens, Greece"
 logoimg: "1503838_500644753374234_1919717646_n.png"
 profilePhoto : "downloaded"

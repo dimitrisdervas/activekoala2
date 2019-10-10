@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Agiou Ioannou Karea &amp; 25Is Martiou, 16233 Víron, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

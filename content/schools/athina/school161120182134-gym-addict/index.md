@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "25is Martiou 43, Argyroupoli, 16452 Argyroupolis, Attiki, Greece"
 logoimg: "779a85_aa1aba543e2c4a3caa1f54c3073047edpng_srz_444_278_75_22_050_120_000_png_srz.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16452"]
 UID: "school161120182134"
-latitude: "37.90446989"
-longitude: "23.75266075"
+latitude: "37,90446989"
+longitude: "23,75266075"
 url: "gym-addict/athina/kleistou-xorou/gym"
 slug: "gym-addict"
 aliases:

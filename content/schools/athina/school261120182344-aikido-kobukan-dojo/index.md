@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ameinokleous 18 Neos Kosmos, 11745 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school261120182344"
-latitude: "37.959389"
-longitude: "23.7268214"
+latitude: "37,959389"
+longitude: "23,7268214"
 url: "aikido-kobukan-dojo/athina/polemikes-texnes/aikido"
 slug: "aikido-kobukan-dojo"
 aliases:

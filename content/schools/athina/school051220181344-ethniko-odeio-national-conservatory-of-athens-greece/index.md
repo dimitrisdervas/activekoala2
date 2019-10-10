@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μάγερ 18, 10438 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

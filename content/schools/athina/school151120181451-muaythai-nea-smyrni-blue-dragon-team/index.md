@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kratitos 88, 17124 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/1266199_634071046614345_1735255253_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181451"
-latitude: "37.949217"
-longitude: "23.7222066"
+latitude: "37,949217"
+longitude: "23,7222066"
 url: "muaythai-nea-smyrni-blue-dragon-team/athina/polemikes-texnes/"
 slug: "muaythai-nea-smyrni-blue-dragon-team"
 aliases:

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βύρωνος 40 Αργυρούπολη, Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/skiada.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120181353"
-latitude: "37.91788"
-longitude: "23.74925"
+latitude: "37,91788"
+longitude: "23,74925"
 url: "skiada-xristiana-urban-dance-society-by-christianna-skiada/athina/xoros/"
 slug: "skiada-xristiana-urban-dance-society-by-christianna-skiada"
 aliases:

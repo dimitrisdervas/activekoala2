@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school051220180437"
-latitude: "37.87747869"
-longitude: "23.76432896"
+latitude: "37,87747869"
+longitude: "23,76432896"
 url: "fightway-martial-arts-club/athina/kleistou-xorou/kickboxing"
 slug: "fightway-martial-arts-club"
 aliases:

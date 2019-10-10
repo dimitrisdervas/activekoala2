@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Aristotelous 18, 145 63 Kifisiá, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20171024105340778.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120181520"
-latitude: "38.0865055"
-longitude: "23.8325859"
+latitude: "38,0865055"
+longitude: "23,8325859"
 url: "fu-jow-pai-kifisias/athina/polemikes-texnes/kung-fu"
 slug: "fu-jow-pai-kifisias"
 aliases:

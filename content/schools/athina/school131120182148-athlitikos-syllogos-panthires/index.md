@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πευκων 70, Πευκων 70 Iráklion (Athens), Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/01/a.s-panthires-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182148"
-latitude: "35.3063316"
-longitude: "25.1410084"
+latitude: "35,3063316"
+longitude: "25,1410084"
 url: "athlitikos-syllogos-panthires/athina/polemikes-texnes/"
 slug: "athlitikos-syllogos-panthires"
 aliases:

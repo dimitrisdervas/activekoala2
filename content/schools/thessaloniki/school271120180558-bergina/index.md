@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΕΤΟΡΑΧΗΣ 7, ΕΥΟΣΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ"
 logoimg: ""
 profilePhoto : "downloaded"

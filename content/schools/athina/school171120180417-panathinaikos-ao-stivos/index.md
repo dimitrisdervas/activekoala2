@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org241120180337"
+organisationid: ""
 organisation: "ΠΑΝΑΘΗΝΑΙΚΟΣ ΑΟ"
-orgurl: "org241120180337-panathinaikos-ao"
+orgurl: "undefined-panathinaikos-ao"
 address: "Μακεδόνων 8, 11521 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11521"]
 UID: "school171120180417"
-latitude: "37.9828398"
-longitude: "23.7557773"
+latitude: "37,9828398"
+longitude: "23,7557773"
 url: "panathinaikos-ao-stivos/athina/athlitismos/stivos"
 slug: "panathinaikos-ao-stivos"
 aliases:

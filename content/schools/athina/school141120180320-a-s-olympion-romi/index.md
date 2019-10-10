@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καυκάσου 133 ανω κυψελη, Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/olimpion-romi.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180320"
-latitude: "38.00485"
-longitude: "23.74855"
+latitude: "38,00485"
+longitude: "23,74855"
 url: "a-s-olympion-romi/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-olympion-romi"
 aliases:

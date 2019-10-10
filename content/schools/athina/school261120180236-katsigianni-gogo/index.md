@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Προφήτη Ηλία 16 &amp; Ταινάρου Μεταμόρφωση, 14451 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school261120180236"
-latitude: "38.0555382"
-longitude: "23.7652798"
+latitude: "38,0555382"
+longitude: "23,7652798"
 url: "katsigianni-gogo/athina/xoros/"
 slug: "katsigianni-gogo"
 aliases:

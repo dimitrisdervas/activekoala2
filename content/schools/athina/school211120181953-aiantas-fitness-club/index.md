@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γρ.Λαμπρακη 11, 145 65 �Yios Stéfanos, Attiki, Greece"
 logoimg: "1623658_738473372874052_7024636099182292725_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14568"]
 UID: "school211120181953"
-latitude: "38.13764515"
-longitude: "23.86950374"
+latitude: "38,13764515"
+longitude: "23,86950374"
 url: "aiantas-fitness-club/athina/polemikes-texnes/aikido"
 slug: "aiantas-fitness-club"
 aliases:

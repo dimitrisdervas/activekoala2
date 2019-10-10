@@ -6,9 +6,9 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: "org191120180251"
+organisationid: ""
 organisation: "Holmes Place"
-orgurl: "org191120180251-holmes-place"
+orgurl: "undefined-holmes-place"
 address: "Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελ. Βενιζέλου 72, Νέα Ερυθραία, 146 71 Néa Erithraía, Attiki, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/routsakouv.jpg"
 profilePhoto : "downloaded"

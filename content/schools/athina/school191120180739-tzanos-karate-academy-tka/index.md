@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σαρανταπόρου 47 , Κ.Χαλάνδρι, 15231 Αθήνα"
 logoimg: "10501684_847223105315836_2532434673970448307_n.jpg"
 profilePhoto : "downloaded"

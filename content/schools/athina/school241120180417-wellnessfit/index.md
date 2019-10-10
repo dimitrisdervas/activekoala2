@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ethnikis Antistaseos 65, Khalándrion, 15231 Khalándrion, Attiki, Greece"
 logoimg: "10440895_1427363707534531_1184688508672277459_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15231"]
 UID: "school241120180417"
-latitude: "38.01249"
-longitude: "23.78694"
+latitude: "38,01249"
+longitude: "23,78694"
 url: "wellnessfit/athina/kleistou-xorou/gym"
 slug: "wellnessfit"
 aliases:

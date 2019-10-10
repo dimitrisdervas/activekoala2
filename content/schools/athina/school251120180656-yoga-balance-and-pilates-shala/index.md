@@ -3,12 +3,12 @@ title: "Yoga Balance &amp; Pilates Shala"
 cities: ["Αθήνα"]
 perioxi: ["Ταμπούρια"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χορμοβίτου 87, 18544 Piraeus, Greece"
 logoimg: "ae7125637fe9e73285137f238bfd2f69.jpg"
 profilePhoto : "downloaded"

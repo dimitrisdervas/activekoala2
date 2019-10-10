@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org191120180627"
+organisationid: ""
 organisation: "Α.Σ. ΠΑΟΚ / PAOK Athletic Club"
-orgurl: "org191120180627-a-s-paok-paok-athletic-club"
+orgurl: "undefined-a-s-paok-paok-athletic-club"
 address: "Mikras Asias 1, 54351 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

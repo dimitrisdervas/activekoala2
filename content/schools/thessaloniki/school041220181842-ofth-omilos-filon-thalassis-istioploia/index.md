@@ -6,9 +6,9 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: "org170320192009"
+organisationid: ""
 organisation: "ΟΦΘ Ομιλος Φιλων Θαλασσης"
-orgurl: "org170320192009-ofth-omilos-filon-thalassis"
+orgurl: "undefined-ofth-omilos-filon-thalassis"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

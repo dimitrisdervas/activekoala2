@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["judi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελευσινίων Μυστηρίων (Περιβαλλοντικό πάρκο Ιλίου) Ilion, Greece, 13122"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20181291525671.jpg"
 profilePhoto : "downloaded"

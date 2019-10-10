@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["toxovolia"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

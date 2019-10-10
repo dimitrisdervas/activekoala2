@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ακροπόλεως 49, 18756 Keratsíni, Greece"
 logoimg: "7ab0e2_d35a9401d01be33c1f285604c87b8516jpg_srz_706_398_75_22_050_120_000_jpg_srz.jpeg"
 profilePhoto : "downloaded"

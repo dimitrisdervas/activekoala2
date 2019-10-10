@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Ιωνιας 154 Αλιμος, 17456 Athens, Greece"
 logoimg: "final-3.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [":10445"]
 UID: "school191120182008"
-latitude: "37.91725316"
-longitude: "23.73373032"
+latitude: "37,91725316"
+longitude: "23,73373032"
 url: "azzurro-diving/athina/water-sports/gym"
 slug: "azzurro-diving"
 aliases:

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παπαχριστοπούλου 3Α, 30300 Náfpaktos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

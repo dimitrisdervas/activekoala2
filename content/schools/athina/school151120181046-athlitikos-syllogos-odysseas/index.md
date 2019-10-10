@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μάρκου Μπότσαρη 109, 132 31 Petroúpolis, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2012/11/xenos-soubasaki.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181046"
-latitude: "38.0369395"
-longitude: "23.6813781"
+latitude: "38,0369395"
+longitude: "23,6813781"
 url: "athlitikos-syllogos-odysseas/athina/polemikes-texnes/karate"
 slug: "athlitikos-syllogos-odysseas"
 aliases:

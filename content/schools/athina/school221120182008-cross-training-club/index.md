@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Venizelou Eleftheriou 95, 17123 Néa Smírni, Greece"
 logoimg: "logo (32).jpg"
 profilePhoto : "downloaded"

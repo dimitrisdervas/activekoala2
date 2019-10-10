@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σπύρου Λούη και Πίττα, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: "10351589_724589667614965_975533429894985422_n.jpg"
 profilePhoto : "downloaded"

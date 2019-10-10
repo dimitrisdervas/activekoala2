@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΣΑΡΑΝΤΑΠΟΡΟΥ 62 ΠΕΡΙΣΤΕΡΙ, 12134 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/10/parasidis-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180251"
-latitude: "38.010721"
-longitude: "23.6904984"
+latitude: "38,010721"
+longitude: "23,6904984"
 url: "a-s-taekwondo-peristerioy-parasidis/athina/polemikes-texnes/kickboxing"
 slug: "a-s-taekwondo-peristerioy-parasidis"
 aliases:

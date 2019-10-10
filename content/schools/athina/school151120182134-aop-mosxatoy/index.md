@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καποδιστριου &amp; Ποσειδωνος (Νεο κλειστο Γυμναστηριο Μοσχατου)., 18344 Μοσχάτο"
 logoimg: ""
 profilePhoto : "downloaded"

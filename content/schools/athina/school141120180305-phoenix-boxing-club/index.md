@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελληνοσερβικής Φιλίας 63, 15343 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/phoenix-boxing-club-logo-1.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180305"
-latitude: "38.015843"
-longitude: "23.82059097"
+latitude: "38,015843"
+longitude: "23,82059097"
 url: "phoenix-boxing-club/athina/polemikes-texnes/boxing"
 slug: "phoenix-boxing-club"
 aliases:

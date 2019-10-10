@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καλαμίδα 9, 10554 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

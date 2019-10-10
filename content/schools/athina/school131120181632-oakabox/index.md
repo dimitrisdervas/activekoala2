@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "OAKA Aquatic Center 37 Kifisias Av, Athens, 15123 Amaroúsion, Greece"
 logoimg: "logo (21).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181632"
-latitude: "38.03803197"
-longitude: "23.78287911"
+latitude: "38,03803197"
+longitude: "23,78287911"
 url: "oakabox/athina/kleistou-xorou/gym"
 slug: "oakabox"
 aliases:

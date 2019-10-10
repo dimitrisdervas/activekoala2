@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Soultani 12, 10683 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

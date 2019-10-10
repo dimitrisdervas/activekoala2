@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεταμορφώσεως 51, Χαλάνδρι, 15234 Athens, Greece"
 logoimg: "logo-square.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15234"]
 UID: "school251120181324"
-latitude: "38.02564648"
-longitude: "23.82309099"
+latitude: "38,02564648"
+longitude: "23,82309099"
 url: "ashtanga-yoga-halandri/athina/polemikes-texnes/yoga"
 slug: "ashtanga-yoga-halandri"
 aliases:

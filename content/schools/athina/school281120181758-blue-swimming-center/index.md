@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σκρέκη 78, 113672 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

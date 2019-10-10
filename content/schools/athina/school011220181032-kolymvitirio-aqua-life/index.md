@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σουλίου 17, 14569 Dionysos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

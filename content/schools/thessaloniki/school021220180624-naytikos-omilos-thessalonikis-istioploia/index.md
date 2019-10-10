@@ -6,9 +6,9 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: "org170320192006"
+organisationid: ""
 organisation: "Ναυτικός Όμιλος Θεσσαλονίκης"
-orgurl: "org170320192006-naytikos-omilos-thessalonikis"
+orgurl: "undefined-naytikos-omilos-thessalonikis"
 address: "Θεμ.Σοφούλη 112, 551 31 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

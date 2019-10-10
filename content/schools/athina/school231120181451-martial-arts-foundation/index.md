@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεώφ. Μεσογείων 259, Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014818135637986.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120181451"
-latitude: "38.00255312"
-longitude: "23.79062424"
+latitude: "38,00255312"
+longitude: "23,79062424"
 url: "martial-arts-foundation/athina/polemikes-texnes/aikido"
 slug: "martial-arts-foundation"
 aliases:

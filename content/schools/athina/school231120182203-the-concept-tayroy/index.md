@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "28 Koryzi, 17778 Távros, Greece"
 logoimg: "1398891_323718087820501_8891748799738463985_o-1.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17778"]
 UID: "school231120182203"
-latitude: "37.9649089"
-longitude: "23.69940877"
+latitude: "37,9649089"
+longitude: "23,69940877"
 url: "the-concept-tayroy/athina/kleistou-xorou/"
 slug: "the-concept-tayroy"
 aliases:

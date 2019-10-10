@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ιθάκης 5, 12461 Χαϊδάρι"
 logoimg: "524691_386375878161496_1198257669_n.png"
 profilePhoto : "downloaded"

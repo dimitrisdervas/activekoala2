@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ολυμπιακό Στάδιο (Ο.Α.Κ.Α), 15123 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/vizantinos.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181144"
-latitude: "38.01596134"
-longitude: "23.75947952"
+latitude: "38,01596134"
+longitude: "23,75947952"
 url: "vizantinos-target-sport-club/athina/polemikes-texnes/tennis"
 slug: "vizantinos-target-sport-club"
 aliases:

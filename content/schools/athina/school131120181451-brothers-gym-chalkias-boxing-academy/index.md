@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίας Σοφίας 34, 18454 Níkaia, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/brothers-gym-boxing-acadeny-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181451"
-latitude: "37.97784346"
-longitude: "23.64089585"
+latitude: "37,97784346"
+longitude: "23,64089585"
 url: "brothers-gym-chalkias-boxing-academy/athina/polemikes-texnes/"
 slug: "brothers-gym-chalkias-boxing-academy"
 aliases:

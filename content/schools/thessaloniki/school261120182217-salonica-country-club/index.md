@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Drosia Thermis, 57001 Thérmi, Thessaloniki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

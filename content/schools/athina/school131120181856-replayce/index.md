@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Amarisias Artemidos, Marousi, 151 22 Athens, Greece"
 logoimg: "1513780_610255779105801_1982676056844512528_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181856"
-latitude: "38.04099365"
-longitude: "23.7886405"
+latitude: "38,04099365"
+longitude: "23,7886405"
 url: "replayce/athina/kleistou-xorou/gym"
 slug: "replayce"
 aliases:

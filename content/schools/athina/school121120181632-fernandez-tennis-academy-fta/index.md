@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αισώπου 7, 19009 Pikérmi, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

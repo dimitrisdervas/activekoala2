@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΩΦΟΡΟΣ ΠΕΝΤΕΛΗΣ 150, Khalándri, Attiki, Greece"
 logoimg: "logo (24).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15233"]
 UID: "school251120181939"
-latitude: "38.03401449"
-longitude: "23.8234379"
+latitude: "38,03401449"
+longitude: "23,8234379"
 url: "athlokinisi-xalandrioy/athina/athlitismos/gymnastics-rithmiki"
 slug: "athlokinisi-xalandrioy"
 aliases:

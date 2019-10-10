@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΒΟΡΕΙΟΥ ΗΠΕΙΡΟΥ 21, 12133 Peristéri, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/08/logo-aristoteleio-gspp.jpg"
 profilePhoto : "downloaded"

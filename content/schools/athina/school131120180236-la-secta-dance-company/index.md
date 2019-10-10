@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["bachata"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "57 Sygrou Avenue , (Fix), 11745 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180236"
-latitude: "37.9626495"
-longitude: "23.72446209"
+latitude: "37,9626495"
+longitude: "23,72446209"
 url: "la-secta-dance-company/athina/xoros/bachata"
 slug: "la-secta-dance-company"
 aliases:

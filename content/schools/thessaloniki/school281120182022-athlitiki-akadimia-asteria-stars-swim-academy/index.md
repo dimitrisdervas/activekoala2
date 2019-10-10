@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθνικο κολυμβητήριο - Αγίου Δημητρίου (Καυτατζόγλειο ), 54636 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

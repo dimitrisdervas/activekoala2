@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ο.Α.Κ.Α. Ποδηλατοδρόμιο, 15123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

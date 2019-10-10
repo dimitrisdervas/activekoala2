@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kifissias Ave 192, 14562 Kifissia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

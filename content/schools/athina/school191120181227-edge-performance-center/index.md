@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Foivis 13, 16674 Glyfáda, Greece"
 logoimg: "1185013_561335930569165_559674972_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
 UID: "school191120181227"
-latitude: "37.85973"
-longitude: "23.75402"
+latitude: "37,85973"
+longitude: "23,75402"
 url: "edge-performance-center/athina/kleistou-xorou/personal-trainer"
 slug: "edge-performance-center"
 aliases:

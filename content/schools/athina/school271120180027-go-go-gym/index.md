@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Φανερωμένης 13, 15561 Holargos, Greece"
 logoimg: "logo (1).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15561"]
 UID: "school271120180027"
-latitude: "38.0034561"
-longitude: "23.7978032"
+latitude: "38,0034561"
+longitude: "23,7978032"
 url: "go-go-gym/athina/kleistou-xorou/gym"
 slug: "go-go-gym"
 aliases:

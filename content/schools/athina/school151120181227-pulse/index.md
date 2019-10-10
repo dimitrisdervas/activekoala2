@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΟΦΩΡΟΣ ΜΑΡΑΘΩΝΟΣ 4, 14565 AΓΙΟΣ ΣΤΕΦΑΝΟΣ"
 logoimg: "logo_0.png"
 profilePhoto : "downloaded"

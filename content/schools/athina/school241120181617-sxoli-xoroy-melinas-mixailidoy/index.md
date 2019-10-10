@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεγίστης 22 Α, 17455 Kalamáki, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

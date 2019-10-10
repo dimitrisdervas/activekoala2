@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "55131 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

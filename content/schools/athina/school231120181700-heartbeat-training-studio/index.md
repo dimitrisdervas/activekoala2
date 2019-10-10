@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Αμφιθέας 103, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: "10169448_459571024189573_7740639371759656581_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17564"]
 UID: "school231120181700"
-latitude: "37.92941292"
-longitude: "23.70318016"
+latitude: "37,92941292"
+longitude: "23,70318016"
 url: "heartbeat-training-studio/athina/kleistou-xorou/gym"
 slug: "heartbeat-training-studio"
 aliases:

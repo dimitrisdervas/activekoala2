@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δροσιά Θέρμης, 57001 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σελήνης 25, 141 21 Athens, Greece"
 logoimg: "balios_logo_clean.png"
 profilePhoto : "downloaded"

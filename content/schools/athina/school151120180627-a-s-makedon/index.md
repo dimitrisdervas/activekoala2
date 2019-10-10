@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Φλέμινγκ 16-18, 17563 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/Untitled-5-306x250.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ Αμφιθεας 21, 17562 Athens, Greece"
 logoimg: "logo (33).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17564"]
 UID: "school231120182232"
-latitude: "37.97746"
-longitude: "23.73106"
+latitude: "37,97746"
+longitude: "23,73106"
 url: "physical-gym/athina/kleistou-xorou/gym"
 slug: "physical-gym"
 aliases:

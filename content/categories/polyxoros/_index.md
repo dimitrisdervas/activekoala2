@@ -2,7 +2,7 @@
 title: |
    Πολυχώρος
 schools: [""]
-subcategory: ["Στέγη Πολιτισμού","Χώρος Τέχνης"]
+subcategory: [""]
 slug: "polyxoros"
 slugSubcategory: ["polyxoros","xoros-texnis"]
 ---

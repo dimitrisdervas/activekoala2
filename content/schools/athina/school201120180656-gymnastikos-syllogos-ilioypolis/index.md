@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180319"
+organisationid: ""
 organisation: "ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΗΛΙΟΥΠΟΛΗΣ"
-orgurl: "org191120180319-gymnastikos-syllogos-ilioypolis"
+orgurl: "undefined-gymnastikos-syllogos-ilioypolis"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
 logoimg: ""
 profilePhoto : "downloaded"

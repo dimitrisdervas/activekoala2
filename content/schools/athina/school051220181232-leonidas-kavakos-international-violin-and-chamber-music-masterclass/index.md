@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Panepistimiou 28, 10681 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

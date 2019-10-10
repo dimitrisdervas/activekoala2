@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πολυκλείτου 1, Μοναστηράκι, 105 51 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20135913401165.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school211120180710"
-latitude: "37.9787501"
-longitude: "23.7274351"
+latitude: "37,9787501"
+longitude: "23,7274351"
 url: "choros-center/athina/polemikes-texnes/kung-fu"
 slug: "choros-center"
 aliases:

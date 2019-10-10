@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlitismos"]
 subcategories: ["cycling"]
-organisationid: "org241120180210"
+organisationid: ""
 organisation: "Β.Α.Ο."
-orgurl: "org241120180210-b-a-o"
+orgurl: "undefined-b-a-o"
 address: "ΕΛΠΙΔΟΣ 52 ΣΥΚΙΕΣ, 56625 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

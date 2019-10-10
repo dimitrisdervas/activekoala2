@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "AIANTOS 3B, VRILISSIA, 15235 Athens, Greece"
 logoimg: "logo (83).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15235"]
 UID: "school171120182051"
-latitude: "38.03885785"
-longitude: "23.82612214"
+latitude: "38,03885785"
+longitude: "23,82612214"
 url: "physical-fitness-club/athina/kleistou-xorou/gym"
 slug: "physical-fitness-club"
 aliases:

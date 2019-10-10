@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τατοΐου 219,, 13672 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school021220180417"
-latitude: "38.1150219"
-longitude: "23.7897341"
+latitude: "38,1150219"
+longitude: "23,7897341"
 url: "iob-ippikos-omilos-barympompis/athina/ypaithries-drastiriotites/horse-riding"
 slug: "iob-ippikos-omilos-barympompis"
 aliases:

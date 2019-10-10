@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βουτσαρά, 6, 118 55 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school061220180535"
-latitude: "37.9770393"
-longitude: "23.7034874"
+latitude: "37,9770393"
+longitude: "23,7034874"
 url: "seli-kanou-west-african-dance-and-music/athina/xoros/"
 slug: "seli-kanou-west-african-dance-and-music"
 aliases:

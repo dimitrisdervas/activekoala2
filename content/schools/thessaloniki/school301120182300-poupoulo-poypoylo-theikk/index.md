@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγ. Δημητρίου &amp; 3ης Σεπτεμβρίου (Ολυμπιακό Μουσείο Θεσσαλονίκης), 54636 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

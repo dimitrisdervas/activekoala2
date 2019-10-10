@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Alexandrou Papanastasiou 16 str, 15126 Amaroúsion, Greece"
 logoimg: "10357446_762334303804781_4181218550220552391_n.jpg"
 profilePhoto : "downloaded"

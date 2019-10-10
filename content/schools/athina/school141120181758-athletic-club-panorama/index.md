@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΩΣΤΑ ΒΑΡΝΑΛΗ 12, Petroúpolis, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/athletic-club-panorama-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120181758"
-latitude: "38.0465393"
-longitude: "23.6722603"
+latitude: "38,0465393"
+longitude: "23,6722603"
 url: "athletic-club-panorama/athina/polemikes-texnes/kickboxing"
 slug: "athletic-club-panorama"
 aliases:

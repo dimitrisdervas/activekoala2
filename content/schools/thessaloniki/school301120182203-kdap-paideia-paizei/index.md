@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μαραθώνος 13, 54639 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2016/06/logopaideiapaizei.jpg"
 profilePhoto : "downloaded"

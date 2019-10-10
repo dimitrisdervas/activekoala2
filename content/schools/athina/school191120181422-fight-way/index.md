@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017821231445613.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school191120181422"
-latitude: "37.87747869"
-longitude: "23.76432896"
+latitude: "37,87747869"
+longitude: "23,76432896"
 url: "fight-way/athina/polemikes-texnes/hapkido"
 slug: "fight-way"
 aliases:

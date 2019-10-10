@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Stamatas 8, 14572 Drosiá, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

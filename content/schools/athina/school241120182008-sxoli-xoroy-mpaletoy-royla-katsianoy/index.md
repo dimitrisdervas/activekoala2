@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Pontion 2, Perama 188 63, Greece, 188 63 Perama"
 logoimg: ""
 profilePhoto : "downloaded"

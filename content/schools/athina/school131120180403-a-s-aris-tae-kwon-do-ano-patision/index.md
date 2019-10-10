@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ιαλέμου και Θύσσου 3, 11141 Athens, Greece"
 logoimg: "420748_207431699364702_1396103047_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180403"
-latitude: "38.023133"
-longitude: "23.7405723"
+latitude: "38,023133"
+longitude: "23,7405723"
 url: "a-s-aris-tae-kwon-do-ano-patision/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-aris-tae-kwon-do-ano-patision"
 aliases:

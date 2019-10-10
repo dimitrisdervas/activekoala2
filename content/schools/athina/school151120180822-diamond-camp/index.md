@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Eleytheriou Venizelou 3, 16777 Ellinikón, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/11/diamond-camp-logo.jpg"
 profilePhoto : "downloaded"

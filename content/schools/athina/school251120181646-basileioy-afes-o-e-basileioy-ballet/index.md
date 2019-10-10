@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΘΕΟΦΡΑΣΤΟΥ 38, 187-56 ΚΕΡΑΤΣΙΝΙ"
 logoimg: ""
 profilePhoto : "downloaded"

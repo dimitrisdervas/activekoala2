@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ακτή Θεμιστοκλέους 74, Πειραϊκή, 18537 Piraeus, Greece"
 logoimg: "logo (63).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18537"]
 UID: "school241120181212"
-latitude: "37.92906"
-longitude: "23.64398"
+latitude: "37,92906"
+longitude: "23,64398"
 url: "slice-fitness-hall/athina/kleistou-xorou/gym"
 slug: "slice-fitness-hall"
 aliases:

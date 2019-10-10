@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ.Δεκελειας 193, 13671 Acharne, Greece"
 logoimg: "50000000.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["13671"]
 UID: "school171120181339"
-latitude: "38.0910306"
-longitude: "23.7591737"
+latitude: "38,0910306"
+longitude: "23,7591737"
 url: "batista-academy/athina/athlitismos/"
 slug: "batista-academy"
 aliases:

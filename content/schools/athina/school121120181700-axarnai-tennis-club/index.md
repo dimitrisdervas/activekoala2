@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Dekeleias 193, 13671 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120181700"
-latitude: "38.09089259"
-longitude: "23.75993282"
+latitude: "38,09089259"
+longitude: "23,75993282"
 url: "axarnai-tennis-club/athina/athlitismos/tennis"
 slug: "axarnai-tennis-club"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Zisimopoulou 68, 17564 Palaión Fáliron, Attiki, Greece"
 logoimg: "logo (20).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17564"]
 UID: "school231120181548"
-latitude: "37.93524972"
-longitude: "23.69890946"
+latitude: "37,93524972"
+longitude: "23,69890946"
 url: "golden-peak-fitness/athina/kleistou-xorou/gym"
 slug: "golden-peak-fitness"
 aliases:

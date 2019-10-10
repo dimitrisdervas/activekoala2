@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Νικηφόρου Φωκά 12 &amp; Ηφαίστου, 18451 Níkaia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

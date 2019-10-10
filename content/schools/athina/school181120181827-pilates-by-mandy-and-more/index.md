@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πλαπούτα 39 &amp; Ροδοπόλεως 73, 167 77 Ellinikón, Greece"
 logoimg: "νέα-εικόνα.jpg"
 profilePhoto : "downloaded"

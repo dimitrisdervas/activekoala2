@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["wrestling"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παγκρήτιο Στάδιο - Θύρα 15, Ηράκλειο"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201591793146974.jpg"
 profilePhoto : "downloaded"

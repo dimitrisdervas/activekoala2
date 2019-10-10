@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γρ. Λαμπράκη 45, 17778 Távros, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/tiger-muay-thai-boran-logo-.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181505"
-latitude: "37.96623912"
-longitude: "23.70123736"
+latitude: "37,96623912"
+longitude: "23,70123736"
 url: "tiger-muay-thai-boran-camp/athina/polemikes-texnes/muay-thai"
 slug: "tiger-muay-thai-boran-camp"
 aliases:

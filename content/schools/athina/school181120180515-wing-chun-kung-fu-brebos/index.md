@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ Φυλης 160, 13341 Ανω Λιοσια"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201582312051395.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school181120180515"
-latitude: "38.07803626"
-longitude: "23.70095372"
+latitude: "38,07803626"
+longitude: "23,70095372"
 url: "wing-chun-kung-fu-brebos/athina/polemikes-texnes/kung-fu"
 slug: "wing-chun-kung-fu-brebos"
 aliases:

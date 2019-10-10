@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["modern-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πρωτογένους 1, 10551 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180153"
-latitude: "37.9782"
-longitude: "23.72633"
+latitude: "37,9782"
+longitude: "23,72633"
 url: "dance-up/athina/xoros/modern-dance"
 slug: "dance-up"
 aliases:

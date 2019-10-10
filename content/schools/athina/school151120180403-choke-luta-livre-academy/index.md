@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "15562 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/08/choke-luta-livre-academy-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180403"
-latitude: "38.0049261"
-longitude: "23.8031768"
+latitude: "38,0049261"
+longitude: "23,8031768"
 url: "choke-luta-livre-academy/athina/polemikes-texnes/mma"
 slug: "choke-luta-livre-academy"
 aliases:

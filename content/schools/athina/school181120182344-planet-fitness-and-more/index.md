@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Αναπαύσεως 26-28, 15235 Athens, Greece"
 logoimg: "logo.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15235"]
 UID: "school181120182344"
-latitude: "38.04501791"
-longitude: "23.83736964"
+latitude: "38,04501791"
+longitude: "23,83736964"
 url: "planet-fitness-and-more/athina/kleistou-xorou/gym"
 slug: "planet-fitness-and-more"
 aliases:

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["basket"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μαινεμένης 4, 17237 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "VALTETSIOU 11, 12243 Aegaleo, Attiki, Greece"
 logoimg: "223932_507302289284157_1160977415_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12241"]
 UID: "school171120181520"
-latitude: "37.9971352"
-longitude: "23.6752491"
+latitude: "37,9971352"
+longitude: "23,6752491"
 url: "s-fi-ga-syllogos-filon-gymnastikis-aigaleo/athina/athlitismos/gymnastics-rithmiki"
 slug: "s-fi-ga-syllogos-filon-gymnastikis-aigaleo"
 aliases:

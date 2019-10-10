@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Anaxagora 16, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: "logo (1).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14671"]
 UID: "school221120182036"
-latitude: "38.09046"
-longitude: "23.81928"
+latitude: "38,09046"
+longitude: "23,81928"
 url: "healthcure/athina/kleistou-xorou/gym"
 slug: "healthcure"
 aliases:

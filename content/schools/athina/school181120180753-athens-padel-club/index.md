@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κωνσταντίνου Καραμανλή, 4, 16673 Voúla, Greece"
 logoimg: "screen-shot-2014-10-30-at-42157-pm.png"
 profilePhoto : "downloaded"

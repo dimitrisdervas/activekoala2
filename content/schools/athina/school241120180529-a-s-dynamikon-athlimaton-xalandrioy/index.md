@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθνικής Αντιστάσεως 3, 15232 Athens, Greece"
 logoimg: "318464_143238095770194_3894539_n.jpg"
 profilePhoto : "downloaded"

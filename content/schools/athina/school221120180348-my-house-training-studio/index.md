@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καλαβρύτων 21, 15451 Psychiko, Greece"
 logoimg: "the-house-logo-f-01.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15451"]
 UID: "school221120180348"
-latitude: "38.00384"
-longitude: "23.77794"
+latitude: "38,00384"
+longitude: "23,77794"
 url: "my-house-training-studio/athina/kleistou-xorou/"
 slug: "my-house-training-studio"
 aliases:

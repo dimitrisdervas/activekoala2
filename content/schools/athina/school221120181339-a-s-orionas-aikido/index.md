@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Β.ΛΑΣΚΟΥ 37, 11634 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/06/1900206_416752011803792_832354621_o.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθνάρχου Μακαρίου 113Α, 16452 Argyroupolis, Attiki, Greece"
 logoimg: "syrya.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16451"]
 UID: "school161120182148"
-latitude: "37.9091187"
-longitude: "23.7491703"
+latitude: "37,9091187"
+longitude: "23,7491703"
 url: "surya-bali-yoga-center/athina/kleistou-xorou/"
 slug: "surya-bali-yoga-center"
 aliases:

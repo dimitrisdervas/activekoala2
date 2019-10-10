@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τηλεφάνους 30 &amp; Αίμωνος, Ακαδημία Πλάτωνος, 10442 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015818115620162.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school171120182022"
-latitude: "37.9944305"
-longitude: "23.7086601"
+latitude: "37,9944305"
+longitude: "23,7086601"
 url: "a-s-maxitiki-akadimia-platonos/athina/polemikes-texnes/kung-fu"
 slug: "a-s-maxitiki-akadimia-platonos"
 aliases:

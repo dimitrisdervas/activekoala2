@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ευρυτανιας 51, 17341 Αγιος Δημήτριος"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/02/bulls-fight-academy-logo.png"
 profilePhoto : "downloaded"

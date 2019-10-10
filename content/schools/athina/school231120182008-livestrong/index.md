@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "18 Areos street, 17562 Palaión Fáliron, Attiki, Greece"
 logoimg: "νέα-εικόνα (1).jpg"
 profilePhoto : "downloaded"

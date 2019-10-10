@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μυκηνών 19, 16674 Glyfáda, Greece"
 logoimg: "zen.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
 UID: "school191120181129"
-latitude: "37.87253"
-longitude: "23.7641"
+latitude: "37,87253"
+longitude: "23,7641"
 url: "zen-fighters/athina/polemikes-texnes/kung-fu"
 slug: "zen-fighters"
 aliases:

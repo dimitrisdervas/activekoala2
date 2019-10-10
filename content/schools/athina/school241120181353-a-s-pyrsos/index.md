@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tang-soo-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΟΛΟΚΟΤΡΩΝΗ 24, 14121 Iráklion (Athens), Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2016814121339648.jpg"
 profilePhoto : "downloaded"

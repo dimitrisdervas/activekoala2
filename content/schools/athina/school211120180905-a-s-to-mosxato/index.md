@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΑΜΠΟΥΡΗ 8, 18345"
 logoimg: "logo11.jpg"
 profilePhoto : "downloaded"

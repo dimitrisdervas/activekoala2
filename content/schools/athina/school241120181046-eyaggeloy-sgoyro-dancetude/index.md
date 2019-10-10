@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΦΟΡΜΙΩΝΟΣ 137 ΚΑΙΣΑΡΙΑΝΗ, 16121 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/tania_rosopoulou.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181046"
-latitude: "37.9641953"
-longitude: "23.7574863"
+latitude: "37,9641953"
+longitude: "23,7574863"
 url: "eyaggeloy-sgoyro-dancetude/athina/xoros/"
 slug: "eyaggeloy-sgoyro-dancetude"
 aliases:

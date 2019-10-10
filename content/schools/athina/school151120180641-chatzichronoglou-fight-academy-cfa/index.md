@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίου Αντωνίου 78 Πάτημα Χαλανδρίου, 15235 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/04/Chatzichronoglou-Fight-Academy-CFA-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180641"
-latitude: "38.0305977"
-longitude: "23.8381042"
+latitude: "38,0305977"
+longitude: "23,8381042"
 url: "chatzichronoglou-fight-academy-cfa/athina/polemikes-texnes/kickboxing"
 slug: "chatzichronoglou-fight-academy-cfa"
 aliases:

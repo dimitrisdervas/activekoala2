@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

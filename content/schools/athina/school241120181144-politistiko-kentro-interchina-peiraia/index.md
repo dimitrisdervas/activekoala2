@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kountouriotou 89, 18534 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201781213925851.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181144"
-latitude: "37.94462054"
-longitude: "23.65133286"
+latitude: "37,94462054"
+longitude: "23,65133286"
 url: "politistiko-kentro-interchina-peiraia/athina/polemikes-texnes/kung-fu"
 slug: "politistiko-kentro-interchina-peiraia"
 aliases:

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kalliga 77, 15237 Filothéi, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15237"]
 UID: "school251120181129"
-latitude: "38.0274277"
-longitude: "23.7806969"
+latitude: "38,0274277"
+longitude: "23,7806969"
 url: "ao-filotheis/athina/athlitismos/stivos"
 slug: "ao-filotheis"
 aliases:

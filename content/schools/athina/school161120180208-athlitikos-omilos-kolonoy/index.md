@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεάνδρου 37-39, 10443 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΦΛΕΜΙΝΓΚ 24, 15123 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/ximitoulia.png"
 profilePhoto : "downloaded"

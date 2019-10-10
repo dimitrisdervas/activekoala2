@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Αμαρουσίου 58, 15121 Péfki, Greece"
 logoimg: "logo (37).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14123"]
 UID: "school211120182358"
-latitude: "38.0628056"
-longitude: "23.7816358"
+latitude: "38,0628056"
+longitude: "23,7816358"
 url: "body-trainer/athina/kleistou-xorou/"
 slug: "body-trainer"
 aliases:

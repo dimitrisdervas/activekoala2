@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ρήγα Φεραίου 75, 18758 Keratsíni, Greece"
 logoimg: "logo (10).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18758"]
 UID: "school201120180432"
-latitude: "37.96829857"
-longitude: "23.61734944"
+latitude: "37,96829857"
+longitude: "23,61734944"
 url: "marily-s-fitness/athina/kleistou-xorou/gym"
 slug: "marily-s-fitness"
 aliases:

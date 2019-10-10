@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: "logo (5).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16452"]
 UID: "school181120180724"
-latitude: "37.87747869"
-longitude: "23.76432896"
+latitude: "37,87747869"
+longitude: "23,76432896"
 url: "fightway/athina/polemikes-texnes/"
 slug: "fightway"
 aliases:

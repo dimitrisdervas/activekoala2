@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μ. Ασίας και Τριπόλεως, 164 52 Argyroupolis, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

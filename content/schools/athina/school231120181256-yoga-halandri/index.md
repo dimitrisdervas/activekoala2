@@ -3,12 +3,12 @@ title: "Yoga Halandri"
 cities: ["Αθήνα"]
 perioxi: ["Χαλάνδρι"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Sokratous 52, 15232 Athens, Greece"
 logoimg: "lo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15232"]
 UID: "school231120181256"
-latitude: "37.9861284"
-longitude: "23.7274739"
+latitude: "37,9861284"
+longitude: "23,7274739"
 url: "yoga-halandri/athina/kleistou-xorou/yoga"
 slug: "yoga-halandri"
 aliases:

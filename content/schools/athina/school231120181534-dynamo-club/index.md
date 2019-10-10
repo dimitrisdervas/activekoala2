@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Pandrosou 50, Palaio Faliro, 17563 Athens, Greece"
 logoimg: "logo (74).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17563"]
 UID: "school231120181534"
-latitude: "37.9324299"
-longitude: "23.70763"
+latitude: "37,9324299"
+longitude: "23,70763"
 url: "dynamo-club/athina/kleistou-xorou/gym"
 slug: "dynamo-club"
 aliases:

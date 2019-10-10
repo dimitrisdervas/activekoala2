@@ -6,9 +6,9 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: "org191120180153"
+organisationid: ""
 organisation: "Geobukan Budo Academy"
-orgurl: "org191120180153-geobukan-budo-academy"
+orgurl: "undefined-geobukan-budo-academy"
 address: "Λεωφόρος Βάρης 15, 16672 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16672"]
 UID: "school021220182008"
-latitude: "37.83431325"
-longitude: "23.7889137"
+latitude: "37,83431325"
+longitude: "23,7889137"
 url: "geobukan-budo-academy-markopoylo/athina/polemikes-texnes/"
 slug: "geobukan-budo-academy-markopoylo"
 aliases:

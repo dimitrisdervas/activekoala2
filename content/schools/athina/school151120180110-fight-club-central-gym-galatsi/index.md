@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Βεϊκου 119, Γαλάτσι, 11146 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/02/fc_logo_final2013.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180110"
-latitude: "38.02253"
-longitude: "23.75809"
+latitude: "38,02253"
+longitude: "23,75809"
 url: "fight-club-central-gym-galatsi/athina/polemikes-texnes/jujitsu"
 slug: "fight-club-central-gym-galatsi"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Thrakis 30, 16777 Ellinikón, Greece"
 logoimg: "logo (27).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
 UID: "school191120181953"
-latitude: "37.88940008"
-longitude: "23.75365815"
+latitude: "37,88940008"
+longitude: "23,75365815"
 url: "aikido-academy/athina/polemikes-texnes/aikido"
 slug: "aikido-academy"
 aliases:

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ermou 10, Metamorfosi 144 52, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

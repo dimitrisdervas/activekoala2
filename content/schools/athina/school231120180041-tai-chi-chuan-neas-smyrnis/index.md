@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Νικολάου Πλαστήρα 62, 17121 Néa Smírni, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013913165615296.JPG"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120180041"
-latitude: "37.94915398"
-longitude: "23.70867483"
+latitude: "37,94915398"
+longitude: "23,70867483"
 url: "tai-chi-chuan-neas-smyrnis/athina/polemikes-texnes/kung-fu"
 slug: "tai-chi-chuan-neas-smyrnis"
 aliases:

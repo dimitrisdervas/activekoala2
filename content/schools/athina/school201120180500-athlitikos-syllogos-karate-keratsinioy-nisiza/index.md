@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΝΤΩΝΙΟΥ ΓΙΑΝΝΟΥΡΗ 1, 18757 Keratsíni, Greece"
 logoimg: "10668977_384733888318531_1984094179626218979_o.jpg"
 profilePhoto : "downloaded"

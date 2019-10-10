@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σουλίου, 19002 Paianía, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201331135315697.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120182036"
-latitude: "37.97671814"
-longitude: "23.73199932"
+latitude: "37,97671814"
+longitude: "23,73199932"
 url: "shinken-dojo-athens/athina/polemikes-texnes/ninjutsu"
 slug: "shinken-dojo-athens"
 aliases:

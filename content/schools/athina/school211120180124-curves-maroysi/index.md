@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+organisationid: ""
 organisation: "Curves"
-orgurl: "org170320192014-curves"
+orgurl: "undefined-curves"
 address: "Περικλέους 7,Μαρούσι, T.K. 151 22"
 logoimg: "1024px-curves_fitness_logosvg (3).png"
 profilePhoto : "downloaded"

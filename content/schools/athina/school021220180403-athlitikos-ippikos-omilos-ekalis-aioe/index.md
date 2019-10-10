@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Irakleiou 6, Anoixi, 145 69 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

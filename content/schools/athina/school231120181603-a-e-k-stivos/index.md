@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org191120180515"
+organisationid: ""
 organisation: "Α.Ε.Κ"
-orgurl: "org191120180515-a-e-k"
+orgurl: "undefined-a-e-k"
 address: "Τυάννων 2Β &amp; Πίνδου, Néa Filadélfeia, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

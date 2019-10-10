@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βύρωνος 13, 15231 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/05/logo-fight-lab.jpg"
 profilePhoto : "downloaded"

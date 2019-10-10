@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ακτή Μουτσοπούλου 37, 185 34 Peiraeus, Attiki, Greece"
 logoimg: "10492957_699636206771930_5889279023426374926_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18535"]
 UID: "school221120181924"
-latitude: "37.93564307"
-longitude: "23.65004539"
+latitude: "37,93564307"
+longitude: "23,65004539"
 url: "soma-and-fos-enallaktiko-gymnastirio/athina/kleistou-xorou/"
 slug: "soma-and-fos-enallaktiko-gymnastirio"
 aliases:

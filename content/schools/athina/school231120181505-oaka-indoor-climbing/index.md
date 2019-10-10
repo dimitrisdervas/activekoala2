@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["climbing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Spyrou Loui 37, 15123 Amaroúsion, Greece"
 logoimg: "logo (34).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15124"]
 UID: "school231120181505"
-latitude: "38.03888503"
-longitude: "23.78246258"
+latitude: "38,03888503"
+longitude: "23,78246258"
 url: "oaka-indoor-climbing/athina/kleistou-xorou/climbing"
 slug: "oaka-indoor-climbing"
 aliases:

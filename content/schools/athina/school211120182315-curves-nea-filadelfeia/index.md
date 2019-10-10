@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+organisationid: ""
 organisation: "Curves"
-orgurl: "org170320192014-curves"
+orgurl: "undefined-curves"
 address: "Κοιμήσεως Θεοτόκου 33 &amp; Ανδριανού,Νέα Φιλαδέλφεια, Τ.Κ. 143 41"
 logoimg: "1024px-curves_fitness_logosvg (23).png"
 profilePhoto : "downloaded"

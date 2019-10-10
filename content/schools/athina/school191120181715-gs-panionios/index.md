@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org191120180236"
+organisationid: ""
 organisation: "ΠΑΝΙΩΝΙΟΣ ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΣΜΥΡΝΗΣ"
-orgurl: "org191120180236-panionios-gymnastikos-syllogos-smyrnis"
+orgurl: "undefined-panionios-gymnastikos-syllogos-smyrnis"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

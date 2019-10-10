@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ακτή Θεμιστοκλέους 130, 185 39 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

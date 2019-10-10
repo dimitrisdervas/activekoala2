@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κερκύρας 68, 123 51 Agia Varvara"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/01/15991816_1876247035942241_1842094823_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182051"
-latitude: "37.98932"
-longitude: "23.65057"
+latitude: "37,98932"
+longitude: "23,65057"
 url: "mad-gym-by-drinas/athina/polemikes-texnes/"
 slug: "mad-gym-by-drinas"
 aliases:

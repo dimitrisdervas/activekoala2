@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "144, 3rd Septemvriou &amp; Pipinou Str., 2nd Floor - Victoria Sq., 11251 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Aristeidou 5 B&#39;, 131 22 Néa Liósia, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/logo-mary.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180808"
-latitude: "38.02259114"
-longitude: "23.7086602"
+latitude: "38,02259114"
+longitude: "23,7086602"
 url: "lada-mairi/athina/xoros/"
 slug: "lada-mairi"
 aliases:

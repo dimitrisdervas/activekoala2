@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. ΒΡΑΥΡΩΝΟΣ 68, 19016 Loútsa, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school171120180012"
-latitude: "37.9375725"
-longitude: "24.0122776"
+latitude: "37,9375725"
+longitude: "24,0122776"
 url: "umibe-no-dojo/athina/polemikes-texnes/aikido"
 slug: "umibe-no-dojo"
 aliases:

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τουσα Μποτσαρη 11, 11741 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

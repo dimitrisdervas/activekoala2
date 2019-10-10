@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: "org191120180139"
+organisationid: ""
 organisation: "BodyFit"
-orgurl: "org191120180139-bodyfit"
+orgurl: "undefined-bodyfit"
 address: "25ης Μαρτίου 2, Ταύρος, 17778 Távros, Greece"
 logoimg: "screen-shot-2014-11-27-at-25201-pm.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17778"]
 UID: "school251120180710"
-latitude: "37.9632489"
-longitude: "23.70006323"
+latitude: "37,9632489"
+longitude: "23,70006323"
 url: "bodyfit-tayros/athina/kleistou-xorou/"
 slug: "bodyfit-tayros"
 aliases:

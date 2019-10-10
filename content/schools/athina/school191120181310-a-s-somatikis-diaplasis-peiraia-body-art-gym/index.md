@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κυπριων Αγωνιστων 8β &amp; Μεθανων, 18541 Peiraeus, Attiki, Greece"
 logoimg: "logo (67).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18541"]
 UID: "school191120181310"
-latitude: "37.95492802"
-longitude: "23.6571088"
+latitude: "37,95492802"
+longitude: "23,6571088"
 url: "a-s-somatikis-diaplasis-peiraia-body-art-gym/athina/kleistou-xorou/"
 slug: "a-s-somatikis-diaplasis-peiraia-body-art-gym"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "28 Koryzi, 17778 Távros, Greece"
 logoimg: "10481659_270741016451542_5045148175655360785_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17778"]
 UID: "school251120180920"
-latitude: "37.9649089"
-longitude: "23.69940877"
+latitude: "37,9649089"
+longitude: "23,69940877"
 url: "the-concept-group-fitness-terminal/athina/kleistou-xorou/capoeira"
 slug: "the-concept-group-fitness-terminal"
 aliases:

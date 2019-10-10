@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org191120180222"
+organisationid: ""
 organisation: "GOLDEN GYM"
-orgurl: "org191120180222-golden-gym"
+orgurl: "undefined-golden-gym"
 address: ""
 logoimg: "402975_381961838484264_438369505_n (1).jpg"
 profilePhoto : "downloaded"

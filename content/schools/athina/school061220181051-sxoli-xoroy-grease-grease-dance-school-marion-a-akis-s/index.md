@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίου Πέτρου 9 - μενιδι, 13675 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

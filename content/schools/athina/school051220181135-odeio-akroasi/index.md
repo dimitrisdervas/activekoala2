@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θηβών 357, 122 44 Aigáleo, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

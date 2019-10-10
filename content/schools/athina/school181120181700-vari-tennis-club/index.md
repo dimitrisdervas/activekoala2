@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Paizi 56, 16672 Vári, Greece"
 logoimg: "logo (59).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16672"]
 UID: "school181120181700"
-latitude: "37.83613306"
-longitude: "23.7939596"
+latitude: "37,83613306"
+longitude: "23,7939596"
 url: "vari-tennis-club/athina/athlitismos/tennis"
 slug: "vari-tennis-club"
 aliases:

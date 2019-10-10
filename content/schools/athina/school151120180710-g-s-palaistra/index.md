@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Mesogeion 452, 15342 Ayía Paraskeví, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/1377028_1428733147338061_2093388328_a.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180710"
-latitude: "38.01363"
-longitude: "23.82985"
+latitude: "38,01363"
+longitude: "23,82985"
 url: "g-s-palaistra/athina/polemikes-texnes/mma"
 slug: "g-s-palaistra"
 aliases:

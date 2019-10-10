@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παπαφλέσσα 26- Βορείου Ηπείρου, 15125 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school201120182217"
-latitude: "38.05288"
-longitude: "23.81189"
+latitude: "38,05288"
+longitude: "23,81189"
 url: "marousi-dojo/athina/polemikes-texnes/aikido"
 slug: "marousi-dojo"
 aliases:

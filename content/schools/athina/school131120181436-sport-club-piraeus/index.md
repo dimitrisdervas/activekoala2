@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΕΛΙΚΏΝΟΣ 34-36 ΚΑΜΊΝΙΑ, 185 40 Peiraeus, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/10/sport-club-piraeus-logo.jpg"
 profilePhoto : "downloaded"

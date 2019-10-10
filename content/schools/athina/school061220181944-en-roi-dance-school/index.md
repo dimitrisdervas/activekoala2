@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Arkadiou 10, 15124 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

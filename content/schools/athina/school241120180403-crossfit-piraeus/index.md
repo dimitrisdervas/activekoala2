@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "PAPASTRATOU 60, 18545 Piraeus, Greece"
 logoimg: "logo (36).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18545"]
 UID: "school241120180403"
-latitude: "37.95217486"
-longitude: "23.63618979"
+latitude: "37,95217486"
+longitude: "23,63618979"
 url: "crossfit-piraeus/athina/kleistou-xorou/crossfit"
 slug: "crossfit-piraeus"
 aliases:

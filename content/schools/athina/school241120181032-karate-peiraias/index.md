@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ηρώων Πολυτεχνείου 16, 18531 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017723122513948.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181032"
-latitude: "37.9445343"
-longitude: "23.6481514"
+latitude: "37,9445343"
+longitude: "23,6481514"
 url: "karate-peiraias/athina/polemikes-texnes/karate"
 slug: "karate-peiraias"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Lagoumitzi 6, Kallithea, 17671 Athens, Greece"
 logoimg: "pit-bull-gym-logo.jpg"
 profilePhoto : "downloaded"

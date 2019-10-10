@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "DIOGENIS FIGHTERS KARATE W.K.F, 17673 Καλλιθέα Αττικής Δημοσθένους 269"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/diogenis-fighters-logo.gif"
 profilePhoto : "downloaded"

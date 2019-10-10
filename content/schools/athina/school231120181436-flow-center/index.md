@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Άγγελου Σικελιανού 2, 15451 Psychico, Attiki, Greece"
 logoimg: "logo (18).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11525"]
 UID: "school231120181436"
-latitude: "38.00015327"
-longitude: "23.77213955"
+latitude: "38,00015327"
+longitude: "23,77213955"
 url: "flow-center/athina/kleistou-xorou/yoga"
 slug: "flow-center"
 aliases:

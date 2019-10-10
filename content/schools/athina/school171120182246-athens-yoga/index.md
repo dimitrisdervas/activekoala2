@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Riankour 65-67, 11523 Athens, Greece"
 logoimg: "229181_399693323428864_1802617104_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11523"]
 UID: "school171120182246"
-latitude: "37.99241828"
-longitude: "23.76323587"
+latitude: "37,99241828"
+longitude: "23,76323587"
 url: "athens-yoga/athina/kleistou-xorou/gym"
 slug: "athens-yoga"
 aliases:

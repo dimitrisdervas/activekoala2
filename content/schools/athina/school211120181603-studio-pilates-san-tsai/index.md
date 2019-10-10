@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χελιδονούς 20A Κηφισιά Αττική Ελλάδα /20A Chelidonous street, Kifisia, Athens, Greece, 14564 Athens, Greece"
 logoimg: "1476145_632243463505579_974288220_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14564"]
 UID: "school211120181603"
-latitude: "38.0859795"
-longitude: "23.8015308"
+latitude: "38,0859795"
+longitude: "23,8015308"
 url: "studio-pilates-san-tsai/athina/kleistou-xorou/"
 slug: "studio-pilates-san-tsai"
 aliases:

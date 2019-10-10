@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "338 Leoforos Kifisias, 154 51 Neo Psychiko, Greece, 15451 Athens, Greece"
 logoimg: "logo (2).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15451"]
 UID: "school281120180515"
-latitude: "38.00852612"
-longitude: "23.77909741"
+latitude: "38,00852612"
+longitude: "23,77909741"
 url: "planet-fitness-and-more/athina/kleistou-xorou/gym"
 slug: "planet-fitness-and-more"
 aliases:

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Agiou Meletiou 56, 112 52 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

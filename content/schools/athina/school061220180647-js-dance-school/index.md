@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καποδιστρίου 2, Νέο Ψυχικό, 154 51 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

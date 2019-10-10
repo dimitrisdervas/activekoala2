@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθ. Αντίστασης &amp; Μεσολογγίου 54, Peristéri, Attiki, Greece"
 logoimg: "418672_332680826826045_571104125_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12134"]
 UID: "school241120181324"
-latitude: "38.0134953"
-longitude: "23.6910673"
+latitude: "38,0134953"
+longitude: "23,6910673"
 url: "smiles/athina/kleistou-xorou/gym"
 slug: "smiles"
 aliases:

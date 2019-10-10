@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γρεβενών 23, 11855 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

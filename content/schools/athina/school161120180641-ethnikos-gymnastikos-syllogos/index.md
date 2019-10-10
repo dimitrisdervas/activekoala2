@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΒΑΣ. ΟΛΓΑΣ 6, 10557 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120180641"
-latitude: "37.96883184"
-longitude: "23.73655866"
+latitude: "37,96883184"
+longitude: "23,73655866"
 url: "ethnikos-gymnastikos-syllogos/athina/athlitismos/kithara"
 slug: "ethnikos-gymnastikos-syllogos"
 aliases:

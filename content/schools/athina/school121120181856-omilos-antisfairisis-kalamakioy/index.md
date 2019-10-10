@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εθνικής Αντιστάσεως (πευκόφυτο Θράκης), 17456 Kalamáki, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Pierias 5, 13341 Filí, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

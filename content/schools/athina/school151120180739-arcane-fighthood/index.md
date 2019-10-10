@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ηρακλείτου &amp; Τομπάζη 89, Aigáleo, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/03/arcane-fighthood-logo-1.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180739"
-latitude: "38.00056029"
-longitude: "23.66903796"
+latitude: "38,00056029"
+longitude: "23,66903796"
 url: "arcane-fighthood/athina/polemikes-texnes/jujitsu"
 slug: "arcane-fighthood"
 aliases:

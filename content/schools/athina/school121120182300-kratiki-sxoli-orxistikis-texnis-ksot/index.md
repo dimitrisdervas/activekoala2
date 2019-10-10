@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["modern-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "55, Omirou Str, 106 72 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182300"
-latitude: "37.98082"
-longitude: "23.73817"
+latitude: "37,98082"
+longitude: "23,73817"
 url: "kratiki-sxoli-orxistikis-texnis-ksot/athina/xoros/modern-dance"
 slug: "kratiki-sxoli-orxistikis-texnis-ksot"
 aliases:

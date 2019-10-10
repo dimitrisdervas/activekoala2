@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σαρανταπόρου 47 , Κ.Χαλάνδρι, 15231 Αθήνα"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017827103350926.png"
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
-organisationid: "org191120180403"
+organisationid: ""
 organisation: "Α.Γ.Σ. Πρωτέας Ραφήνας"
-orgurl: "org191120180403-a-g-s-proteas-rafinas"
+orgurl: "undefined-a-g-s-proteas-rafinas"
 address: "Evvoikoy 37, 19009 Rafína, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/06/524253_423806427631917_403822848_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180920"
-latitude: "38.0174897"
-longitude: "24.0077408"
+latitude: "38,0174897"
+longitude: "24,0077408"
 url: "a-g-s-proteas-rafinas/athina/polemikes-texnes/kickboxing"
 slug: "a-g-s-proteas-rafinas"
 aliases:

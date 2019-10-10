@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓΙΟΥ ΑΝΤΩΝΙΟΥ, 19007 Néa Mákri, Attiki, Greece"
 logoimg: "1468495_557034757705320_197911770_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["19007"]
 UID: "school231120180012"
-latitude: "38.1041603"
-longitude: "23.9755096"
+latitude: "38,1041603"
+longitude: "23,9755096"
 url: "mvs-tennis-systems/athina/athlitismos/"
 slug: "mvs-tennis-systems"
 aliases:

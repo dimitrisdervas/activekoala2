@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θεμ.Σοφούλη 112, 551 31 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

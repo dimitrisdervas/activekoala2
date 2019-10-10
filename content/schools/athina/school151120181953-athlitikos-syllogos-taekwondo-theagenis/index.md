@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΧΑΡΟΚΟΠΟΥ 115 - 117, Τηλ. 2109566309 - 2109566368 Καλλιθέα Αττικής Τ.Κ. 17676"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2012/10/logo-theagenis.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181953"
-latitude: "37.9608223"
-longitude: "23.706816"
+latitude: "37,9608223"
+longitude: "23,706816"
 url: "athlitikos-syllogos-taekwondo-theagenis/athina/polemikes-texnes/tae-kwon-do"
 slug: "athlitikos-syllogos-taekwondo-theagenis"
 aliases:

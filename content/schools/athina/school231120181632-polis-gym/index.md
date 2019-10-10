@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σάμου 28 Πολύδροσο Μαρούσι, 15125 Amaroúsion, Greece"
 logoimg: "logo1.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15125"]
 UID: "school231120181632"
-latitude: "38.0327064"
-longitude: "23.8083163"
+latitude: "38,0327064"
+longitude: "23,8083163"
 url: "polis-gym/athina/kleistou-xorou/gym"
 slug: "polis-gym"
 aliases:

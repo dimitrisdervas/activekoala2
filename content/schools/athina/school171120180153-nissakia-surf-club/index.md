@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Karystou 29, 19016 Artemis Loútsa, Greece"
 logoimg: "10464281_693801154024741_340971734574836844_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["19016"]
 UID: "school171120180153"
-latitude: "37.99152195"
-longitude: "24.0305394"
+latitude: "37,99152195"
+longitude: "24,0305394"
 url: "nissakia-surf-club/athina/water-sports/"
 slug: "nissakia-surf-club"
 aliases:

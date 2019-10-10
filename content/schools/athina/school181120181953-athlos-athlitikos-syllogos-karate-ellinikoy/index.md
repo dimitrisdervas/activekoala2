@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΠΛΑΠΟΎΤΑ 21, 16777 Ellinikón, Greece"
 logoimg: "νέα-εικόνα (2).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
 UID: "school181120181953"
-latitude: "37.89209"
-longitude: "23.75822"
+latitude: "37,89209"
+longitude: "23,75822"
 url: "athlos-athlitikos-syllogos-karate-ellinikoy/athina/athlitismos/karate"
 slug: "athlos-athlitikos-syllogos-karate-ellinikoy"
 aliases:

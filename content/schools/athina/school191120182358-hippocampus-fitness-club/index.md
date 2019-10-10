@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ.Βουλιαγμένης 2 &amp; Παπαφλέσσα 1A, 16777 Ellinikón, Greece"
 logoimg: "logo (62).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
 UID: "school191120182358"
-latitude: "37.88845299"
-longitude: "23.75041894"
+latitude: "37,88845299"
+longitude: "23,75041894"
 url: "hippocampus-fitness-club/athina/kleistou-xorou/gym"
 slug: "hippocampus-fitness-club"
 aliases:

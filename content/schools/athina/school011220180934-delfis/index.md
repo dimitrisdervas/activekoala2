@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΜΕΝΕΛΑΟΥ 175, 17342 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Συρακουσών κ χριστιανούπολεως, 11142 αθηνα"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201681412194297.jpg"
 profilePhoto : "downloaded"

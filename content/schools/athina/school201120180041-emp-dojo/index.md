@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Νεο Γυμναστήριο Ε.Μ.Π"
 logoimg: ""
 profilePhoto : "downloaded"

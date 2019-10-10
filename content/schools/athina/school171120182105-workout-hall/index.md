@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "6 Ρόδων, 17455 Athens, Greece"
 logoimg: "wh_black_high.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17456"]
 UID: "school171120182105"
-latitude: "37.91316"
-longitude: "23.73612"
+latitude: "37,91316"
+longitude: "23,73612"
 url: "workout-hall/athina/kleistou-xorou/gym"
 slug: "workout-hall"
 aliases:

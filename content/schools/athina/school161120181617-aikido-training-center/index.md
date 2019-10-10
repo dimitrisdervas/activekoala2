@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεγαλουπόλεως 9, Αγ. Δημήτριος, 17343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120181617"
-latitude: "37.93816"
-longitude: "23.7393"
+latitude: "37,93816"
+longitude: "23,7393"
 url: "aikido-training-center/athina/polemikes-texnes/aikido"
 slug: "aikido-training-center"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αλκιβιάδου 102, 18532 Piraeus, Greece"
 logoimg: "logo (57).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18534"]
 UID: "school221120181603"
-latitude: "37.94376"
-longitude: "23.64934"
+latitude: "37,94376"
+longitude: "23,64934"
 url: "satya/athina/kleistou-xorou/pilates"
 slug: "satya"
 aliases:

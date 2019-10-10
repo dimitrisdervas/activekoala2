@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Dodonis 118 Sepolia, 10443 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182008"
-latitude: "38.00383"
-longitude: "23.71751"
+latitude: "38,00383"
+longitude: "23,71751"
 url: "dance-moments-studio/athina/xoros/"
 slug: "dance-moments-studio"
 aliases:

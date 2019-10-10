@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κόντου 21, 11255 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/evathlos-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180403"
-latitude: "38.01370868"
-longitude: "23.7375176"
+latitude: "38,01370868"
+longitude: "23,7375176"
 url: "a-s-tzoynto-eyathlos/athina/polemikes-texnes/krav-manga"
 slug: "a-s-tzoynto-eyathlos"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "25ης Μαρτιου 25, 17676 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/04/GOLDEN-CORNER.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180934"
-latitude: "37.96024685"
-longitude: "23.69766389"
+latitude: "37,96024685"
+longitude: "23,69766389"
 url: "golden-corner/athina/polemikes-texnes/"
 slug: "golden-corner"
 aliases:

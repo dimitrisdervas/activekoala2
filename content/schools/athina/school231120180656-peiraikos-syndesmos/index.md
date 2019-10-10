@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org191120180446"
+organisationid: ""
 organisation: "ΠΕΙΡΑΪΚΟΣ ΣΥΝΔΕΣΜΟΣ"
-orgurl: "org191120180446-peiraikos-syndesmos"
+orgurl: "undefined-peiraikos-syndesmos"
 address: "104 Karaiskou, 18535 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

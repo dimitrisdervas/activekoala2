@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΤΖΩΝ ΚΕΝΝΕΝΤΥ &amp; ΓΙΑΝΝΙΤΣΩΝ 81Α, 12131 Peristérion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

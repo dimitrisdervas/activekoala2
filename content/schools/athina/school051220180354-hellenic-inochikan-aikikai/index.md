@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κερατεα Παπαφλεσσα &amp; Ποσειδωνος 1, 12345 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school051220180354"
-latitude: "37.966235"
-longitude: "23.722735"
+latitude: "37,966235"
+longitude: "23,722735"
 url: "hellenic-inochikan-aikikai/athina/polemikes-texnes/aikido"
 slug: "hellenic-inochikan-aikikai"
 aliases:

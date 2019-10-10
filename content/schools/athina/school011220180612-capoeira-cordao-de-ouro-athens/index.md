@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Protogenous 1, 105 54 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

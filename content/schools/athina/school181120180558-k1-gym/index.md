@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αρκαδίας 8, 15344 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/1236358_582586648471185_285329743_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15344"]
 UID: "school181120180558"
-latitude: "38.009612"
-longitude: "23.8583797"
+latitude: "38,009612"
+longitude: "23,8583797"
 url: "k1-gym/athina/polemikes-texnes/"
 slug: "k1-gym"
 aliases:

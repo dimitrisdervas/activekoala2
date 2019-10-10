@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Erechtheiou 22, Acropolis, 11742 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

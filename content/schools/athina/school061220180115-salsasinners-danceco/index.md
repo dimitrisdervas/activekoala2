@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ahaias 26b, Panormou, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ.Ιωνίας 9 Άλιμος, 17456 Athens, Greece"
 logoimg: "10360397_299766336880388_8654016419344381176_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17456"]
 UID: "school171120182036"
-latitude: "37.92622"
-longitude: "23.74327"
+latitude: "37,92622"
+longitude: "23,74327"
 url: "twins-fit-aliki-and-maria-dimakopoulou/athina/kleistou-xorou/gym"
 slug: "twins-fit-aliki-and-maria-dimakopoulou"
 aliases:

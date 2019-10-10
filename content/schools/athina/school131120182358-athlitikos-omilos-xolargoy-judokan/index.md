@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αετιδέων 27, 15541 Holargos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/14269655_1278007518879116_1055092845_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182358"
-latitude: "37.98858672"
-longitude: "23.80187988"
+latitude: "37,98858672"
+longitude: "23,80187988"
 url: "athlitikos-omilos-xolargoy-judokan/athina/polemikes-texnes/"
 slug: "athlitikos-omilos-xolargoy-judokan"
 aliases:

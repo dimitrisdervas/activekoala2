@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΣΤΑΔΙΟ ΟΛΥΜΠΙΑΚΟΥ ΧΩΡΙΟΥ"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Υμηττού 117 &amp; Χρεμωνίδου 11, Παγκράτι, 11633 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120181953"
-latitude: "37.96702137"
-longitude: "23.74911547"
+latitude: "37,96702137"
+longitude: "23,74911547"
 url: "sxoli-xoroy-freds-american-dance-center-pagkrati/athina/xoros/"
 slug: "sxoli-xoroy-freds-american-dance-center-pagkrati"
 aliases:

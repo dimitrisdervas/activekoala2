@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Paraschou Achilleos 80, 11474 Athens, Greece"
 logoimg: "screen-shot-2014-12-01-at-34419-pm.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["10471"]
 UID: "school181120180208"
-latitude: "37.9896561"
-longitude: "23.7473344"
+latitude: "37,9896561"
+longitude: "23,7473344"
 url: "personal-studio-by-g-papadimakis/athina/kleistou-xorou/personal-trainer"
 slug: "personal-studio-by-g-papadimakis"
 aliases:

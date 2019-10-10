@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Paparrigopoulou 94, 12133 Peristéri, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

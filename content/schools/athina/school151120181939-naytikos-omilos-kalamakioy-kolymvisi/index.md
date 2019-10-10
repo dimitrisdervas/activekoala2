@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org241120180308"
+organisationid: ""
 organisation: "ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΚΑΛΑΜΑΚΙΟΥ"
-orgurl: "org241120180308-naytikos-omilos-kalamakioy"
+orgurl: "undefined-naytikos-omilos-kalamakioy"
 address: "Κλείτορος 3, 12132 Peristéri, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/01/13348671_10208406937164112_1646601817_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181939"
-latitude: "38.00447"
-longitude: "23.7037"
+latitude: "38,00447"
+longitude: "23,7037"
 url: "naytikos-omilos-kalamakioy-kolymvisi/athina/athlitismos/kithara"
 slug: "naytikos-omilos-kalamakioy-kolymvisi"
 aliases:

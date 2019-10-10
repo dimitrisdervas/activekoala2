@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λέλας Καραγιάννη 18, Λυκόβρυση, 14123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

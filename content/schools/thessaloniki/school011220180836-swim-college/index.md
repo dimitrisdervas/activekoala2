@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μαριας Κάλλας 37, 54655 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

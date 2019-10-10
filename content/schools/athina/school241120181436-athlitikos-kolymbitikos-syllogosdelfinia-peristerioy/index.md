@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΠΕΥΚΩΝ &amp; ΕΥΚΑΛΥΠΤΩΝ, 121 37 ΠΕΡΙΣΤΕΡΙ"
 logoimg: ""
 profilePhoto : "downloaded"

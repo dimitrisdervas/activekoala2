@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καυκάσου 151, Κυψέλη, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school201120181534"
-latitude: "38.00632"
-longitude: "23.74936"
+latitude: "38,00632"
+longitude: "23,74936"
 url: "sei-ki-aikido-dojo/athina/polemikes-texnes/aikido"
 slug: "sei-ki-aikido-dojo"
 aliases:

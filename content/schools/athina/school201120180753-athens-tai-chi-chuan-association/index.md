@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["taichi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Selinis 23, 14121 Athens, Greece"
 logoimg: "149388_774579132616028_1860116670175726625_n.jpg"
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Basket"]
 categories: ["athlitismos"]
 subcategories: ["basket"]
-organisationid: "org241120180322"
+organisationid: ""
 organisation: "ΟΛΥΜΠΙΑΚΟΣ ΣΦΠ"
-orgurl: "org241120180322-olympiakos-sfp"
+orgurl: "undefined-olympiakos-sfp"
 address: "18534 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

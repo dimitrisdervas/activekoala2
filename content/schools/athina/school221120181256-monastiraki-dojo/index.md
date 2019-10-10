@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Athinas &amp; Protogenous 1, 10554 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school221120181256"
-latitude: "37.97819171"
-longitude: "23.72658033"
+latitude: "37,97819171"
+longitude: "23,72658033"
 url: "monastiraki-dojo/athina/polemikes-texnes/aikido"
 slug: "monastiraki-dojo"
 aliases:

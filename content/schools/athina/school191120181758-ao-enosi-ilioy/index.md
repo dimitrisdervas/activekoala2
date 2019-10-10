@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καπετάν Βέρα &amp; Ανδρομάχης, 13122 Néa Liósia, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τατοϊου 80, 14451 Metamórfosi, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/06/230434_105156882905360_3024260_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181910"
-latitude: "38.0588008"
-longitude: "23.7560369"
+latitude: "38,0588008"
+longitude: "23,7560369"
 url: "kritikos-camp/athina/polemikes-texnes/kickboxing"
 slug: "kritikos-camp"
 aliases:

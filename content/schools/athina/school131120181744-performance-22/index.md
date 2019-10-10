@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "G. Pittara &amp; Amarisias Artemidos, Tennis ΟΑΚΑ, 151 24 Amaroúsion, Greece"
 logoimg: "logo (9).jpg"
 profilePhoto : "downloaded"

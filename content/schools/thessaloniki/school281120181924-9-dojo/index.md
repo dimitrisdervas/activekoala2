@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εγνατία 1, Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20178413119444.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school281120181924"
-latitude: "40.64004199"
-longitude: "22.93640614"
+latitude: "40,64004199"
+longitude: "22,93640614"
 url: "9-dojo/thessaloniki/polemikes-texnes/ninjutsu"
 slug: "9-dojo"
 aliases:

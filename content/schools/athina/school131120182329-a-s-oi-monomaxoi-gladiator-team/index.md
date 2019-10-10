@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θεσσαλονίκης 151 ,Εναντι σταθμου Α.Πετραλωνων, 11852 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/12/gladiator-team-monomaxoi-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182329"
-latitude: "37.9675079"
-longitude: "23.7089307"
+latitude: "37,9675079"
+longitude: "23,7089307"
 url: "a-s-oi-monomaxoi-gladiator-team/athina/polemikes-texnes/hapkido"
 slug: "a-s-oi-monomaxoi-gladiator-team"
 aliases:

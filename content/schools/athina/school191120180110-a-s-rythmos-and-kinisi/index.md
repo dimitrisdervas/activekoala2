@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ανδρεοπούλου 9 &amp; Ωρωπου, 11146 Athens, Greece"
 logoimg: "11015162_330459170484720_1107766025_n.jpg"
 profilePhoto : "downloaded"

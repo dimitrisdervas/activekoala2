@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Makrigianni 81, agios dimitrios, 17342 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/foinix-logo.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180544"
-latitude: "37.92326233"
-longitude: "23.7297821"
+latitude: "37,92326233"
+longitude: "23,7297821"
 url: "athlitikos-syllogos-foiniks/athina/polemikes-texnes/"
 slug: "athlitikos-syllogos-foiniks"
 aliases:

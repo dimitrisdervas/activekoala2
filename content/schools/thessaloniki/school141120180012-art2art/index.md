@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παπάφη 149, 54453 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logo-art2artnew-500x333.jpeg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180012"
-latitude: "40.61116241"
-longitude: "22.96869624"
+latitude: "40,61116241"
+longitude: "22,96869624"
 url: "art2art/thessaloniki/paidagogika-kallitexnika/"
 slug: "art2art"
 aliases:

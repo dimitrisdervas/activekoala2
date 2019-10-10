@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Βουλιαγμένης 231, 17235 Athens, Greece"
 logoimg: "1461678_162696607273172_1435858274_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17235"]
 UID: "school191120181700"
-latitude: "37.9506266"
-longitude: "23.7381196"
+latitude: "37,9506266"
+longitude: "23,7381196"
 url: "shaolin-gongfu/athina/polemikes-texnes/kung-fu"
 slug: "shaolin-gongfu"
 aliases:

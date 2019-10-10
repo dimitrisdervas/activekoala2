@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Venizelou 6, 55133 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

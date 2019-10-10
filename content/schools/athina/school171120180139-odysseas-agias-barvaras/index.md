@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["basket"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σιπύλου 16, 12351"
 logoimg: "1779242_685876044798709_1324030606_n.jpg"
 profilePhoto : "downloaded"

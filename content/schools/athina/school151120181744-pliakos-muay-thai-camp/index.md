@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "11636 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/954511_10202060931499467_149087617_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181744"
-latitude: "37.96620942"
-longitude: "23.73398415"
+latitude: "37,96620942"
+longitude: "23,73398415"
 url: "pliakos-muay-thai-camp/athina/polemikes-texnes/muay-thai"
 slug: "pliakos-muay-thai-camp"
 aliases:

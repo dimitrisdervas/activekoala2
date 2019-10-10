@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αθηνοδωρου 19, 11854 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2018/01/fight-nation-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180110"
-latitude: "37.96716"
-longitude: "23.70645"
+latitude: "37,96716"
+longitude: "23,70645"
 url: "x-fight-nation/athina/polemikes-texnes/muay-thai"
 slug: "x-fight-nation"
 aliases:

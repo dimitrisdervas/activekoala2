@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γρίβα Διγενή 2, 17343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

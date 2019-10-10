@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κεφαλληνιας 99 Β, 112 51 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -6,16 +6,16 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org241120180405"
+organisationid: ""
 organisation: "ΣΑΠΚ ΝΕΑΠΟΛΗΣ"
-orgurl: "org241120180405-sapk-neapolis"
+orgurl: "undefined-sapk-neapolis"
 address: "ΕΑΚ ΝΕΑΠΟΛΗΣ - 1ος όροφος, 56728 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"
 coverPhoto : "downloaded"
 website: "www.sapkneapolis.gr/"
 facebook: "www.facebook.com/PkNeapolesThessalonikesMpasket"
-phone: "0.6934433793"
+phone: "0,6934433793"
 email: "sapkneapolis1983@gmail.com"
 courses: ""
 places: [""]

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λόντου 16 &amp; Βουλιαγμένης, 16561 Glyfáda, Greece"
 logoimg: "zambidisclub.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15343"]
 UID: "school151120181339"
-latitude: "37.8859253"
-longitude: "23.7514782"
+latitude: "37,8859253"
+longitude: "23,7514782"
 url: "zambidis-club/athina/polemikes-texnes/kickboxing"
 slug: "zambidis-club"
 aliases:

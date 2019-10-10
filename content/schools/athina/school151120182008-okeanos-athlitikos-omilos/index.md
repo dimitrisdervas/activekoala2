@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Olympionikou Loui Spyrou, 151 23 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120182008"
-latitude: "38.03411"
-longitude: "23.78672"
+latitude: "38,03411"
+longitude: "23,78672"
 url: "okeanos-athlitikos-omilos/athina/athlitismos/kithara"
 slug: "okeanos-athlitikos-omilos"
 aliases:

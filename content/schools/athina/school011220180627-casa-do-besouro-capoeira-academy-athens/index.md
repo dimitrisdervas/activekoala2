@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θεμιστοκλέους 23-25 8ος όροφος, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220180627"
-latitude: "37.98493"
-longitude: "23.73185"
+latitude: "37,98493"
+longitude: "23,73185"
 url: "casa-do-besouro-capoeira-academy-athens/athina/polemikes-texnes/capoeira"
 slug: "casa-do-besouro-capoeira-academy-athens"
 aliases:

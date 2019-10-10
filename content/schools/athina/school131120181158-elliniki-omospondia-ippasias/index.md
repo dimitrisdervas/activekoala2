@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "19402 Markópoulo, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

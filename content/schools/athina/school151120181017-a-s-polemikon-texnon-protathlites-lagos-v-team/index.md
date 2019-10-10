@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μίνωος 3, Νέος Κόσμος, 3ος όροφος (πλησίον μετρό Άγιος Ιωάννης), 11743 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/as-polemikon-texnon-protathlites-logo.jpg"
 profilePhoto : "downloaded"

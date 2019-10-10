@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μπουμπουλίνας και Ρήγα Φεραίου,Νέο Ψυχικό, 15451 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

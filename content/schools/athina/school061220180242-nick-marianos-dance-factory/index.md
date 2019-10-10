@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγγέλου Μεταξα 52, 16674 Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

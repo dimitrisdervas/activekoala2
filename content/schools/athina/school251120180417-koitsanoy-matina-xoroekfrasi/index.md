@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Μαραθώνος 77, 19005 Néa Mákri, Attiki, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/horoekfrasi%20logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180417"
-latitude: "38.08128524"
-longitude: "23.97924173"
+latitude: "38,08128524"
+longitude: "23,97924173"
 url: "koitsanoy-matina-xoroekfrasi/athina/xoros/"
 slug: "koitsanoy-matina-xoroekfrasi"
 aliases:

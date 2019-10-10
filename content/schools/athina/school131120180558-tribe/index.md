@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kolokotroni 72 &amp; Vasileos Georgiou, 185 35 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180558"
-latitude: "37.94335141"
-longitude: "23.64583969"
+latitude: "37,94335141"
+longitude: "23,64583969"
 url: "tribe/athina/polemikes-texnes/capoeira"
 slug: "tribe"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 24, 15562 Holargos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

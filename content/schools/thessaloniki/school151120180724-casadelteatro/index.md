@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: ["theatro"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ραιδεστού 12, 54636 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2017/11/casalogo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κοσμά Αιτωλού 26, 54643 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

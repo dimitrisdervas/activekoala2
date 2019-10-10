@@ -2,7 +2,7 @@
 title: |
    Καλιτεχνικά
 schools: [""]
-subcategory: ["Zωγραφική","Εργαστήριο δημιουργικής απασχόλησης για παιδιά δημοτικού | Παιδικός Σταθμός","Θεατρικό Εργαστήρι"]
+subcategory: [""]
 slug: "kalitexnika"
 slugSubcategory: ["zografiki","ergastiri-kalitexniko","theatro"]
 ---

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Φλεμινγκ 6 Αργυρουπολη, 16451 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013315162053568.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120182358"
-latitude: "37.9108009"
-longitude: "23.7508202"
+latitude: "37,9108009"
+longitude: "23,7508202"
 url: "a-s-tae-kwon-do-hapkido-argyroypolis/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-tae-kwon-do-hapkido-argyroypolis"
 aliases:

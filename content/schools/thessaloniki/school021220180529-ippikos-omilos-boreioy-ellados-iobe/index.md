@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μίκρα Θεσσαλονίκης, τέρμα Νέα Κρήνη, 55132 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

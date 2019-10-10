@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βοσπόρου 32, 16777 Ellinikón, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/01/fight-old-school-gym.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181324"
-latitude: "37.9057198"
-longitude: "23.7425267"
+latitude: "37,9057198"
+longitude: "23,7425267"
 url: "old-school-fight-gym/athina/polemikes-texnes/kickboxing"
 slug: "old-school-fight-gym"
 aliases:

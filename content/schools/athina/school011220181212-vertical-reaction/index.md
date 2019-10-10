@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["parkour"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ανδρέα Παπανδρέου 13, Μελίσσια, 15127 Melíssia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

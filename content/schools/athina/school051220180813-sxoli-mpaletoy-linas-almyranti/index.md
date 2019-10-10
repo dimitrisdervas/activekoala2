@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Επιδαύρου 80- Χαλάνδρι, 15234 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

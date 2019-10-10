@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Aistotelous kai Antigonis 1, Chalandri, 15232 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

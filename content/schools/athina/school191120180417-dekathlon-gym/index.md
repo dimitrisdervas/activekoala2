@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓ. ΦΑΝΟΥΡΙΟΥ 45 . ΙΛΙΟΝ, 13121 Athens, Greece"
 logoimg: "unnamed.jpg"
 profilePhoto : "downloaded"

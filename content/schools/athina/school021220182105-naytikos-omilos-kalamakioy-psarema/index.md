@@ -6,9 +6,9 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ψάρεμα"]
 categories: ["water-sports"]
 subcategories: ["phishing"]
-organisationid: "org241120180308"
+organisationid: ""
 organisation: "ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΚΑΛΑΜΑΚΙΟΥ"
-orgurl: "org241120180308-naytikos-omilos-kalamakioy"
+orgurl: "undefined-naytikos-omilos-kalamakioy"
 address: "2η στάση Καλαμακίου,Μαρίνα Αλίμου, Άλιμος"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πρωτέως 26, 19009 Rafína, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180500"
-latitude: "38.013607"
-longitude: "24.0160503"
+latitude: "38,013607"
+longitude: "24,0160503"
 url: "xoreytiko-ergastiri-symigdala-maria/athina/xoros/"
 slug: "xoreytiko-ergastiri-symigdala-maria"
 aliases:

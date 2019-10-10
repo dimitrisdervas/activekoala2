@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μ.Αλεξάνδρου 128, 10435 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

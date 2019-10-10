@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "4 Alexandrou Papanastasiou Street, 14341 Athens, Greece"
 logoimg: "pma-hellas-square-canvas.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14341"]
 UID: "school231120180056"
-latitude: "38.03400652"
-longitude: "23.74174241"
+latitude: "38,03400652"
+longitude: "23,74174241"
 url: "pma-hellas/athina/athlitismos/fencing"
 slug: "pma-hellas"
 aliases:

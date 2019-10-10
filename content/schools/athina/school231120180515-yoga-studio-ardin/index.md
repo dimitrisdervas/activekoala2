@@ -3,12 +3,12 @@ title: "YOGA STUDIO ´Αρδην"
 cities: ["Αθήνα"]
 perioxi: ["Πετρούπολη"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Προκοπίου 4, 13231 Petroúpolis, Greece"
 logoimg: "logo (42).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["13231"]
 UID: "school231120180515"
-latitude: "38.038239"
-longitude: "23.69157672"
+latitude: "38,038239"
+longitude: "23,69157672"
 url: "yoga-studio-ardin/athina/kleistou-xorou/yoga"
 slug: "yoga-studio-ardin"
 aliases:

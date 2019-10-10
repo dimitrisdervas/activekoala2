@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αλκιβιαδου 63Α, 19200 Elefsís, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

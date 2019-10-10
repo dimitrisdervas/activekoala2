@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+organisationid: ""
 organisation: "Curves"
-orgurl: "org170320192014-curves"
+orgurl: "undefined-curves"
 address: "Γρ. Λαμπράκη 417, 1ος όροφος,Κερατσίνι, Τ.Κ. 187 57"
 logoimg: "1024px-curves_fitness_logosvg (21).png"
 profilePhoto : "downloaded"

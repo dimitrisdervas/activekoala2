@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΡΕΜΟΥ 53, 176 76 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/181246_284930598319706_1294105599_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180348"
-latitude: "37.9602623"
-longitude: "23.7033691"
+latitude: "37,9602623"
+longitude: "23,7033691"
 url: "a-s-drakos-moschonas-team/athina/polemikes-texnes/jujitsu"
 slug: "a-s-drakos-moschonas-team"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓΙΟΣ ΕΛΕΥΘΕΡΙΟΣ, 18050 ΣΠΕΤΣΕΣ"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/03/nektarios-panou-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΒΟΡΕΙΟΥ ΗΠΕΙΡΟΥ 2, 18454 Níkaia, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/champions-athletic-club-logo-2.jpg"
 profilePhoto : "downloaded"

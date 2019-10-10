@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Skouze,5 Monastiraki, 105 60 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180515"
-latitude: "37.97733"
-longitude: "23.72887"
+latitude: "37,97733"
+longitude: "23,72887"
 url: "barracao-da-capoeira-athens/athina/polemikes-texnes/"
 slug: "barracao-da-capoeira-athens"
 aliases:

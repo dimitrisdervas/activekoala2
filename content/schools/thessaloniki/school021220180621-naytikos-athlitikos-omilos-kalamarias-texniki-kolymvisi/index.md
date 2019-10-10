@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Τεχνική Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["texniki-kolimvisi"]
-organisationid: "org170320192008"
+organisationid: ""
 organisation: "Ναυτικός Αθλητικός Όμιλος Καλαμαριάς"
-orgurl: "org170320192008-naytikos-athlitikos-omilos-kalamarias"
+orgurl: "undefined-naytikos-athlitikos-omilos-kalamarias"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

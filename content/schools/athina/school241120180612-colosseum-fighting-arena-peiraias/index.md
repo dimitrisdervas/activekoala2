@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ομηρίδου Σκυλίτση 14, 18532 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015814134455842.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120180612"
-latitude: "37.9428596"
-longitude: "23.6472301"
+latitude: "37,9428596"
+longitude: "23,6472301"
 url: "colosseum-fighting-arena-peiraias/athina/polemikes-texnes/mma"
 slug: "colosseum-fighting-arena-peiraias"
 aliases:

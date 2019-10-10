@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΕΜΠΟΡΙΚΟ ΚΕΝΤΡΟ PLAZA, ΑΓΓ.ΜΕΤΑΞΑ 39 (1ος όροφος), Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school191120181451"
-latitude: "37.86008225"
-longitude: "23.75450134"
+latitude: "37,86008225"
+longitude: "23,75450134"
 url: "naytikos-athlitikos-omilos-arion-glyfadas/athina/athlitismos/kithara"
 slug: "naytikos-athlitikos-omilos-arion-glyfadas"
 aliases:

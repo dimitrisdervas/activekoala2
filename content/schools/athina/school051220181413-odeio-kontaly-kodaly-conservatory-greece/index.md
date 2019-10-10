@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κύπρου 61, Χαλάνδρι Kyprou 61, Chalandri 15233, 15233 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

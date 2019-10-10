@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "KOYNTOΥΡΙΩΤΟΥ 3, 12351 Agia Varvara"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/01/olympian-team-logo.jpg"
 profilePhoto : "downloaded"

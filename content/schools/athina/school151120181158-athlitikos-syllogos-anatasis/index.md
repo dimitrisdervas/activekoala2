@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δωδεκανήσου 18 Άγιοι Ανάργυροι,Ανάκασα(πλατεία Άρη Βελουχιώτη), 13562 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017812133422302.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181158"
-latitude: "38.03986176"
-longitude: "23.729463"
+latitude: "38,03986176"
+longitude: "23,729463"
 url: "athlitikos-syllogos-anatasis/athina/polemikes-texnes/kung-fu"
 slug: "athlitikos-syllogos-anatasis"
 aliases:

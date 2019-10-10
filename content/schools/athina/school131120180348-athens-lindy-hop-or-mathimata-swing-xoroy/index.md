@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["swing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Φθιώτιδος 24, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180348"
-latitude: "37.9899411"
-longitude: "23.7608315"
+latitude: "37,9899411"
+longitude: "23,7608315"
 url: "athens-lindy-hop-or-mathimata-swing-xoroy/athina/xoros/swing"
 slug: "athens-lindy-hop-or-mathimata-swing-xoroy"
 aliases:

@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: ["mousiki-sxoli"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Olympiados 133, 54634 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2017/10/ACTION-THEATER-LOGO.jpg"
 profilePhoto : "downloaded"

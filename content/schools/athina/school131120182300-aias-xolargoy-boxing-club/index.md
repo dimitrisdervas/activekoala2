@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kιλκις 18, στο τερμα της 17Νοεμβριου, μετα την πλατεια, 15562 Holargos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/14508465_1056886881095100_1900587953_n.jpg"
 profilePhoto : "downloaded"

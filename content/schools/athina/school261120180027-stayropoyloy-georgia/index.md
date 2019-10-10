@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Alkaiou 31, 11528 Zográfou, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school261120180027"
-latitude: "37.976693"
-longitude: "23.75816718"
+latitude: "37,976693"
+longitude: "23,75816718"
 url: "stayropoyloy-georgia/athina/xoros/"
 slug: "stayropoyloy-georgia"
 aliases:

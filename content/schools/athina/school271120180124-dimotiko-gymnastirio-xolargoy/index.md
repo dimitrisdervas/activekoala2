@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Νευροκοπίου &amp; Αργυροκάστρου, 15669 Papágou, Attiki, Greece"
 logoimg: "dopaplogo.png"
 profilePhoto : "downloaded"

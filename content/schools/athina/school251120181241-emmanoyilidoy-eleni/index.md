@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παναγή Τσαλδάρη 224, 18453 Níkaia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120181241"
-latitude: "37.9722023"
-longitude: "23.6441345"
+latitude: "37,9722023"
+longitude: "23,6441345"
 url: "emmanoyilidoy-eleni/athina/xoros/"
 slug: "emmanoyilidoy-eleni"
 aliases:

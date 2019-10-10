@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Α) Κεντρικό: Σουλίου 155 Πετρούπολη Β) Υποκατάστημα: Ορχομενού 42 Άνω Λιόσια, 13231 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120182358"
-latitude: "38.0860107"
-longitude: "23.7072727"
+latitude: "38,0860107"
+longitude: "23,7072727"
 url: "xelioti-petroy-gianna-ekfrasi-armonias/athina/xoros/"
 slug: "xelioti-petroy-gianna-ekfrasi-armonias"
 aliases:

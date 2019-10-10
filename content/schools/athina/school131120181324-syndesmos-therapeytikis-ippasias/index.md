@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Π. Κανελλοπούλου 10, 11527 Γουδή"
 logoimg: ""
 profilePhoto : "downloaded"

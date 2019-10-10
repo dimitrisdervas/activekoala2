@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Mesogeion Ave. 186, 15561 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180432"
-latitude: "38.00138411"
-longitude: "23.78882488"
+latitude: "38,00138411"
+longitude: "23,78882488"
 url: "arte-movimento-capoeira-athens/athina/polemikes-texnes/capoeira"
 slug: "arte-movimento-capoeira-athens"
 aliases:

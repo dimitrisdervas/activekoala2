@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["tango"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δηλιάδος και Λεωφορος Συγγρου 66, 117 42 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφ. Βουλιαγμένης 12, 16673 Voúla, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/03/taiko-ryu-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182134"
-latitude: "37.85224658"
-longitude: "23.76720428"
+latitude: "37,85224658"
+longitude: "23,76720428"
 url: "taiko-ryu-martial-arts/athina/polemikes-texnes/jujitsu"
 slug: "taiko-ryu-martial-arts"
 aliases:

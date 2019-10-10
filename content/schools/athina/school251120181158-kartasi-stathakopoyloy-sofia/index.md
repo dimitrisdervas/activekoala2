@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Agias Sofias 1, 17123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120181158"
-latitude: "37.9470403"
-longitude: "23.71641397"
+latitude: "37,9470403"
+longitude: "23,71641397"
 url: "kartasi-stathakopoyloy-sofia/athina/xoros/"
 slug: "kartasi-stathakopoyloy-sofia"
 aliases:

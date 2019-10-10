@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ.Μαραθωνος 34 Ανοιξη, 14569 �Yios Stéfanos, Attiki, Greece"
 logoimg: "cropped-realryder-logo2.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14565"]
 UID: "school171120180251"
-latitude: "38.13828026"
-longitude: "23.85739059"
+latitude: "38,13828026"
+longitude: "23,85739059"
 url: "real-ryder-studio/athina/kleistou-xorou/gym"
 slug: "real-ryder-studio"
 aliases:

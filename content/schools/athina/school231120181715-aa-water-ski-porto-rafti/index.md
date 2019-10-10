@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["ski"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θερμησία, Ermióni, Greece"
 logoimg: "logo (60).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["19003"]
 UID: "school231120181715"
-latitude: "37.41925396"
-longitude: "23.32946777"
+latitude: "37,41925396"
+longitude: "23,32946777"
 url: "aa-water-ski-porto-rafti/athina/water-sports/ski"
 slug: "aa-water-ski-porto-rafti"
 aliases:

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λαιμός Βουλιαγμένης, 16671 Vouliagméni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

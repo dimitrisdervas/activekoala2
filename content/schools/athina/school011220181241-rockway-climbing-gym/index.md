@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Proveleggiou 4, Iraklio, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220181241"
-latitude: "38.0609"
-longitude: "23.77985"
+latitude: "38,0609"
+longitude: "23,77985"
 url: "rockway-climbing-gym/athina/athlitismos/anarixisi"
 slug: "rockway-climbing-gym"
 aliases:

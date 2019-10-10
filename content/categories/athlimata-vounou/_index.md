@@ -1,8 +1,8 @@
 ---
 title: |
    Βουνό
-schools: ["","school021220181924","school171120181422"]
-subcategory: ["Ski"]
+schools: ["Αθήνα"]
+subcategory: ["","school171120181422"]
 slug: "athlimata-vounou"
 slugSubcategory: ["ski"]
 ---

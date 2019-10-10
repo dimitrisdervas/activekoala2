@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αριστείδου 2, 16561 Glyfáda, Greece"
 logoimg: "1239504_330374143774061_1004017040_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
 UID: "school181120180934"
-latitude: "37.87389"
-longitude: "23.75772"
+latitude: "37,87389"
+longitude: "23,75772"
 url: "super-soccer/athina/athlitismos/"
 slug: "super-soccer"
 aliases:

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγάπης 3, 54622 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/06/paixnidianotes.jpg"
 profilePhoto : "downloaded"

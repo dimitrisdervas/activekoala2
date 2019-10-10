@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μητροπόλεως 62, 10563 Athens, Greece"
 logoimg: "logo (23).jpg"
 profilePhoto : "downloaded"

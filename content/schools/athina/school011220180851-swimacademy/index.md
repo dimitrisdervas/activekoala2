@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελ Βενιζέλου 3α &amp; 33ης Ελληνικό, 16777 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220180851"
-latitude: "37.8911655"
-longitude: "23.74626828"
+latitude: "37,8911655"
+longitude: "23,74626828"
 url: "swimacademy/athina/baby/"
 slug: "swimacademy"
 aliases:

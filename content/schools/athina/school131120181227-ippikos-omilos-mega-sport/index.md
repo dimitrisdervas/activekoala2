@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τέρμα Πασχαλιας, 13671 Αχαρναι"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΩΦΟΡΟΣ ΔΙΓΕΝΗ 8, ΗΛΙΟΥΠΟΛΗ, 16344 Athens, Greece"
 logoimg: "262179_113773258716031_5537069_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16344"]
 UID: "school181120182329"
-latitude: "37.94559425"
-longitude: "23.75877678"
+latitude: "37,94559425"
+longitude: "23,75877678"
 url: "athlitiko-kentro-mpasdekis/athina/kleistou-xorou/"
 slug: "athlitiko-kentro-mpasdekis"
 aliases:

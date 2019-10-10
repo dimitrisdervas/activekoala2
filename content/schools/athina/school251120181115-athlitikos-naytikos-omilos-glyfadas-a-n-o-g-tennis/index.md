@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: "org241120180156"
+organisationid: ""
 organisation: "ΑΘΛΗΤΙΚΟΣ ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΓΛΥΦΑΔΑΣ (Α.Ν.Ο.Γ)"
-orgurl: "org241120180156-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
+orgurl: "undefined-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: "κ.ΦΡΑΓΚΟΥΛΗΣ ΕΜΜΑΝΟΥΗΛ"
 zipcode: ["16601"]
 UID: "school251120181115"
-latitude: "37.86325016"
-longitude: "23.74453425"
+latitude: "37,86325016"
+longitude: "23,74453425"
 url: "athlitikos-naytikos-omilos-glyfadas-a-n-o-g-tennis/athina/athlitismos/tennis"
 slug: "athlitikos-naytikos-omilos-glyfadas-a-n-o-g-tennis"
 aliases:

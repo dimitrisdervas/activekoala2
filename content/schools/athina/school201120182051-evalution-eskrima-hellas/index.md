@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κρυσταλλη 42 Αγιοι Αναργυροι, 11146 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2016729143636959.jpeg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τριπόλεως 70, 16777 Ellinikón, Greece"
 logoimg: "544682_355759417802005_2085724606_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
 UID: "school191120182022"
-latitude: "37.8961"
-longitude: "23.75301"
+latitude: "37,8961"
+longitude: "23,75301"
 url: "body-concept/athina/kleistou-xorou/"
 slug: "body-concept"
 aliases:

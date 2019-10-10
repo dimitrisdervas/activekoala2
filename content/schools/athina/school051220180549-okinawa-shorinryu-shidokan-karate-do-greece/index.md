@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "11524 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school051220180549"
-latitude: "37.9958344"
-longitude: "23.762907"
+latitude: "37,9958344"
+longitude: "23,762907"
 url: "okinawa-shorinryu-shidokan-karate-do-greece/athina/kleistou-xorou/karate"
 slug: "okinawa-shorinryu-shidokan-karate-do-greece"
 aliases:

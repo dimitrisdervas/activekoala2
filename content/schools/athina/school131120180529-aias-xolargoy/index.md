@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Sarantaporou 5, 15561 Holargos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2018/01/aias-team-gad-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180529"
-latitude: "37.99967983"
-longitude: "23.79291058"
+latitude: "37,99967983"
+longitude: "23,79291058"
 url: "aias-xolargoy/athina/polemikes-texnes/"
 slug: "aias-xolargoy"
 aliases:

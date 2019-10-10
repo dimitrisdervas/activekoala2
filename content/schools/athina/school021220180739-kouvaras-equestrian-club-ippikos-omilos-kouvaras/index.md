@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Artemidos, 19001 Kouvarás, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

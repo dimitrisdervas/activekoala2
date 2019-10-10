@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Chanion 1, 14123 Lykovrisi, Attiki, Greece"
 logoimg: "cropped-logo-aikido-1-good.jpg"
 profilePhoto : "downloaded"

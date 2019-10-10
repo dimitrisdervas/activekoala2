@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καραολή Δημητρίου 41-43, 16231 Víron, Greece"
 logoimg: "528811_204844639653717_720470981_n.png"
 profilePhoto : "downloaded"

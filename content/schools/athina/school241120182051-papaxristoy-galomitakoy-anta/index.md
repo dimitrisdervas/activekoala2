@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βασ. Παύλου 115 &amp; Δ. Παπαχρήστου 1 (είσοδος), 19004 Spáta, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120182051"
-latitude: "37.9626171"
-longitude: "23.9119194"
+latitude: "37,9626171"
+longitude: "23,9119194"
 url: "papaxristoy-galomitakoy-anta/athina/xoros/"
 slug: "papaxristoy-galomitakoy-anta"
 aliases:

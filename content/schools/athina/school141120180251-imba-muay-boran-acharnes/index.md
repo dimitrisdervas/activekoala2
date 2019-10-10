@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Skoufa 43, 13671 Acharne, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/muay-boran-acharnes-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180251"
-latitude: "38.077086"
-longitude: "23.7404775"
+latitude: "38,077086"
+longitude: "23,7404775"
 url: "imba-muay-boran-acharnes/athina/polemikes-texnes/muay-thai"
 slug: "imba-muay-boran-acharnes"
 aliases:

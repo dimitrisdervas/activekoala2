@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δ.Α.Κ. Παλαιού Φαλήρου, Μαρίνα Φλοίσβου Π. Φάληρο, Palaión Fáliron, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

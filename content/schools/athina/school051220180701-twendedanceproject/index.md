@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kontogianni 5, Likovrisi, 14123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

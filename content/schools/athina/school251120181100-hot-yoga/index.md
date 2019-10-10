@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Άγγελου Σικελιανού 11, Ψυχικό, 15451 Athens, Greece"
 logoimg: "psyhiko7.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κ. Μουτούση 1 - Βάρη, 16672 Αθήνα"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδόσφαιρο"]
 categories: ["athlitismos"]
 subcategories: ["football"]
-organisationid: "org241120180225"
+organisationid: ""
 organisation: "ΓΣ ΗΛΙΟΥΠΟΛΗΣ"
-orgurl: "org241120180225-gs-ilioypolis"
+orgurl: "undefined-gs-ilioypolis"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
 logoimg: ""
 profilePhoto : "downloaded"

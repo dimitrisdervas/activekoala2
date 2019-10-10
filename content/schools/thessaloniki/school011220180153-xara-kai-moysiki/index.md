@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεταμορφώσεως 13, 57019 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/xarakaimousiki_final_1-e1493722589354.jpg"
 profilePhoto : "downloaded"

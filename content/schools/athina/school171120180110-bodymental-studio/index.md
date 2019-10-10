@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Καραμανλή 95, 19016 Loútsa, Greece"
 logoimg: "399366_247415201991957_1894738075_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["19016"]
 UID: "school171120180110"
-latitude: "37.96726346"
-longitude: "23.99399416"
+latitude: "37,96726346"
+longitude: "23,99399416"
 url: "bodymental-studio/athina/kleistou-xorou/"
 slug: "bodymental-studio"
 aliases:

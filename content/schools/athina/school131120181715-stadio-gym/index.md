@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "25ης Μαρτίου 142, 13231 Petroúpolis, Greece"
 logoimg: "logo2.jpg"
 profilePhoto : "downloaded"

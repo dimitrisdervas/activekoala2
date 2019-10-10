@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Thessalonikis 20,Ωραιόκαστρο, 57013 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/02/logo-spectral2.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120180305"
-latitude: "40.73160035"
-longitude: "22.92125702"
+latitude: "40,73160035"
+longitude: "22,92125702"
 url: "spectral/thessaloniki/theatro/"
 slug: "spectral"
 aliases:

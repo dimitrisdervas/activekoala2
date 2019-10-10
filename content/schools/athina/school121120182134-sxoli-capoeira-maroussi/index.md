@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Neratziotissis,73 Μαρούσι, 151 25 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182134"
-latitude: "38.04912"
-longitude: "23.79715"
+latitude: "38,04912"
+longitude: "23,79715"
 url: "sxoli-capoeira-maroussi/athina/polemikes-texnes/capoeira"
 slug: "sxoli-capoeira-maroussi"
 aliases:

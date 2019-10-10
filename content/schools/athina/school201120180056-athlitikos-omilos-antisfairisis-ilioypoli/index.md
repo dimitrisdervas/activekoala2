@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Evert Angelou, 16342 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

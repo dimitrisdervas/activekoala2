@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Ionias 68, Alimos, 17456 Athens, Greece"
 logoimg: "378378_316217178392179_861678045_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17456"]
 UID: "school151120181812"
-latitude: "37.92335"
-longitude: "23.73923"
+latitude: "37,92335"
+longitude: "23,73923"
 url: "equalibre-pilates-gyrotonic-and-yoga-studio/athina/kleistou-xorou/gym"
 slug: "equalibre-pilates-gyrotonic-and-yoga-studio"
 aliases:

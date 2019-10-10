@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "76, Afroditis Street, Varkiza, 16674 Athens, Greece"
 logoimg: "logo (10).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school181120182022"
-latitude: "37.9712641"
-longitude: "23.730894"
+latitude: "37,9712641"
+longitude: "23,730894"
 url: "bavelas-chatzinikolaou-tennis-academy/athina/athlitismos/"
 slug: "bavelas-chatzinikolaou-tennis-academy"
 aliases:

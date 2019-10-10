@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Amaryllidos 1 &amp; Eirinis, 15341 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Μαραθώνος 29, 153 51 Παλλήνη"
 logoimg: ""
 profilePhoto : "downloaded"

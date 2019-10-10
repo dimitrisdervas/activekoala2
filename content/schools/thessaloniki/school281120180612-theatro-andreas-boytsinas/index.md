@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λέοντος Σοφού 18, 54625 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

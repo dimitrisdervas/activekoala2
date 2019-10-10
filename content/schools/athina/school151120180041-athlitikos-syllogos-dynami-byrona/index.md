@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κύπρου 70, 16231 Víron, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/01/dinami-virona-logo.jpg"
 profilePhoto : "downloaded"

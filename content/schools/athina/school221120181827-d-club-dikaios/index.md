@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Υψηλάντου 143-145, 18535 Peiraeus, Attiki, Greece"
 logoimg: "logo (14).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18535"]
 UID: "school221120181827"
-latitude: "37.94095"
-longitude: "23.64887"
+latitude: "37,94095"
+longitude: "23,64887"
 url: "d-club-dikaios/athina/kleistou-xorou/"
 slug: "d-club-dikaios"
 aliases:

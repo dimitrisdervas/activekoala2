@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "davaki 68, 17672 Kallithéa, Greece"
 logoimg: "logo (15).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17672"]
 UID: "school191120181017"
-latitude: "37.95481147"
-longitude: "23.70322531"
+latitude: "37,95481147"
+longitude: "23,70322531"
 url: "body-care-ladies/athina/kleistou-xorou/"
 slug: "body-care-ladies"
 aliases:

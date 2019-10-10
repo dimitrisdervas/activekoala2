@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεσογείων 151, 15126 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

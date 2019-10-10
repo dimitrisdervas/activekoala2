@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θερμοπυλών 113, 19100 Mégara, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/mourtzoukou.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school261120180222"
-latitude: "38.0019323"
-longitude: "23.3366617"
+latitude: "38,0019323"
+longitude: "23,3366617"
 url: "moyrtzoykoy-aggeliki/athina/xoros/"
 slug: "moyrtzoykoy-aggeliki"
 aliases:

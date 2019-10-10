@@ -8,22 +8,22 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Άργους 63, 10441 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/kyriakou.jpg"
 profilePhoto : "downloaded"
 coverPhoto : "downloaded"
 website: "www.danceartvoula.gr"
 facebook: "www.facebook.com/www.avorreadance.gr/"
-phone: "210.5136406"
+phone: "210,5136406"
 email: ""
 courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180251"
-latitude: "37.9901031"
-longitude: "23.7136329"
+latitude: "37,9901031"
+longitude: "23,7136329"
 url: "kyriakoy-xatzimanoli-aikaterini-dance-art/athina/xoros/"
 slug: "kyriakoy-xatzimanoli-aikaterini-dance-art"
 aliases:

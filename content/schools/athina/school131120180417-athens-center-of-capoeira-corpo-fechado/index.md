@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Argolidos 48, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180417"
-latitude: "37.99080209"
-longitude: "23.76083136"
+latitude: "37,99080209"
+longitude: "23,76083136"
 url: "athens-center-of-capoeira-corpo-fechado/athina/polemikes-texnes/capoeira"
 slug: "athens-center-of-capoeira-corpo-fechado"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Mesogeion 452, 15342 Ayía Paraskeví, Attiki, Greece"
 logoimg: "1377028_1428733147338061_2093388328_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11361"]
 UID: "school211120181129"
-latitude: "38.01363"
-longitude: "23.82985"
+latitude: "38,01363"
+longitude: "23,82985"
 url: "palaistra/athina/polemikes-texnes/"
 slug: "palaistra"
 aliases:

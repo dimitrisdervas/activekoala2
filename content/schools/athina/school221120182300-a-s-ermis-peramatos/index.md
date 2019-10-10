@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΩΦ. ΕΙΡΗΝΗΣ 249, 18863 Perama"
 logoimg: "blog-photo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18863"]
 UID: "school221120182300"
-latitude: "37.96297468"
-longitude: "23.57785148"
+latitude: "37,96297468"
+longitude: "23,57785148"
 url: "a-s-ermis-peramatos/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-ermis-peramatos"
 aliases:

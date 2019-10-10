@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["sanda"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δήμητρας 11 , Άγιος Δημήτριος, 17343 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/01/tragakis-studio-logo.jpg"
 profilePhoto : "downloaded"

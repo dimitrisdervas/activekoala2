@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "6 Ρόδων, 17455 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220181422"
-latitude: "37.91316"
-longitude: "23.73612"
+latitude: "37,91316"
+longitude: "23,73612"
 url: "workout-hall/athina/athlitismos/anarixisi"
 slug: "workout-hall"
 aliases:

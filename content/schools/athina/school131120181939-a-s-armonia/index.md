@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Olympionikou Loui Spyrou, 15123 Athens, Greece, 15123 Amaroúsion, Greece"
 logoimg: "1231650_515906378486751_1085423665_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181939"
-latitude: "38.05513355"
-longitude: "23.76240869"
+latitude: "38,05513355"
+longitude: "23,76240869"
 url: "a-s-armonia/athina/polemikes-texnes/karate"
 slug: "a-s-armonia"
 aliases:

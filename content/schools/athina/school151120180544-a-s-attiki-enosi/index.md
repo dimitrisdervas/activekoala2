@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "TRALLEON 145, 11146 Galátsion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/167769_150009348390315_8158212_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180544"
-latitude: "38.01932"
-longitude: "23.75551"
+latitude: "38,01932"
+longitude: "23,75551"
 url: "a-s-attiki-enosi/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-attiki-enosi"
 aliases:

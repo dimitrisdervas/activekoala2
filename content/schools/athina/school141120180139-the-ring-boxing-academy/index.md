@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Vassani 7-9, 38333 Volos"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/the-ring-boxing-academy.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΜΟΝΗΣ ΑΡΚΑΔΙΟΥ 7, 153 44 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

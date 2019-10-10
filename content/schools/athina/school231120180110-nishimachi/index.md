@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΠΕΛΑΣΓΙΑΣ &amp; ΔΩΔΕΚΑΝΗΣΟΥ 1, 12136 Peristéri, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120180110"
-latitude: "38.01249694"
-longitude: "23.68630607"
+latitude: "38,01249694"
+longitude: "23,68630607"
 url: "nishimachi/athina/polemikes-texnes/aikido"
 slug: "nishimachi"
 aliases:

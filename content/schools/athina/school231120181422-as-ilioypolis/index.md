@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "163 46 Ηλιούπολη Ν. Αττικής"
 logoimg: ""
 profilePhoto : "downloaded"

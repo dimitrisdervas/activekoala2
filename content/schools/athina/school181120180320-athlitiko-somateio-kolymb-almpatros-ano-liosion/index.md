@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αιγαίου Πελάγους 1 (Κολυμβητήριο Άνω Λιόσια ), 13341"
 logoimg: ""
 profilePhoto : "downloaded"

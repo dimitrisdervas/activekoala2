@@ -3,12 +3,12 @@ title: "Navasana"
 cities: ["Αθήνα"]
 perioxi: ["Κερατσίνι"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παναγή Τσαλδάρη 58, 187 57 Keratsíni, Greece"
 logoimg: "logo3.png"
 profilePhoto : "downloaded"

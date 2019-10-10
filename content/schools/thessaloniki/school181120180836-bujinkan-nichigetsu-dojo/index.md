@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Papafi 61, 54351 Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201808132313770.jpg"
 profilePhoto : "downloaded"

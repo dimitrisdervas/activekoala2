@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΖΥΡΝΟΒΟΥ 7, 11855 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

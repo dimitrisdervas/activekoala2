@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Garivaldi &amp; Volou 2A, Agia Fyla, 3116 Limassol"
 logoimg: ""
 profilePhoto : "downloaded"

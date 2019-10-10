@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "61 Kastritsas street, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

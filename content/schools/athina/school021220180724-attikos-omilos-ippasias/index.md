@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χρήστου Αγγελη 1, 19400 Koropí, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

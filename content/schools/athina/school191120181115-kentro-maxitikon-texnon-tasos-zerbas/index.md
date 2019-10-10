@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Λαυρίου 61, Γλυκά Νερά, 15354 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201782811112323.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school191120181115"
-latitude: "38.0034865"
-longitude: "23.8477954"
+latitude: "38,0034865"
+longitude: "23,8477954"
 url: "kentro-maxitikon-texnon-tasos-zerbas/athina/polemikes-texnes/tae-kwon-do"
 slug: "kentro-maxitikon-texnon-tasos-zerbas"
 aliases:

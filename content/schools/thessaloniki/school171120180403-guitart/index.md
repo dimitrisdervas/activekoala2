@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["guitar"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τάκη Οικονομίδη 44, 55131 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2014/09/logo-guitart360240-2.jpg"
 profilePhoto : "downloaded"

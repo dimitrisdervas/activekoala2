@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "El. Venizelou 37 &amp; Kanari 9, 15127 Melíssia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120180710"
-latitude: "38.05612"
-longitude: "23.83836"
+latitude: "38,05612"
+longitude: "23,83836"
 url: "dance-place-melissia-anastasiadoy-ibi-and-patroy-eleni/athina/xoros/"
 slug: "dance-place-melissia-anastasiadoy-ibi-and-patroy-eleni"
 aliases:

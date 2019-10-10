@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Komninon and Chrysolora 15, 11743 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/1365_147452968788787_1567304406_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181646"
-latitude: "37.9895"
-longitude: "23.74084"
+latitude: "37,9895"
+longitude: "23,74084"
 url: "white-tiger-muay-thai-camp/athina/polemikes-texnes/muay-thai"
 slug: "white-tiger-muay-thai-camp"
 aliases:

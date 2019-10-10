@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ν.Πλαστηρα 20, Aigáleo, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Νικολάου Πλαστήρα 78 &amp; Τροίας 22, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

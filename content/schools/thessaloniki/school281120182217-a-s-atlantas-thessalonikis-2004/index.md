@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΟΛΥΜΒΗΤΗΡΙΟ ΝΕΑΠΟΛΕΩΣ KAI ΠΟΣΕΙΔΩΝΙΟ ΚΟΛΥΜΒΗΤΗΡΙΟ, 56533 ΘΕΣΣΑΛΟΝΙΚΗ"
 logoimg: ""
 profilePhoto : "downloaded"

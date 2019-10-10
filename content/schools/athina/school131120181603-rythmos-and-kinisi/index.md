@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ.ΕΙΡΗΝΗΣ 87, 18863 Perama"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181603"
-latitude: "37.9641847"
-longitude: "23.5658084"
+latitude: "37,9641847"
+longitude: "23,5658084"
 url: "rythmos-and-kinisi/athina/athlitismos/gymnastics-rithmiki"
 slug: "rythmos-and-kinisi"
 aliases:

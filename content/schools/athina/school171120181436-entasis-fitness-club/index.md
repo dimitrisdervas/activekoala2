@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "θηβων 357, 12244 Aigáleo, Greece"
 logoimg: "εντασισ.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12244"]
 UID: "school171120181436"
-latitude: "37.99026189"
-longitude: "23.67651026"
+latitude: "37,99026189"
+longitude: "23,67651026"
 url: "entasis-fitness-club/athina/kleistou-xorou/gym"
 slug: "entasis-fitness-club"
 aliases:

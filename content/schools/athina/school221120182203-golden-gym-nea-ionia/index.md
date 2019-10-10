@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org191120180222"
+organisationid: ""
 organisation: "GOLDEN GYM"
-orgurl: "org191120180222-golden-gym"
+orgurl: "undefined-golden-gym"
 address: "Εργασίας 15, Νέα Ιωνία, ΤΚ 14234"
 logoimg: "402975_381961838484264_438369505_n (2).jpg"
 profilePhoto : "downloaded"

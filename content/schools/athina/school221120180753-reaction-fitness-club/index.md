@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΩΦΟΡΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ 102, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: "logo (8).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17563"]
 UID: "school221120180753"
-latitude: "37.92311"
-longitude: "23.71928"
+latitude: "37,92311"
+longitude: "23,71928"
 url: "reaction-fitness-club/athina/kleistou-xorou/gym"
 slug: "reaction-fitness-club"
 aliases:

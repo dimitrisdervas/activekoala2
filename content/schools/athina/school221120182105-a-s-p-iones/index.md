@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΑΛΒΟΥ &amp; ΤΖΑΒΕΛΛΑ, 14231 Ν. ΙΩΝΙΑ"
 logoimg: "logo.gif"
 profilePhoto : "downloaded"

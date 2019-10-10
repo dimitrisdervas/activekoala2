@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίου Ιωάννου Θεολόγου 21 και Μιαούλη, Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017109184146323.png"
 profilePhoto : "downloaded"

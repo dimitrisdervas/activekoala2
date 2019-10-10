@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Agias Eleousas 5, Monastiraki, Psyrri, 10554 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180041"
-latitude: "37.97793"
-longitude: "23.72575"
+latitude: "37,97793"
+longitude: "23,72575"
 url: "pole-jam/athina/xoros/pole-dance"
 slug: "pole-jam"
 aliases:

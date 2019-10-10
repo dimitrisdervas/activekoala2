@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δυρραχίου 70, Σεπόλια, 10443 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

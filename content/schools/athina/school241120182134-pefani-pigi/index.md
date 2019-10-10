@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Agiou Alexandrou &amp; Naiadon 49, 175 61 Palaión Fáliron, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

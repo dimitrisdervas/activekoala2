@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βεΐκου &amp; Αφαίας 2, 11147 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

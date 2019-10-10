@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "13 perikleous street, 15122 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

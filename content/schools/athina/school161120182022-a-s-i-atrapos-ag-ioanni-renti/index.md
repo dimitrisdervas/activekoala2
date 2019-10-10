@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tang-soo-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παλαιολόγου Κωνσταντίνου 10(Πλατεία Αγ.Ι.Ρέντη), 18233 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20159129182141.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120182022"
-latitude: "37.9618378"
-longitude: "23.6755772"
+latitude: "37,9618378"
+longitude: "23,6755772"
 url: "a-s-i-atrapos-ag-ioanni-renti/athina/polemikes-texnes/tang-soo-do"
 slug: "a-s-i-atrapos-ag-ioanni-renti"
 aliases:

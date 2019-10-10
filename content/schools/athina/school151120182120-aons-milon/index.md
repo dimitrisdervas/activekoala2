@@ -6,16 +6,16 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org191120180207"
+organisationid: ""
 organisation: "ΑΟΝΣ ΜΙΛΩΝ"
-orgurl: "org191120180207-aons-milon"
+orgurl: "undefined-aons-milon"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
 logoimg: ""
 profilePhoto : "downloaded"
 coverPhoto : "downloaded"
 website: "www.aons-milon.gr-not working"
 facebook: "www.facebook.com/AONSMILON/"
-phone: "210.93537"
+phone: "210,93537"
 email: "info@aonsmilon.gr"
 courses: ""
 places: [""]

@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Olympionikou Loui Spyrou, 151 23 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220181158"
-latitude: "38.03411"
-longitude: "23.78672"
+latitude: "38,03411"
+longitude: "23,78672"
 url: "okeanos-sto-oakka/athina/baby/baby-swimming"
 slug: "okeanos-sto-oakka"
 aliases:

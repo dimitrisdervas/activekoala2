@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Likavitou 27, 14569 Dionysos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

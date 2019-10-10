@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220180905"
-latitude: "37.86325016"
-longitude: "23.74453425"
+latitude: "37,86325016"
+longitude: "23,74453425"
 url: "anog-glyfadas/athina/baby/baby-swimming"
 slug: "anog-glyfadas"
 aliases:

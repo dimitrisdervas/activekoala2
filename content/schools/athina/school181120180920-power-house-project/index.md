@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κολοκοτρώνη 36, Γλυφάδα, ΤΚ 16675"
 logoimg: "1613875_764494496917135_274462895763339384_n.jpg"
 profilePhoto : "downloaded"

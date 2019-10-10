@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Plataion 10, Keramikos, 10435 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

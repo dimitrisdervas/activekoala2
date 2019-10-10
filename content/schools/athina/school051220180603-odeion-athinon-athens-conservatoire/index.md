@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "17-19 Leoforos Vasileios Georgiou B’ &amp; Rigillis, 10675 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

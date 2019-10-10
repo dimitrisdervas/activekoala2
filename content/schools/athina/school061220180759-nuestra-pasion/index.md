@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Αλεξανδρας και Ι. Σουτσου 4-6, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

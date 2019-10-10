@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Βουλιαγμένης 231, 17235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school051220180408"
-latitude: "37.9506266"
-longitude: "23.7381196"
+latitude: "37,9506266"
+longitude: "23,7381196"
 url: "paradosiako-saolin-koyngk-foy-i-pigi-toy-nearoy-dasoys-dafnis/athina/kleistou-xorou/kung-fu"
 slug: "paradosiako-saolin-koyngk-foy-i-pigi-toy-nearoy-dasoys-dafnis"
 aliases:

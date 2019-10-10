@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χανίων 1, 141 23 Likóvrisi, Attiki, Greece"
 logoimg: "image001.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14123"]
 UID: "school201120182134"
-latitude: "38.07326443"
-longitude: "23.79067898"
+latitude: "38,07326443"
+longitude: "23,79067898"
 url: "royal-academy-of-kick-boxing-and-muay-thai/athina/polemikes-texnes/kickboxing"
 slug: "royal-academy-of-kick-boxing-and-muay-thai"
 aliases:

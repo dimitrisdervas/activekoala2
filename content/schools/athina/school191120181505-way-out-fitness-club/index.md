@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 21, Δάφνη, 17237 Athens, Greece"
 logoimg: "10411225_518800348243128_2831607362116968122_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17237"]
 UID: "school191120181505"
-latitude: "37.95376263"
-longitude: "23.73912319"
+latitude: "37,95376263"
+longitude: "23,73912319"
 url: "way-out-fitness-club/athina/kleistou-xorou/gym"
 slug: "way-out-fitness-club"
 aliases:

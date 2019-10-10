@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μυκόνου 19, 15231 Χαλάνδρι"
 logoimg: "logo (15).jpg"
 profilePhoto : "downloaded"

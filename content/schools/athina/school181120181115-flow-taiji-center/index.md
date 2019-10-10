@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Kritis 18, 16451 Argyroupolis, Attiki, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201635151046538.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school181120181115"
-latitude: "37.91631762"
-longitude: "23.74661798"
+latitude: "37,91631762"
+longitude: "23,74661798"
 url: "flow-taiji-center/athina/polemikes-texnes/kung-fu"
 slug: "flow-taiji-center"
 aliases:

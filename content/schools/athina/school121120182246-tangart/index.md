@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["tango"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "10 Kallirrois str, 11743 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182246"
-latitude: "37.9669379"
-longitude: "23.73181446"
+latitude: "37,9669379"
+longitude: "23,73181446"
 url: "tangart/athina/xoros/tango"
 slug: "tangart"
 aliases:

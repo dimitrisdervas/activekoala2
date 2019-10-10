@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αιγαίου Πελάγους, Άνω Λιόσια, 133 41 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

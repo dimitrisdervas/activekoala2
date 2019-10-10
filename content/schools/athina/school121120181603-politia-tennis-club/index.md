@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "18 Aristotelous, 14563 Kifisiá, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

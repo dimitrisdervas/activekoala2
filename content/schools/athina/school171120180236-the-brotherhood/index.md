@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ypolochagou Kapetanaki 53, 173 42 Athens, Greece"
 logoimg: "1175446_627686877262264_1869250256_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17342"]
 UID: "school171120180236"
-latitude: "37.92134"
-longitude: "23.72576"
+latitude: "37,92134"
+longitude: "23,72576"
 url: "the-brotherhood/athina/polemikes-texnes/jujitsu"
 slug: "the-brotherhood"
 aliases:

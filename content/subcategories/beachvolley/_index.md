@@ -1,7 +1,7 @@
 ---
 title: |
    Beach Volley
-schools: [""]
+schools: ["school021220181841"]
 category: "Αθλητισμός"
 slug: "beachvolley"
 slugCategory: "athlitismos"

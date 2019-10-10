@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Πηγής 5, 15127 Melíssia, Attiki, Greece"
 logoimg: "10612636_594183890691001_8091035390260884407_n.jpg"
 profilePhoto : "downloaded"

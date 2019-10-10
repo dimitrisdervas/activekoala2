@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καρλόβασι, 83200 Sámos, Samos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/14407673_1648053778839605_307616394_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αράδου 5, Ιλίσια, 15771 Athens, Greece"
 logoimg: "http://www.posidonas-ilision.gr/images/stories/logomedium.jpg"
 profilePhoto : "downloaded"

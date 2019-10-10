@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "karaiskaki 49, 13671 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120182148"
-latitude: "38.08878294"
-longitude: "23.73644384"
+latitude: "38,08878294"
+longitude: "23,73644384"
 url: "konsta-xristina/athina/xoros/"
 slug: "konsta-xristina"
 aliases:

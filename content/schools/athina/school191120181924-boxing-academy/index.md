@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΡΗΓΑ ΦΕΡΑΙΟΥ &amp; ΚΟΥΝΤΟΥΡΙΩΤΟΥ, 18648 Piraeus, Greece"
 logoimg: "10436341_958348014194323_7026729709300660872_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18648"]
 UID: "school191120181924"
-latitude: "37.94564006"
-longitude: "23.62929583"
+latitude: "37,94564006"
+longitude: "23,62929583"
 url: "boxing-academy/athina/polemikes-texnes/"
 slug: "boxing-academy"
 aliases:

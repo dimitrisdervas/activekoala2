@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίου Αντωνίου 57, 152 35 Athens, Greece"
 logoimg: "1504092_233493550156979_1093449742_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15235"]
 UID: "school171120182300"
-latitude: "38.03361"
-longitude: "23.8396"
+latitude: "38,03361"
+longitude: "23,8396"
 url: "a-s-tzoynto-brilission-tokai/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-tzoynto-brilission-tokai"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΕΛΕΥΘΕΡΙΟΥ ΒΕΝΙΖΕΛΟΥ 92, 16344 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017612152913986.jpg"
 profilePhoto : "downloaded"

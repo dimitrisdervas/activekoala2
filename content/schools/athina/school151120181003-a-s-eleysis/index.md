@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βενιζέλου Ελευθερίου 7, 19200 Elefsína, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/elefsis-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181003"
-latitude: "38.0455557"
-longitude: "23.536574"
+latitude: "38,0455557"
+longitude: "23,536574"
 url: "a-s-eleysis/athina/polemikes-texnes/muay-thai"
 slug: "a-s-eleysis"
 aliases:

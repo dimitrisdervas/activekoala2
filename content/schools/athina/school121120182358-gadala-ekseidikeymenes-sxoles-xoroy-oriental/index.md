@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΥΨΗΛΑΝΤΟΥ &amp; ΚΑΠΟΔΙΣΤΡΙΟΥ 35, 11146 Galátsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182358"
-latitude: "38.01718695"
-longitude: "23.75197738"
+latitude: "38,01718695"
+longitude: "23,75197738"
 url: "gadala-ekseidikeymenes-sxoles-xoroy-oriental/athina/xoros/"
 slug: "gadala-ekseidikeymenes-sxoles-xoroy-oriental"
 aliases:

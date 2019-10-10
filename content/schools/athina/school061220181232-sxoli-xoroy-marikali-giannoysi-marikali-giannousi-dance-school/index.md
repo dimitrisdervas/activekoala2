@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 12 Καλλιθέα, 176 73 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school061220181232"
-latitude: "37.94982853"
-longitude: "23.70279601"
+latitude: "37,94982853"
+longitude: "23,70279601"
 url: "sxoli-xoroy-marikali-giannoysi-marikali-giannousi-dance-school/athina/xoros/"
 slug: "sxoli-xoroy-marikali-giannoysi-marikali-giannousi-dance-school"
 aliases:

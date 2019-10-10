@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΛΕΩΦΟΡΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 15, ΗΛΙΟΥΠΟΛΗ, 16344 Athens, Greece"
 logoimg: "10523098_557095164391280_817976119515288703_n.jpg"
 profilePhoto : "downloaded"

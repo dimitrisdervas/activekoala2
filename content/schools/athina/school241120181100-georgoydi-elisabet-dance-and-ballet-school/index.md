@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αλ. Παπαναστασίου 6, 141 23 Likóvrisi, Attiki, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/LOGO-GEORGOUDI.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181100"
-latitude: "38.06420978"
-longitude: "23.78048658"
+latitude: "38,06420978"
+longitude: "23,78048658"
 url: "georgoydi-elisabet-dance-and-ballet-school/athina/xoros/"
 slug: "georgoydi-elisabet-dance-and-ballet-school"
 aliases:

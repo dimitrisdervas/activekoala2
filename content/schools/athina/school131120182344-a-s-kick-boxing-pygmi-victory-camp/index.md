@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κρυστάλλη 42 (&amp; Φλέβας Ίλιον), Άγιοι Ανάργυροι"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/victory-camp-logo-1.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182344"
-latitude: "38.02713482"
-longitude: "23.7138176"
+latitude: "38,02713482"
+longitude: "23,7138176"
 url: "a-s-kick-boxing-pygmi-victory-camp/athina/polemikes-texnes/muay-thai"
 slug: "a-s-kick-boxing-pygmi-victory-camp"
 aliases:

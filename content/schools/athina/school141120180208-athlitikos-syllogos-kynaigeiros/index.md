@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΘΥΑΤΕΙΡΩΝ 9, 17121 Néa Smírni, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/kinegiros-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180208"
-latitude: "37.9515139"
-longitude: "23.7127817"
+latitude: "37,9515139"
+longitude: "23,7127817"
 url: "athlitikos-syllogos-kynaigeiros/athina/polemikes-texnes/tae-kwon-do"
 slug: "athlitikos-syllogos-kynaigeiros"
 aliases:

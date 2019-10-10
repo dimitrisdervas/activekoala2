@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεγάλου Αλεξάνδρου 21, 17235 Daphne, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120181212"
-latitude: "37.94985234"
-longitude: "23.73502905"
+latitude: "37,94985234"
+longitude: "23,73502905"
 url: "mathioydaki-maria/athina/xoros/"
 slug: "mathioydaki-maria"
 aliases:

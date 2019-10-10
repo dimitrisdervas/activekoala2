@@ -3,12 +3,12 @@ title: "Prana yoga"
 cities: ["Αθήνα"]
 perioxi: ["Μαρούσι"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σπύρου Λούη - Πύλη Δ, 15123 Amaroúsion, Greece"
 logoimg: "prana_logo_1.gif"
 profilePhoto : "downloaded"

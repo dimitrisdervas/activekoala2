@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χαρ. Θέρμης 8, 57001 Thérmi, Thessaloniki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

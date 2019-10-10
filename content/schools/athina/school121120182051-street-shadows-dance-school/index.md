@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Triptolemou 30, 11854 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120182051"
-latitude: "37.97900486"
-longitude: "23.71183466"
+latitude: "37,97900486"
+longitude: "23,71183466"
 url: "street-shadows-dance-school/athina/xoros/"
 slug: "street-shadows-dance-school"
 aliases:

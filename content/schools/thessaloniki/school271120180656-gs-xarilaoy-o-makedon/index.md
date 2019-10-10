@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "I. ΧΡΥΣΟΣΤΟΜΟΥ 16, 54639 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

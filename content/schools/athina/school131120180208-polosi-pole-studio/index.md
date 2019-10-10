@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Asklipiou 156, 11471 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180208"
-latitude: "37.98851061"
-longitude: "23.74843955"
+latitude: "37,98851061"
+longitude: "23,74843955"
 url: "polosi-pole-studio/athina/xoros/pole-dance"
 slug: "polosi-pole-studio"
 aliases:

@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Τατοΐου 137, 13601,, 12376 Varibópi, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: "10351589_724589667614965_975533429894985422_n (1).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11146"]
 UID: "school191120180446"
-latitude: "38.0227363"
-longitude: "23.7574705"
+latitude: "38,0227363"
+longitude: "23,7574705"
 url: "triantafyllis-team/athina/polemikes-texnes/karate"
 slug: "triantafyllis-team"
 aliases:

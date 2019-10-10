@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "16610 Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

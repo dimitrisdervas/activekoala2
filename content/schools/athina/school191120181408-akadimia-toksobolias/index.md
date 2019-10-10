@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["toxovolia"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Στοργής 2, 16674 Glyfáda, Greece"
 logoimg: "1175516_462496107181177_1257313703_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
 UID: "school191120181408"
-latitude: "37.87733"
-longitude: "23.7644"
+latitude: "37,87733"
+longitude: "23,7644"
 url: "akadimia-toksobolias/athina/athlitismos/toxovolia"
 slug: "akadimia-toksobolias"
 aliases:

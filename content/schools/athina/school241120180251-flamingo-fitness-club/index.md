@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Antinoros 31, 11634 Athens, Greece"
 logoimg: "flamingo_logo1.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11634"]
 UID: "school241120180251"
-latitude: "37.97363095"
-longitude: "23.75011927"
+latitude: "37,97363095"
+longitude: "23,75011927"
 url: "flamingo-fitness-club/athina/kleistou-xorou/gym"
 slug: "flamingo-fitness-club"
 aliases:

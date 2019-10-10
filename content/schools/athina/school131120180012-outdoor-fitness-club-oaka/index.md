@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "OAKA, 15125 Amaroúsion, Greece"
 logoimg: "557776_398483413611449_1115653808_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180012"
-latitude: "38.04867748"
-longitude: "23.78785892"
+latitude: "38,04867748"
+longitude: "23,78785892"
 url: "outdoor-fitness-club-oaka/athina/kleistou-xorou/"
 slug: "outdoor-fitness-club-oaka"
 aliases:

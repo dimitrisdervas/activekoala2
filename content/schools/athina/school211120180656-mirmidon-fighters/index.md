@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Dexamenis 22, 14451 Metamórfosis, Attiki, Greece"
 logoimg: "10696391_710417895717474_5237680407273797401_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14451"]
 UID: "school211120180656"
-latitude: "38.06303271"
-longitude: "23.76663067"
+latitude: "38,06303271"
+longitude: "23,76663067"
 url: "mirmidon-fighters/athina/polemikes-texnes/mma"
 slug: "mirmidon-fighters"
 aliases:

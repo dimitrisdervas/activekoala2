@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αβυδου 90, 15772 Ζωγραφου"
 logoimg: ""
 profilePhoto : "downloaded"

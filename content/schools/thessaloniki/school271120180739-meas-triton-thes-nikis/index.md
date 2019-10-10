@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓ.ΠΡΩΤΟΛΕΟΝΤΟΣ 19"
 logoimg: ""
 profilePhoto : "downloaded"

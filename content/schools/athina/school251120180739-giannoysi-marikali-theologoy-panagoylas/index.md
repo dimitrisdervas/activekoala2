@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 12 Καλλιθέα, 176 73 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/giannousi_marikalh.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180739"
-latitude: "37.94982853"
-longitude: "23.70279601"
+latitude: "37,94982853"
+longitude: "23,70279601"
 url: "giannoysi-marikali-theologoy-panagoylas/athina/xoros/"
 slug: "giannoysi-marikali-theologoy-panagoylas"
 aliases:

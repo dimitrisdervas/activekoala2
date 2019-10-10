@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Παλαιολογου 25 Νέα Ιωνία, 14233 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/61.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120180656"
-latitude: "38.036413"
-longitude: "23.7580808"
+latitude: "38,036413"
+longitude: "23,7580808"
 url: "aikido-zanshin/athina/polemikes-texnes/aikido"
 slug: "aikido-zanshin"
 aliases:

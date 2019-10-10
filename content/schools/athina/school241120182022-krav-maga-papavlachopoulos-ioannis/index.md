@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΔΕΡΒΕΝΑΚΙΩΝ 6"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017822142542436.jpg"
 profilePhoto : "downloaded"

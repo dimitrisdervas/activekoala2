@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ηούς 23 / Ious 23, 11854 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181129"
-latitude: "37.9722529"
-longitude: "23.7090907"
+latitude: "37,9722529"
+longitude: "23,7090907"
 url: "shinkendo-athens-japanese-swordsmanship-aikibujutsu-aikido-bojutsu/athina/polemikes-texnes/aikido"
 slug: "shinkendo-athens-japanese-swordsmanship-aikibujutsu-aikido-bojutsu"
 aliases:

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγιου Κωνσταντινου 12, 15124 Athens, Greece"
 logoimg: "277251_163083170544533_78614410_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120181241"
-latitude: "38.04939219"
-longitude: "23.79862905"
+latitude: "38,04939219"
+longitude: "23,79862905"
 url: "physiomedica-dr-iliadis-team-athens/athina/kleistou-xorou/gym"
 slug: "physiomedica-dr-iliadis-team-athens"
 aliases:

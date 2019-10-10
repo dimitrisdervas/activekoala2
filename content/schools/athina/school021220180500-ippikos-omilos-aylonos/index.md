@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αθηνών Χαλκίδας, 19011 Avlón, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school021220180500"
-latitude: "38.24007"
-longitude: "23.74083"
+latitude: "38,24007"
+longitude: "23,74083"
 url: "ippikos-omilos-aylonos/athina/ypaithries-drastiriotites/horse-riding"
 slug: "ippikos-omilos-aylonos"
 aliases:

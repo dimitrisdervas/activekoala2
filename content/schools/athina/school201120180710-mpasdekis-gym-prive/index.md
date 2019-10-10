@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κουντουριώτου 13, Ηλιούπολη, Athens, Greece"
 logoimg: "262179_113773258716031_5537069_n (1).jpg"
 profilePhoto : "downloaded"

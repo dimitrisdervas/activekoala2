@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Odemisioy 1 and Evroy 40, 11527 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180320"
-latitude: "37.98276893"
-longitude: "23.75973701"
+latitude: "37,98276893"
+longitude: "23,75973701"
 url: "polessence-pole-dance-and-acrobatics-studio/athina/xoros/pole-dance"
 slug: "polessence-pole-dance-and-acrobatics-studio"
 aliases:

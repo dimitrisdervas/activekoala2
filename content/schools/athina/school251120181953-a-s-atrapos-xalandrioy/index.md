@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κώστα Βάρναλη 52, Χαλάνδρι, 15233 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/55.jpg"
 profilePhoto : "downloaded"

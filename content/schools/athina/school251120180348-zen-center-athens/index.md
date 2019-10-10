@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Limpona 2 &amp; Vasilikis, 105 60 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014818193149708.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180348"
-latitude: "37.97759403"
-longitude: "23.72839401"
+latitude: "37,97759403"
+longitude: "23,72839401"
 url: "zen-center-athens/athina/polemikes-texnes/aikido"
 slug: "zen-center-athens"
 aliases:

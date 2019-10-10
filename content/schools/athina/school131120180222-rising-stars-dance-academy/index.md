@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["cha-cha-cha"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σίνα 9 &amp; Σόλωνος, 10680 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180222"
-latitude: "37.98083"
-longitude: "23.73644"
+latitude: "37,98083"
+longitude: "23,73644"
 url: "rising-stars-dance-academy/athina/xoros/cha-cha-cha"
 slug: "rising-stars-dance-academy"
 aliases:

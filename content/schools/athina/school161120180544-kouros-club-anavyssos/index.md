@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Alykes Beach, Anavyssos, Athens, Greece"
 logoimg: "407874_255047801232833_273509118_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κηφισίας 228, Κηφισιά, 14562 Kifisiá, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/grigoriadou_n.jpg"
 profilePhoto : "downloaded"

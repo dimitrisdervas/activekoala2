@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίας Σοφιας 55, 18545 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

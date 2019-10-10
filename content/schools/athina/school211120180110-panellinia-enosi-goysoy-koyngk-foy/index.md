@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τεας 4-6, 16121 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017102119948253.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school211120180110"
-latitude: "37.97198619"
-longitude: "23.75384688"
+latitude: "37,97198619"
+longitude: "23,75384688"
 url: "panellinia-enosi-goysoy-koyngk-foy/athina/polemikes-texnes/kung-fu"
 slug: "panellinia-enosi-goysoy-koyngk-foy"
 aliases:

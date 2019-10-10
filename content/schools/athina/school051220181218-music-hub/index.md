@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Καλλισπέρη 27, Ακρόπολη, 11742 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

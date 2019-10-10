@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "6 Gravias Street, 153 42 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

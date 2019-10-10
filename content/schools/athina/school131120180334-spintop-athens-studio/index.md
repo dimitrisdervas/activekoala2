@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αμφιαράου 59 - 4ος όροφος, 10442 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180334"
-latitude: "37.99737"
-longitude: "23.70836"
+latitude: "37,99737"
+longitude: "23,70836"
 url: "spintop-athens-studio/athina/xoros/pole-dance"
 slug: "spintop-athens-studio"
 aliases:

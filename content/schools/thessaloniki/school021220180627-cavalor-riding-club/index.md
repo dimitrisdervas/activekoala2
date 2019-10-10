@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Φίλυρο προς το παιδικό χωριό SOS, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school021220180627"
-latitude: "39.90973623"
-longitude: "22.5"
+latitude: "39,90973623"
+longitude: "22,5"
 url: "cavalor-riding-club/thessaloniki/ypaithries-drastiriotites/horse-riding"
 slug: "cavalor-riding-club"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "11524 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017822132752879.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school221120181046"
-latitude: "37.9958344"
-longitude: "23.762907"
+latitude: "37,9958344"
+longitude: "23,762907"
 url: "shidokan-shirasagi-dojo-athens/athina/polemikes-texnes/karate"
 slug: "shidokan-shirasagi-dojo-athens"
 aliases:

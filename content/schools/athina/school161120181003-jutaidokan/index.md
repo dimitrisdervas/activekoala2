@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 47Α, Αγ. Παρασκευή, 15343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school161120181003"
-latitude: "38.01841255"
-longitude: "23.82610559"
+latitude: "38,01841255"
+longitude: "23,82610559"
 url: "jutaidokan/athina/polemikes-texnes/aikido"
 slug: "jutaidokan"
 aliases:

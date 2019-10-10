@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ιπποκράτους 197, 11472 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

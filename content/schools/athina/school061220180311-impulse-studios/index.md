@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πελοπίδα 43, Άγιος Δημήτριος, 173 41 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

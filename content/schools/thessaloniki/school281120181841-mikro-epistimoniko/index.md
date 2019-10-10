@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χρ. Περραιβού 42 - Α. Τούμπα, 54352 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2016/04/MIKRO_NEW_LOGO-360x240saxpekidi.jpeg"
 profilePhoto : "downloaded"

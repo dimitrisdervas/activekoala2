@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μοναστηρίου 305, Θεσσαλονίκη, 54628 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

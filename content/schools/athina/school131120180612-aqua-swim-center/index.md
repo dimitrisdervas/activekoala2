@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεγάλου Αλεξάνδρου 67, 12132 Peristérion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180612"
-latitude: "38.01260831"
-longitude: "23.70328129"
+latitude: "38,01260831"
+longitude: "23,70328129"
 url: "aqua-swim-center/athina/baby/baby-swimming"
 slug: "aqua-swim-center"
 aliases:

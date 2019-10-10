@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["savate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θησεως 7α, 17676 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/11/ioannidis-team-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120180124"
-latitude: "37.96306"
-longitude: "23.71562"
+latitude: "37,96306"
+longitude: "23,71562"
 url: "ioannidis-team/athina/polemikes-texnes/savate"
 slug: "ioannidis-team"
 aliases:

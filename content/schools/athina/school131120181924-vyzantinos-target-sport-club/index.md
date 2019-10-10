@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΟΑΚΑ (ΚΛΕΙΣΤΟ ΚΟΛΥΜΒΗΤΗΡΙΟ) 151-22"
 logoimg: "10701932_1470574489888222_7425607286072720282_n.jpg"
 profilePhoto : "downloaded"

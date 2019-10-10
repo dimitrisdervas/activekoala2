@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΔΥΡΡΑΧΙΟΥ 70, 10443 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/11/aristion-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182246"
-latitude: "38.007"
-longitude: "23.71662"
+latitude: "38,007"
+longitude: "23,71662"
 url: "a-s-sepolion-aristion/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-sepolion-aristion"
 aliases:

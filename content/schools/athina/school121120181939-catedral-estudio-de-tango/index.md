@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Mesogeion 57, Athens, 115 26 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school121120181939"
-latitude: "37.98765381"
-longitude: "23.76607539"
+latitude: "37,98765381"
+longitude: "23,76607539"
 url: "catedral-estudio-de-tango/athina/xoros/"
 slug: "catedral-estudio-de-tango"
 aliases:

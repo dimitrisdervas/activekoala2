@@ -6,16 +6,16 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180417"
+organisationid: ""
 organisation: "Α.Ο.Ν.Σ. &quot; Ο ΜΙΛΩΝ&quot;"
-orgurl: "org191120180417-a-o-n-s-o-milon"
+orgurl: "undefined-a-o-n-s-o-milon"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
 logoimg: ""
 profilePhoto : "downloaded"
 coverPhoto : "downloaded"
 website: "www.aonsmilon.gr/"
 facebook: "www.facebook.com/AONSMILON/"
-phone: "210.93537"
+phone: "210,93537"
 email: "info@aonsmilon.gr"
 courses: ""
 places: [""]

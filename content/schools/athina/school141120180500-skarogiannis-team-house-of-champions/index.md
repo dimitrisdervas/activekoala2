@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ανδρομάχης 52, 17671 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/skarogiannis-stelios-house-of-champions-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180500"
-latitude: "37.9571777"
-longitude: "23.7100764"
+latitude: "37,9571777"
+longitude: "23,7100764"
 url: "skarogiannis-team-house-of-champions/athina/polemikes-texnes/karate"
 slug: "skarogiannis-team-house-of-champions"
 aliases:

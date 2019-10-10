@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ναυαρίνου &amp; Κουντουριώτη ( Εντός Άλσους ), 15562 Χολαργός"
 logoimg: "oax_logo1.png"
 profilePhoto : "downloaded"

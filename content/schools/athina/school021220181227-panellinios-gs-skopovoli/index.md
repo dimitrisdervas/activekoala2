@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Σκοποβολή"]
 categories: ["athlitismos"]
 subcategories: ["shooting"]
-organisationid: "org241120180351"
+organisationid: ""
 organisation: "Πανελλήνιος ΓΣ"
-orgurl: "org241120180351-panellinios-gs"
+orgurl: "undefined-panellinios-gs"
 address: "Ευελπίδων 2, 11362 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

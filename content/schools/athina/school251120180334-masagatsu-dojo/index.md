@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κώστα Βάρναλη 3, Petroúpolis, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school251120180334"
-latitude: "38.05"
-longitude: "23.6833"
+latitude: "38,05"
+longitude: "23,6833"
 url: "masagatsu-dojo/athina/polemikes-texnes/aikido"
 slug: "masagatsu-dojo"
 aliases:

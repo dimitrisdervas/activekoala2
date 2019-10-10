@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ευπαλινου 7 ,(κάθετη Πατησίων185), Πλ.Αμερικης,, 11253 Κατω Πατησια-Κυψελη,Αθηνα (Athens, Greece)"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017728145443406.jpg"
 profilePhoto : "downloaded"

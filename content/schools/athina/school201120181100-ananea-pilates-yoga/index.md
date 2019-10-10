@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Athens, Greece"
 logoimg: "logo-top_final.png"
 profilePhoto : "downloaded"

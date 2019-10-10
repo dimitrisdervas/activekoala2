@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θήρας 79, 18541 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["brazilian"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΚΥΨΕΛΗΣ 17 ΚΥΨΕΛΗ ΑΘΗΝΑ, 11257 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/04/pontika-nazarenko-team-logo.jpg"
 profilePhoto : "downloaded"

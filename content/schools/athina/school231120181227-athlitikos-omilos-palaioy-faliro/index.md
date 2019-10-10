@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: "org170320192013"
+organisationid: ""
 organisation: "ΑΟΠΦ - Αθλητικός Όμιλος Παλαιού Φαλήρου"
-orgurl: "org170320192013-aopf-athlitikos-omilos-palaioy-faliroy"
+orgurl: "undefined-aopf-athlitikos-omilos-palaioy-faliroy"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

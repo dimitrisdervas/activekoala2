@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Σκιάθου 26, Ηλιούπολη, 16346 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/10/coriolanos.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120181003"
-latitude: "37.94263"
-longitude: "23.74671"
+latitude: "37,94263"
+longitude: "23,74671"
 url: "a-s-coriolanos/athina/polemikes-texnes/krav-manga"
 slug: "a-s-coriolanos"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αγίας Κυριακής 26, 17564 Palaión Fáliron, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/elite-fightsports-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181617"
-latitude: "37.93443301"
-longitude: "23.6990118"
+latitude: "37,93443301"
+longitude: "23,6990118"
 url: "a-g-s-elit-palaioy-faliroy-elite-fightsports-vasilis-papanikolaou/athina/polemikes-texnes/kickboxing"
 slug: "a-g-s-elit-palaioy-faliroy-elite-fightsports-vasilis-papanikolaou"
 aliases:

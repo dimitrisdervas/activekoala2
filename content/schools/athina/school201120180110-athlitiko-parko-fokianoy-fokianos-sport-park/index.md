@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Vasilissis Olgas 1, 10557 Athens, Greece"
 logoimg: "10171216_625060590911232_3627587240067198807_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["10557"]
 UID: "school201120180110"
-latitude: "37.96968527"
-longitude: "23.7382499"
+latitude: "37,96968527"
+longitude: "23,7382499"
 url: "athlitiko-parko-fokianoy-fokianos-sport-park/athina/kleistou-xorou/gym"
 slug: "athlitiko-parko-fokianoy-fokianos-sport-park"
 aliases:

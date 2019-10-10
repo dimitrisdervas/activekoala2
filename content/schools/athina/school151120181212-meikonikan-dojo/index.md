@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Αγίας Βαρβάρας 102, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120181212"
-latitude: "37.92326233"
-longitude: "23.71964335"
+latitude: "37,92326233"
+longitude: "23,71964335"
 url: "meikonikan-dojo/athina/polemikes-texnes/aikido"
 slug: "meikonikan-dojo"
 aliases:

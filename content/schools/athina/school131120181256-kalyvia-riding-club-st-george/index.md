@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Leoforos Anavyssou and Eparchiaki Anavissou, 19010 Kalívia Thorikoú, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

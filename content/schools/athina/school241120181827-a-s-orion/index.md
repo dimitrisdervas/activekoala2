@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μεσολογγίου 20 Άλιμος, 17456 Athens, Greece"
 logoimg: "15268_461529547230871_1041302152_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17456"]
 UID: "school241120181827"
-latitude: "37.92639171"
-longitude: "23.73948547"
+latitude: "37,92639171"
+longitude: "23,73948547"
 url: "a-s-orion/athina/polemikes-texnes/tae-kwon-do"
 slug: "a-s-orion"
 aliases:

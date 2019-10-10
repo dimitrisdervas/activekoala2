@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Konstantinoupoleos 52 Gkazi, 00000 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

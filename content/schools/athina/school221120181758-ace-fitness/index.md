@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ελευθερίου Βενιζελου 181, 17123 Néa Smírni, Greece"
 logoimg: "13584836_10209935001551201_5956137350455465570_o.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17123"]
 UID: "school221120181758"
-latitude: "37.93527778"
-longitude: "23.71161185"
+latitude: "37,93527778"
+longitude: "23,71161185"
 url: "ace-fitness/athina/kleistou-xorou/personal-trainer"
 slug: "ace-fitness"
 aliases:

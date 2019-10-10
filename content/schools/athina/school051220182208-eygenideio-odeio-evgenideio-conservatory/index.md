@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χίου 12, 17673 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

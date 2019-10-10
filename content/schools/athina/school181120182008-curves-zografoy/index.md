@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+organisationid: ""
 organisation: "Curves"
-orgurl: "org170320192014-curves"
+orgurl: "undefined-curves"
 address: "Αλ. Παπάγου 48,Ζωγράφου, Τ.Κ. 157 71"
 logoimg: "1024px-curves_fitness_logosvg (24).png"
 profilePhoto : "downloaded"

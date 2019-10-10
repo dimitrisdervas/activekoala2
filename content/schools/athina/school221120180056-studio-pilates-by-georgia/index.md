@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "1 Karagiorgi S., 141 21 Athens, Greece"
 logoimg: "λογο.jpg"
 profilePhoto : "downloaded"

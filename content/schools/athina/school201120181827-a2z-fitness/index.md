@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Matsa 15, K. Kifisia, 14564 Athens, Greece"
 logoimg: "10455298_718195984882923_1299729805186853020_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14564"]
 UID: "school201120181827"
-latitude: "38.0811341"
-longitude: "23.7875123"
+latitude: "38,0811341"
+longitude: "23,7875123"
 url: "a2z-fitness/athina/kleistou-xorou/gym"
 slug: "a2z-fitness"
 aliases:

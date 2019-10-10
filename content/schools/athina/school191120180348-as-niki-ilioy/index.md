@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΑΓ. ΦΑΝΟΥΡΙΟΥ 38, 13122 Néa Liósia, Greece"
 logoimg: "574648_131264123715201_1089262204_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["13522"]
 UID: "school191120180348"
-latitude: "38.02009121"
-longitude: "23.70956973"
+latitude: "38,02009121"
+longitude: "23,70956973"
 url: "as-niki-ilioy/athina/polemikes-texnes/tae-kwon-do"
 slug: "as-niki-ilioy"
 aliases:

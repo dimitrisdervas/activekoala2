@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ε.Α.Κ.Ν, 16777 Ellinikón, Greece"
 logoimg: "10612995_661282273970320_1037372966317888500_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120182120"
-latitude: "37.87945"
-longitude: "23.7316499"
+latitude: "37,87945"
+longitude: "23,7316499"
 url: "omilos-ksifaskias-glyfadas/athina/athlitismos/fencing"
 slug: "omilos-ksifaskias-glyfadas"
 aliases:

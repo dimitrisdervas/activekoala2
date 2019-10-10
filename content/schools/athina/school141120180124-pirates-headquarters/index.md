@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Souri 20, Peristérion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/pirates-headquarters-logo.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school141120180124"
-latitude: "38.0023777"
-longitude: "23.6997158"
+latitude: "38,0023777"
+longitude: "23,6997158"
 url: "pirates-headquarters/athina/polemikes-texnes/jujitsu"
 slug: "pirates-headquarters"
 aliases:

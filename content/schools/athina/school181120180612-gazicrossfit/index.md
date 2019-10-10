@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "megalou vasileiou 44 and frearion1, 11854 Athens, Greece"
 logoimg: "unnamed.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11854"]
 UID: "school181120180612"
-latitude: "37.97548"
-longitude: "23.70715"
+latitude: "37,97548"
+longitude: "23,70715"
 url: "gazicrossfit/athina/kleistou-xorou/crossfit"
 slug: "gazicrossfit"
 aliases:

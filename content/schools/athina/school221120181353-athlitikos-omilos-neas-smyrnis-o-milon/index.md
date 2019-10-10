@@ -8,14 +8,14 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
 logoimg: ""
 profilePhoto : "downloaded"
 coverPhoto : "downloaded"
 website: "www.aonsmilon.gr"
 facebook: "www.facebook.com/AONSMILON/"
-phone: "210.93537"
+phone: "210,93537"
 email: "info@aonsmilon.gr"
 courses: ""
 places: [""]

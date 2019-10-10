@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ilidos 23 Abelokipi, 11526 Athens, Greece"
 logoimg: "bodycentric.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["11526"]
 UID: "school151120182036"
-latitude: "37.98891878"
-longitude: "23.76664829"
+latitude: "37,98891878"
+longitude: "23,76664829"
 url: "studio-bodycentric/athina/kleistou-xorou/"
 slug: "studio-bodycentric"
 aliases:

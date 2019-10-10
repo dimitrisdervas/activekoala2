@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τεύθιδος 1 και Αρκαδίας, 121 32 Peristéri, Attiki, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015211225046440.jpg"
 profilePhoto : "downloaded"

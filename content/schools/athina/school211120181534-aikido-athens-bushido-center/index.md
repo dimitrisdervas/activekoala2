@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Tousa botsari 11 koukaki, 11741 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school211120181534"
-latitude: "37.96488455"
-longitude: "23.72405296"
+latitude: "37,96488455"
+longitude: "23,72405296"
 url: "aikido-athens-bushido-center/athina/polemikes-texnes/aikido"
 slug: "aikido-athens-bushido-center"
 aliases:

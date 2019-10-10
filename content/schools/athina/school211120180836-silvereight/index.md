@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Βασίλειου Μελέτη 5, 18757 Keratsíni, Greece"
 logoimg: "10290631_858685237526228_4003108191826022834_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18757"]
 UID: "school211120180836"
-latitude: "37.9731102"
-longitude: "23.6245403"
+latitude: "37,9731102"
+longitude: "23,6245403"
 url: "silvereight/athina/kleistou-xorou/gym"
 slug: "silvereight"
 aliases:

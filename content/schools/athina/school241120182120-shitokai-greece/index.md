@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "28 Panourgia Str., 121 31 Peristéri, Attiki, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2018015125715591.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120182120"
-latitude: "38.00391"
-longitude: "23.69669"
+latitude: "38,00391"
+longitude: "23,69669"
 url: "shitokai-greece/athina/polemikes-texnes/karate"
 slug: "shitokai-greece"
 aliases:

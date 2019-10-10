@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Θράκης 44 Αγία Παρασκευή κ Μεσογείων 326, 15341 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

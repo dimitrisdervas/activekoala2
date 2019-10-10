@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΖΩΟΔΟΧΟΥ ΠΗΓΗΣ 55-57 ΕΞΑΡΧΕΙΑ, 10681 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

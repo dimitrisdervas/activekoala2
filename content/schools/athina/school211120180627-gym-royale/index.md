@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "4 Mouson street, 18757 Keratsíni, Greece"
 logoimg: "10489688_542618399194598_755385392149318059_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["18757"]
 UID: "school211120180627"
-latitude: "37.97698991"
-longitude: "23.6283695"
+latitude: "37,97698991"
+longitude: "23,6283695"
 url: "gym-royale/athina/kleistou-xorou/gym"
 slug: "gym-royale"
 aliases:

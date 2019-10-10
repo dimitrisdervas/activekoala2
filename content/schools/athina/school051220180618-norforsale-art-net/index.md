@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κωνσταντινουπόλεως 38, 118 55 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

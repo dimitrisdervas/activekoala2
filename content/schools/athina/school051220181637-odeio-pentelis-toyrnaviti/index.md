@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κορυτσάς 1 , Ν. Πεντέλη, 15236 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

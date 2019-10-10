@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017821225551496.jpg"
 profilePhoto : ""
@@ -22,7 +22,7 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school171120181534"
-latitude: "37.99975"
+latitude: "37,99975"
 longitude: ""
 url: "karate-aigaleo-i-kardia-toy-polemisti/athina/polemikes-texnes/karate"
 slug: "karate-aigaleo-i-kardia-toy-polemisti"

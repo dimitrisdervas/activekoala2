@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γιάνναρη 1 Μενεμένη, 56121 Θεσσαλονίκη"
 logoimg: ""
 profilePhoto : "downloaded"

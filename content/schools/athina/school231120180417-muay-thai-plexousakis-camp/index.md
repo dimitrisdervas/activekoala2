@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Anthousis 3 &amp; palaias kavalas, Peristéri, Attiki, Greece"
 logoimg: "logo (61).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12131"]
 UID: "school231120180417"
-latitude: "38.00725339"
-longitude: "23.67420858"
+latitude: "38,00725339"
+longitude: "23,67420858"
 url: "muay-thai-plexousakis-camp/athina/polemikes-texnes/"
 slug: "muay-thai-plexousakis-camp"
 aliases:

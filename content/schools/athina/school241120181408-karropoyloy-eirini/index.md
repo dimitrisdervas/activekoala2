@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χρυσοστόμου Σμύρνης 5 Περιστέρι, 12134 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/karopoulou_eirini.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181408"
-latitude: "38.01073"
-longitude: "23.69695"
+latitude: "38,01073"
+longitude: "23,69695"
 url: "karropoyloy-eirini/athina/xoros/"
 slug: "karropoyloy-eirini"
 aliases:

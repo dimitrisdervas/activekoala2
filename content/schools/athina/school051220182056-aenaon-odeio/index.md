@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Εργατών Τύπου 19 Ηλιούπολη , ΤΡΑΛΛΕΩΝ 22, Βύρωνας, 16346 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

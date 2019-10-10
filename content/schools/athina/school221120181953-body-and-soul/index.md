@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Omirou 23, 171 21 Néa Smírni, Greece"
 logoimg: "logo (86).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["17121"]
 UID: "school221120181953"
-latitude: "37.94679"
-longitude: "23.71005"
+latitude: "37,94679"
+longitude: "23,71005"
 url: "body-and-soul/athina/kleistou-xorou/"
 slug: "body-and-soul"
 aliases:

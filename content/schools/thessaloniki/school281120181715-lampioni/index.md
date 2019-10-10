@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μαρίνου Αντύπα και Χάλκης 3, Περιοχή Praktiker (πίσω απο τα Jumbo)"
 logoimg: ""
 profilePhoto : "downloaded"

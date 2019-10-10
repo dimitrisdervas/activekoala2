@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "TRALLEON 145, 11146 Galátsion, Greece"
 logoimg: "screen-shot-2015-02-09-at-22248-pm.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120180446"
-latitude: "38.01932"
-longitude: "23.75551"
+latitude: "38,01932"
+longitude: "23,75551"
 url: "attiki-enosi-tae-kwon-do/athina/polemikes-texnes/tae-kwon-do"
 slug: "attiki-enosi-tae-kwon-do"
 aliases:

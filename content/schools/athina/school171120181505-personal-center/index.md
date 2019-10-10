@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Θηβών 333 &amp; Κ. Βαρνάλη 1, 12244 Aigáleo, Greece"
 logoimg: "1800336_721987294501115_996587996_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["12242"]
 UID: "school171120181505"
-latitude: "37.98706"
-longitude: "23.67484"
+latitude: "37,98706"
+longitude: "23,67484"
 url: "personal-center/athina/kleistou-xorou/gym"
 slug: "personal-center"
 aliases:

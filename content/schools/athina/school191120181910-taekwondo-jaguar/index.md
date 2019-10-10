@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Δεμερτζή 62 &amp; Ηπείρου 2Α, 18757 Keratsíni, Greece"
 logoimg: "1460267_1381808752039813_1848506952_n.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14576"]
 UID: "school191120181910"
-latitude: "37.96810482"
-longitude: "23.62598273"
+latitude: "37,96810482"
+longitude: "23,62598273"
 url: "taekwondo-jaguar/athina/polemikes-texnes/tae-kwon-do"
 slug: "taekwondo-jaguar"
 aliases:

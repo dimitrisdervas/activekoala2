@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πυλoυ 8, 15351 Pallíni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school011220181144"
-latitude: "38.00385"
-longitude: "23.88444"
+latitude: "38,00385"
+longitude: "23,88444"
 url: "okeanos-sport-center/athina/baby/baby-swimming"
 slug: "okeanos-sport-center"
 aliases:

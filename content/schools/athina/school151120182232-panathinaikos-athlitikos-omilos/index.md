@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μακεδόνων 8, 11521 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school151120182232"
-latitude: "37.9828398"
-longitude: "23.7557773"
+latitude: "37,9828398"
+longitude: "23,7557773"
 url: "panathinaikos-athlitikos-omilos/athina/athlitismos/kithara"
 slug: "panathinaikos-athlitikos-omilos"
 aliases:

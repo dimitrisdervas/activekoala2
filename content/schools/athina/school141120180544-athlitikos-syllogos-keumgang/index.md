@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: ""
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/04/A.s.-Keumgang-logo.jpg"
 profilePhoto : "downloaded"

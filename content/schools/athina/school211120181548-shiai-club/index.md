@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["judi"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μάρκου Μπότσαρη 30, 14561 Kifisiá, Greece"
 logoimg: "logo (26).jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["14561"]
 UID: "school211120181548"
-latitude: "38.07613"
-longitude: "23.80068"
+latitude: "38,07613"
+longitude: "23,80068"
 url: "shiai-club/athina/polemikes-texnes/judi"
 slug: "shiai-club"
 aliases:

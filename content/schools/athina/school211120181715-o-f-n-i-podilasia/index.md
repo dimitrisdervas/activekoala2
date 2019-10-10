@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ιφιγενειας 4, 14122 Iráklion (Athens), Greece"
 logoimg: "406022_179003612223885_1613103807_n.jpg"
 profilePhoto : "downloaded"

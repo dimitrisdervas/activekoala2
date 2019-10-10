@@ -3,12 +3,12 @@ title: "Sahaja Yoga"
 cities: ["Αθήνα"]
 perioxi: ["Μαρούσι"]
 categoryNoSLug: "Κλειστού Χώρου"
-subcategoriesNoSLug: ["YOGA"]
+subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "26 Vasilissis Sofias, 151 24 Marousi, Greece, 15124 Amaroúsion, Greece"
 logoimg: "logo (4).png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15124"]
 UID: "school221120180627"
-latitude: "38.05373098"
-longitude: "23.80866614"
+latitude: "38,05373098"
+longitude: "23,80866614"
 url: "sahaja-yoga/athina/kleistou-xorou/yoga"
 slug: "sahaja-yoga"
 aliases:

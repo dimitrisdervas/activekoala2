@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεονταρίου 11,Παλλήνη, 15351 Pallíni, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/androutsopoulou_aggeliki.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school241120181841"
-latitude: "38.00140875"
-longitude: "23.87919188"
+latitude: "38,00140875"
+longitude: "23,87919188"
 url: "lilac-fairy-androytsopoyloy-aggeliki/athina/xoros/"
 slug: "lilac-fairy-androytsopoyloy-aggeliki"
 aliases:

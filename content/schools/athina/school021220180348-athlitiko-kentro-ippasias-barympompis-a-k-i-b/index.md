@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Τέρμα Τύμβου Σοφοκλή, Varibópi, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school021220180348"
-latitude: "38.14416999"
-longitude: "23.7841677"
+latitude: "38,14416999"
+longitude: "23,7841677"
 url: "athlitiko-kentro-ippasias-barympompis-a-k-i-b/athina/ypaithries-drastiriotites/horse-riding"
 slug: "athlitiko-kentro-ippasias-barympompis-a-k-i-b"
 aliases:

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "ΦΙΛΟΚΤΗΤΟΥ 96, 131 22 Ilion, Greece"
 logoimg: "10568778_346398122189261_3747530856524261529_n.jpg"
 profilePhoto : "downloaded"

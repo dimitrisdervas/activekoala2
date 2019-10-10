@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λεωφόρος Κ. Καραμανλή 124, 54248 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

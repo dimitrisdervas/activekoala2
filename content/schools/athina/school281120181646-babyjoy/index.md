@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Λ. Βάρης 12, Βάρη, 16672 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school281120181646"
-latitude: "37.83501195"
-longitude: "23.79111013"
+latitude: "37,83501195"
+longitude: "23,79111013"
 url: "babyjoy/athina/baby/"
 slug: "babyjoy"
 aliases:

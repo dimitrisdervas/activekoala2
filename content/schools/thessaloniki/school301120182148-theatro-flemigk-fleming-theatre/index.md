@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Μισραχή 15, 54642 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

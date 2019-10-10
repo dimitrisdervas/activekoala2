@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Κάχι Καχιασβίλι 1, 13677 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

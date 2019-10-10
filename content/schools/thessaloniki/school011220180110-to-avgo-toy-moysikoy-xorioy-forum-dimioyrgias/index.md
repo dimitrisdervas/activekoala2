@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Bαλαωρίτου 4, 8ος όροφος, Θεσσαλονίκη"
 logoimg: ""
 profilePhoto : "downloaded"

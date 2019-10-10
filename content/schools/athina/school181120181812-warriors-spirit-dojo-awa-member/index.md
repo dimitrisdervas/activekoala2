@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Ολύμπου 20, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

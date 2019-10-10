@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Χέλμου 7, Νέο Ηράκλειο, 14122 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2018025233355687.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school231120180446"
-latitude: "38.0506232"
-longitude: "23.7660647"
+latitude: "38,0506232"
+longitude: "23,7660647"
 url: "kenwakai-aikido-dojo/athina/polemikes-texnes/aikido"
 slug: "kenwakai-aikido-dojo"
 aliases:

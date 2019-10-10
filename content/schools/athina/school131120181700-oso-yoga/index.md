@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Γούναρη 211Α, Γλυφάδα, 16675 Athens, Greece"
 logoimg: "399945_254767164601764_114688657_n.jpg"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: [""]
 UID: "school131120181700"
-latitude: "37.86912538"
-longitude: "23.7663345"
+latitude: "37,86912538"
+longitude: "23,7663345"
 url: "oso-yoga/athina/kleistou-xorou/yoga"
 slug: "oso-yoga"
 aliases:

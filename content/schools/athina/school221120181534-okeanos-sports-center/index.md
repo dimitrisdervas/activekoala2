@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "-"
+orgurl: "undefined-"
 address: "Πυλoυ 8, 15351 Pallíni, Greece"
 logoimg: "okeanos.png"
 profilePhoto : "downloaded"
@@ -22,8 +22,8 @@ places: [""]
 rensponsibles: ""
 zipcode: ["15351"]
 UID: "school221120181534"
-latitude: "38.00385"
-longitude: "23.88444"
+latitude: "38,00385"
+longitude: "23,88444"
 url: "okeanos-sports-center/athina/kleistou-xorou/gym"
 slug: "okeanos-sports-center"
 aliases:
