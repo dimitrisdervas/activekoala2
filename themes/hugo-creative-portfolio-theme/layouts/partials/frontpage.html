@@ -1,6 +1,6 @@
 
 
-<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
+<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
      {{ if isset .Site.Taxonomies "categories" }}
              <ul class="filters-menu list-reset flex flex-wrap justify-start">
                   {{ $.Scratch.Set "counter" 0 }}
@@ -24,7 +24,7 @@
 {{ partial "pagination.html" . }}
 
 
-<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+<div class="col-xs-12 col-sm-12 col-md-12 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
@@ -39,7 +39,7 @@
                       </a>
                     <div class=" bg-white rounded bpx-6 py-2">
                           <div class="">
-                            <a class="text-4xl mb-2 px-6 py-4 flex flex-1" href="{{ .Permalink }}">
+                            <a class="text-4xl mb-2 px-6 py-4 flex flex-" href="{{ .Permalink }}">
                           {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
                           {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
                               {{ end }}
