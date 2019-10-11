@@ -945,7 +945,7 @@ a:active {
   min-height: 100px;
   background: #ccc;
 }
-.box-masonry .box-masonry-image.with-hover-overlay:before {
+/*.box-masonry .box-masonry-image.with-hover-overlay:before {
   display: block;
   position: absolute;
   content: " ";
@@ -958,7 +958,7 @@ a:active {
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
-}
+}*/
 .box-masonry .box-masonry-image.with-hover-icon:after {
   display: block;
   position: absolute;
