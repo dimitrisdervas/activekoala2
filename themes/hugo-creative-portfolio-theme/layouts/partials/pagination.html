@@ -1,6 +1,6 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 1 }}
-    <nav class="{{ .Section }}-pagination col-xs-12 col-sm-8 col-md-9 p-6 float-right" aria-label="{{ .Section }} navigation">
+    <nav class="{{ .Section }}-pagination col-xs-12 col-sm-12 col-md-12 p-6 float-right" aria-label="{{ .Section }} navigation">
         <ul class="pagination {{- with .Params.pagination.class | default .Site.Params.pagination.class }} {{ . }} {{- end }}">
             {{ if (and (not $pag.HasPrev) (eq $.Site.Params.pagination.showBeginEnd false)) }}
                 

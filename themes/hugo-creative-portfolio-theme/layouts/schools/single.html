@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- {{.Params.UID}}-->
-<div class="col-xs-12 col-sm-8 col-md-9 float-right white-background">
+<div class="col-xs-12 col-sm-12 col-md-12 float-right white-background">
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
     <div class="col-lg-12">
@@ -36,21 +36,21 @@
             {{ if (fileExists $filenameprofile )}}
               <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
               {{ end }}
-               <h1>{{ .Title }}</h1>
+               <h1 class="page-title text-6xl p-6 ">{{ .Title }}</h1>
             </div>
 <!-- TAGS -->
           <div class="tags">
               <ul class="flex flex-wrap  items-center py-6 pl-6 mb-8 p-8 ">
                   {{ range .Params.Cities }}
-                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                    <li class="pr-3"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
                   {{ end }}
                   {{ range $title := .Params.categories }}
-                    <li class="pr-3"><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
+                    <li class="pr-3"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
                                 {{ $category.title }}</a></li>
                   {{ end }}
                   {{ if (isset .Params "subcategories" ) }}
                     {{ range $title := .Params.subcategories }}
-                      <li><a class="bg-white hover:bg-grey-lightest text-grey-darkest font-semibold py-2 px-4 border border-grey-light rounded shadow" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
+                      <li><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
                     {{ end }}
                   {{ end }}
                 </ul>
@@ -59,12 +59,12 @@
 <!-- SOCIAL -->
         <div class="social bg-white shadow mb-8 p-8 ">
              {{ if  .Params.facebook }}
-              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
+              <a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
             {{ end }}
 
 
             {{ if .Params.website }}
-              <a class="bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
+              <a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
             {{ end }}
           </div>
 <!-- DESCRIPTION -->

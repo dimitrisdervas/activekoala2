@@ -75,10 +75,10 @@ a:hover {
 /*SIDEBAR*/
 #sidebar {
     padding-top: 0px;
-        border-right: 1px solid #dfe3ff;
+    border-right: 1px solid #dfe3ff;
 }
 .sidebar-heading {
-    padding: 20px 0;
+    padding: 0;
 }
 /*LOGO*/
 .sidebar-heading a {
