@@ -359,37 +359,7 @@ SIDEBAR + RIGHT COLUMN
   color: #999999;
   font-size: 14px;
 }
-.sidebar-menu {
-  list-style-type: none;
-  padding-left: 20px;
-  margin-bottom: 40px;
-}
-.sidebar-menu li {
-  margin-bottom: 5px;
-}
-.sidebar-menu li a {
-  color: #555555;
-}
-.sidebar-menu li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
-  margin: 0 5px 0 -15px;
-  color: #999999;
-}
-.sidebar-menu li.active a {
-  color: #ef5285;
-  font-weight: bold;
-}
-.sidebar-menu li.active:before {
-  color: #ef5285;
-}
-.sidebar-menu li:hover a {
-  text-decoration: none;
-  color: #ef5285;
-}
-.sidebar-menu li:hover:before {
-  color: #ef5285;
-}
+
 .content-column {
   padding-top: 40px;
 }

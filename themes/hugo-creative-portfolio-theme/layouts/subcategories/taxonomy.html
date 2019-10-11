@@ -83,7 +83,7 @@
         {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
         <a class="category-list-link 
         {{ if  eq $title  $slug }}
-          bg-yellow
+          bg-gray-200
         {{ else }}
           bg-transparent
         {{ end }}

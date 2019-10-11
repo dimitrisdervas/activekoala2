@@ -4,12 +4,7 @@
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
-    <ul class="sidebar-menu">
-      {{ $url := .Site.BaseURL }}
-      {{ range .Site.Params.navlinks }}
-        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
-      {{ end }}
-    </ul>
+   
 
 <!--      {{ if isset .Site.Taxonomies "cities" }}
           <h1 class="sidebar-heading">Πολεις</h1>
