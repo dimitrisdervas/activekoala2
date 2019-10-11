@@ -5,9 +5,7 @@
     float: right;
     padding-top: 0;
 }
-.box-nasonry {
-	border-radius: 0.25rem;
-}
+
 
 #map {
     /*height: 380px;*/
@@ -51,4 +49,21 @@ min-width: 150px;
 
 p {
     color: #323232;
+}
+
+a,
+.sidebar-menu li a,
+.filters-menu a {
+    color: #2a2cb1;
+    text-decoration: none;
+}
+.box-masonry {
+    border: 1px solid rgb(223, 227, 255);
+}
+.box-masonry:hover {
+    box-shadow: none;
+     border: 1px solid rgb(42, 44, 177);
+}
+.shadow-md {
+    box-shadow: none;
 }

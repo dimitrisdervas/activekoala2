@@ -48,6 +48,7 @@
 
 <!-- Theme stylesheet, if possible do not edit this stylesheet -->
 {{ with .Site.Params.style }}
+
   <link href="{{ printf "css/style.%s.css" . | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
   <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
@@ -62,9 +63,10 @@
   ` | safeHTML }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
-<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.7.4/tailwind.min.css" rel="stylesheet">
+
+<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.2/leaflet.css" />
+<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
 <link rel="shortcut icon" href="{{ "img/favicon.png" | absURL }}">
 {{ if .RSSLink }}
 <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
