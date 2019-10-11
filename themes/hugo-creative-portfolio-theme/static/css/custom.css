@@ -156,7 +156,7 @@ a,
     min-width: 350px;
     padding: 12px 43px 12px 15px;
     border: 1px none #000;
-    box-shadow: none;
+    box-shadow: none;   
 
 }
 #search-query {
@@ -165,4 +165,21 @@ a,
     font-size: 16px;
     font-style: normal;
     font-weight: 300;
+}
+
+/*taxonomy page title*/
+.browse-hero {
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+        border: 1px solid #dfe3ff;
+
+    }
+.page-title {
+    display: flex;
+            align-items: center;
+
+    font-size: 4rem;
+    color: #2a2cb1;
+
 }
