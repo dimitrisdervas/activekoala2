@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="browse-hero col-xs-12 col-sm-12 col-md-12 p-6 float-right">
-  <h1 class="page-title col-xs-12 col-sm-8 col-md-9">{{ .Title }}</h1>
+  <h1 class="page-title col-xs-12 col-sm-8 col-md-9 flex flex-col text-6xl "><span><a class="text-xl" href="/">⟵ Άλλες δραστηριότητες</a></span>{{ .Title }}</h1>
 </div>
 
 <div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
@@ -13,7 +13,7 @@
                    {{ else }}
                   <li class="flex m-2">
                       {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
-                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " href="{{ $url | absURL }}">
+                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="{{ $url | absURL }}">
                         {{ (index $.Site.Data.yml.categories ($title)).title }}
                         <span class="text-grey">({{ len $items }})</span>
                       </a>
@@ -24,21 +24,41 @@
     {{ end }}
 </div>
 
-<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
-  <ul class="filters-menu list-reset flex flex-wrap justify-start">
-{{ $.Scratch.Set "counter" 0 }}
-{{ range  .Data.Pages }}
-{{ if in .Params.Cities  "Αθήνα" }}
-{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-{{ end }}
-{{ end }}
 
-{{ $.Scratch.Set "counter1" 0 }}
-{{ range  .Data.Pages }}
-{{ if in .Params.Cities  "Θεσσαλονίκη" }}
-{{ $.Scratch.Set "counter1" (add ($.Scratch.Get "counter1") 1) }}
-{{ end }}
-{{ end }}
+
+
+
+
+{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+
+
+
+
+<div class="col-xs-12 col-sm-12 col-md-12 border-gray-200 border-solid border-t">
+  <div class="row">
+<!--  -->
+<!-- SIDEBAR -->
+<!--  -->
+<div class="col-xs-3 col-sm-3 col-md-3 sidebar-column flex flex-col">
+
+<!-- CITIES -->
+
+
+  <ul class="filters-menu list-reset flex flex-wrap align-start mb-6">
+      <div class="category-title py-2 px-4  text-3xl font-medium py-4 text-blue-700 w-full ">Πόλεις</div>
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range  .Data.Pages }}
+      {{ if in .Params.Cities  "Αθήνα" }}
+      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      {{ end }}
+      {{ end }}
+
+      {{ $.Scratch.Set "counter1" 0 }}
+      {{ range  .Data.Pages }}
+      {{ if in .Params.Cities  "Θεσσαλονίκη" }}
+      {{ $.Scratch.Set "counter1" (add ($.Scratch.Get "counter1") 1) }}
+      {{ end }}
+      {{ end }}
 
 
   {{ $title := .Params.slug }}
@@ -46,13 +66,13 @@
   {{ if gt ($.Scratch.Get "counter") "0"}}
    <li class="flex m-2">
       {{ $url := printf "%s/%s" "categoriesathens" ($title | urlize | lower)}}
-      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
+      <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded  " href="{{ $url | absURL }}">
           Αθήνα - {{ $.Scratch.Get "counter" }}
       </a>
     </li>
     {{ else }}
     <li class="flex m-2">
-      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
+      <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="">
           Αθήνα - {{ $.Scratch.Get "counter" }}
       </a>
     </li>
@@ -61,7 +81,7 @@
 {{ if gt ($.Scratch.Get "counter1") "0"}}
   <li class="flex m-2">
   {{ $url := printf "%s/%s" "categoriesthess" ($title | urlize | lower)}}
-  <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
+  <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="{{ $url | absURL }}">
       Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
   </a>
 </li>
@@ -78,19 +98,37 @@
 
 
   </ul>
+
+
+
+<!-- CATEGORIES -->
+  <ul class="filters-menu list-reset flex flex-col align-start mb-6">
+      <div class="category-title py-2 px-4  text-3xl font-medium py-4 text-blue-700 w-full  ">Κατηγορίες</div>
+    {{ range $title:=.Params.slugSubcategory }}
+      {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
+      {{ if eq $subcategory.schoolscount "0" }}
+      <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
+      {{ else }}
+        <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="{{ $url | absURL }}">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+
+
 </div>
-
-
-
-
-{{ $paginator := (.Paginator 30) (.Data.Pages) }}
-
-{{ partial "pagination.html" . }}
-
-
-<div class="col-xs-12 col-sm-12 col-md-12 content-column">
-  <div class="row">
-<div class="col-xs-9 col-sm-9 col-md-9 content-column">
+<div class="col-xs-9 col-sm-9 col-md-9 content-column border-gray-200 border-solid border-l pt-4">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row"> 
@@ -144,34 +182,9 @@
 
         </div>
     </div>
+    {{ partial "pagination.html" . }}
 </div>
-<div class="col-xs-3 col-sm-3 col-md-3 sidebar-column">
 
-  <ul class="filters-menu list-reset flex flex-wrap justify-start">
-    {{ range $title:=.Params.slugSubcategory }}
-      {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
-      {{ if eq $subcategory.schoolscount "0" }}
-      <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ else }}
-        <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ end }}
-    {{ end }}
-  </ul>
-
-
-</div>
 </div>
 </div>
 <script type="application/ld+json">

@@ -2,8 +2,6 @@
 
 .content-column {
     height: 100vh;
-    float: right;
-    padding-top: 0;
 }
 
 
@@ -182,8 +180,7 @@ a:hover {
 .page-title {
     display: flex;
             align-items: center;
-
-    font-size: 4rem;
+justify-content: center;
     color: #2a2cb1;
 
 }
