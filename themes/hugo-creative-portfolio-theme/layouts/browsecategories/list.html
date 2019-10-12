@@ -1,14 +1,83 @@
 {{ define "main" }}
-<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
-  {{ partial "mobile_nav_toggle.html" . }}
-  <div class="row">
-    <div class="col-lg-8">
-      <div class="content-column-content">
-         <h1>{{ .Title }}</h1>
-         {{ .Content }}
-         test
-      </div>
-    </div>
-  </div>
+
+
+<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
+     {{ if isset .Site.Taxonomies "categories" }}
+             <ul class="filters-menu list-reset flex flex-wrap justify-start">
+                  {{ $.Scratch.Set "counter" 0 }}
+                  {{ range $title, $items := .Site.Taxonomies.categories }}
+                  {{ if eq $title "#n/a" }}
+                   {{ else }}
+              <li class="flex m-2 flex-wrap mb-32">
+              {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+                <a class="category-list-link flex flex-col align-start w-full border-gray-200 border-b p-6 mb-6 text-6xl" href="{{ $url | absURL }}">
+                Δραστηριότητες {{ (index $.Site.Data.yml.categories ($title)).title }}
+                <span class="text-grey float-right text-xl py-6">Σύνολο {{ len $items }} δραστηριότητες</span>
+              </a>
+          <div class="flex flex-no-wrap w-full">
+          {{ range first 3 (where .Pages "Section" "schools") }}
+
+              <div class="px-4">
+                <div class="">
+                     <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon h-3">
+                      {{ $filenamecover := printf "static/images/%s/%s-cover.jpg" .Params.UID .Params.UID }}
+                      {{ if (fileExists $filenamecover )}}
+                        <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+                      {{ end }}
+                      </a>
+                    <div class=" bg-white rounded bpx-6 py-2">
+                          <div class="">
+                            <a class="text-4xl mb-2 px-6 py-4 flex flex-1" href="{{ .Permalink }}">
+                          {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
+                          {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
+                              {{ end }}
+                             {{ .Title }}
+                            </a>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+
+
+          {{ end }}
+           </div>
+<div class="seemore w-full border-t border-gray-200 p-4	"><a href="{{ $url | absURL }}">Δες τα όλα...</a></div>
+
+
+
+                  </li>
+                  {{ end }}
+                  {{ end }}
+              </ul>
+    {{ end }}
 </div>
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+     "itemListElement": [
+      {{ $pageurl := .Permalink }}
+      {{ $list := .Pages}}
+      {{ $len := (len $list)}}
+      {{ range $index, $element := $list }}
+        {
+          "@type": "ListItem",
+          "position": "{{$index}}",
+          "item": {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "{{trim .Title "\n"}}",
+            "url": "{{  $pageurl }}",
+            "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg"
+          }
+        }{{if eq (add $index 1) $len}}{{else}},{{end}}
+      {{ end }}
+      ]
+    }
+</script>
+
 {{ end }}

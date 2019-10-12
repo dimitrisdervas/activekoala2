@@ -186,7 +186,8 @@ justify-content: center;
 }
 
 /*SINGLE*/
-.page-title{
+.page-title,
+a.category-list-link{
     /*font-family: 'Source Code Pro', monospace;*/
 font-family: 'Open Sans', sans-serif;
 /*font-family: 'Source Sans Pro', sans-serif;*/
@@ -195,4 +196,11 @@ font-family: 'Open Sans', sans-serif;
 /*SideBAR SINGLE*/
 .tags a {
     font-family: 'Ubuntu', sans-serif;
+}
+
+
+/*BROWSECATEGORIES PAGE*/
+
+a.category-list-link {
+font-family: 'Open Sans', sans-serif;
 }
