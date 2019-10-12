@@ -61,6 +61,7 @@ a:hover {
 }
 .box-masonry {
     border: 1px solid rgb(223, 227, 255);
+    box-shadow: none;
 }
 .box-masonry:hover {
     box-shadow: none;
