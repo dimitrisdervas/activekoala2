@@ -8,7 +8,7 @@
 
 
 #map {
-    /*height: 380px;*/
+    height: 380px;
 }
 .header-menu {
     display: flex;
@@ -186,4 +186,16 @@ a:hover {
     font-size: 4rem;
     color: #2a2cb1;
 
+}
+
+/*SINGLE*/
+.page-title{
+    /*font-family: 'Source Code Pro', monospace;*/
+font-family: 'Open Sans', sans-serif;
+/*font-family: 'Source Sans Pro', sans-serif;*/
+}
+
+/*SideBAR SINGLE*/
+.tags a {
+    font-family: 'Ubuntu', sans-serif;
 }

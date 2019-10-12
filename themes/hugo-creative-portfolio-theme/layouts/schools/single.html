@@ -1,86 +1,128 @@
 {{ define "main" }}
 
 <!-- {{.Params.UID}}-->
-<div class="col-xs-12 col-sm-12 col-md-12 float-right white-background">
-  {{ partial "mobile_nav_toggle.html" . }}
+<div class="col-xs-12 col-sm-12 col-md-12 float-left white-background border-gray-200 border-solid  border-b ">
+  {{ partial "mobile_nav_toggle.html" . }} 
   <div class="row">
-    <div class="col-lg-12">
+    <div class="col-lg-8 border-gray-200 border-solid border-r ">
       <div class="content-column-content px-0">
-        <div class="profile bg-white shadow mb-8">
+        <div class="profile bg-white  mb-8">
 <!-- MAIN IMAGE -->
           <div class="mainimg py-6 flex justify-start">
-{{ if in .Title "GADALA"}}
+          {{ if in .Title "GADALA"}}
+            {{ range $original:= .Resources.Match "*cover.jpg" }}
+            {{ $image310x207:= $original.Fill "310x207 Center" }}
+            {{ $image300x200:= $original.Fill "300x200 Center" }}
+            {{ $image768x512:= $original.Fill "768x512 Center" }}
+            {{ $image450x300:= $original.Fill "450x300 Center" }}
+            <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
+              src="{{ $image310x207.RelPermalink }}"
+              alt="{{ .Title }}"
+              srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
+              sizes="(max-width: 310px) 100vw, 310px"/>
+          {{ end }}
+          {{ end }}
+          <img class=" " src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+          </div>
+</div>
+</div>
+</div>
 
-  {{ range $original:= .Resources.Match "*cover.jpg" }}
-  {{ $image310x207:= $original.Fill "310x207 Center" }}
-  {{ $image300x200:= $original.Fill "300x200 Center" }}
-  {{ $image768x512:= $original.Fill "768x512 Center" }}
-  {{ $image450x300:= $original.Fill "450x300 Center" }}
 
-  <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
-    src="{{ $image310x207.RelPermalink }}"
-    alt="{{ .Title }}"
-    srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
-    sizes="(max-width: 310px) 100vw, 310px"/>
-    
-{{ end }}
-
-{{ end }}
-
-                <img class="rounded shadow" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
-               <div id="map" class="flex-1"></div>
-            </div>
+<!--  -->
+<!-- SIDEBAR -->
+<!--  -->
+          <div class="sidebar col-lg-4 col-xs-4 col-sm-4 col-md-4 border-gray-200 border-solid px-12 ">
 <!-- TITLE -->
-          <div class="title flex flex-wrap py-6 items-center ">
+          <div class="flex flex-wrap py-6 items-center ">
             {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
             {{ if (fileExists $filenameprofile )}}
-              <img class="rounded p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
+              <img class=" p-6" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
               {{ end }}
                <h1 class="page-title text-6xl p-6 ">{{ .Title }}</h1>
             </div>
-<!-- TAGS -->
+
           <div class="tags">
-              <ul class="flex flex-wrap  items-center py-6 pl-6 mb-8 p-8 ">
+              <ul class="flex flex-col  justify-start items-start py-6 pl-6 mb-8 p-8 ">
+<!-- CITIES -->
                   {{ range .Params.Cities }}
-                    <li class="pr-3"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                    <li class="py-2 w-full flex"><a class="w-full border-gray-200 border-b border-solid px-4 py-6 hover:bg-gray-200 text-2xl" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
                   {{ end }}
+<!-- CATEGORIES -->
                   {{ range $title := .Params.categories }}
-                    <li class="pr-3"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
+                    <li class="py-2 w-full flex"><a class="w-full border-gray-200 border-b border-solid px-4 py-6 hover:bg-gray-200 text-2xl" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
                                 {{ $category.title }}</a></li>
                   {{ end }}
-                  {{ if (isset .Params "subcategories" ) }}
+<!-- SUBCATEGORIES -->
+                
                     {{ range $title := .Params.subcategories }}
-                      <li><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
+                    {{ with $title }}
+                      <li class="py-2 w-full flex"><a class="w-full border-gray-200 border-b border-solid px-4 py-6 hover:bg-gray-200 text-2xl" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
                     {{ end }}
-                  {{ end }}
+                    {{ end }}
+               
+<!-- ADDRESS -->
+<!--                 <li class="py-2 w-full">
+                      <div class="w-full border-gray-200 border-b border-solid px-4 py-6  text-2xl">{{ .Params.address }}</div>                
+                    </li> -->
+<!-- PRICE -->
+                    <li class="py-2 w-full">
+                      <div class="w-full border-gray-200 border-b border-solid px-4 py-6  text-2xl">Τιμή</div>                
+                    </li> 
+
                 </ul>
-              </div>
+            </div>
           </div>
-<!-- SOCIAL -->
-        <div class="social bg-white shadow mb-8 p-8 ">
+        </div>
+</div>
+
+
+<div class="col-xs-12 col-sm-12 col-md-12 float-left white-background ">
+  <div class="row">
+  <div class="col-lg-8 border-gray-200 border-solid border-r">
+
+  <div class="row">
+    <div class="col-lg-8 ">
+    <!-- DESCRIPTION -->
+        <div class="description bg-white p-6 mb-8  text-black">
+          {{ .Content }}
+        </div>
+        <div class=" bg-white  text-grey text-xs ">{{.Params.UID}}</div>
+    </div>
+    <div class="col-lg-4 ">
+        <!-- SOCIAL -->
+        <div class="social bg-white flex flex-col  mb-8 p-8 ">
              {{ if  .Params.facebook }}
-              <a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
+              <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="http://{{ .Params.facebook | safeURL }}" target="_blank">facebook</a>
             {{ end }}
 
 
             {{ if .Params.website }}
-              <a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-3xl" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
+              <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
             {{ end }}
-          </div>
-<!-- DESCRIPTION -->
-        <div class="description bg-white p-6 mb-8 shadow text-black">
-          {{ .Content }}
         </div>
-        <div class=" bg-white rounded text-grey text-xs ">{{.Params.UID}}</div>
-<!-- MAP -->
-
-      </div>
-      </div>
     </div>
+    </div>
+    </div>
+
+  <div class="sidebar col-lg-4 col-xs-4 col-sm-4 col-md-4 border-gray-200 border-solid">
+        <div id="map"></div>
   </div>
 </div>
 
-{{ if .Params.latitude }}
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+{{ if .Params.latitude }} 
 <script>
 // create a map in the "map" div, set the view to a given place and zoom
 var map = L.map('map').setView([{{.Params.latitude}}, {{.Params.longitude}}], 14);
