@@ -1,10 +1,28 @@
 {{ define "main" }}
 
-<div class="browse-hero col-xs-12 col-sm-8 col-md-9 p-6 float-right">
+<div class="browse-hero col-xs-12 col-sm-12 col-md-12 p-6 float-right">
   <h1 class="page-title col-xs-12 col-sm-8 col-md-9">{{ .Title }}</h1>
 </div>
 
-
+<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
+     {{ if isset .Site.Taxonomies "categories" }}
+             <ul class="filters-menu list-reset flex flex-wrap justify-start">
+                  {{ $.Scratch.Set "counter" 0 }}
+                  {{ range $title, $items := .Site.Taxonomies.categories }}
+                  {{ if eq $title "#n/a" }}
+                   {{ else }}
+                  <li class="flex m-2">
+                      {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " href="{{ $url | absURL }}">
+                        {{ (index $.Site.Data.yml.categories ($title)).title }}
+                        <span class="text-grey">({{ len $items }})</span>
+                      </a>
+                  </li>
+                  {{ end }}
+                  {{ end }}
+              </ul>
+    {{ end }}
+</div>
 
 <div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
   <ul class="filters-menu list-reset flex flex-wrap justify-start">
@@ -62,41 +80,20 @@
   </ul>
 </div>
 
-<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
-  <ul class="filters-menu list-reset flex flex-wrap justify-start">
-    {{ range $title:=.Params.slugSubcategory }}
-      {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
-      {{ if eq $subcategory.schoolscount "0" }}
-      <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ else }}
-        <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ end }}
-    {{ end }}
-  </ul>
-</div>
+
+
 
 {{ $paginator := (.Paginator 30) (.Data.Pages) }}
 
 {{ partial "pagination.html" . }}
 
 
-
-<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+<div class="col-xs-12 col-sm-12 col-md-12 content-column">
+  <div class="row">
+<div class="col-xs-9 col-sm-9 col-md-9 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
-        <div class="row">
+        <div class="row"> 
           {{ partial "form_newschool.html" . }}
         {{ range $paginator.Pages }}
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
@@ -147,6 +144,35 @@
 
         </div>
     </div>
+</div>
+<div class="col-xs-3 col-sm-3 col-md-3 sidebar-column">
+
+  <ul class="filters-menu list-reset flex flex-wrap justify-start">
+    {{ range $title:=.Params.slugSubcategory }}
+      {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
+      {{ if eq $subcategory.schoolscount "0" }}
+      <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
+      {{ else }}
+        <li class="flex m-2">
+        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
+        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+
+
+</div>
+</div>
 </div>
 <script type="application/ld+json">
  <script type="application/ld+json">
