@@ -1,0 +1,16 @@
+{{ $cityCategory := .Params.city  }}
+{{ $Category := .Params.slug }}
+
+{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+{{ partial "pagination.html" . }}
+
+
+{{ range where $.Site.Pages "Section" "schools"}}
+  {{ if in .Params.Cities $cityCategory }}
+  {{ if in .Params.Categories $Category }}
+
+{{ partial "categories/results-boxes.html" . }}
+
+    {{ end }}
+  {{ end }}
+{{ end }}

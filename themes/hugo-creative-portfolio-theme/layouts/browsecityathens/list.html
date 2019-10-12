@@ -1,0 +1,90 @@
+{{ define "main" }}
+
+<div class="browse-hero col-xs-12 col-sm-12 col-md-12 p-6 float-right">
+  <h1 class="page-title col-xs-12 col-sm-8 col-md-9 flex flex-col text-6xl "><span><a class="text-xl" href="/browsecategories">⟵ Άλλες δραστηριότητες</a></span>Δραστηριότητες στην {{ .Params.city }}</h1>
+</div>
+
+
+
+{{ $cityCategory := .Params.city  }}
+
+
+
+<div class="col-xs-12 col-sm-12 col-md-12 border-gray-200 border-solid border-t">
+  <div class="row">
+<!--  -->
+<!-- SIDEBAR -->
+<!--  -->
+<div class="col-xs-3 col-sm-3 col-md-3 sidebar-column flex flex-col">
+
+
+<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
+     {{ if isset .Site.Taxonomies "categories" }}
+             <ul class="filters-menu list-reset flex flex-wrap justify-start">
+                  {{ $.Scratch.Set "counter" 0 }}
+                  {{ range $title, $items := .Site.Taxonomies.categories }}
+                  {{ if eq $title "#n/a" }}
+                   {{ else }}
+                  <li class="flex m-2">
+                      {{ $url := printf "%s/%s" "categoriesathens" ($title | urlize | lower)}}
+                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " href="{{ $url | absURL }}">
+                        {{ (index $.Site.Data.yml.categoriesathens ($title)).title }}
+                      </a>
+                  </li>
+                  {{ end }}
+                  {{ end }}
+              </ul>
+    {{ end }}
+</div>
+
+
+</div>
+
+<!--  -->
+<!-- RESULTS -->
+<!--  -->
+<div class="col-xs-9 col-sm-9 col-md-9 content-column border-gray-200 border-solid border-l pt-4">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="grid">
+        <div class="row"> 
+
+{{ range first 15 (where $.Site.Pages "Section" "schools")}}
+  {{ if in .Params.Cities $cityCategory }}
+
+{{ partial "categories/results-boxes.html" . }}
+
+    {{ end }}
+{{ end }}
+
+</div>
+</div>
+</div>  
+</div>  </div>  
+</main>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+     "itemListElement": [
+      {{ $pageurl := .Permalink }}
+      {{ $list := .Pages}}
+      {{ $len := (len $list)}}
+      {{ range $index, $element := $list }}
+        {
+          "@type": "ListItem",
+          "position": "{{$index}}",
+          "item": {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "{{trim .Title "\n"}}",
+            "url": "{{  $pageurl }}",
+            "image": "https://activekoala.com/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg"
+          }
+        }{{if eq (add $index 1) $len}}{{else}},{{end}}
+      {{ end }}
+      ]
+    }
+</script>
+
+{{ end }}
