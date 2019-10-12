@@ -30,8 +30,8 @@
                 <span class="inline-block  "><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/subcategories/{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
               {{ end }}
              {{ end }}
-            {{ if .Params.organisationurl }}
-              <span class="inline-block bg-grey-lighter rounded-full px-3 py-1  "><a class="" href="/organisations/{{.Params.organisationurl}}">{{.Params.organisation}}</a></span>
+            {{ if .Params.organisation }}
+              <span class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base">{{.Params.organisation}}
             {{ end }}
             {{ if .Params.latitudeGraphApi }}
             <span class="inline-block bg-grey-lighter rounded-full px-3 py-1  ">Map</span>
