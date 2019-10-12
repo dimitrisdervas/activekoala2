@@ -1,164 +1,35 @@
 {{ define "main" }}
 
-<div class="browse-hero col-xs-12 col-sm-8 col-md-9 p-6 float-right">
-  <h1 class="page-title col-xs-12 col-sm-8 col-md-9">{{ .Title }} {{ .Params.description }}{{ .Content }}</h1>
+{{ partial "subcategories/hero-subcategories.html" . }}
+
+
+<div class="col-xs-12 col-sm-12 col-md-12 border-gray-200 border-solid border-t">
+  <div class="row">
+<!--  -->
+<!-- SIDEBAR -->
+<!--  -->
+<div class="col-xs-3 col-sm-3 col-md-3 sidebar-column flex flex-col">
+
+<!-- CITIES -->
+
+{{ partial "subcategories/subcategories-filters.html" . }}
 </div>
-   
-<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
- <ul class="filters-menu list-reset flex flex-wrap justify-start">
-{{ $.Scratch.Set "counter" 0 }}
-{{ range  .Data.Pages }}
-{{ if in .Params.Cities  "Αθήνα" }}
-{{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
-{{ end }}
-{{ end }}
-
-{{ $.Scratch.Set "counter1" 0 }}
-{{ range  .Data.Pages }}
-{{ if in .Params.Cities  "Θεσσαλονίκη" }}
-{{ $.Scratch.Set "counter1" (add ($.Scratch.Get "counter1") 1) }}
-{{ end }}
-{{ end }}
-
-{{ if isset  .Params "slug" }}
-  {{ $title := .Params.slug }}
-  {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
-
-  {{ if gt ($.Scratch.Get "counter") "0"}}
-   <li class="flex m-2">
-      {{ $url := printf "%s/%s" "subcategoryathens" ($title | urlize | lower)}}
-      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-          Αθήνα - {{ $.Scratch.Get "counter" }}
-      </a>
-    </li>
-    {{ else }}
-    <li class="flex m-2">
-
-      <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-          Αθήνα - {{ $.Scratch.Get "counter" }}
-      </a>
-    </li>
-  {{ end }}
-
-
-
-{{ if gt ($.Scratch.Get "counter1") "0"}}
-  <li class="flex m-2">
-  {{ $url := printf "%s/%s" "subcategorythessaloniki" ($title | urlize | lower)}}
-  <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-      Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
-  </a>
-</li>
-  {{ else }}
-   <li class="flex m-2">
-
-  <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-      Θεσσαλονίκη - {{ $.Scratch.Get "counter1" }}
-  </a>
-</li>
-{{ end }}
-
-  </ul>
-</div>
-
-  {{ end}}
-<div class="taxonomy-filters col-xs-12 col-sm-8 col-md-9 p-6 float-right"> 
-  <ul class="filters-menu list-reset flex flex-wrap justify-start">
-      {{ if isset  .Params "slug" }}
-      {{ $slug := .Params.slug }}
-      {{ $category := index $.Site.Data.yml.categories (.Params.slugCategory) }}
-
-    {{ range $title := $category.slugsubcategory }}
-    {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}
-      {{ if eq $subcategory.schoolscount "0" }}
-      <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link bg-transparent hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded opacity-50 cursor-not-allowed hover:no-underline" href="">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ else }}
-        <li class="flex m-2">
-        {{ $url := printf "%s/%s" "subcategories" ($title | urlize | lower)}}
-        <a class="category-list-link 
-        {{ if  eq $title  $slug }}
-          bg-gray-200
-        {{ else }}
-          bg-transparent
-        {{ end }}
-         hover:bg-blue text-blue-dark font-semibold hover:text-white py-2 px-4 border border-blue hover:border-transparent rounded hover:no-underline hover:text-white" href="{{ $url | absURL }}">
-            {{ $subcategory.title }}
-            <span>( {{ $subcategory.schoolscount }} )</span>
-        </a>
-      </li>
-      {{ end }}
-       {{ end }}
-    {{ end }}
-  </ul>
-</div>
-
-
 
 {{ $paginator := (.Paginator 30) (.Data.Pages) }}
 
-{{ partial "pagination.html" . }}
-
-
-<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+<div class="col-xs-9 col-sm-9 col-md-9 content-column border-gray-200 border-solid border-l pt-4">
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
-        <div class="row">
-        {{ range $paginator.Pages }}
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-              <div class="box-masonry shadow-md">
-                   <a href="{{ .Permalink }}" title="" class="rounded box-masonry-image with-hover-overlay with-hover-icon">
-                      {{ $filenamecover := printf "static/images/%s/%s-cover.jpg" .Params.UID .Params.UID }}
-                      {{ if (fileExists $filenamecover )}}
-                      <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
-                      {{ end }}
-                    </a>
-                  <div class=" bg-white rounded px-6 py-4">
-                        <div class="font-bold text-2xl mb-2 px-6 py-4">
-                          <a class="text-grey-darkest" href="{{ .Permalink }}">
-                          	{{ $pairs := (dict "ά" "α" "έ" "ε" "ή" "η" "ί" "ι" "ό" "ο" "ώ" "ω" "Ά" "Α" "Έ" "Ε" "Ή" "Η" "Ί" "Ι" "Ό" "Ο" "Ώ" "Ω") }}{{ $.Scratch.Set "specialTitle" .Title }}{{ range $key, $val := $pairs }}{{ $.Scratch.Set "specialTitle" (replace ($.Scratch.Get "specialTitle") $key $val) }}{{ end }}{{ $.Scratch.Get "specialTitle" }}
-                          </a>
-                        </div>
-                        <div class="px-6 py-4">
-                        {{ range .Params.Cities }}
-                          <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/cities/{{ . | urlize }}">{{ . }}</a> </span>
-                        {{ end }}
-                          {{ range $title := .Params.categories }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">
-                              <a class="text-grey-darkest" href="/categories/{{ . | urlize }}">
-                                {{ $category := index $.Site.Data.yml.categories ($title) }}
-                                {{ $category.title }}
-                              </a>
-                            </span>
-                          {{ end }}
-                        {{ if .Params.subcategories }}
-                          {{ range $title := .Params.subcategories }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/subcategories/{{ . | urlize }}"> 
-                            {{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
-                          {{ end }}
-                        {{ end }}
-
-                        {{ if .Params.longitude }}
-                            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-base font-semibold text-grey-darker">map available</span>
-                        {{ end }}
-                        </div>
-                        <div class=" py-2 border-t ">
-                          {{ if .Params.orgurl }}
-                            <span class="inline-block  px-3 py-1 text-base font-semibold text-grey-darker"><a class="text-grey-darkest" href="/organisations/{{.Params.orgurl}}">{{.Params.organisation}}</a></span>
-                          {{ end }}
-                        </div>
-                      </div>
-                  </div>
-              </div>
-          {{ end }}
+        <div class="row"> 
           {{ partial "form_newschool.html" . }}
+        {{ range $paginator.Pages }}
+            {{ partial "categories/results-boxes.html" . }}
+          {{ end }}
         </div>
     </div>
+    {{ partial "pagination.html" . }}
+</div>
+</div>
 </div>
 
 <script type="application/ld+json">
