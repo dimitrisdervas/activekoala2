@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Dekeleias 193, 13671 Acharne, Greece"
 logoimg: "400709_286763204707840_179435588_n.jpg"
 profilePhoto : "downloaded"

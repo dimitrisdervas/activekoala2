@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "El. Venizelou 37 &amp; Kanari 9, 15127 Melíssia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

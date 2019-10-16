@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "18863 Πέραμα"
 logoimg: ""
 profilePhoto : "downloaded"

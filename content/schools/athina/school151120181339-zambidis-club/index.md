@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λόντου 16 &amp; Βουλιαγμένης, 16561 Glyfáda, Greece"
 logoimg: "zambidisclub.jpg"
 profilePhoto : "downloaded"

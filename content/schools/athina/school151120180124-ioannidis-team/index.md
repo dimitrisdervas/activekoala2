@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["savate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Θησεως 7α, 17676 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/11/ioannidis-team-logo.jpg"
 profilePhoto : "downloaded"

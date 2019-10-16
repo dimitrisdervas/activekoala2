@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Antinoros 31, 11634 Athens, Greece"
 logoimg: "flamingo_logo1.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "davari 5 // gouveli 12, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Tritis Septemvriou 19, 10432 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σουλίου 6α Μαρούσι- Αγίου Γεωργίου 42 Νέα Ιωνία, 15124 και 14234 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/JPG%20LOGO%20REGINA.jpg"
 profilePhoto : "downloaded"

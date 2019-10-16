@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ρήγα Φεραίου 75, 18758 Keratsíni, Greece"
 logoimg: "logo (10).png"
 profilePhoto : "downloaded"

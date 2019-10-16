@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["cha-cha-cha"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σίνα 9 &amp; Σόλωνος, 10680 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

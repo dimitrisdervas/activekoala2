@@ -6,9 +6,9 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: ""
+organisationid: "org170320192008"
 organisation: "Ναυτικός Αθλητικός Όμιλος Καλαμαριάς"
-orgurl: "undefined-naytikos-athlitikos-omilos-kalamarias"
+orgurl: "org170320192008-naytikos-athlitikos-omilos-kalamarias"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

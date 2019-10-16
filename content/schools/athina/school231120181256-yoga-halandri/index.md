@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Sokratous 52, 15232 Athens, Greece"
 logoimg: "lo.jpg"
 profilePhoto : "downloaded"

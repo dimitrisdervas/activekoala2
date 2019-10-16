@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Athanasiou Diakou 12, Vrilissia, 15235 Athens, Greece"
 logoimg: "95f09d_30423d0a7a3cfe8519b18921ec0c6cbbpng_srz_p_100_126_75_22_050_120_0.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Μαραθώνος 5A, 14572 Drosiá, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/LOGO%20eleni%20zografou%202.jpg"
 profilePhoto : "downloaded"

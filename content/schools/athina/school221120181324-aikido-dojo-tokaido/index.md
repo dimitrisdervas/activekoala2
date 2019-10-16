@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201389161436679.jpg"
 profilePhoto : "downloaded"

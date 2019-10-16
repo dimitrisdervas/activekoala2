@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Φλεμινγκ 6 Αργυρουπολη, 16451 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013315162053568.jpg"
 profilePhoto : "downloaded"

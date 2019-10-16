@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Καραμανλή 95, 19016 Loútsa, Greece"
 logoimg: "399366_247415201991957_1894738075_n.jpg"
 profilePhoto : "downloaded"

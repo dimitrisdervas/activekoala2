@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΧΑΡΟΚΟΠΟΥ 115 - 117, Τηλ. 2109566309 - 2109566368 Καλλιθέα Αττικής Τ.Κ. 17676"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2012/10/logo-theagenis.jpg"
 profilePhoto : "downloaded"

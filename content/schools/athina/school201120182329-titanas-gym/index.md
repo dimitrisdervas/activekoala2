@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παπαφλέσσα 26 και Βορείου Ηπείρου, 15125 Amaroúsion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/04/titanas-logo.jpg"
 profilePhoto : "downloaded"

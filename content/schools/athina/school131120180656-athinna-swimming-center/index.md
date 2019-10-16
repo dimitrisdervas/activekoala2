@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ηρακλείτου 24, Πάτημα Χαλανδρίου, 15238 Khalándrion, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

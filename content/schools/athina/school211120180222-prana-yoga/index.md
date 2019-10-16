@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σπύρου Λούη - Πύλη Δ, 15123 Amaroúsion, Greece"
 logoimg: "prana_logo_1.gif"
 profilePhoto : "downloaded"

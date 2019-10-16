@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεώφ. Μεσογείων 259, Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014818135637986.jpg"
 profilePhoto : "downloaded"

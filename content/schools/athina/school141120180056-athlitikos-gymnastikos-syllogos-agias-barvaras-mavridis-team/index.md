@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βύρωνος &amp; Αγιίας Βαρβάρας 10, 12351 Agia Varvara"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2018/02/mavridis-team-agis-logo.jpg"
 profilePhoto : "downloaded"

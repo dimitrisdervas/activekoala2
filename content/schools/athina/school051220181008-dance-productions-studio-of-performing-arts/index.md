@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Hwy 11 S, Liberty Christian School gymnasium, Athens, Tennessee 37303"
 logoimg: ""
 profilePhoto : "downloaded"

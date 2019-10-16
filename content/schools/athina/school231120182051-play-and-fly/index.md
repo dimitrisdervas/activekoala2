@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ολύμπου 44, 15344 Athens, Greece"
 logoimg: "10455996_1489312614643475_7257738330570388199_n.jpg"
 profilePhoto : "downloaded"

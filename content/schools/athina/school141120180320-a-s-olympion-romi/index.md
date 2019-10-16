@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Καυκάσου 133 ανω κυψελη, Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/olimpion-romi.jpg"
 profilePhoto : "downloaded"

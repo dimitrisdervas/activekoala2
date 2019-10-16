@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Anthousis 3 &amp; palaias kavalas, Peristéri, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/06/plexousakis-camp-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.ΓΑΛΑΤΣΙΟΥ 64, 11141 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

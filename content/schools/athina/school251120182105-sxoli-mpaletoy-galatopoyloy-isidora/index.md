@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kyprou 31, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΜΥΚΗΝΩΝ 27, 16674 ΓΛΥΦΑΔΑ"
 logoimg: ""
 profilePhoto : "downloaded"

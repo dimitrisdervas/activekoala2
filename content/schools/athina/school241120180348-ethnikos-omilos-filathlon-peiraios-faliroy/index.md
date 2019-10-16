@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180543"
 organisation: "ΕΘΝΙΚΟΣ ΟΦΠΦ"
-orgurl: "undefined-ethnikos-ofpf"
+orgurl: "org191120180543-ethnikos-ofpf"
 address: "Ακτή Πρωτοψάλτη 1Α, Πειραιάς, 18533 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

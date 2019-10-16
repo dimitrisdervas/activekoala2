@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Αγίας Βαρβάρας 102, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

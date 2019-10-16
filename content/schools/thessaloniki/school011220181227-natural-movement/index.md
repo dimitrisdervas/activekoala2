@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["parkour"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πανεπιστημιούπολη Θέρμης, 14ο χλμ. Θεσσαλονίκης Θέρμης, Λεωφόρος Χαριλάου Θέρμης, Περιοχή ΝΟΗΣΙΣ, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

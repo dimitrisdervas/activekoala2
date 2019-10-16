@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Asklipiou 156, 11471 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

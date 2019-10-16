@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Θερμοπυλών 113, 19100 Mégara, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/mourtzoukou.jpg"
 profilePhoto : "downloaded"

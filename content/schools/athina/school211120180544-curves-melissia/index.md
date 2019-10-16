@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+organisationid: "org170320192014"
 organisation: "Curves"
-orgurl: "undefined-curves"
+orgurl: "org170320192014-curves"
 address: "Γράμμου 4,Μελίσσια, Τ.Κ. 151 27"
 logoimg: "1024px-curves_fitness_logosvg (26).png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "38 Km Coastal Road Athens-Sounio, Lagonisi, 19010 Athens, Greece"
 logoimg: "logo (84).jpg"
 profilePhoto : "downloaded"

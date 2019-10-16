@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεοφώρος Μεσογείων 247, 15561 Psychiko, Greece"
 logoimg: "1625608_593211864106380_1833204300_n.jpg"
 profilePhoto : "downloaded"

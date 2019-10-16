@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγίου Αντωνίου 57, 152 35 Athens, Greece"
 logoimg: "1504092_233493550156979_1093449742_n.jpg"
 profilePhoto : "downloaded"

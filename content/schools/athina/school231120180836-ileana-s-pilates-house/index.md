@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πρασινου Λόφου &amp; Μπιζανίου 44, 14122 Athens, Greece"
 logoimg: "10676306_282559718604804_2339323589415077425_n.jpg"
 profilePhoto : "downloaded"

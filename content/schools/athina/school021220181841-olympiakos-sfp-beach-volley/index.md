@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Beach Volley"]
 categories: ["athlitismos"]
 subcategories: ["beachvolley"]
-organisationid: ""
+organisationid: "org241120180322"
 organisation: "ΟΛΥΜΠΙΑΚΟΣ ΣΦΠ"
-orgurl: "undefined-olympiakos-sfp"
+orgurl: "org241120180322-olympiakos-sfp"
 address: "18534 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

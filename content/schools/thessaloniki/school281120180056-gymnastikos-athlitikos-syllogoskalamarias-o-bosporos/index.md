@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180724"
 organisation: "ΒΟΣΠΟΡΟΣ ΚΑΛΑΜΑΡΙΑΣ"
-orgurl: "undefined-bosporos-kalamarias"
+orgurl: "org191120180724-bosporos-kalamarias"
 address: "Τραπεζούντος 40          "
 logoimg: ""
 profilePhoto : "downloaded"

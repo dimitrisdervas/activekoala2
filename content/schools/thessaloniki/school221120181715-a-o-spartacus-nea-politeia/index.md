@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ωκεανού/Προέκταση Ολυμπιαδος, 56200 Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017931204520498.jpg"
 profilePhoto : "downloaded"

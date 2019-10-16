@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017821225551496.jpg"
 profilePhoto : ""

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Proveleggiou 4, Iraklio, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γεωργίου Παπανδρέου 88 έναντι &amp; τέρμα Αγ. Λαύρας, 157 73 Goudi, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017821231445613.jpg"
 profilePhoto : "downloaded"

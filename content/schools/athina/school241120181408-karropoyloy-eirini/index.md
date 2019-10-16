@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χρυσοστόμου Σμύρνης 5 Περιστέρι, 12134 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/karopoulou_eirini.jpg"
 profilePhoto : "downloaded"

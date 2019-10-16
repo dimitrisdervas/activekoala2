@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Πόρτο Ράφτη 235,Πόρτο Ράφτη,Τ.Κ. 19003"
 logoimg: "10997468_1623608334537845_4563240305360725559_n.png"
 profilePhoto : "downloaded"

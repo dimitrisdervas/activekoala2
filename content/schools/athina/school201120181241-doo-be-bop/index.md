@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λομβάρδου 104 (Γκύζη), Athens, Maine"
 logoimg: "542232_688974624465887_383948521_n.png"
 profilePhoto : "downloaded"

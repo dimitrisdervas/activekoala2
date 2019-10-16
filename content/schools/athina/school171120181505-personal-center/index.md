@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Θηβών 333 &amp; Κ. Βαρνάλη 1, 12244 Aigáleo, Greece"
 logoimg: "1800336_721987294501115_996587996_n.jpg"
 profilePhoto : "downloaded"

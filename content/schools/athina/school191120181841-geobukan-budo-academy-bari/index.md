@@ -6,9 +6,9 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+organisationid: "org191120180153"
 organisation: "Geobukan Budo Academy"
-orgurl: "undefined-geobukan-budo-academy"
+orgurl: "org191120180153-geobukan-budo-academy"
 address: "Λεωφόρος Βάρης 15, 16672 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

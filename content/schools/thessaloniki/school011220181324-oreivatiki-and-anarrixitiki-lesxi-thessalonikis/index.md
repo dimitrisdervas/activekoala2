@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βασιλείου Αδαμίδη 14, 54351 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

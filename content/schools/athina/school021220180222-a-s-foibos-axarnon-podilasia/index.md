@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlitismos"]
 subcategories: ["cycling"]
-organisationid: ""
+organisationid: "org241120180127"
 organisation: "Α.Σ. ΦΟΙΒΟΣ ΑΧΑΡΝΩΝ"
-orgurl: "undefined-a-s-foibos-axarnon"
+orgurl: "org241120180127-a-s-foibos-axarnon"
 address: "Κεφαλληνίας 97, 11251 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

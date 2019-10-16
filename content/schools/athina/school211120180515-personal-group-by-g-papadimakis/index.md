@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Paraschou Achilleos 80, 11474 Athens, Greece"
 logoimg: "papadimakis.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αρχιπελάγους 88 Άνω Γλυφάδα, 16562 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

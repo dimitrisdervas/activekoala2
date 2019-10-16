@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λουκά Ράλλη 87, 18534 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017821223051248.jpg"
 profilePhoto : "downloaded"

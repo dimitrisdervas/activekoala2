@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΣΟΦΟΚΛΕΟΥΣ 204, ΚΑΛΛΙΘΕΑ"
 logoimg: ""
 profilePhoto : "downloaded"

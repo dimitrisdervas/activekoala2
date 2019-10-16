@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org241120180405"
 organisation: "ΣΑΠΚ ΝΕΑΠΟΛΗΣ"
-orgurl: "undefined-sapk-neapolis"
+orgurl: "org241120180405-sapk-neapolis"
 address: "ΝΕΑΠΟΛΗ, 56728"
 logoimg: ""
 profilePhoto : "downloaded"

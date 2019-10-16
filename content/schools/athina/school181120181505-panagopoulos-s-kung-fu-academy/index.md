@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βάκχου 2, 16672 Vári, Greece"
 logoimg: "16.jpg"
 profilePhoto : "downloaded"

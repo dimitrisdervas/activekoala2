@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λαζαρου Σώχου 5, 115 25 Psychiko, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

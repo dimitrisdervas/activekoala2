@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βασιλίσσης Σοφίας 38, 15124 Amaroúsion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/14633148_10154039577686235_8485523858568511124_o.jpg"
 profilePhoto : "downloaded"

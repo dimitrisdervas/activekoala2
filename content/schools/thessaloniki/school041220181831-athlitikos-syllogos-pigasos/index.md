@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

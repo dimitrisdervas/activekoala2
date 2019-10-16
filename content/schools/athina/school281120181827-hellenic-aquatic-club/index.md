@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "(Λ.Ποσειδωνος Αγ.Κοσμας), Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

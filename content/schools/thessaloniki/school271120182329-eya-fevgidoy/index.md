@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["balet"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιουστινιανου 2, Καλαμαρια, 55134 Kalamariá, Greece"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/09/logo-eva-fevgidou.jpg"
 profilePhoto : "downloaded"

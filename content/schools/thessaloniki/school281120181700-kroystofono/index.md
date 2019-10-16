@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Alexandrou Papadiamanti 6, 54645 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logo-kroystofono-360x240.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΡΗΓΑ ΦΕΡΑΙΟΥ &amp; ΚΟΥΝΤΟΥΡΙΩΤΟΥ, 18648 Piraeus, Greece"
 logoimg: "10436341_958348014194323_7026729709300660872_n.jpg"
 profilePhoto : "downloaded"

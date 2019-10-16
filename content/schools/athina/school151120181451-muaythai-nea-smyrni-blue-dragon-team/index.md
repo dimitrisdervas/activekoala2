@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kratitos 88, 17124 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/1266199_634071046614345_1735255253_o.jpg"
 profilePhoto : "downloaded"

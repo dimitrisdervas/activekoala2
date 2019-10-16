@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Skoufa 43, 13671 Acharne, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/muay-boran-acharnes-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ελ Βενιζέλου 3α &amp; 33ης Ελληνικό, 16777 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κερατεα Παπαφλεσσα &amp; Ποσειδωνος 1, 12345 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

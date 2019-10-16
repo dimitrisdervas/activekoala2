@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "karaiskaki 49, 13671 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

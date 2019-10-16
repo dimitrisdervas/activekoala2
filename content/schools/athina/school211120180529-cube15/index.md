@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εθνικό Προπονητήριο ΟΑΚΑ, 15124 Μαρουσι"
 logoimg: "logo-1.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λιτοχώρου 37, 54638 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

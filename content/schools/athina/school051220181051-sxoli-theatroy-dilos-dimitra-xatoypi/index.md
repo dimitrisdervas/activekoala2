@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ελευσινίων 11, 10437 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

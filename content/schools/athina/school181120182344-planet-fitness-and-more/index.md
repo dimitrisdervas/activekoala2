@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Αναπαύσεως 26-28, 15235 Athens, Greece"
 logoimg: "logo.png"
 profilePhoto : "downloaded"

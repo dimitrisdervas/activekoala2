@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Καλυψούς 34, 18539 Peiraiá, Attiki, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/BasilopoulouMaria.jpg"
 profilePhoto : "downloaded"

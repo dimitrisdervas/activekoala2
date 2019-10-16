@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "L. Dimokratias, 46, Agia Marina, Ilioupoli, 16345 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

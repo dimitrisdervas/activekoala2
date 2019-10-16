@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "338 Leoforos Kifisias, 154 51 Neo Psychiko, Greece, 15451 Athens, Greece"
 logoimg: "logo (2).png"
 profilePhoto : "downloaded"

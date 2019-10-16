@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+organisationid: "org241120180239"
 organisation: "ΕΘΝΙΚΟΣ ΓΣ"
-orgurl: "undefined-ethnikos-gs"
+orgurl: "org241120180239-ethnikos-gs"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
 logoimg: ""
 profilePhoto : "downloaded"

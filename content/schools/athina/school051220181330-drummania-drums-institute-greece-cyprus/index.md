@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αμφιτρίτης 7 Παλαιό Φάληρο, 17561 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

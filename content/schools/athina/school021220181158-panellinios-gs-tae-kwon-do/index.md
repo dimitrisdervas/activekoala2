@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["athlitismos"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+organisationid: "org241120180351"
 organisation: "Πανελλήνιος ΓΣ"
-orgurl: "undefined-panellinios-gs"
+orgurl: "org241120180351-panellinios-gs"
 address: "Ευελπίδων 2, 11362 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

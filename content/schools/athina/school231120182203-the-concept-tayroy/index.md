@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "28 Koryzi, 17778 Távros, Greece"
 logoimg: "1398891_323718087820501_8891748799738463985_o-1.jpg"
 profilePhoto : "downloaded"

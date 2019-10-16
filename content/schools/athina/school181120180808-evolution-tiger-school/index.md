@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Agias Lavras 67, 11141 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20171021191915686.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αετιδέων 27, 15541 Holargos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/14269655_1278007518879116_1055092845_n.jpg"
 profilePhoto : "downloaded"

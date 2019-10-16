@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πυλoυ 8, 15351 Pallíni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

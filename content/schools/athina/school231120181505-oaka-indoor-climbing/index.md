@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["climbing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Spyrou Loui 37, 15123 Amaroúsion, Greece"
 logoimg: "logo (34).jpg"
 profilePhoto : "downloaded"

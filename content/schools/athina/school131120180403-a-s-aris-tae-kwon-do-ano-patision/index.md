@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιαλέμου και Θύσσου 3, 11141 Athens, Greece"
 logoimg: "420748_207431699364702_1396103047_n.jpg"
 profilePhoto : "downloaded"

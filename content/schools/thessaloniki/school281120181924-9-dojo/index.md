@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εγνατία 1, Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20178413119444.jpg"
 profilePhoto : "downloaded"

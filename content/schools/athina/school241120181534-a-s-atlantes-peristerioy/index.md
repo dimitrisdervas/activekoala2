@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αρκάδιου 89 και Κων/πολεως 87, Peristéri, Attiki, Greece"
 logoimg: "atlanta_logo.jpg"
 profilePhoto : "downloaded"

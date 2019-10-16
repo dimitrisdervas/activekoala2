@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Φανερωμένης 13, 15561 Holargos, Greece"
 logoimg: "logo (1).png"
 profilePhoto : "downloaded"

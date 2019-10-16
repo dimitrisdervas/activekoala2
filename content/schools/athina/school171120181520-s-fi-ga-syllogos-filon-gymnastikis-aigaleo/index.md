@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "VALTETSIOU 11, 12243 Aegaleo, Attiki, Greece"
 logoimg: "223932_507302289284157_1160977415_n.jpg"
 profilePhoto : "downloaded"

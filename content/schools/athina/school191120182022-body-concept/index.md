@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τριπόλεως 70, 16777 Ellinikón, Greece"
 logoimg: "544682_355759417802005_2085724606_n.jpg"
 profilePhoto : "downloaded"

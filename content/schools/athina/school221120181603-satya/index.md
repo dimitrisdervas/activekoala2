@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλκιβιάδου 102, 18532 Piraeus, Greece"
 logoimg: "logo (57).jpg"
 profilePhoto : "downloaded"

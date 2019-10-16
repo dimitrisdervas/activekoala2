@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Dilou 9 Kaisariani, 161 21 Athens, Greece"
 logoimg: "405633_365157190180914_1415550179_n.jpg"
 profilePhoto : "downloaded"

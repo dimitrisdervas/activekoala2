@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Αγίου Ιωάννη Καρέα 84, 16233 Víron, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/basilatou_marianna.jpg"
 profilePhoto : "downloaded"

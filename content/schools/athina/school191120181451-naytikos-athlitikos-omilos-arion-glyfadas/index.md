@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΕΜΠΟΡΙΚΟ ΚΕΝΤΡΟ PLAZA, ΑΓΓ.ΜΕΤΑΞΑ 39 (1ος όροφος), Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

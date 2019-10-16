@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κέννεντι 119, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

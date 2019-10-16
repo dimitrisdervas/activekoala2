@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αμφιαράου 59 - 4ος όροφος, 10442 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

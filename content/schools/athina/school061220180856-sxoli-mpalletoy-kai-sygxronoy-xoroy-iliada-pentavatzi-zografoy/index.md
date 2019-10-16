@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γρηγορίου Αυξεντίου 166 Ζωγράφου, 15772 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τριανταφυλλίδη 30, 11525 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

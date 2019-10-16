@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σπανδωνίδη Πέτρου 7 &amp; Κορυτσάς, 546 39 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

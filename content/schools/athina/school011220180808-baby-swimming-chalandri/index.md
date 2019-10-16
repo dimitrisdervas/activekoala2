@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλ. Παπαναστασίου 3, Χαλάνδρι, 15234"
 logoimg: ""
 profilePhoto : "downloaded"

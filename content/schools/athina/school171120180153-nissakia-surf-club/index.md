@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Karystou 29, 19016 Artemis Loútsa, Greece"
 logoimg: "10464281_693801154024741_340971734574836844_n.jpg"
 profilePhoto : "downloaded"

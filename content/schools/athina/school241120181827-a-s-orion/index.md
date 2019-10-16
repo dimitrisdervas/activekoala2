@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεσολογγίου 20 Άλιμος, 17456 Athens, Greece"
 logoimg: "15268_461529547230871_1041302152_n.jpg"
 profilePhoto : "downloaded"

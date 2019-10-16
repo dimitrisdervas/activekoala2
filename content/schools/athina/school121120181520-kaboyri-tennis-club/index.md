@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aktis, 16671 Vouliagméni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

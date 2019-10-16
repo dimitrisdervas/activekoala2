@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "PAPASTRATOU 60, 18545 Piraeus, Greece"
 logoimg: "logo (36).jpg"
 profilePhoto : "downloaded"

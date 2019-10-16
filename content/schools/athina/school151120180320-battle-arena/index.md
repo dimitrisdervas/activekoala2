@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "elpidos 10, 15343 Ayía Paraskeví, Attiki, Greece"
 logoimg: "10429334_10203346818863593_8638831572939406895_n.jpg"
 profilePhoto : "downloaded"

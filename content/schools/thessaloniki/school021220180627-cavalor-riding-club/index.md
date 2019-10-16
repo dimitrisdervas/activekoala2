@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Φίλυρο προς το παιδικό χωριό SOS, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

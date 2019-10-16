@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΒΕΙΚΟΥ&amp;ΣΥΡΟΥ 5, 11147 Galátsion, Greece"
 logoimg: "314993_370359656412489_2113028247_n.jpg"
 profilePhoto : "downloaded"

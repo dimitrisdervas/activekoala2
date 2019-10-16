@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Νεμέσεως 12 Αγ. Νικόλαος Αχαρνών, 112 53 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014421124618965.jpg"
 profilePhoto : "downloaded"

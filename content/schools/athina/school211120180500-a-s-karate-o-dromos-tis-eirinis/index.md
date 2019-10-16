@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δημητρίου Ράλλη 11 Μαρούσι Αττικής, Athens, Greece"
 logoimg: "10872242_10205913323332953_439822188_n.jpg"
 profilePhoto : "downloaded"

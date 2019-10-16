@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Ιωνιας 154 Αλιμος, 17456 Athens, Greece"
 logoimg: "final-3.jpg"
 profilePhoto : "downloaded"

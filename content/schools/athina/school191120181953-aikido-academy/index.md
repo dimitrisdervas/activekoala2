@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Thrakis 30, 16777 Ellinikón, Greece"
 logoimg: "logo (27).jpg"
 profilePhoto : "downloaded"

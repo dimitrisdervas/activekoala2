@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "αφαιας 72, 18010 Aegina, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/machitikon-athlimaton-aigina-logo.jpg"
 profilePhoto : "downloaded"

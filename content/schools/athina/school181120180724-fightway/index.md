@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: "logo (5).png"
 profilePhoto : "downloaded"

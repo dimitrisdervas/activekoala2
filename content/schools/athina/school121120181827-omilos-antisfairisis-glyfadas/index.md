@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γούναρη &amp; Ευγενίδη, 16674 Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

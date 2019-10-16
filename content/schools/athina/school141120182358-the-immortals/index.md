@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σοφοκλέους 12, 12461 Chaidari"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/06/the-immortals-logo.jpg"
 profilePhoto : "downloaded"

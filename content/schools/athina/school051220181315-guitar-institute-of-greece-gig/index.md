@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ερεσού 29, 10681 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Anapafseos 44 - Vrilissia, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

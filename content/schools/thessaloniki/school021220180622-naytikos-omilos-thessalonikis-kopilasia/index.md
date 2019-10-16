@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κωπηλασία"]
 categories: ["athlitismos"]
 subcategories: ["rowing"]
-organisationid: ""
+organisationid: "org170320192006"
 organisation: "Ναυτικός Όμιλος Θεσσαλονίκης"
-orgurl: "undefined-naytikos-omilos-thessalonikis"
+orgurl: "org170320192006-naytikos-omilos-thessalonikis"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

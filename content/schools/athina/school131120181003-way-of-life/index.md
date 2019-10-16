@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ολυμπιακό Προπονητήριο Ο.Α.Κ.Α, Αμαρυσίας Αρτέμιδος, 15123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

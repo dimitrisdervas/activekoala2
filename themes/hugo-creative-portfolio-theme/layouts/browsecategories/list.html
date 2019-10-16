@@ -1,5 +1,24 @@
 {{ define "main" }}
 
+<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
+     {{ if isset .Site.Taxonomies "categories" }}
+             <ul class="filters-menu list-reset flex flex-wrap justify-start">
+                  {{ $.Scratch.Set "counter" 0 }}
+                  {{ range $title, $items := .Site.Taxonomies.categories }}
+                  {{ if eq $title "#n/a" }}
+                   {{ else }}
+                  <li class="flex m-2">
+                      {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " href="{{ $url | absURL }}">
+                        {{ (index $.Site.Data.yml.categories ($title)).title }}
+                        <span class="text-grey">({{ len $items }})</span>
+                      </a>
+                  </li>
+                  {{ end }}
+                  {{ end }}
+              </ul>
+    {{ end }}
+</div>
 
 <div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
      {{ if isset .Site.Taxonomies "categories" }}

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πυλoυ 8, 15351 Pallíni, Greece"
 logoimg: "okeanos.png"
 profilePhoto : "downloaded"

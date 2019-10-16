@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ανδρομάχης 52, 17671 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/skarogiannis-stelios-house-of-champions-logo.jpg"
 profilePhoto : "downloaded"

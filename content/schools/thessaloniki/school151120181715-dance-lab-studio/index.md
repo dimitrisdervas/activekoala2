@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΒΑΣΙΛΙΣΣΗΣ ΟΛΓΑΣ 192, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΚΡΕΜΟΥ 53, 176 76 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/181246_284930598319706_1294105599_n.jpg"
 profilePhoto : "downloaded"

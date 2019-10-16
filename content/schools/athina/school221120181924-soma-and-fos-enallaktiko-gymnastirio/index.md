@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ακτή Μουτσοπούλου 37, 185 34 Peiraeus, Attiki, Greece"
 logoimg: "10492957_699636206771930_5889279023426374926_o.jpg"
 profilePhoto : "downloaded"

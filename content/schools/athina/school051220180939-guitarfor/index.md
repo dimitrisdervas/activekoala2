@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Agias Markellas 7, Kerameikos, 1855 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

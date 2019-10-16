@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kobudo"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Artis 20, 143 42 Néa Filadélfeia, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

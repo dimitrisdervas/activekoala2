@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λένορμαν 114, 104.44 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

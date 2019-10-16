@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "G&#39; Septemvriou &amp; Gr.Lampraki, 54636 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

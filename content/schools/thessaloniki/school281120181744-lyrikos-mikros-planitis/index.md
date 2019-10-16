@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βασ. Όλγας 285, 54655 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/03/logo-lyrikos1.png"
 profilePhoto : "downloaded"

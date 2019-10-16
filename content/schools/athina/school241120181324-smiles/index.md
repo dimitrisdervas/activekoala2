@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εθ. Αντίστασης &amp; Μεσολογγίου 54, Peristéri, Attiki, Greece"
 logoimg: "418672_332680826826045_571104125_n.jpg"
 profilePhoto : "downloaded"

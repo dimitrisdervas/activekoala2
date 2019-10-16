@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σμυρνης 31, Kalamariá, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

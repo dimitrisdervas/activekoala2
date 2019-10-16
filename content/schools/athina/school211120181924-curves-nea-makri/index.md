@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+organisationid: "org170320192014"
 organisation: "Curves"
-orgurl: "undefined-curves"
+orgurl: "org170320192014-curves"
 address: "Λ. Μαραθώνος 150, 1ος όροφος,Νέα Μάκρη, T.K. 190 05"
 logoimg: "1024px-curves_fitness_logosvg (14).png"
 profilePhoto : "downloaded"

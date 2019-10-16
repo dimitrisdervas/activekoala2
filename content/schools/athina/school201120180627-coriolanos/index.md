@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σκιάθου 26, Ηλιούπολη, 16346 Athens, Greece"
 logoimg: "188290_334457883322756_92954993_n.jpg"
 profilePhoto : "downloaded"

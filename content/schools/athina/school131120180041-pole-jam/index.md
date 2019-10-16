@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Agias Eleousas 5, Monastiraki, Psyrri, 10554 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

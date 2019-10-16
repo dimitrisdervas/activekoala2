@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δράμας 99, 10443 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

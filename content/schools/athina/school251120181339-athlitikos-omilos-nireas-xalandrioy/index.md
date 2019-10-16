@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.ΠΕΝΤΕΛΗΣ 146, 15234 Khalándrion, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

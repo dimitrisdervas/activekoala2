@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εθνικής Αντιστάσεως 16 Καλαμαριά, 55133 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

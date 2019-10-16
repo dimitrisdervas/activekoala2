@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΦΙΛΟΚΤΗΤΟΥ 96, 131 22 Ilion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/06/1375774_219429971552744_1458576141_n.png"
 profilePhoto : "downloaded"

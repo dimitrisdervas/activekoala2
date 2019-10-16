@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "26 Vasilissis Sofias, 151 24 Marousi, Greece, 15124 Amaroúsion, Greece"
 logoimg: "logo (4).png"
 profilePhoto : "downloaded"

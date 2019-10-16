@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+organisationid: "org170320192014"
 organisation: "Curves"
-orgurl: "undefined-curves"
+orgurl: "org170320192014-curves"
 address: ""
 logoimg: "1024px-curves_fitness_logosvg (17).png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Βουλιαγμένης 231, 17235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

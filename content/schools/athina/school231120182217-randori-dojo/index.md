@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λουκά Ράλλη 87, 18534 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

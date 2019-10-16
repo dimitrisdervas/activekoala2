@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γρηγορίου Λαμπράκη 34 Λυκόβρυση, 14123 Lykovrisi, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

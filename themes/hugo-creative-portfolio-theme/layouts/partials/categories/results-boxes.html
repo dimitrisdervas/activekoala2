@@ -7,34 +7,34 @@
         {{ end }}
         </a>
       <div class=" bg-white rounded bpx-6 py-2">
-            <div class="">
-              <a class="text-4xl mb-2 px-6 py-4 flex flex-" href="{{ .Permalink }}">
+            <div class="result-box-title">
+              <a class="text-4xl mb-2 px-6 pt-4 pb-12 flex flex-" href="{{ .Permalink }}">
             {{ $filenameprofile := printf "static/images/%s/%s-profile.jpg" .Params.UID .Params.UID }}
             {{ if (fileExists $filenameprofile )}}<img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-profile.jpg" alt="{{.Title}}" class="img-responsive">
                 {{ end }}
                {{ .Title }}
               </a>
             </div>
-            <div class="px-6 py-4 border-t border-gray-200">
+            <div class="result-box-tags p-6 border-t border-gray-200">
             {{ range .Params.City }}
-              <span class="inline-block border-gray-200 border border-solid px-3 py-1 text-base  "><a class="" href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
+              <span class="inline p-2-block "><a class="border-gray-200 border border-solid px-3 py-1 text-base  " href="/categories/{{ . | urlize }}">{{ . }}</a> </span>
             {{ end }}
             {{ range $title := .Params.Categories }}
-              <span class="inline-block"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/categories/{{ . | urlize }}">
+              <span class="inline-block p-2"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/categories/{{ . | urlize }}">
                     {{ $subcategory := index $.Site.Data.yml.categories ($title)}}{{ $subcategory.title }}
               </a> </span>
             {{ end }}
 
             {{ range $title := .Params.Subcategories }}
               {{ with $title  }}
-                <span class="inline-block  "><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/subcategories/{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
+                <span class="inline-block p-2 "><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/subcategories/{{ . | urlize }}">{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a></span>
               {{ end }}
              {{ end }}
             {{ if .Params.organisation }}
-              <span class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base">{{.Params.organisation}}
+              <span class="inline-block p-2"><a class="border-gray-200 border border-solid px-4 py-2 hover:bg-gray-200 text-base" href="/organisations/{{.Params.orgurl}}">Orgazization</a></span>
             {{ end }}
             {{ if .Params.latitudeGraphApi }}
-            <span class="inline-block bg-grey-lighter rounded-full px-3 py-1  ">Map</span>
+            <span class="inline-block mb-2 bg-grey-lighter rounded-full px-3 py-1  ">Map</span>
             {{ end }}
             </div>
         </div>

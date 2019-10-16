@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ελευθερίου Βενιζέλου 206, 14122 Athens, Greece"
 logoimg: "workboxlogo.jpg"
 profilePhoto : "downloaded"

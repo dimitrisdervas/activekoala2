@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφ. Βουλιαγμένης 12, 16673 Voúla, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/03/taiko-ryu-logo.jpg"
 profilePhoto : "downloaded"

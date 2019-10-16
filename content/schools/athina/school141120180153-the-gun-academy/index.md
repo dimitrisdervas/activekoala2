@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αθ. Διάκου 26 &amp; 25ης Μαρτίου, Chaidari"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/24899184_1913497898911026_946782908_n.jpg"
 profilePhoto : "downloaded"

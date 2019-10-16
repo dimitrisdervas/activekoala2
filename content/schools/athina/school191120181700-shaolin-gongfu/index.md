@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Βουλιαγμένης 231, 17235 Athens, Greece"
 logoimg: "1461678_162696607273172_1435858274_n.jpg"
 profilePhoto : "downloaded"

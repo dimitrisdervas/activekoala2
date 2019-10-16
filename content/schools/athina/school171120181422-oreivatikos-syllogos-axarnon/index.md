@@ -8,7 +8,7 @@ categories: ["athlimata-vounou"]
 subcategories: ["climbing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Φιλαδελφειας 126, 13673 Acharnae, Attiki, Greece"
 logoimg: "67405_155892637896813_1015583624_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "AIANTOS 3B, VRILISSIA, 15235 Athens, Greece"
 logoimg: "logo (83).jpg"
 profilePhoto : "downloaded"

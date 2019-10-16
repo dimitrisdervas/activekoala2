@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Skra 15, Ilioupoli, 16346 Athens, Greece"
 logoimg: "147.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "&amp; ΤΚ, Korizi ke Thrakis, Tavros 177 78, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

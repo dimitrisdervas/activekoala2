@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αθηνών Χαλκίδας, 19011 Avlón, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

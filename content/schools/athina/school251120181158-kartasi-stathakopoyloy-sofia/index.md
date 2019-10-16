@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Agias Sofias 1, 17123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

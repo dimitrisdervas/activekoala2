@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["salsa"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "1) Άγιοι Ανάργυροι, Κλεισούρας 20 2) Ίλιον, Ναυσικάς 118 &amp; Πρέσπας 18 3) Μεταμόρφωση, Παπανικολή &amp; Μολιέρου 2"
 logoimg: ""
 profilePhoto : "downloaded"

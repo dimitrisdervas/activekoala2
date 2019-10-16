@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χελιδονούς 20A Κηφισιά Αττική Ελλάδα /20A Chelidonous street, Kifisia, Athens, Greece, 14564 Athens, Greece"
 logoimg: "1476145_632243463505579_974288220_n.jpg"
 profilePhoto : "downloaded"

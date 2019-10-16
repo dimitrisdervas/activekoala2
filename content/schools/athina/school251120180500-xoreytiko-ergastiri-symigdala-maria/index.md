@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πρωτέως 26, 19009 Rafína, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Makrigianni 81, agios dimitrios, 17342 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/foinix-logo.png"
 profilePhoto : "downloaded"

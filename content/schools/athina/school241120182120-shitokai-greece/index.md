@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "28 Panourgia Str., 121 31 Peristéri, Attiki, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2018015125715591.jpg"
 profilePhoto : "downloaded"

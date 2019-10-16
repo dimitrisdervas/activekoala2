@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ Αμφιθεας 21, 17562 Athens, Greece"
 logoimg: "logo (33).jpg"
 profilePhoto : "downloaded"

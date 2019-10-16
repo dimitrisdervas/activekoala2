@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γεωργίου Γεννηματά 55, 551 32 Kalamariá, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

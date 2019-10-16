@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σουλίου 11, 173 42 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

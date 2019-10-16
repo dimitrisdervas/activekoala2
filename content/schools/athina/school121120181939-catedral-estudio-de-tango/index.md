@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Mesogeion 57, Athens, 115 26 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

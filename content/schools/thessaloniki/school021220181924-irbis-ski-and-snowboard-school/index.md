@@ -8,7 +8,7 @@ categories: ["athlimata-vounou"]
 subcategories: ["ski"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μπακαλμπάση 27, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

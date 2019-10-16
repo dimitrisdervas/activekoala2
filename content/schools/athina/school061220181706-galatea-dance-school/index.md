@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "28ης Οκτωβρίου 2, 16232 �Yios Ioánnis Karéas, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

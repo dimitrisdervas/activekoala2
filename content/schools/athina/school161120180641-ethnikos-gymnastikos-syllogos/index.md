@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΒΑΣ. ΟΛΓΑΣ 6, 10557 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

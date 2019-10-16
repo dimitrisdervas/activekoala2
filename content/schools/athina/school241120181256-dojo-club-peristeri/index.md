@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["judi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Komis 20, 12137 Peristéri, Attiki, Greece"
 logoimg: "cropped-dojo-club-copy-300x75.jpg"
 profilePhoto : "downloaded"

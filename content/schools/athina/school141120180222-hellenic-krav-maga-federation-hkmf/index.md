@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΔΕΡΒΕΝΑΚΙΩΝ 6"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/hellenic-krav-maga-federation-logo.jpg"
 profilePhoto : "downloaded"

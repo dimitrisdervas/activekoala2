@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λευκάδος 10, Βούλα, 16673 Athens, Greece"
 logoimg: "urban-yoga-logo1.jpg"
 profilePhoto : "downloaded"

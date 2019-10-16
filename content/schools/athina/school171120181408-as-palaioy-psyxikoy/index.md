@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "OAKA - Μαρούσι, 15123 Αμαρυσίας Αρτέμιδος 43-45 ,Μαρούσι"
 logoimg: ""
 profilePhoto : "downloaded"

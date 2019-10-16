@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Vasilissis Olgas 1, 10557 Athens, Greece"
 logoimg: "10171216_625060590911232_3627587240067198807_n.jpg"
 profilePhoto : "downloaded"

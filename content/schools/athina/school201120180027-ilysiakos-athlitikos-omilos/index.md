@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180305"
 organisation: "ΗΛΥΣΙΑΚΟΣ ΑΘΛΗΤΙΚΟΣ ΟΜΙΛΟΣ"
-orgurl: "undefined-ilysiakos-athlitikos-omilos"
+orgurl: "org191120180305-ilysiakos-athlitikos-omilos"
 address: "Ξηρογιάννη 63-65, 15771 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

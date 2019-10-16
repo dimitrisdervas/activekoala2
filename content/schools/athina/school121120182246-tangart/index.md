@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["tango"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "10 Kallirrois str, 11743 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

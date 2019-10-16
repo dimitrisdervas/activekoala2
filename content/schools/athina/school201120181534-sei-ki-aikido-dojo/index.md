@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Καυκάσου 151, Κυψέλη, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

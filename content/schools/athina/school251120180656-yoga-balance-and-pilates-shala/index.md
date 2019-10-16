@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χορμοβίτου 87, 18544 Piraeus, Greece"
 logoimg: "ae7125637fe9e73285137f238bfd2f69.jpg"
 profilePhoto : "downloaded"

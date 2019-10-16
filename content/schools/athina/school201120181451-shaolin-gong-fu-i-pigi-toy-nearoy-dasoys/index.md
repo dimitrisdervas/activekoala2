@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Plapouta &amp; Kallikratous 4, 14122 Iráklion (Athens), Greece"
 logoimg: "75976_567114973305183_721611877_n.png"
 profilePhoto : "downloaded"

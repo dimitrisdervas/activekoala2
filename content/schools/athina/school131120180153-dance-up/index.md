@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["modern-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πρωτογένους 1, 10551 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

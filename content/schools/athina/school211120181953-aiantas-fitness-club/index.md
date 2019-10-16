@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γρ.Λαμπρακη 11, 145 65 �Yios Stéfanos, Attiki, Greece"
 logoimg: "1623658_738473372874052_7024636099182292725_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΣΑΡΑΝΤΑΠΟΡΟΥ 62 ΠΕΡΙΣΤΕΡΙ, 12134 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/10/parasidis-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ORFEOS 7, 16346 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201592114430406.jpg"
 profilePhoto : "downloaded"

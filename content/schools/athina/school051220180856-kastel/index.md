@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Ποσειδώνος 19, Παλαιό Φάληρο, 17561 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

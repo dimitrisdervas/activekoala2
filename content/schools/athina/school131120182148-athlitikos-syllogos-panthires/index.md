@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πευκων 70, Πευκων 70 Iráklion (Athens), Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/01/a.s-panthires-logo.jpg"
 profilePhoto : "downloaded"

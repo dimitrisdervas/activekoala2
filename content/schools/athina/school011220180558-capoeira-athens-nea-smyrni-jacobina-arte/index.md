@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Hermes Club, Κράτητος 49, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "26-28 Μπότσαρη Μάρκου, 17563 Old Faliron, Attiki, Greece"
 logoimg: "66644_533347310021854_1449494813_n.jpg"
 profilePhoto : "downloaded"

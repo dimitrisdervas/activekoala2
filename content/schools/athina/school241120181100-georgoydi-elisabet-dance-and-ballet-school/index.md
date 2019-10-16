@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλ. Παπαναστασίου 6, 141 23 Likóvrisi, Attiki, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/LOGO-GEORGOUDI.jpg"
 profilePhoto : "downloaded"

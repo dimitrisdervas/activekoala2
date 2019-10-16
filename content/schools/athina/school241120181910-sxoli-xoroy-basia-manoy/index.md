@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λαγουμιτζή 68, 11744 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

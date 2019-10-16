@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παναγή Τσαλδάρη 58, 187 57 Keratsíni, Greece"
 logoimg: "logo3.png"
 profilePhoto : "downloaded"

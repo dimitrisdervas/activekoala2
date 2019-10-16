@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["wing-chun"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βιζυης 56, 54454 Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017214185711933.jpg"
 profilePhoto : "downloaded"

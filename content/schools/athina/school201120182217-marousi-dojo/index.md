@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παπαφλέσσα 26- Βορείου Ηπείρου, 15125 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

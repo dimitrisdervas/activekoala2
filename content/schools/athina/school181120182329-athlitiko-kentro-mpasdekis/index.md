@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΔΙΓΕΝΗ 8, ΗΛΙΟΥΠΟΛΗ, 16344 Athens, Greece"
 logoimg: "262179_113773258716031_5537069_n.jpg"
 profilePhoto : "downloaded"

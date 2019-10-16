@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "θηβων 357, 12244 Aigáleo, Greece"
 logoimg: "εντασισ.jpg"
 profilePhoto : "downloaded"

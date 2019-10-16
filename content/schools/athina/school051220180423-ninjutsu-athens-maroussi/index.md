@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Grammou 29, 15125 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Αθηνών 183, 12461 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

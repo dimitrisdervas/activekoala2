@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Mpizaniou 4, 11524 Athens, Greece"
 logoimg: "1535027_793254657367309_949778407_n.jpg"
 profilePhoto : "downloaded"

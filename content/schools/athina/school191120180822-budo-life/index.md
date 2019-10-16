@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kranias 5 &amp; Prinou, Gerakas, 15344 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201772821917455.jpg"
 profilePhoto : "downloaded"

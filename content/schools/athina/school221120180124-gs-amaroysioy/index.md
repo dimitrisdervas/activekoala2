@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+organisationid: "org170320192012"
 organisation: "ΓΣ ΑΜΑΡΟΥΣΙΟΥ"
-orgurl: "undefined-gs-amaroysioy"
+orgurl: "org170320192012-gs-amaroysioy"
 address: "ΔΙΟΝΥΣΟΥ &amp; ΝΙΟΒΗΣ"
 logoimg: ""
 profilePhoto : "downloaded"

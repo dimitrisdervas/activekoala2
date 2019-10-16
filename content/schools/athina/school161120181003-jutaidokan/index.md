@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χίου 47Α, Αγ. Παρασκευή, 15343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

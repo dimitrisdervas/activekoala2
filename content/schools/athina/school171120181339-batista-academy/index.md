@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.Δεκελειας 193, 13671 Acharne, Greece"
 logoimg: "50000000.jpg"
 profilePhoto : "downloaded"

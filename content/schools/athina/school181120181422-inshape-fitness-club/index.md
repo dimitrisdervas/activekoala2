@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Αθηνών 336, 12462 Chaidari"
 logoimg: "logo-in-shape-h80.png"
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180641"
 organisation: "ΧΑΝΘ"
-orgurl: "undefined-xanth"
+orgurl: "org191120180641-xanth"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΚΩΣΤΑ ΒΑΡΝΑΛΗ 12, Petroúpolis, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/athletic-club-panorama-logo.jpg"
 profilePhoto : "downloaded"

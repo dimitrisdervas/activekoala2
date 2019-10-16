@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Καλαμακίου 67 Άλιμος, 17455 Athens, Greece"
 logoimg: "logo (5).jpg"
 profilePhoto : "downloaded"

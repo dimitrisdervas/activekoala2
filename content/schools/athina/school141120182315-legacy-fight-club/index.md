@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "syggrou 247, 17122 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/01/legacy-fight-club-logo.jpg"
 profilePhoto : "downloaded"

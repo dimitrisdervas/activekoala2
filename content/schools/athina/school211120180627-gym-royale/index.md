@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "4 Mouson street, 18757 Keratsíni, Greece"
 logoimg: "10489688_542618399194598_755385392149318059_n.png"
 profilePhoto : "downloaded"

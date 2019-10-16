@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kaftanzogleio Stadio, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

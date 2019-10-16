@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["salsa"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Kifisias 1, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["bachata"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "57 Sygrou Avenue , (Fix), 11745 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

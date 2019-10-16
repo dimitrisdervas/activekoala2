@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΚΙΜΩΝΟΣ 1 ΚΑΙ ΑΧΙΛΕΩΣ, ΝΙΚΑΙΑ ΠΛΗΣΙΟΝ ΦΑΝΑΡΙΑ ΚΡΑΤΙΚΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΝΙΚΑΙΑΣ, ΝΙΚΑΙΑ"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/psilopatis-camp-logo.jpg"
 profilePhoto : "downloaded"

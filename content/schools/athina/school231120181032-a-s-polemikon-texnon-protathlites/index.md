@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μίνωος 3, Νέος Κόσμος, 3ος όροφος (πλησίον μετρό Άγιος Ιωάννης), 11743 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015830154045722.jpg"
 profilePhoto : "downloaded"

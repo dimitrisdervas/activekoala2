@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "9 Fokidos, 18545 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

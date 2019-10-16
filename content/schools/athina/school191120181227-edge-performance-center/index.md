@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Foivis 13, 16674 Glyfáda, Greece"
 logoimg: "1185013_561335930569165_559674972_n.jpg"
 profilePhoto : "downloaded"

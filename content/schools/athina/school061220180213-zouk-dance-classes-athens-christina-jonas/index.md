@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Mithimnis, Patisia, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

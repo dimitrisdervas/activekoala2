@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ομηρίδου Σκυλίτση 14, 18532 Piraeus, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/293380_107045552735688_594066346_n.jpg"
 profilePhoto : "downloaded"

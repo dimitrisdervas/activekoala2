@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κορομηλά 19, Νέος Κόσμος, 11745 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

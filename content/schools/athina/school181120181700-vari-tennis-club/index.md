@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Paizi 56, 16672 Vári, Greece"
 logoimg: "logo (59).jpg"
 profilePhoto : "downloaded"

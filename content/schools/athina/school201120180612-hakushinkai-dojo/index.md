@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κυδαθηναίων 5, 16345 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

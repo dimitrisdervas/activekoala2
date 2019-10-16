@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kolokotroni 72 &amp; Vasileos Georgiou, 185 35 Piraeus, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

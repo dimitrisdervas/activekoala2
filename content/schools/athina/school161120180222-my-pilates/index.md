@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Gounari 39 &amp; Athanatou 1, 16562 Glyfádas, Attiki, Greece"
 logoimg: "screen-shot-2014-11-07-at-33941-pm.png"
 profilePhoto : "downloaded"

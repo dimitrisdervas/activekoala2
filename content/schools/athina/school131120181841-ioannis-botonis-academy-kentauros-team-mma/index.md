@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πάρνηθος 128, 13671 Menidi, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/05/botonislogo.png"
 profilePhoto : "downloaded"

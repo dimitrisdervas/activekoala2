@@ -2,9 +2,9 @@
 title: |
    Σκάκι
 schools: ["school021220181520"]
-category: "Κλειστού Χώρου"
+category: "Αθλητισμός"
 slug: "chess"
-slugCategory: "kleistou-xorou"
+slugCategory: "athlitismos"
 schoolscount: "1"
 ---
 

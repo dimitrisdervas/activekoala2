@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aidiniou 21, 12461 Chaidari"
 logoimg: "logo1.png"
 profilePhoto : "downloaded"

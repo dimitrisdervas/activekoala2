@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ameinokleous 18 Neos Kosmos, 11745 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

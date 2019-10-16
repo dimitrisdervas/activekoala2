@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βενιζέλου Ελευθερίου 7, 19200 Elefsína, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/elefsis-logo.jpg"
 profilePhoto : "downloaded"

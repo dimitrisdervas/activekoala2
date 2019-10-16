@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κλεισθένους 100 και Βελεστίνου, 15344 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

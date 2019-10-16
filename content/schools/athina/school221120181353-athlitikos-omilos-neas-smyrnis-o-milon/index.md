@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
 logoimg: ""
 profilePhoto : "downloaded"

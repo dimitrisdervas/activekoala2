@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2018/02/parthenon-koridallou-logo.jpg"
 profilePhoto : "downloaded"

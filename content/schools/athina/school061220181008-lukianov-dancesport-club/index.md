@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Ηρακλειου 414, Ν.Ηρακλειο, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

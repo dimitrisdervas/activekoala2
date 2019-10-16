@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Μαραθώνος 77, 19005 Néa Mákri, Attiki, Greece"
 logoimg: "c"
 profilePhoto : "downloaded"

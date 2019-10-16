@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ροδοκανάκη 6, 713 06"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/gouvianaki_klairi.jpg"
 profilePhoto : "downloaded"

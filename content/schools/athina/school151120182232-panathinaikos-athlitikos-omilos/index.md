@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μακεδόνων 8, 11521 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

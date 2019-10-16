@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "3is Septemvriou 144, 11251 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

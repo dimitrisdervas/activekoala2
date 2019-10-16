@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αριστοτέλους 86, 15562 Holargos, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20171121212632531.jpg"
 profilePhoto : "downloaded"

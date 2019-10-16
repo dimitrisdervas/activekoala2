@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kapetan Petroutsou 5-7, 11 523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

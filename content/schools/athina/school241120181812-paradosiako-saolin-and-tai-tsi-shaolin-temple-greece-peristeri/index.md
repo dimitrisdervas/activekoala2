@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["taichi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγίου Πέτρου 25Α, 12136 Peristérion, Greece"
 logoimg: "img_20170626_131003.jpg"
 profilePhoto : "downloaded"

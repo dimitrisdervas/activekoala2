@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Olympionikou Loui Spyrou, 151 23 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

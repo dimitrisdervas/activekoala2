@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ε.Α.Κ.Ν, 16777 Ellinikón, Greece"
 logoimg: "10612995_661282273970320_1037372966317888500_n.jpg"
 profilePhoto : "downloaded"

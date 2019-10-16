@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "megalou vasileiou 44 and frearion1, 11854 Athens, Greece"
 logoimg: "unnamed.png"
 profilePhoto : "downloaded"

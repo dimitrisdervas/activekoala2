@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Veikou 33, 117 42 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

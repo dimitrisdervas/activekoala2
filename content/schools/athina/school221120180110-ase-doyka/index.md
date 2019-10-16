@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Mesogeion 151, 15126 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

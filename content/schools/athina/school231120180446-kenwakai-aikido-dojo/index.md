@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χέλμου 7, Νέο Ηράκλειο, 14122 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2018025233355687.jpg"
 profilePhoto : "downloaded"

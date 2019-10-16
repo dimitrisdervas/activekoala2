@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Riankour 65-67, 11523 Athens, Greece"
 logoimg: "229181_399693323428864_1802617104_n.jpg"
 profilePhoto : "downloaded"

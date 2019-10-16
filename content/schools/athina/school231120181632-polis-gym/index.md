@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σάμου 28 Πολύδροσο Μαρούσι, 15125 Amaroúsion, Greece"
 logoimg: "logo1.jpg"
 profilePhoto : "downloaded"

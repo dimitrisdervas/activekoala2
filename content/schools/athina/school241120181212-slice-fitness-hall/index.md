@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ακτή Θεμιστοκλέους 74, Πειραϊκή, 18537 Piraeus, Greece"
 logoimg: "logo (63).jpg"
 profilePhoto : "downloaded"

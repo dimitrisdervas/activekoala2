@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ανοιχτό Γήπεδο Παλλήνης, 15153 Pallíni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

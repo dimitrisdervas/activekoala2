@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+organisationid: "org191120180612"
 organisation: "Α.Σ. ΟΔΥΣΣΕΑΣ ΑΓ.ΒΑΡΒΑΡΑΣ "
-orgurl: "undefined-a-s-odysseas-ag-barbaras"
+orgurl: "org191120180612-a-s-odysseas-ag-barbaras"
 address: "Σιπύλου 16, 12351"
 logoimg: ""
 profilePhoto : "downloaded"

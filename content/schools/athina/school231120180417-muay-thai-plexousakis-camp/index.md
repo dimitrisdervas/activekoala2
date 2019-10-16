@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Anthousis 3 &amp; palaias kavalas, Peristéri, Attiki, Greece"
 logoimg: "logo (61).jpg"
 profilePhoto : "downloaded"

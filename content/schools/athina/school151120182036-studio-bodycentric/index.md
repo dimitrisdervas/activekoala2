@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ilidos 23 Abelokipi, 11526 Athens, Greece"
 logoimg: "bodycentric.png"
 profilePhoto : "downloaded"

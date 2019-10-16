@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΜΥΤΙΛΗΝΗΣ 79, 11364 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/ehetlaios-logo.jpg"
 profilePhoto : "downloaded"

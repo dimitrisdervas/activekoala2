@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γρυπάρη 103 και Μενελάου, 17672 Athens, Greece"
 logoimg: "1925329_595530060525755_886731998_n.jpg"
 profilePhoto : "downloaded"

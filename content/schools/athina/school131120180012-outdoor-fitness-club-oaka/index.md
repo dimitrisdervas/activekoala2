@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "OAKA, 15125 Amaroúsion, Greece"
 logoimg: "557776_398483413611449_1115653808_n.png"
 profilePhoto : "downloaded"

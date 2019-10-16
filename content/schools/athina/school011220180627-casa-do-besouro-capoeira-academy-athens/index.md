@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Θεμιστοκλέους 23-25 8ος όροφος, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

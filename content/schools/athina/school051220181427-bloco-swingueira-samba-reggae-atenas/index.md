@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Papamakariou Pan., 118 55 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

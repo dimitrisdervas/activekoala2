@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεγαλουπόλεως 9, Αγ. Δημήτριος, 17343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δωδεκανήσου 18 Άγιοι Ανάργυροι,Ανάκασα(πλατεία Άρη Βελουχιώτη), 13562 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017812133422302.jpg"
 profilePhoto : "downloaded"

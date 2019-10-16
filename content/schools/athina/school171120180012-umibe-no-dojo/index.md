@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. ΒΡΑΥΡΩΝΟΣ 68, 19016 Loútsa, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

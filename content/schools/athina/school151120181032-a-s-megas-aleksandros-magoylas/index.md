@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ηρώων Πολυτεχνείου 33, 19018 Magoúla, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/04/580472_482153458497082_2042943741_n.jpg"
 profilePhoto : "downloaded"

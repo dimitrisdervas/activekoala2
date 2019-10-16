@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Judo"]
 categories: ["athlitismos"]
 subcategories: ["judi"]
-organisationid: ""
+organisationid: "org241120180405"
 organisation: "ΣΑΠΚ ΝΕΑΠΟΛΗΣ"
-orgurl: "undefined-sapk-neapolis"
+orgurl: "org241120180405-sapk-neapolis"
 address: "ΕΑΚ ΝΕΑΠΟΛΗΣ - 1ος όροφος, 56728 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

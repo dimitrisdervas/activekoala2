@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παπαναστασιου 27-29,Θυμαρακια., 10445 Κατω Πατησια."
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017912194834109.jpg"
 profilePhoto : "downloaded"

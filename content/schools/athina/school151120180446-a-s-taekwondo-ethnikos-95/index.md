@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "palatianis 34 kai agιas theklas 36 - nea liosia, 13121 Néa Liósia, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/06/unnamed-3.jpg"
 profilePhoto : "downloaded"

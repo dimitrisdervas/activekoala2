@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γούναρη 211Α, Γλυφάδα, 16675 Athens, Greece"
 logoimg: "399945_254767164601764_114688657_n.jpg"
 profilePhoto : "downloaded"

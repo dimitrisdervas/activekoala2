@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["swing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Φθιώτιδος 24, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

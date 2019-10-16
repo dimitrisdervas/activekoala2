@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ο.Α.Κ.Α. Βοηθητικά Γήπεδα Κ1, Κ2 (είσοδος επί της οδού Αρτέμιδος), 15126 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

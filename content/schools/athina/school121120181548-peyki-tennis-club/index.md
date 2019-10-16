@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Ειρήνης 71, Péfki, Greece, 15121 Péfki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "16 Bouboulinas, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

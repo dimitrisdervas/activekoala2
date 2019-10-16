@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Sisini Georgiou 8, 11528 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

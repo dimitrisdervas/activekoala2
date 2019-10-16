@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγίου Δημητρίου &amp; Παπαναστασίου, 15452 Psychiko, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

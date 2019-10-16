@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Mesogeion Ave. 186, 15561 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

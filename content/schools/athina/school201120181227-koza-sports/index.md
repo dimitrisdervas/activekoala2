@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["ping-pong"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παναγούλη Αλέκου &amp; Ανδριανού 1, 14234 Athens, Greece"
 logoimg: "logo2.png"
 profilePhoto : "downloaded"

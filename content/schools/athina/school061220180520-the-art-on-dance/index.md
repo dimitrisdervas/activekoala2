@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γ΄ ΣΕΠΤΕΜΒΡΙΟΥ 144, 11251 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

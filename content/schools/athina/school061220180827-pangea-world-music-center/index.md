@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πangea world music center, Παλλάδος 20 Ψυρρή, 5oς όροφος, 105 54 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

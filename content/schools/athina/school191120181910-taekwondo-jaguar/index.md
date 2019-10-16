@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δεμερτζή 62 &amp; Ηπείρου 2Α, 18757 Keratsíni, Greece"
 logoimg: "1460267_1381808752039813_1848506952_n.png"
 profilePhoto : "downloaded"

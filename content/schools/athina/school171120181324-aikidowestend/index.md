@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ Δημοκρατιας 307, Αχαρνές., 13672 Αχαρνες"
 logoimg: ""
 profilePhoto : "downloaded"

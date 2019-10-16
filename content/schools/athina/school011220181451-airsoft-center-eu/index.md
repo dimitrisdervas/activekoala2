@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Eslin 17, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

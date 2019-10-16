@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Έναντι Προαστιακού Ασπροπύργου, 19300 Asprópirgos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

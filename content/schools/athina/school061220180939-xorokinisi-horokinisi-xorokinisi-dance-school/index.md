@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αφροδίτης 39, 17561 Palaión Fáliron, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

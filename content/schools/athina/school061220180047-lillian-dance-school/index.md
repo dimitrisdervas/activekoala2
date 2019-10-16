@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "384 \u039C\u03B5\u03C3\u03BF\u03B3\u03B5\u03AF\u03C9\u03BD, 15343 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

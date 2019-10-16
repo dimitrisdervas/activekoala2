@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΥΔΡΑΣ 10 ΧΑΛΑΝΔΡΙ, 152 32 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

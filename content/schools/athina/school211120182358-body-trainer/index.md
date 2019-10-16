@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Αμαρουσίου 58, 15121 Péfki, Greece"
 logoimg: "logo (37).jpg"
 profilePhoto : "downloaded"

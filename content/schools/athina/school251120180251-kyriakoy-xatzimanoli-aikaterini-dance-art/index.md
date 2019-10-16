@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Άργους 63, 10441 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/kyriakou.jpg"
 profilePhoto : "downloaded"

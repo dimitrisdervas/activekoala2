@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tang-soo-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παλαιολόγου Κωνσταντίνου 10(Πλατεία Αγ.Ι.Ρέντη), 18233 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20159129182141.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λυκούργου 181-183 Καλλιθέα, 17675 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

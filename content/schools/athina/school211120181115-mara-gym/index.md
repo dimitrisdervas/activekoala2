@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Υψηλάντου 13-15, Κολωνάκι, 10675 Athens, Greece"
 logoimg: "26.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τριών Ιεραρχών 175 και Κτησιφωντος 8,Α.Πετραλωνα, 11852 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

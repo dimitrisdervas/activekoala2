@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Triptolemou 30, 11854 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

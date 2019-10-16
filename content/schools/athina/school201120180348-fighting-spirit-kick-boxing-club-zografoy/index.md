@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Οζόλων 1 - Ζωγράφου, 15771 Athens, Greece"
 logoimg: "1904109_501672876618485_693631792_n.jpg"
 profilePhoto : "downloaded"

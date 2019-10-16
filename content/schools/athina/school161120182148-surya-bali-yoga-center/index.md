@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εθνάρχου Μακαρίου 113Α, 16452 Argyroupolis, Attiki, Greece"
 logoimg: "syrya.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "STUDIO 1: Λ.Πεντέλης 25 &amp; Ομήρου 1, Βριλήσσια STUDIO 2: Π.Μπακογιάννη 43 &amp; Ηρακλείτου, Πάτημα Χαλανδρίου, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

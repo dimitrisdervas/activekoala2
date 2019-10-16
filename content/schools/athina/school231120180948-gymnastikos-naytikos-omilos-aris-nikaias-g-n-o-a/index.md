@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180500"
 organisation: "ΑΡΗΣ ΝΙΚΑΙΑΣ"
-orgurl: "undefined-aris-nikaias"
+orgurl: "org191120180500-aris-nikaias"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

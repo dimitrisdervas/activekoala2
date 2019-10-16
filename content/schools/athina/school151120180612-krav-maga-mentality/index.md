@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Βεϊκου 121 – 123, Γαλάτσι, 111 47 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/04/krav-maga-mentality.png"
 profilePhoto : "downloaded"

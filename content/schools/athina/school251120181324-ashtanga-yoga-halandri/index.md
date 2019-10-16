@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεταμορφώσεως 51, Χαλάνδρι, 15234 Athens, Greece"
 logoimg: "logo-square.jpg"
 profilePhoto : "downloaded"

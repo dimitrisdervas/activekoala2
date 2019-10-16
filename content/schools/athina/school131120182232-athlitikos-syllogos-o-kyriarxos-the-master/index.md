@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΝΙΚΟΛΑΟΥ ΠΛΑΣΤΗΡΑ, 12136 Peristérion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/11/areti-mastrodouka-logo.jpg"
 profilePhoto : "downloaded"

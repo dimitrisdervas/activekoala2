@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ypolochagou Kapetanaki 53, 173 42 Athens, Greece"
 logoimg: "1175446_627686877262264_1869250256_n.jpg"
 profilePhoto : "downloaded"

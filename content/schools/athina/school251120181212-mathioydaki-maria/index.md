@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεγάλου Αλεξάνδρου 21, 17235 Daphne, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

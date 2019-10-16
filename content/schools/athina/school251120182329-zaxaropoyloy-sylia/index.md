@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γεωργίου Ζωγράφου 33, 15772 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

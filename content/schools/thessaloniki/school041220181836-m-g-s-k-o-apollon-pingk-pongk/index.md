@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ping Pong"]
 categories: ["athlitismos"]
 subcategories: ["ping-pong"]
-organisationid: ""
+organisationid: "org170320192010"
 organisation: "Μ.Γ.Σ.Κ. &quot;Ο Απόλλων&quot;"
-orgurl: "undefined-m-g-s-k-o-apollon"
+orgurl: "org170320192010-m-g-s-k-o-apollon"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Anaxagora 16, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: "logo (1).jpg"
 profilePhoto : "downloaded"

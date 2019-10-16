@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Platia Vasileos Konstantinou 6, 17121 Néa Smírni, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201483017248327.jpg"
 profilePhoto : "downloaded"

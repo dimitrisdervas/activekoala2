@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εθνικής Στέγης &amp; Αρτάκης, 17124 Néa Smírni, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

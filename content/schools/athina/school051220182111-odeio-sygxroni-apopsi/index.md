@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Pytheou 64, 11743 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

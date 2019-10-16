@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Α) Κεντρικό: Σουλίου 155 Πετρούπολη Β) Υποκατάστημα: Ορχομενού 42 Άνω Λιόσια, 13231 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

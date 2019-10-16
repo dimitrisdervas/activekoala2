@@ -6,9 +6,9 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Κάνοε-Καγιάκ"]
 categories: ["water-sports"]
 subcategories: ["canoe-kayak"]
-organisationid: ""
+organisationid: "org170320192007"
 organisation: "Ιστιοπλοϊκός Όμιλος Θεσσαλονίκης"
-orgurl: "undefined-istioploikos-omilos-thessalonikis"
+orgurl: "org170320192007-istioploikos-omilos-thessalonikis"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+organisationid: "org241120180253"
 organisation: "Εκπαιδευτήρια Κωστέα Γειτονα, "
-orgurl: "undefined-ekpaideytiria-kostea-geitona"
+orgurl: "org241120180253-ekpaideytiria-kostea-geitona"
 address: "16602 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

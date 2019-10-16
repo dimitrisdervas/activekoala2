@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kalliga 77, 15237 Filothéi, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

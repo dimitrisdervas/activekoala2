@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΣΩΚΡΑΤΟΥΣ 76 ΚΑΙ ΔΑΒΑΚΗ, ΚΑΛΛΙΘΕΑ, 176 72 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

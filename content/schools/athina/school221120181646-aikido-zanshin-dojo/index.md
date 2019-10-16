@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παλαιολογου 25 Νέα Ιωνία, 14233 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

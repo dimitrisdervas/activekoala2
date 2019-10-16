@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γρ. Λαμπράκη 45, 17778 Távros, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/tiger-muay-thai-boran-logo-.jpg"
 profilePhoto : "downloaded"

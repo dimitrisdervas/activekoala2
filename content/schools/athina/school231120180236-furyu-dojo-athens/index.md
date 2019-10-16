@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kobudo"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20179321922452.jpg"
 profilePhoto : "downloaded"

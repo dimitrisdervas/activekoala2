@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "160 Tracy St, Athens, Georgia"
 logoimg: ""
 profilePhoto : "downloaded"

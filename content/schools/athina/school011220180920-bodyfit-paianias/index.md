@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΝΙκολάου Α. Χούντα 9, 19002 Paianía, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

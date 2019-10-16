@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["volley"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΑΓ.ΓΕΩΡΓΙΟΥ  4"
 logoimg: ""
 profilePhoto : "downloaded"

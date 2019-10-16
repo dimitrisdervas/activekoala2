@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΠΕΤΡΟΥ ΡΑΛΛΗ 291 ΚΑΙ ΓΡΕΒΕΝΩΝ, 18450 Níkaia, Attiki, Greece"
 logoimg: "313500_10150335338164890_1439244092_n.jpg"
 profilePhoto : "downloaded"

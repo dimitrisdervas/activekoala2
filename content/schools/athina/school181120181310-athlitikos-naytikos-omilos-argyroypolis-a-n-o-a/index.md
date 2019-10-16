@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ανοικτό Δημοτικό Κολυμβητήριο Αργυρούπολης - Κύπρου &amp; Τριπόλεως 1, 16451 Argyroupolis, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

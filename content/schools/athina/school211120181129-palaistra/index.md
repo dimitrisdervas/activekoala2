@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Mesogeion 452, 15342 Ayía Paraskeví, Attiki, Greece"
 logoimg: "1377028_1428733147338061_2093388328_n.jpg"
 profilePhoto : "downloaded"

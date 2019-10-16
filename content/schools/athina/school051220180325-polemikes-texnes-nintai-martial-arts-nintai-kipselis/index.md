@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

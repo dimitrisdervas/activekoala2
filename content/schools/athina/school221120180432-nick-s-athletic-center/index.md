@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΟΔ.ΑΝΔΡΟΥΤΣΟΥ 10 ΜΑΡΟΥΣΙ [ΠΛΗΣΙΟΝ ΗΣΑΠ], 15124 ΑΘΗΝΑ"
 logoimg: "m12.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κοργιαλενίου 9, 11526 Αθήνα, Αμπελόκηποι"
 logoimg: ""
 profilePhoto : "downloaded"

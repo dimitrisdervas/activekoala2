@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["stivos"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ ΒΑΡΗΣ( Γραφείο εντός σταδίου), 16672 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

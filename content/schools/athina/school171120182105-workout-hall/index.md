@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "6 Ρόδων, 17455 Athens, Greece"
 logoimg: "wh_black_high.jpg"
 profilePhoto : "downloaded"

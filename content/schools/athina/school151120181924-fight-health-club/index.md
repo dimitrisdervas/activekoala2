@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χατζηκωνσταντή Μιχαήλ 39, Αμπελόκηποι, TK 11524"
 logoimg: "131994_326661830775424_1321255941_o.png"
 profilePhoto : "downloaded"

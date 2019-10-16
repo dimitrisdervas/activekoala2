@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

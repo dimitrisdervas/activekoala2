@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγιας Θεοδώρας 5, 54636 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

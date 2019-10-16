@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βασίλειου Μελέτη 5, 18757 Keratsíni, Greece"
 logoimg: "10290631_858685237526228_4003108191826022834_n.jpg"
 profilePhoto : "downloaded"

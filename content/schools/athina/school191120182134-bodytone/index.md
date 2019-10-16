@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πλάτωνος 7, Ελληνικό - Άνω Γλυφάδα, 16777 Athens, Greece"
 logoimg: "10390452_909316672418148_1955950847809184999_n.png"
 profilePhoto : "downloaded"

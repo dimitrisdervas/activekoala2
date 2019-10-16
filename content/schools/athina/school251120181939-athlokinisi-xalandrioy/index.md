@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΠΕΝΤΕΛΗΣ 150, Khalándri, Attiki, Greece"
 logoimg: "logo (24).png"
 profilePhoto : "downloaded"

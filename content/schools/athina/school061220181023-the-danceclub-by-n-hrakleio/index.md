@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.ΗΡΑΚΛΕΙΟΥ 354, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["ski"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Θερμησία, Ermióni, Greece"
 logoimg: "logo (60).jpg"
 profilePhoto : "downloaded"

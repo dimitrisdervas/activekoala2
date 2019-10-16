@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αυλίδος &amp; Καισαρείας 13, Αμπελόκηποι, 11527 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "25ης Μαρτιου 25, 17676 Kallithéa, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/04/GOLDEN-CORNER.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παλαιών Πατρών Γερμανού 22 (παιδικός σταθμός). Παυλου Μελά 18 ( Εργαστήρια για παιδιά δημοτικού), 54622 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logosvoura.jpg"
 profilePhoto : "downloaded"

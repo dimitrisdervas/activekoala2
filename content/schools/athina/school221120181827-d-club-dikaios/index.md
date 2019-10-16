@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Υψηλάντου 143-145, 18535 Peiraeus, Attiki, Greece"
 logoimg: "logo (14).jpg"
 profilePhoto : "downloaded"

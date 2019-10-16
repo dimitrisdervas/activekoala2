@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+organisationid: "org191120180139"
 organisation: "BodyFit"
-orgurl: "undefined-bodyfit"
+orgurl: "org191120180139-bodyfit"
 address: "25ης Μαρτίου 2, Ταύρος, 17778 Távros, Greece"
 logoimg: "screen-shot-2014-11-27-at-25201-pm.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΦΟΡΜΙΩΝΟΣ 137 ΚΑΙΣΑΡΙΑΝΗ, 16121 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/tania_rosopoulou.jpg"
 profilePhoto : "downloaded"

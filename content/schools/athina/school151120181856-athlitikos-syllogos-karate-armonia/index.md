@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Olympionikou Loui Spyrou, 15123 Athens, Greece, 15123 Amaroúsion, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/11/karateway_oaka.png"
 profilePhoto : "downloaded"

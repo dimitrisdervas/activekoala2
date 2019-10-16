@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΜΙΑΟΥΛΗ 60, 18345 Moscháto, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

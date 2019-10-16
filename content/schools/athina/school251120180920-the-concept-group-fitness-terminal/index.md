@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "28 Koryzi, 17778 Távros, Greece"
 logoimg: "10481659_270741016451542_5045148175655360785_o.jpg"
 profilePhoto : "downloaded"

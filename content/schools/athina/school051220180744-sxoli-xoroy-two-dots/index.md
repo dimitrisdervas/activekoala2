@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιφιγενείας 38, Ν.Ηράκλειο, 14122 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

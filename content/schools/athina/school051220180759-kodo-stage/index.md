@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aiolou 45 &amp; karori 23, 10551 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Xrysippou 30, Zografou, Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013118114158961.jpg"
 profilePhoto : "downloaded"

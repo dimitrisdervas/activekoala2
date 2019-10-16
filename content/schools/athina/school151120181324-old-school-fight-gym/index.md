@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βοσπόρου 32, 16777 Ellinikón, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/01/fight-old-school-gym.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "TRALLEON 145, 11146 Galátsion, Greece"
 logoimg: "screen-shot-2015-02-09-at-22248-pm.png"
 profilePhoto : "downloaded"

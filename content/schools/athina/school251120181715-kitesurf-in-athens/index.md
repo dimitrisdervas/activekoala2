@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["kitesurf"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Apostolou Ilektras 1 Neo Irakleio, 14121 Athens, Greece"
 logoimg: "1477905_516932755070635_301532375_n.png"
 profilePhoto : "downloaded"

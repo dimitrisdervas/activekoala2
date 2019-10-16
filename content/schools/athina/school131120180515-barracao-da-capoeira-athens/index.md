@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Skouze,5 Monastiraki, 105 60 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

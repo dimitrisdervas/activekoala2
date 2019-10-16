@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Nikolaidou 3, 19600 Mándra, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

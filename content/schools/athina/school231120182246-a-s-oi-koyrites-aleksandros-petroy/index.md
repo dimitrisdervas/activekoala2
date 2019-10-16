@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kali"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πανταζίδου 15, 11145 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20138511348440.jpg"
 profilePhoto : "downloaded"

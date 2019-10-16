@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "25th Martiou 19, 17676 Kallithéa, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Vasilissis Olgas 123, Agios Dimitrios, 17237 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

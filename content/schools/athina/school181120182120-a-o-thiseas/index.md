@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "15773 Zográfou, Greece"
 logoimg: "χωρίς-τίτλο.png"
 profilePhoto : "downloaded"

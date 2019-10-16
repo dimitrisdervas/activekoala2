@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "83, Theodorou Chavini, 30500 Amfilochía, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/GYB_LOGO.jpg"
 profilePhoto : "downloaded"

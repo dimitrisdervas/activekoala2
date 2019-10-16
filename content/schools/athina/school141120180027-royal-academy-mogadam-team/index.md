@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χανίων 1, 141 23 Likóvrisi, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/07/13815020_10209893914373971_792448245_n.jpg"
 profilePhoto : "downloaded"

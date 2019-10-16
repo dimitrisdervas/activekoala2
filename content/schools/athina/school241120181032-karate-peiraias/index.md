@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ηρώων Πολυτεχνείου 16, 18531 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017723122513948.jpg"
 profilePhoto : "downloaded"

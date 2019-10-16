@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κηφισίας 37, 15123 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

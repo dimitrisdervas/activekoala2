@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Argolidos 48, 11523 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

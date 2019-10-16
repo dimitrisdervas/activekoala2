@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Ionias 68, Alimos, 17456 Athens, Greece"
 logoimg: "378378_316217178392179_861678045_n.jpg"
 profilePhoto : "downloaded"

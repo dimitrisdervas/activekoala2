@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μ. Αλεξάνδρου 10, 54642 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Αμφιθέας 103, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: "10169448_459571024189573_7740639371759656581_n.jpg"
 profilePhoto : "downloaded"

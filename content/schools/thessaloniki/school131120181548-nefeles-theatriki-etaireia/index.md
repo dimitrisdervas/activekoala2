@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΑΛ. ΣΒΩΛΟΥ 9 ΑΜΠΕΛΟΚΗΠΟΙ, 56121 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

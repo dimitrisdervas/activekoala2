@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κυπριων Αγωνιστων 8β &amp; Μεθανων, 18541 Peiraeus, Attiki, Greece"
 logoimg: "logo (67).jpg"
 profilePhoto : "downloaded"

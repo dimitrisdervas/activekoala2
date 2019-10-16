@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["modern-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "55, Omirou Str, 106 72 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

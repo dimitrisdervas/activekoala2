@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Βουλιαγμένης 171, 17237 Δάφνη Αττικής., 17237 Dáfni, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/09/five-star-academy-logo.jpg"
 profilePhoto : "downloaded"

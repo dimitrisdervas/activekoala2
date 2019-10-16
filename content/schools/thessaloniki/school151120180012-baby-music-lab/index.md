@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: ["mousiki-sxoli"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/09/babymusiclab-500x333.jpg"
 profilePhoto : "downloaded"

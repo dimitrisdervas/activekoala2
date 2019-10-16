@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ομηρίδου Σκυλίτση 14, 18532 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015814134455842.jpg"
 profilePhoto : "downloaded"

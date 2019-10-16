@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["parkour"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Minoos 13, 11743 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

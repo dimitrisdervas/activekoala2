@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "davaki 68, 17672 Kallithéa, Greece"
 logoimg: "logo (15).png"
 profilePhoto : "downloaded"

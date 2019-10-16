@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Φλεμινγκ 6 Αργυρουπολη, 16451 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/action-martial-arts-fitness.jpg"
 profilePhoto : "downloaded"

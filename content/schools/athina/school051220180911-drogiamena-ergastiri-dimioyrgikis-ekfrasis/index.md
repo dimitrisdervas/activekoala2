@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Εσπερίδων8, Κ. Χαλάνδρι, 15232 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

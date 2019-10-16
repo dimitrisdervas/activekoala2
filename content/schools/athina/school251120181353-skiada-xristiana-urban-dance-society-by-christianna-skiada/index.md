@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βύρωνος 40 Αργυρούπολη, Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/skiada.jpg"
 profilePhoto : "downloaded"

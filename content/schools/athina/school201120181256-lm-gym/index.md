@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "20, Kolonaki Square, 10673 Athens, Greece"
 logoimg: "67402_171920852823305_8353265_n.jpg"
 profilePhoto : "downloaded"

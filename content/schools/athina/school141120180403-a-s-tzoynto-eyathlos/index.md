@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κόντου 21, 11255 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/evathlos-logo.jpg"
 profilePhoto : "downloaded"

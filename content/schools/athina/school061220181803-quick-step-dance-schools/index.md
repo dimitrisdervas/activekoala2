@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Υμηττού 119 ΠΑΓΚΡΑΤΙ * Λ. Βουλιαγμένης 583 ΑΡΓΥΡΟΥΠΟΛΗ, 11633 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

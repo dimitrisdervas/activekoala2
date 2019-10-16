@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Mesogeion 452, 15342 Ayía Paraskeví, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/1377028_1428733147338061_2093388328_a.jpg"
 profilePhoto : "downloaded"

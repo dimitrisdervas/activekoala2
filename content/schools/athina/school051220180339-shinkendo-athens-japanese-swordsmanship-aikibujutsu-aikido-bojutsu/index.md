@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ηούς 23 / Ious 23, 11854 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "61 Amfitheas Ave., 17564 Athens, Greece"
 logoimg: "logo (52).jpg"
 profilePhoto : "downloaded"

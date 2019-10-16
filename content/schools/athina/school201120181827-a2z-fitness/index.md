@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Matsa 15, K. Kifisia, 14564 Athens, Greece"
 logoimg: "10455298_718195984882923_1299729805186853020_n.png"
 profilePhoto : "downloaded"

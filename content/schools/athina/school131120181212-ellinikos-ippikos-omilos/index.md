@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Paradeisou 18, 151 25 Amaroúsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

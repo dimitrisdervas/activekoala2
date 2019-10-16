@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλυτρώτων Ελλήνων 22. Δασκάλους, 85100 Rhodes"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201481913244558.jpg"
 profilePhoto : "downloaded"

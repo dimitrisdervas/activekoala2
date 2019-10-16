@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεγάλου Αλεξάνδρου 67, 12132 Peristérion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

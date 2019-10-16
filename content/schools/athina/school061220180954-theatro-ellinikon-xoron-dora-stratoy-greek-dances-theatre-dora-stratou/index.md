@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αρακύνθου 33, 11851 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

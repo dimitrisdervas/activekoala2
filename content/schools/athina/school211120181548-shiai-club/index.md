@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["judi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μάρκου Μπότσαρη 30, 14561 Kifisiá, Greece"
 logoimg: "logo (26).jpg"
 profilePhoto : "downloaded"

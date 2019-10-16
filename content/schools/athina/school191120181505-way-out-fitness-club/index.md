@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χίου 21, Δάφνη, 17237 Athens, Greece"
 logoimg: "10411225_518800348243128_2831607362116968122_n.jpg"
 profilePhoto : "downloaded"

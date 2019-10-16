@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Συγχρονισμένη Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["sigxronismeni-kolimvisi"]
-organisationid: ""
+organisationid: "org241120180156"
 organisation: "ΑΘΛΗΤΙΚΟΣ ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΓΛΥΦΑΔΑΣ (Α.Ν.Ο.Γ)"
-orgurl: "undefined-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
+orgurl: "org241120180156-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

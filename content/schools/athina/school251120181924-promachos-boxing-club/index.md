@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κώστα Βάρναλη 27 Χαλάνδρι, 15233 Athens, Greece"
 logoimg: "10440704_570597886382192_6089963277984118493_n.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Θηβών 60, 18541 Piraeus, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/08/talent-boxing-academy-new-logo.jpg"
 profilePhoto : "downloaded"

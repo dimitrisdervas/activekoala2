@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σουλίου και Χανίων 1, 12243 Aigáleo, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20171027121814572.jpg"
 profilePhoto : "downloaded"

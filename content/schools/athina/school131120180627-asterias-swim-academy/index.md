@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βουνοπλαγιά, 45500 Ioánnina, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

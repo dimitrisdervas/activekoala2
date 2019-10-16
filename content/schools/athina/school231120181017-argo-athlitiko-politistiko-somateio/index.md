@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ολυμπιακό Αθλητικό Κέντρο Αθηνών &quot;ΣΠΥΡΟΣ ΛΟΥΗΣ&quot; Κηφισίας 37, Μαρούσι, 151 23 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

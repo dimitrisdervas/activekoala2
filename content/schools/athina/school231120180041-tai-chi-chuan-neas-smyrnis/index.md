@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Νικολάου Πλαστήρα 62, 17121 Néa Smírni, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013913165615296.JPG"
 profilePhoto : "downloaded"

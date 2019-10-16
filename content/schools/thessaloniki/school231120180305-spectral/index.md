@@ -8,7 +8,7 @@ categories: ["theatro"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Thessalonikis 20,Ωραιόκαστρο, 57013 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2015/02/logo-spectral2.jpg"
 profilePhoto : "downloaded"

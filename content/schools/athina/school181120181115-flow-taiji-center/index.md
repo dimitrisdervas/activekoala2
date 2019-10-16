@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kritis 18, 16451 Argyroupolis, Attiki, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201635151046538.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βασ. Παύλου 115 &amp; Δ. Παπαχρήστου 1 (είσοδος), 19004 Spáta, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Καλαβρύτων 21, 15451 Psychiko, Greece"
 logoimg: "the-house-logo-f-01.jpg"
 profilePhoto : "downloaded"

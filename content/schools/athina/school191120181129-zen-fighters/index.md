@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μυκηνών 19, 16674 Glyfáda, Greece"
 logoimg: "zen.jpg"
 profilePhoto : "downloaded"

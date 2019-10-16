@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πολυκλείτου 1, Μοναστηράκι, 105 51 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20135913401165.jpg"
 profilePhoto : "downloaded"

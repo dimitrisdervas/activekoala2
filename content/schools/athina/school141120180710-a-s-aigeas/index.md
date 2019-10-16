@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "αιγαιου 11, 17121 Néa Smírni, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2016/01/a.s-aigeas-logo.jpg"
 profilePhoto : "downloaded"

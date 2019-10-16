@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τατοΐου 219,, 13672 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

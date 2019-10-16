@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Markou Mpotsari 5 Aigalew, 12241 Athens, Greece"
 logoimg: "1782336_460899507369727_1724637596_o.jpg"
 profilePhoto : "downloaded"

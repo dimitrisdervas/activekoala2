@@ -3,8 +3,8 @@ title: |
    Σκάκι
 schools: [""]
 slugSubcategory: "chess"
-category: "Κλειστού Χώρου"
-slugCategory: "kleistou-xorou"
+category: "Αθλητισμός"
+slugCategory: "athlitismos"
 schoolscount: "1"
 city: "Θεσσαλονίκη"
 ---

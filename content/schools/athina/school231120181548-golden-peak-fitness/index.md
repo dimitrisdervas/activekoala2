@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Zisimopoulou 68, 17564 Palaión Fáliron, Attiki, Greece"
 logoimg: "logo (20).jpg"
 profilePhoto : "downloaded"

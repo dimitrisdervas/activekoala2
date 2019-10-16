@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+organisationid: "org170320192014"
 organisation: "Curves"
-orgurl: "undefined-curves"
+orgurl: "org170320192014-curves"
 address: "Τσαμαδού 43 &amp; Ευριπίδου, 3ος όροφος,Πειραιάς, Τ.Κ. 185 32"
 logoimg: "1024px-curves_fitness_logosvg (6).png"
 profilePhoto : "downloaded"

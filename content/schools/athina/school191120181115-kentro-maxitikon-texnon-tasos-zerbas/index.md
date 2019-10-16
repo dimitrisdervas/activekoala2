@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Λαυρίου 61, Γλυκά Νερά, 15354 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201782811112323.jpg"
 profilePhoto : "downloaded"

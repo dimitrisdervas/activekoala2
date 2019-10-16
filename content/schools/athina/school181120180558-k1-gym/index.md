@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αρκαδίας 8, 15344 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/1236358_582586648471185_285329743_n.jpg"
 profilePhoto : "downloaded"

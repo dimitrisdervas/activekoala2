@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αριστείδου 2, 16561 Glyfáda, Greece"
 logoimg: "1239504_330374143774061_1004017040_n.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Komninon and Chrysolora 15, 11743 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/1365_147452968788787_1567304406_n.jpg"
 profilePhoto : "downloaded"

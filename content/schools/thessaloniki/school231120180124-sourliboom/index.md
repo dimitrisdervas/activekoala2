@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: ["xoros-texnis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κ. Κρυστάλλη 4, 54630 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/sourliboom-logo-360x240.jpg"
 profilePhoto : "downloaded"

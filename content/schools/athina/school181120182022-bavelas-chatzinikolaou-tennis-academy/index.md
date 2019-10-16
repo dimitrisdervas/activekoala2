@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "76, Afroditis Street, Varkiza, 16674 Athens, Greece"
 logoimg: "logo (10).jpg"
 profilePhoto : "downloaded"

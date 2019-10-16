@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ymittou 219, Pagrati, 11632 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

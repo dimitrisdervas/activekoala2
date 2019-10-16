@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΕΩΦ. ΕΙΡΗΝΗΣ 249, 18863 Perama"
 logoimg: "blog-photo.jpg"
 profilePhoto : "downloaded"

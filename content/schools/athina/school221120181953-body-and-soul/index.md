@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Omirou 23, 171 21 Néa Smírni, Greece"
 logoimg: "logo (86).jpg"
 profilePhoto : "downloaded"

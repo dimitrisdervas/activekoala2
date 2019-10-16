@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "4 Alexandrou Papanastasiou Street, 14341 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014112419159216.jpg"
 profilePhoto : "downloaded"

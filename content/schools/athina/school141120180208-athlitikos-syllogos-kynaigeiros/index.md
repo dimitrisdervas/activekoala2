@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΘΥΑΤΕΙΡΩΝ 9, 17121 Néa Smírni, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/12/kinegiros-logo.jpg"
 profilePhoto : "downloaded"

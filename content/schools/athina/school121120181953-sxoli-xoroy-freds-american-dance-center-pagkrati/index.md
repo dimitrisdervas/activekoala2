@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Υμηττού 117 &amp; Χρεμωνίδου 11, Παγκράτι, 11633 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

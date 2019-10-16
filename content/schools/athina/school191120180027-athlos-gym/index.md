@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΗΡΩΣ ΚΩΝ/ΛΟΥ 27, ΗΛΙΟΥΠΟΛΗ"
 logoimg: "logo (25).png"
 profilePhoto : "downloaded"

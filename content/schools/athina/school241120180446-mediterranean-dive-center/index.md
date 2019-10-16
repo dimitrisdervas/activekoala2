@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["diving"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφ. Αλεξάνδρου Παπαναστασίου 95 (πρώην Βασιλέως Παύλου), 185 33 Piraeus, Greece"
 logoimg: "10734002_761801870573001_5355553794265906313_n.jpg"
 profilePhoto : "downloaded"

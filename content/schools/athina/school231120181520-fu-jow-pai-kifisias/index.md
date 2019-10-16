@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aristotelous 18, 145 63 Kifisiá, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20171024105340778.jpg"
 profilePhoto : "downloaded"

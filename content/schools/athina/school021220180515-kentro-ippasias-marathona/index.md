@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πλαταιων 57,Τσεπι, 19007 Marathón"
 logoimg: ""
 profilePhoto : "downloaded"

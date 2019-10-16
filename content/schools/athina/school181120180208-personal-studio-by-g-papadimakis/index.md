@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Paraschou Achilleos 80, 11474 Athens, Greece"
 logoimg: "screen-shot-2014-12-01-at-34419-pm.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σουλίου, 19002 Paianía, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201331135315697.jpg"
 profilePhoto : "downloaded"

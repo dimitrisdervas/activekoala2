@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Dexamenis 22, 14451 Metamórfosis, Attiki, Greece"
 logoimg: "10696391_710417895717474_5237680407273797401_n.jpg"
 profilePhoto : "downloaded"

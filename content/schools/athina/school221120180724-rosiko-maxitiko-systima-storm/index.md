@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Pandrosou 50, Paleo Faliro, 17563 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015814135015872.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΧΑΡΟΚΟΠΟΥ 115 - 117, Τηλ. 2109566309 - 2109566368 Καλλιθέα Αττικής Τ.Κ. 17676"
 logoimg: "logo (4).jpg"
 profilePhoto : "downloaded"

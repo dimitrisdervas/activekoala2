@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Πεντέλης 84, Βριλήσσια, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aristeidou 5 B&#39;, 131 22 Néa Liósia, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/logo-mary.jpg"
 profilePhoto : "downloaded"

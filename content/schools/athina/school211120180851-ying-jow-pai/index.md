@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΑΜΠΡΑΚΗ ΓΡΗΓΟΡΙΟΥ 415 ΚΕΡΑΤΣΙΝΙ, 18757 Keratsíni, Greece"
 logoimg: "logo (56).jpg"
 profilePhoto : "downloaded"

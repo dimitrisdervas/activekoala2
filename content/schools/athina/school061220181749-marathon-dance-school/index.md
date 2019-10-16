@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφ.Γραμματικού 17 Μαραθώνας, 190 07 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

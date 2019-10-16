@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βουτσαρά, 6, 118 55 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

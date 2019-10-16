@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΥΨΗΛΑΝΤΟΥ &amp; ΚΑΠΟΔΙΣΤΡΙΟΥ 35, 11146 Galátsion, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

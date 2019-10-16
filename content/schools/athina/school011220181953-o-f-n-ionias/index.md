@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["handball"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μεσολογγίου 40, 14231 Néa Ionía, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

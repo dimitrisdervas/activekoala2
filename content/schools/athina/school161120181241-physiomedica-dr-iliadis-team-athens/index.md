@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγιου Κωνσταντινου 12, 15124 Athens, Greece"
 logoimg: "277251_163083170544533_78614410_o.jpg"
 profilePhoto : "downloaded"

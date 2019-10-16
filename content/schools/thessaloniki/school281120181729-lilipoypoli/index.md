@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: ["theatro"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλεξάνδρου Σβώλου 7, 54622 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logo-lilipoupoli.jpg"
 profilePhoto : "downloaded"

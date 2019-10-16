@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Galatsiou 32, 11141 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

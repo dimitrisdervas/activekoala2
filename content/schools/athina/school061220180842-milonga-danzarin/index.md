@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Thessalonikis 17, 11851 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

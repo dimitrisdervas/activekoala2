@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.ΕΙΡΗΝΗΣ 87, 18863 Perama"
 logoimg: ""
 profilePhoto : "downloaded"

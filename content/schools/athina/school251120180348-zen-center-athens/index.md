@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Limpona 2 &amp; Vasilikis, 105 60 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014818193149708.jpg"
 profilePhoto : "downloaded"

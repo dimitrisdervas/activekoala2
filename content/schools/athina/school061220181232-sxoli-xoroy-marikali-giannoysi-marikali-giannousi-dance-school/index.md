@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χίου 12 Καλλιθέα, 176 73 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

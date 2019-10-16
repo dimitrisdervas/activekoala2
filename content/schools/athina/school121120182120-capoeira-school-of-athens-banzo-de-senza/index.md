@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Athinas ke Protogenous, Athina 105 54, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

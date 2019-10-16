@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΜΕΤΑΜΟΡΦΩΣΗ - ΤΑΤΟΙΟΥ 58, 14451 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

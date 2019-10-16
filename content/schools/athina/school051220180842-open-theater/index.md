@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σκύρου 78, Ν. Κυψέλη, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

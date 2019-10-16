@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μιαούλη 15, Βριλήσσια, 15235 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

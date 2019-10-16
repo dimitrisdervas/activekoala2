@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Kountouriotou 89, 18534 Piraeus, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201781213925851.jpg"
 profilePhoto : "downloaded"

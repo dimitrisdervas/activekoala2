@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ελ. Βενιζέλου 91, 56728 Thessaloníki"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201308163648869.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Aglavrou 13, Koukaki, 11741 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201683123051634.jpg"
 profilePhoto : "downloaded"

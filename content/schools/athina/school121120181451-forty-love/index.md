@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Iktinou, Koropi, 19400 Vári, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

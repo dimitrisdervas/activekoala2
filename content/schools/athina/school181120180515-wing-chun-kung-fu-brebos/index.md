@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ Φυλης 160, 13341 Ανω Λιοσια"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201582312051395.jpg"
 profilePhoto : "downloaded"

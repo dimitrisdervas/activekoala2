@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεονταρίου 11,Παλλήνη, 15351 Pallíni, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/androutsopoulou_aggeliki.png"
 profilePhoto : "downloaded"

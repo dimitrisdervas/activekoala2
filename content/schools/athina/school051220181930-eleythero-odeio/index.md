@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σεβαστουπόλεως 2 &amp; Φειδιππίδου, 11526 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

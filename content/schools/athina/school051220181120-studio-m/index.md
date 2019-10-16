@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λομβάρδου 147, 114 75 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Sarantaporou 5, 15561 Holargos, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2018/01/aias-team-gad-logo.jpg"
 profilePhoto : "downloaded"

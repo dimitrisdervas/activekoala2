@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Athinas &amp; Protogenous 1, 10554 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2014818123725426.jpg"
 profilePhoto : "downloaded"

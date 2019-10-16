@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["ninjutsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αντιλόχου 5, 10435 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

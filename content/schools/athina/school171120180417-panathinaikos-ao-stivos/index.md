@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+organisationid: "org241120180337"
 organisation: "ΠΑΝΑΘΗΝΑΙΚΟΣ ΑΟ"
-orgurl: "undefined-panathinaikos-ao"
+orgurl: "org241120180337-panathinaikos-ao"
 address: "Μακεδόνων 8, 11521 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

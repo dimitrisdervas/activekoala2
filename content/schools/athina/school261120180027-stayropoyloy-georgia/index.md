@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Alkaiou 31, 11528 Zográfou, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

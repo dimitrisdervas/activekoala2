@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κερκύρας 68, 123 51 Agia Varvara"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/01/15991816_1876247035942241_1842094823_o.jpg"
 profilePhoto : "downloaded"

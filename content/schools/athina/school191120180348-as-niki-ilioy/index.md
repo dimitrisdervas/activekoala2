@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΑΓ. ΦΑΝΟΥΡΙΟΥ 38, 13122 Néa Liósia, Greece"
 logoimg: "574648_131264123715201_1089262204_n.png"
 profilePhoto : "downloaded"

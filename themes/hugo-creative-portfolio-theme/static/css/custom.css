@@ -188,7 +188,8 @@ justify-content: center;
 
 /*SINGLE*/
 .page-title,
-a.category-list-link{
+a.category-list-link,
+.result-box-title a {
     /*font-family: 'Source Code Pro', monospace;*/
 font-family: 'Open Sans', sans-serif;
 /*font-family: 'Source Sans Pro', sans-serif;*/
@@ -201,7 +202,9 @@ font-family: 'Open Sans', sans-serif;
 
 
 /*BROWSECATEGORIES PAGE*/
-
-a.category-list-link {
-font-family: 'Open Sans', sans-serif;
+.result-box-tags span a,
+.filters-menu  a.category-list-link {
+font-family: circe, sans-serif;
+font-size: 14px;
+line-height: 20px;
 }

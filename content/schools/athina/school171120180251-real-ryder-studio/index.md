@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.Μαραθωνος 34 Ανοιξη, 14569 �Yios Stéfanos, Attiki, Greece"
 logoimg: "cropped-realryder-logo2.jpg"
 profilePhoto : "downloaded"

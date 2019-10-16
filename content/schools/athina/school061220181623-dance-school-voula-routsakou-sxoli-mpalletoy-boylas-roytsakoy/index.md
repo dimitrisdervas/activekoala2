@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κ.Βάρναλη &amp; Αναξαγόρα 1,Ν. Ερυθραία, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

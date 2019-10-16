@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τεας 4-6, 16121 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017102119948253.jpg"
 profilePhoto : "downloaded"

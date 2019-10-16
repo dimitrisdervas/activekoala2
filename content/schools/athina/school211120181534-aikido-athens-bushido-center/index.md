@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Tousa botsari 11 koukaki, 11741 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

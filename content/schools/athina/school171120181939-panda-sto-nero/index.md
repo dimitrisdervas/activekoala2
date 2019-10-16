@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γράμμου 42 Βριλήσσια, 15235 Athens, Greece"
 logoimg: "306586_517178401655642_1818176844_n.jpg"
 profilePhoto : "downloaded"

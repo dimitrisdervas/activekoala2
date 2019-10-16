@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χρ. Καρβουνη4 και Κεφαλληνίας 142, 13231 Petroúpolis, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/static_images/dancelogos/gianna_helioti(1).jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χανίων 1, 141 23 Likóvrisi, Attiki, Greece"
 logoimg: "image001.png"
 profilePhoto : "downloaded"

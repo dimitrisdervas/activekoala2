@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Βερσή 49, Παπάγου, 15669 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

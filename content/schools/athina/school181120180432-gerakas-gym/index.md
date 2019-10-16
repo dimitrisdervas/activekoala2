@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφ. Σπάτων 46, 15344 Pallíni, Greece"
 logoimg: "313787_491019150962967_130755670_n-1.jpg"
 profilePhoto : "downloaded"

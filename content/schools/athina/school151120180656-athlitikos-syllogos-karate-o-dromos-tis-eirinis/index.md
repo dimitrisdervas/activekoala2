@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δημητρίου Ράλλη 11 Μαρούσι Αττικής, Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/12/rachoutis-kataxwrisi-amarousiou.jpg"
 profilePhoto : "downloaded"

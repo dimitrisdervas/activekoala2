@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιουστινιανού 8,κέντρο, 54631 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2016/11/FULLOUTLOGO-500x333.jpg"
 profilePhoto : "downloaded"

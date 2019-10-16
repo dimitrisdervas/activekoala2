@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Leoforos Megalou Alexandrou 47, 546 43 Thessaloniki, Greece, 54643 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιδομενέως 112, 13122 Néa Liósia, Greece"
 logoimg: "logo (19).png"
 profilePhoto : "downloaded"

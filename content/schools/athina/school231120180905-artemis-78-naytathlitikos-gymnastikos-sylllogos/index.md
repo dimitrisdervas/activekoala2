@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Π. Ράλλη 121, 18454 Níkaia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

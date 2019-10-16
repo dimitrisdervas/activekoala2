@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αθηνάς 12, 10554 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

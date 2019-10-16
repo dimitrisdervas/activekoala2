@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΠΙΝΔΟΥ 6, Metamórfosi, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

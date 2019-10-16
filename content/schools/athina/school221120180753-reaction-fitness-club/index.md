@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ 102, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: "logo (8).jpg"
 profilePhoto : "downloaded"

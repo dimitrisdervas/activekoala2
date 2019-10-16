@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

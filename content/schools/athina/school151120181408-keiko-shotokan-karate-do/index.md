@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Nearchou, Agioi Apostoloi, 73100 Chaniá, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2013819104152606.jpg"
 profilePhoto : "downloaded"

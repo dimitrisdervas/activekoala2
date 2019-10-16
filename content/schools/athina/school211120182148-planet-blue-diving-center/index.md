@@ -8,7 +8,7 @@ categories: ["water-sports"]
 subcategories: ["diving"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "12 Fokionos Negri, Lavreotoki, Griechenland, 195 00 Lávrion, Greece"
 logoimg: "logo (23).png"
 profilePhoto : "downloaded"

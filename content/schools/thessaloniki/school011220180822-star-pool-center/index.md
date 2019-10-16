@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγ. Γεωργίου 9, Πατριαρχικό Πυλαίας ,περιοχή Mediteranean Cosmos, 57001 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

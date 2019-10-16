@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κωπηλασία"]
 categories: ["athlitismos"]
 subcategories: ["rowing"]
-organisationid: ""
+organisationid: "org170320192009"
 organisation: "ΟΦΘ Ομιλος Φιλων Θαλασσης"
-orgurl: "undefined-ofth-omilos-filon-thalassis"
+orgurl: "org170320192009-ofth-omilos-filon-thalassis"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

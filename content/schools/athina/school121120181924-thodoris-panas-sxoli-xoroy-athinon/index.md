@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μαραθωνομάχων 51, Ακαδημία Πλάτωνος, 10441 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

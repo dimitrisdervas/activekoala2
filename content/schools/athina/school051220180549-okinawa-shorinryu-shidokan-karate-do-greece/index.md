@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "11524 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

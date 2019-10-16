@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Panopis 15, 16674 Glyfáda, Greece"
 logoimg: "gleyde-courts.jpg"
 profilePhoto : "downloaded"

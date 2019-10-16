@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κράτητος 49, Νέα Σμύρνη, 11745 Athens, Greece"
 logoimg: "480230_418478368216291_1083036676_n.jpg"
 profilePhoto : "downloaded"

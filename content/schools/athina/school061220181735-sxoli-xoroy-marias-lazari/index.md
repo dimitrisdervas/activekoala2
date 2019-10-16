@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Andrea Dimitriou 51, Nea Ionia, 14234 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

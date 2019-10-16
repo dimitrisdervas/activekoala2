@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Υψηλάντου 7 &amp; Παναγούλη, 15127 Μελίσσια"
 logoimg: ""
 profilePhoto : "downloaded"

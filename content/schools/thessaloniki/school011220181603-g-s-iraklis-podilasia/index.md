@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlitismos"]
 subcategories: ["cycling"]
-organisationid: ""
+organisationid: "org191120180655"
 organisation: "ΓΣ ΗΡΑΚΛΗΣ ΘΕΣ/ΝΙΚΗΣ"
-orgurl: "undefined-gs-iraklis-thes-nikis"
+orgurl: "org191120180655-gs-iraklis-thes-nikis"
 address: "Αγίου Δημητρίου 159Β, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

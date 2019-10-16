@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: ["theatro"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πτολεμαίων 39, 54630 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2017/09/logo-ergastiri-xoris-sunora.jpg"
 profilePhoto : "downloaded"

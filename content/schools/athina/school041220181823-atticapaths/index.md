@@ -8,7 +8,7 @@ categories: ["athlimata-vounou"]
 subcategories: ["cycling"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: ""
 logoimg: ""
 profilePhoto : "downloaded"

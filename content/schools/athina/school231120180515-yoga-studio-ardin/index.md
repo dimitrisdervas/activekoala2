@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Προκοπίου 4, 13231 Petroúpolis, Greece"
 logoimg: "logo (42).jpg"
 profilePhoto : "downloaded"

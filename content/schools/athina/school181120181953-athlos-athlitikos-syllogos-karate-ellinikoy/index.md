@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΠΛΑΠΟΎΤΑ 21, 16777 Ellinikón, Greece"
 logoimg: "νέα-εικόνα (2).jpg"
 profilePhoto : "downloaded"

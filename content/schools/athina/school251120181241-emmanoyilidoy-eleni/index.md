@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παναγή Τσαλδάρη 224, 18453 Níkaia, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

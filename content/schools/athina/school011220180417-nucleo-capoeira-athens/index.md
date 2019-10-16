@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Neratziotissis,73 Μαρούσι, 15124 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

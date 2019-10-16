@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τηλεφάνους 30 &amp; Αίμωνος, Ακαδημία Πλάτωνος, 10442 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2015818115620162.jpg"
 profilePhoto : "downloaded"

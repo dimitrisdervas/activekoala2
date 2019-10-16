@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΠΕΛΑΣΓΙΑΣ &amp; ΔΩΔΕΚΑΝΗΣΟΥ 1, 12136 Peristéri, Attiki, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

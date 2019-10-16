@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Skouze 5, Athina 105 60, Αθήνα"
 logoimg: ""
 profilePhoto : "downloaded"

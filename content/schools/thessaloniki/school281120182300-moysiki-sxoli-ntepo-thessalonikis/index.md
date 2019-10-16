@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δελφών 188, 54248 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2016/05/ntepo-mousiki-sxoli.jpg"
 profilePhoto : "downloaded"

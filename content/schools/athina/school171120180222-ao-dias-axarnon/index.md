@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+organisationid: "org170320192011"
 organisation: "ΑΟ ΔΙΑΣ ΑΧΑΡΝΩΝ"
-orgurl: "undefined-ao-dias-axarnon"
+orgurl: "org170320192011-ao-dias-axarnon"
 address: "Πηγαδά και Βλάχου, 13671 Acharne, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

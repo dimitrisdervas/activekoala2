@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σωκράτους 2 , Κηφισιά, 145 61 Athens, Greece"
 logoimg: "226370_213312518696640_1123935_n.jpg"
 profilePhoto : "downloaded"

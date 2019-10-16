@@ -8,7 +8,7 @@ categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Παπάφη 149, 54453 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logo-art2artnew-500x333.jpeg"
 profilePhoto : "downloaded"

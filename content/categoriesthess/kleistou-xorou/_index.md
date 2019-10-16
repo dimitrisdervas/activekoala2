@@ -3,9 +3,9 @@
 title: |
    Κλειστού Χώρου
 schools: ["","","","","","","","","","","","","","","","",""]
-subcategory: ["Basket","Climbing","Cross Fit","Σκάκι"]
+subcategory: ["Climbing","Cross Fit"]
 slug: "kleistou-xorou"
-slugSubcategory: ["basket","climbing","crossfit","chess"]
+slugSubcategory: ["climbing","crossfit"]
 schoolscount: 17
 city: "Θεσσαλονίκη"
 ---

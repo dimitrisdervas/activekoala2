@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["moudiko-ergastiri"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Γεωργικής Σχολής 4, 55535 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2013/08/logonewodeio-500x333.png"
 profilePhoto : "downloaded"

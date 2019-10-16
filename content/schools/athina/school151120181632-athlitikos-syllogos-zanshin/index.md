@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΛΟΡΕΝΤΖΟΥ ΜΑΒΙΛΗ 3, 17563 Palaión Fáliron, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/08/logo-zanshin-new.jpg"
 profilePhoto : "downloaded"

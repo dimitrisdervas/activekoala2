@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: ["baby-swimming"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "16451 Κυκλάδων 8, Αργυρούπολη"
 logoimg: ""
 profilePhoto : "downloaded"

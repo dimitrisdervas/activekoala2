@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Σπ. Πάτση 84 Βοτανικός, 11855 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Δημοκρατίας 59 και 63, 15127 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

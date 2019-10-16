@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χαριλάου Τρικούπη 17 Γλυφάδα, 16675 Αθηνα"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/02/1604955_1386677931594468_1654389193_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "11524 Athens, Greece"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/2017822132752879.png"
 profilePhoto : "downloaded"

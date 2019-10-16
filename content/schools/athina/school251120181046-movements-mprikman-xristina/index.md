@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τριπτολέμου 43, 16672 Vári, Greece"
 logoimg: "http://www.sisxe.com/userfiles/%CE%9C%CE%A0%CE%A1%CE%99%CE%9A%CE%9C%CE%91%CE%9D%20%CE%A7%CE%A1%CE%99%CE%A3%CE%A4%CE%99%CE%9D%CE%91%20MOVEMENTS_LOGO%20with%20address%20and%20RAD%20badge.jpg"
 profilePhoto : "downloaded"

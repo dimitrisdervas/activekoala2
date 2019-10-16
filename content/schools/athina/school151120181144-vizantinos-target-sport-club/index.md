@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ολυμπιακό Στάδιο (Ο.Α.Κ.Α), 15123 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2014/03/vizantinos.jpg"
 profilePhoto : "downloaded"

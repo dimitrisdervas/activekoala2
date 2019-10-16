@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Evaggelistrias 30 &amp;, Militou, 14671 Néa Erithraía, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/10/viper-fight-club-logo.png"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ .Δεκελείας 39 , Νέα Φιλαδέλφεια, Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

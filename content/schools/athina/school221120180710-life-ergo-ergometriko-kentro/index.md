@@ -8,7 +8,7 @@ categories: ["medical"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Προπονητήριο ΟΑΚΑ, 151 23 Athens, Greece"
 logoimg: "life-ergo-logo.jpg"
 profilePhoto : "downloaded"

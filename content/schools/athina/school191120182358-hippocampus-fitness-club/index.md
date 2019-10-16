@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.Βουλιαγμένης 2 &amp; Παπαφλέσσα 1A, 16777 Ellinikón, Greece"
 logoimg: "logo (62).jpg"
 profilePhoto : "downloaded"

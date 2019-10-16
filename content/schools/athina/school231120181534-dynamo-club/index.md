@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Pandrosou 50, Palaio Faliro, 17563 Athens, Greece"
 logoimg: "logo (74).jpg"
 profilePhoto : "downloaded"

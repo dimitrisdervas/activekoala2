@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["karate"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Μάρκου Μπότσαρη 109, 132 31 Petroúpolis, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2012/11/xenos-soubasaki.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["mma"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "26ο χλμ λεοφωρος Αθηνών- Λαυρίου, 19400 Κορωπί"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/06/pyrsos-fight-team-logo.jpg"
 profilePhoto : "downloaded"

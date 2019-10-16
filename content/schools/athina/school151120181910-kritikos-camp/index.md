@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τατοϊου 80, 14451 Metamórfosi, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/06/230434_105156882905360_3024260_n.jpg"
 profilePhoto : "downloaded"

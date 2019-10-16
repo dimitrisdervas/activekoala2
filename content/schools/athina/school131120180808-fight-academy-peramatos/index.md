@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["sanda"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ηπείρου 59, 18863 Perama"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/11/Fight-Academy-Peramatos-logo.jpg"
 profilePhoto : "downloaded"

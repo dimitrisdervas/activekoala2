@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["tennis"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΑΝΑΣΤΑΣΕΩΣ - (ΠΡΙΝ ΤΗΝ ΕΞΟΔΟ ΓΙΑ ΑΤΤΙΚΗ ΟΔΟ), 156 69 Papágos, Attiki, Greece"
 logoimg: "1524698_631255583601856_716262540_n.png"
 profilePhoto : "downloaded"

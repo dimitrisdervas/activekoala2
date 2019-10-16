@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ.Ιωνίας 9 Άλιμος, 17456 Athens, Greece"
 logoimg: "10360397_299766336880388_8654016419344381176_n.png"
 profilePhoto : "downloaded"

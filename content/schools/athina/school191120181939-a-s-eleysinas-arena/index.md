@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 88, 19200 ΕΛΕΥΣΙΝΑ"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/201592125935747.jpg"
 profilePhoto : "downloaded"

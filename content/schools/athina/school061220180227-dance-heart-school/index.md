@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΣΦΗΤΤΙΩΝ 10, 11854 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

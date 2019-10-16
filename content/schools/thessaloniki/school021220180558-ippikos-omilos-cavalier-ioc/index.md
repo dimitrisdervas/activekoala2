@@ -8,7 +8,7 @@ categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΦΙΛΥΡΟ, Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

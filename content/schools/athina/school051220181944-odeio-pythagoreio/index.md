@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφορος Μαραθώνος 43, 14569 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

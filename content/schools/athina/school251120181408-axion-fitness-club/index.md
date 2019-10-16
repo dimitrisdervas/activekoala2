@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Δουκισσης Πλακεντιας 8, Πλ. Κέννεντυ, Χαλάνδρι, 15234 Athens, Greece"
 logoimg: "logo (22).jpg"
 profilePhoto : "downloaded"

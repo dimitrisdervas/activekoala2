@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αγίας Κυριακής 26, 17564 Palaión Fáliron, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2017/09/elite-fightsports-logo.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λεωφόρος Βεϊκου 119, Γαλάτσι, 11146 Athens, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2013/02/fc_logo_final2013.jpg"
 profilePhoto : "downloaded"

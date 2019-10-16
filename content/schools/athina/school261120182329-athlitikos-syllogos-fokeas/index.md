@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Χαριλάου Τρικούπη 21, 17456 Alimos"
 logoimg: "https://www.polemikes-tehnes.gr/pics/logos/b/20178212241431.jpg"
 profilePhoto : "downloaded"

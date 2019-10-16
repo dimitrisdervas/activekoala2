@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["kithara"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Πίνδου 6 - Άνω Ηλιούπολη"
 logoimg: ""
 profilePhoto : "downloaded"

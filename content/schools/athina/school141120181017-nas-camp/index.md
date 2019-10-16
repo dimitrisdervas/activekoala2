@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Iroon Polytechneiou 13,SARANTAPOROU 1A, 14565 �Yios Stéfanos, Attiki, Greece"
 logoimg: "http://www.fightsports.gr/wp-content/uploads/2015/12/nas-camp-logo.jpg"
 profilePhoto : "downloaded"

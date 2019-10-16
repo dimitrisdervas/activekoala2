@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+organisationid: "org191120180417"
 organisation: "Α.Ο.Ν.Σ. &quot; Ο ΜΙΛΩΝ&quot;"
-orgurl: "undefined-a-o-n-s-o-milon"
+orgurl: "org191120180417-a-o-n-s-o-milon"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
 logoimg: ""
 profilePhoto : "downloaded"

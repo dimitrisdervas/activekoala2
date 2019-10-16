@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Γούναρη 150, Γλυφάδα, ΤΚ 16674"
 logoimg: "screen-shot-2014-10-31-at-15124-pm.png"
 profilePhoto : "downloaded"

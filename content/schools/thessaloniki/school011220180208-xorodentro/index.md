@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["ergastiri-xorou"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Καθολικών 4, 54625 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2017/09/logo-horodentro1.jpg"
 profilePhoto : "downloaded"

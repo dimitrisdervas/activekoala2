@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["anarixisi"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "6 Ρόδων, 17455 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

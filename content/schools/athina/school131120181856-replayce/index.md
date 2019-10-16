@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["gym"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Amarisias Artemidos, Marousi, 151 22 Athens, Greece"
 logoimg: "1513780_610255779105801_1982676056844512528_n.jpg"
 profilePhoto : "downloaded"

@@ -8,7 +8,7 @@ categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Konstantinoupoleos 37, 18344 Moscháto, Greece"
 logoimg: "tree-of-life-horiz-logo.png"
 profilePhoto : "downloaded"

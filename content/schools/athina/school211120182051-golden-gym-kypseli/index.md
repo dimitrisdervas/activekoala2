@@ -6,9 +6,9 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+organisationid: "org191120180222"
 organisation: "GOLDEN GYM"
-orgurl: "undefined-golden-gym"
+orgurl: "org191120180222-golden-gym"
 address: "Κυψέλης 32, Κυψέλη, ΤΚ 11362"
 logoimg: "402975_381961838484264_438369505_n.jpg"
 profilePhoto : "downloaded"

@@ -6,9 +6,9 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Judo"]
 categories: ["athlitismos"]
 subcategories: ["judi"]
-organisationid: ""
+organisationid: "org191120180627"
 organisation: "Α.Σ. ΠΑΟΚ / PAOK Athletic Club"
-orgurl: "undefined-a-s-paok-paok-athletic-club"
+orgurl: "org191120180627-a-s-paok-paok-athletic-club"
 address: "Mikras Asias 1, 54351 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

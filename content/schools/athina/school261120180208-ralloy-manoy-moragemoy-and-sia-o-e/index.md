@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Ιωάννου Μεταξά 4 Λεωφόρος Βουλιαγμένης, Άγιος Δημήτριος, 17343 Athens, Greece"
 logoimg: "http://www.sisxe.com/userfiles/Image/partners_images/rallou_manou.jpg"
 profilePhoto : "downloaded"

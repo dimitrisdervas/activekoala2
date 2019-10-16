@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: ["fencing"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Τρίτης Σεπτεμβρίου 9, 56334 Thessaloníki"
 logoimg: ""
 profilePhoto : "downloaded"

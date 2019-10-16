@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Κώστα Βάρναλη 3, Petroúpolis, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

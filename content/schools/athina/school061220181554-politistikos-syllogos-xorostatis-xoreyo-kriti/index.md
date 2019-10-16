@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Αλμυρού 6, 10440 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

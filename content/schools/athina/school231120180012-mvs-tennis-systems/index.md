@@ -8,7 +8,7 @@ categories: ["athlitismos"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "ΑΓΙΟΥ ΑΝΤΩΝΙΟΥ, 19007 Néa Mákri, Attiki, Greece"
 logoimg: "1468495_557034757705320_197911770_n.jpg"
 profilePhoto : "downloaded"

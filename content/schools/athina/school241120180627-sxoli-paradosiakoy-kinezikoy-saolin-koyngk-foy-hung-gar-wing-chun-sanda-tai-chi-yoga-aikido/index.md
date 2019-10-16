@@ -8,7 +8,7 @@ categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "9 menippou, 15562 Holargos, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

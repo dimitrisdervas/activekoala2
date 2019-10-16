@@ -8,7 +8,7 @@ categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Α.Παπανδρέου 48Β Αγ.Ιωάννης Καλαμαριά, 55132 Thessaloníki"
 logoimg: "https://pigolampides.gr/wp-content/uploads/2016/05/horodeio-logo.png"
 profilePhoto : "downloaded"

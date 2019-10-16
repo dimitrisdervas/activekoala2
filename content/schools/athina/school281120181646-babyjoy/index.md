@@ -8,7 +8,7 @@ categories: ["baby"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Λ. Βάρης 12, Βάρη, 16672 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

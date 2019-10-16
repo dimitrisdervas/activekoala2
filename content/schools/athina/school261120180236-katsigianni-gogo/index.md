@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: [""]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Προφήτη Ηλία 16 &amp; Ταινάρου Μεταμόρφωση, 14451 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"

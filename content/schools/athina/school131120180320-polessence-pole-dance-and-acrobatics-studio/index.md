@@ -8,7 +8,7 @@ categories: ["xoros"]
 subcategories: ["pole-dance"]
 organisationid: ""
 organisation: ""
-orgurl: "undefined-"
+orgurl: "-"
 address: "Odemisioy 1 and Evroy 40, 11527 Athens, Greece"
 logoimg: ""
 profilePhoto : "downloaded"
