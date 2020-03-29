@@ -1,8 +1,5 @@
 backend:
   name: gitlab
-  repo: owner-name/repo-name # Path to your GitLab repository
+  repo: dimitrisdervas/activecoala # Path to your GitLab repository
   auth_type: implicit # Required for implicit grant
-  app_id: your-app-id # Application ID from your GitLab settings
-  api_root: https://my-hosted-gitlab-instance.com/api/v4
-  base_url: https://my-hosted-gitlab-instance.com
-  auth_endpoint: oauth/authorize
+  app_id: 8f6d3d560c8be1b473ae54e5823f8ad810b57456fd415058ab0bf7f414216777 # Application ID from your GitLab settings
