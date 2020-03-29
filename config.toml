@@ -82,3 +82,4 @@ RemovePathAccents = true
     #lastIndicator = "<i class='material-icons'>chevron_right</i>"
     showPageNumbers = true    # If false it will hide the numbering of pages
     pagesBetweenActive = 2    # Shows how many page numbers to show between the active page - it defaults to 3
+

@@ -1,0 +1,8 @@
+backend:
+  name: gitlab
+  repo: owner-name/repo-name # Path to your GitLab repository
+  auth_type: implicit # Required for implicit grant
+  app_id: your-app-id # Application ID from your GitLab settings
+  api_root: https://my-hosted-gitlab-instance.com/api/v4
+  base_url: https://my-hosted-gitlab-instance.com
+  auth_endpoint: oauth/authorize
