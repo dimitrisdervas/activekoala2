@@ -6,7 +6,7 @@ categoryNoSLug: "{{category}}"
 subcategoriesNoSLug: ["{{ subcategory | replace(',', '","' ) | safe  }}"]
 categories: ["{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}"]
 subcategories: ["{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"]
-organisationid: "{{organisationid}}"
+orgUID: "{{organisationid}}"
 organisation: "{{organisation}}"
 orgurl: "{{orgurl}}"
 address: "{{address}}"
