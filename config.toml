@@ -93,5 +93,5 @@ toLower = false
   weight = 100.0
 
   [[related.indices]]
-  name = "schoolUID"
+  name = "schoolsUID"
   weight = 100.0
