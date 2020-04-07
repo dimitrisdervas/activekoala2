@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Παρκούρ"]
 categories: ["athlitismos"]
 subcategories: ["parkour"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Minoos 13, 11743 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180320"
 UID: "school011220180320"
 latitude: ""
 longitude: ""

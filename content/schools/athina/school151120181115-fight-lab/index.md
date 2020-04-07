@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βύρωνος 13, 15231 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181115"
 UID: "school151120181115"
 latitude: ""
 longitude: ""

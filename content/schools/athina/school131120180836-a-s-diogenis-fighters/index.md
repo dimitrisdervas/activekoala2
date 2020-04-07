@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "DIOGENIS FIGHTERS KARATE W.K.F, 17673 Καλλιθέα Αττικής Δημοσθένους 269"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180836"
 UID: "school131120180836"
 latitude: ""
 longitude: ""

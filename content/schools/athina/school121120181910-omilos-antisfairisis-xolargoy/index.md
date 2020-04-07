@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ναυαρίνου &amp; Κουντουριώτη ( Εντός Άλσους ), 15562 Χολαργός"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΤΣΑΚΑΛΗΣ ΗΛΙΑΣ"
 zipcode: [""]
+schoolsUID: "school121120181910"
 UID: "school121120181910"
 latitude: ""
 longitude: ""

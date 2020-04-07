@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Ειρήνης 71, Péfki, Greece, 15121 Péfki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school121120181548"
 UID: "school121120181548"
 latitude: ""
 longitude: ""

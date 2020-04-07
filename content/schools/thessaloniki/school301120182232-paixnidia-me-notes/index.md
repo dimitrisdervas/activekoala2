@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: [""]
 categories: ["mousiki"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αγάπης 3, 54622 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school301120182232"
 UID: "school301120182232"
 latitude: ""
 longitude: ""

@@ -1,7 +1,7 @@
 ---
 title: |
    BodyFit
-UID: ["org191120180139"]
+orgUID: "org191120180139"
 schoolsUID: ["school251120180710"]
 schoolcategories: ["Κλειστού Χώρου"]
 schoolsubcategories: [""]

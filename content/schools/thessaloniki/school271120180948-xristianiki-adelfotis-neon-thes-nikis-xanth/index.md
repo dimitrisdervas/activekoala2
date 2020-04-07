@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180641"
+orgUID: "org191120180641"
 organisation: "ΧΑΝΘ"
 orgurl: "org191120180641-xanth"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180948"
 UID: "school271120180948"
 latitude: ""
 longitude: ""

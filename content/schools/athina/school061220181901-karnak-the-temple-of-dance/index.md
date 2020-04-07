@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αγίας Σοφιας 55, 18545 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school061220181901"
 UID: "school061220181901"
 latitude: ""
 longitude: ""

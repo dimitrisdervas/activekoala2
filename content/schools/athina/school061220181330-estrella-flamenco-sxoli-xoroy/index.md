@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ιπποκράτους 197, 11472 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school061220181330"
 UID: "school061220181330"
 latitude: ""
 longitude: ""

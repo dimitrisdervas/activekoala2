@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ju Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Souri 20, Peristérion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180124"
 UID: "school141120180124"
 latitude: "38,0023777"
 longitude: "23,6997158"

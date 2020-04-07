@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εθνικής Αντιστάσεως (πευκόφυτο Θράκης), 17456 Kalamáki, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ. ΑΡΚΟΥΛΗΣ ΙΩΑΝΝΗΣ"
 zipcode: [""]
+schoolsUID: "school121120181856"
 UID: "school121120181856"
 latitude: ""
 longitude: ""

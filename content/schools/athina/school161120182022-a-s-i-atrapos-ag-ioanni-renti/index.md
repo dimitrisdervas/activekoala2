@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tang Soo Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tang-soo-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παλαιολόγου Κωνσταντίνου 10(Πλατεία Αγ.Ι.Ρέντη), 18233 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school161120182022"
 UID: "school161120182022"
 latitude: "37,9618378"
 longitude: "23,6755772"

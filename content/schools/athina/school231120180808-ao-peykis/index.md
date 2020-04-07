@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δημοτικό Στάδιο Πεύκης, 15121 Péfki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15121"]
+schoolsUID: "school231120180808"
 UID: "school231120180808"
 latitude: ""
 longitude: ""

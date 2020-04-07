@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: "org170320192008"
+orgUID: "org170320192008"
 organisation: "Ναυτικός Αθλητικός Όμιλος Καλαμαριάς"
 orgurl: "org170320192008-naytikos-athlitikos-omilos-kalamarias"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180619"
 UID: "school021220180619"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Μουσική Σχολή"]
 categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μεταμορφώσεως 13, 57019 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180153"
 UID: "school011220180153"
 latitude: ""
 longitude: ""

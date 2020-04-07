@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "6 Ρόδων, 17455 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17456"]
+schoolsUID: "school171120182105"
 UID: "school171120182105"
 latitude: "37,91316"
 longitude: "23,73612"

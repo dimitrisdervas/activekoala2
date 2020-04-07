@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Olympionikou Loui Spyrou, 151 23 Amaroúsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120182008"
 UID: "school151120182008"
 latitude: "38,03411"
 longitude: "23,78672"

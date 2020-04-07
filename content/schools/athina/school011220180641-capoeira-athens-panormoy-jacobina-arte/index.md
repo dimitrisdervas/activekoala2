@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κοργιαλενίου 9, 11526 Αθήνα, Αμπελόκηποι"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180641"
 UID: "school011220180641"
 latitude: ""
 longitude: ""

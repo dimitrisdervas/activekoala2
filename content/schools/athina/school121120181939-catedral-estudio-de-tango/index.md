@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Mesogeion 57, Athens, 115 26 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school121120181939"
 UID: "school121120181939"
 latitude: "37,98765381"
 longitude: "23,76607539"

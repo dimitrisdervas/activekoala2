@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Krav Maga"]
 categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΔΕΡΒΕΝΑΚΙΩΝ 6"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120182022"
 UID: "school241120182022"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: [""]
 categories: ["theatro"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school301120182134"
 UID: "school301120182134"
 latitude: ""
 longitude: ""

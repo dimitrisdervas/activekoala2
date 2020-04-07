@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kickboxing","Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "αφαιας 72, 18010 Aegina, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180822"
 UID: "school131120180822"
 latitude: ""
 longitude: ""

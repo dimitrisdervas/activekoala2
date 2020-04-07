@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Κλεισθένους 202,Γέρακας, Τ.Κ. 153 44"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15344"]
+schoolsUID: "school181120180222"
 UID: "school181120180222"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Καυκάσου 151, Κυψέλη, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school201120181534"
 UID: "school201120181534"
 latitude: "38,00632"
 longitude: "23,74936"

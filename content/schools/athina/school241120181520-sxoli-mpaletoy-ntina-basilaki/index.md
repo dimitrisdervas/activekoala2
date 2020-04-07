@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ροδοκανάκη 6, 713 06"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181520"
 UID: "school241120181520"
 latitude: ""
 longitude: ""

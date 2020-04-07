@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["57001"]
+schoolsUID: "school271120180544"
 UID: "school271120180544"
 latitude: ""
 longitude: ""

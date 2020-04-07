@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΟΔ.ΑΝΔΡΟΥΤΣΟΥ 10 ΜΑΡΟΥΣΙ [ΠΛΗΣΙΟΝ ΗΣΑΠ], 15124 ΑΘΗΝΑ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15124"]
+schoolsUID: "school221120180432"
 UID: "school221120180432"
 latitude: ""
 longitude: ""

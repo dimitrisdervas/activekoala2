@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Πάλη"]
 categories: ["polemikes-texnes"]
 subcategories: ["wrestling"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παγκρήτιο Στάδιο - Θύρα 15, Ηράκλειο"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180027"
 UID: "school011220180027"
 latitude: ""
 longitude: ""

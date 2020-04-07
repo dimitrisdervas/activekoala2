@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kapetan Petroutsou 5-7, 11 523 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school061220181720"
 UID: "school061220181720"
 latitude: "37,9893913"
 longitude: "23,7597275"

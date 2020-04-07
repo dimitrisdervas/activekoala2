@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: [""]
 categories: ["water-sports"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "38 Km Coastal Road Athens-Sounio, Lagonisi, 19010 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19010"]
+schoolsUID: "school201120181856"
 UID: "school201120181856"
 latitude: "37,79696868"
 longitude: "23,87122056"

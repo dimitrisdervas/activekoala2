@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: [""]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πάρνηθος 128, 13671 Menidi, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181841"
 UID: "school131120181841"
 latitude: ""
 longitude: ""

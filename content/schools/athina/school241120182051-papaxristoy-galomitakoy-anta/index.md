@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βασ. Παύλου 115 &amp; Δ. Παπαχρήστου 1 (είσοδος), 19004 Spáta, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120182051"
 UID: "school241120182051"
 latitude: "37,9626171"
 longitude: "23,9119194"

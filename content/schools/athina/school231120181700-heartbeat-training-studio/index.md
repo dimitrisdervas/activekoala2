@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ. Αμφιθέας 103, 17563 Palaión Fáliron, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17564"]
+schoolsUID: "school231120181700"
 UID: "school231120181700"
 latitude: "37,92941292"
 longitude: "23,70318016"

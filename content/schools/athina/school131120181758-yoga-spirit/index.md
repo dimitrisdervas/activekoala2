@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181758"
 UID: "school131120181758"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Καποδιστριου &amp; Ποσειδωνος (Νεο κλειστο Γυμναστηριο Μοσχατου)., 18344 Μοσχάτο"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120182134"
 UID: "school151120182134"
 latitude: ""
 longitude: ""

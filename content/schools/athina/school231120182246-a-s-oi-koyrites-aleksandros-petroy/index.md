@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kali"]
 categories: ["polemikes-texnes"]
 subcategories: ["kali"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πανταζίδου 15, 11145 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120182246"
 UID: "school231120182246"
 latitude: "38,01452015"
 longitude: "23,72265279"

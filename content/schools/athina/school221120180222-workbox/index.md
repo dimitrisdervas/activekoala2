@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελευθερίου Βενιζέλου 206, 14122 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14123"]
+schoolsUID: "school221120180222"
 UID: "school221120180222"
 latitude: ""
 longitude: ""

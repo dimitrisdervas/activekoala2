@@ -6,7 +6,7 @@ categoryNoSLug: "Υπαιθρίες Δραστηριότητες"
 subcategoriesNoSLug: ["Ιππασία"]
 categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Τέρμα Πασχαλιας, 13671 Αχαρναι"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181227"
 UID: "school131120181227"
 latitude: ""
 longitude: ""

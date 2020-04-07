@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΤΖΩΝ ΚΕΝΝΕΝΤΥ &amp; ΓΙΑΝΝΙΤΣΩΝ 81Α, 12131 Peristérion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181505"
 UID: "school241120181505"
 latitude: ""
 longitude: ""

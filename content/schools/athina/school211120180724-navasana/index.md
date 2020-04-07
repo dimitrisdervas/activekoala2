@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παναγή Τσαλδάρη 58, 187 57 Keratsíni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18757"]
+schoolsUID: "school211120180724"
 UID: "school211120180724"
 latitude: ""
 longitude: ""

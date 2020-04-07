@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: "org241120180156"
+orgUID: "org241120180156"
 organisation: "ΑΘΛΗΤΙΚΟΣ ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΓΛΥΦΑΔΑΣ (Α.Ν.Ο.Γ)"
 orgurl: "org241120180156-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΦΡΑΓΚΟΥΛΗΣ ΕΜΜΑΝΟΥΗΛ"
 zipcode: ["16601"]
+schoolsUID: "school251120181115"
 UID: "school251120181115"
 latitude: "37,86325016"
 longitude: "23,74453425"

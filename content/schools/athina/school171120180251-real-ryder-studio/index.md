@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ.Μαραθωνος 34 Ανοιξη, 14569 �Yios Stéfanos, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14565"]
+schoolsUID: "school171120180251"
 UID: "school171120180251"
 latitude: "38,13828026"
 longitude: "23,85739059"

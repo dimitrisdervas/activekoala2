@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Handball"]
 categories: ["athlitismos"]
 subcategories: ["handball"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181848"
 UID: "school041220181848"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "I. ΧΡΥΣΟΣΤΟΜΟΥ 16, 54639 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["54639"]
+schoolsUID: "school271120180656"
 UID: "school271120180656"
 latitude: ""
 longitude: ""

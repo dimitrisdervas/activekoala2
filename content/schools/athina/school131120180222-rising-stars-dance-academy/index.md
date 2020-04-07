@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Cha Cha Cha"]
 categories: ["xoros"]
 subcategories: ["cha-cha-cha"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σίνα 9 &amp; Σόλωνος, 10680 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180222"
 UID: "school131120180222"
 latitude: "37,98083"
 longitude: "23,73644"

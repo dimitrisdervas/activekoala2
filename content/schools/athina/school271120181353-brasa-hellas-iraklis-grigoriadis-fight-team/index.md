@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ju Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αριστοτέλους 86, 15562 Holargos, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120181353"
 UID: "school271120181353"
 latitude: ""
 longitude: ""

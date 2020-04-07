@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Skra 15, Ilioupoli, 16346 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16346"]
+schoolsUID: "school181120182148"
 UID: "school181120182148"
 latitude: "37,93970551"
 longitude: "23,75055607"

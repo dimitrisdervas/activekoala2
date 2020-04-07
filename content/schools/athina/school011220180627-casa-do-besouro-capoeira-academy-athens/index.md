@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Θεμιστοκλέους 23-25 8ος όροφος, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180627"
 UID: "school011220180627"
 latitude: "37,98493"
 longitude: "23,73185"

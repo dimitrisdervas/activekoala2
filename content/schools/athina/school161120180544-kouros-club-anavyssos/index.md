@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: [""]
 categories: ["water-sports"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Alykes Beach, Anavyssos, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19013"]
+schoolsUID: "school161120180544"
 UID: "school161120180544"
 latitude: ""
 longitude: ""

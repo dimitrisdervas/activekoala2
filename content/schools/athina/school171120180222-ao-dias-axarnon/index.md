@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org170320192011"
+orgUID: "org170320192011"
 organisation: "ΑΟ ΔΙΑΣ ΑΧΑΡΝΩΝ"
 orgurl: "org170320192011-ao-dias-axarnon"
 address: "Πηγαδά και Βλάχου, 13671 Acharne, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13678"]
+schoolsUID: "school171120180222"
 UID: "school171120180222"
 latitude: ""
 longitude: ""

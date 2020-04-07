@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ηρακλείτου 24, Πάτημα Χαλανδρίου, 15238 Khalándrion, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180656"
 UID: "school131120180656"
 latitude: ""
 longitude: ""

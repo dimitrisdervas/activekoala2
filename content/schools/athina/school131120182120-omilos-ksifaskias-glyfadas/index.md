@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ξιφασκία"]
 categories: ["athlitismos"]
 subcategories: ["fencing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ε.Α.Κ.Ν, 16777 Ellinikón, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182120"
 UID: "school131120182120"
 latitude: "37,87945"
 longitude: "23,7316499"

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λυκούργου 181-183 Καλλιθέα, 17675 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181032"
 UID: "school131120181032"
 latitude: ""
 longitude: ""

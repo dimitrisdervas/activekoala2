@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["PERSONAL TRAINER"]
 categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Konstantinoupoleos 37, 18344 Moscháto, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18345"]
+schoolsUID: "school211120180753"
 UID: "school211120180753"
 latitude: ""
 longitude: ""

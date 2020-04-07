@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Αναρίχηση"]
 categories: ["athlitismos"]
 subcategories: ["anarixisi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βασιλείου Αδαμίδη 14, 54351 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181324"
 UID: "school011220181324"
 latitude: "40,61488904"
 longitude: "22,97427088"

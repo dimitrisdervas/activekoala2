@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kickboxing","Karate"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πευκων 70, Πευκων 70 Iráklion (Athens), Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182148"
 UID: "school131120182148"
 latitude: "35,3063316"
 longitude: "25,1410084"

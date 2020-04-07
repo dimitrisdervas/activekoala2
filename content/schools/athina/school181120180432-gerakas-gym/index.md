@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφ. Σπάτων 46, 15344 Pallíni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15344"]
+schoolsUID: "school181120180432"
 UID: "school181120180432"
 latitude: ""
 longitude: ""

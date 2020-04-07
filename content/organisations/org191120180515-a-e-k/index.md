@@ -1,7 +1,7 @@
 ---
 title: |
    Α.Ε.Κ
-UID: ["org191120180515"]
+orgUID: "org191120180515"
 schoolsUID: ["school231120181603"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Στίβος"]

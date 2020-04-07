@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΝΑΣΤΑΣΕΩΣ - (ΠΡΙΝ ΤΗΝ ΕΞΟΔΟ ΓΙΑ ΑΤΤΙΚΗ ΟΔΟ), 156 69 Papágos, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182022"
 UID: "school131120182022"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Limpona 2 &amp; Vasilikis, 105 60 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school251120180348"
 UID: "school251120180348"
 latitude: "37,97759403"
 longitude: "23,72839401"

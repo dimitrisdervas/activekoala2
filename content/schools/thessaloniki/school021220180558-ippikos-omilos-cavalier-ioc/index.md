@@ -6,7 +6,7 @@ categoryNoSLug: "Υπαιθρίες Δραστηριότητες"
 subcategoriesNoSLug: ["Ιππασία"]
 categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΦΙΛΥΡΟ, Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180558"
 UID: "school021220180558"
 latitude: ""
 longitude: ""

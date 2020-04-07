@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εθνικής Αντιστάσεως 3, 15232 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15232"]
+schoolsUID: "school241120180529"
 UID: "school241120180529"
 latitude: ""
 longitude: ""

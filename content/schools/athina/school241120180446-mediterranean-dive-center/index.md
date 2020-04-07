@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Κατάδυση"]
 categories: ["water-sports"]
 subcategories: ["diving"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφ. Αλεξάνδρου Παπαναστασίου 95 (πρώην Βασιλέως Παύλου), 185 33 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18533"]
+schoolsUID: "school241120180446"
 UID: "school241120180446"
 latitude: "37,94013617"
 longitude: "23,66018414"

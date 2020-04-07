@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Amarisias Artemidos, Marousi, 151 22 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181856"
 UID: "school131120181856"
 latitude: "38,04099365"
 longitude: "23,7886405"

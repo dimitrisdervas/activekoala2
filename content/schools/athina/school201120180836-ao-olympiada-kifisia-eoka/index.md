@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kifissias Ave 192, 14562 Kifissia, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14562"]
+schoolsUID: "school201120180836"
 UID: "school201120180836"
 latitude: ""
 longitude: ""

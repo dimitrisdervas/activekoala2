@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κύπρου 70, 16231 Víron, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180041"
 UID: "school151120180041"
 latitude: ""
 longitude: ""

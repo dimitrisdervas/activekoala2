@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Λαυρίου 61, Γλυκά Νερά, 15354 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181115"
 UID: "school191120181115"
 latitude: "38,0034865"
 longitude: "23,8477954"

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kritis 18, 16451 Argyroupolis, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school181120181115"
 UID: "school181120181115"
 latitude: "37,91631762"
 longitude: "23,74661798"

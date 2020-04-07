@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Πρότυπο Μουσικό Εργαστήρι"]
 categories: ["mousiki"]
 subcategories: ["moudiko-ergastiri"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Γεωργικής Σχολής 4, 55535 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180251"
 UID: "school011220180251"
 latitude: ""
 longitude: ""

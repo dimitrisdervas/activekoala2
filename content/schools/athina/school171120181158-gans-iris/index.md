@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εθνικής Στέγης &amp; Αρτάκης, 17124 Néa Smírni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school171120181158"
 UID: "school171120181158"
 latitude: ""
 longitude: ""

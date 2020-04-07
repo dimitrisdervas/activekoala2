@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μοναστηρίου 305, Θεσσαλονίκη, 54628 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181129"
 UID: "school011220181129"
 latitude: ""
 longitude: ""

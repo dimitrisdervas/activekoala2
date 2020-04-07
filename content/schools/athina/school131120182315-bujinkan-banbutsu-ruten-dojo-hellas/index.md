@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ninjutsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ευπαλινου 7 ,(κάθετη Πατησίων185), Πλ.Αμερικης,, 11253 Κατω Πατησια-Κυψελη,Αθηνα (Athens, Greece)"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182315"
 UID: "school131120182315"
 latitude: ""
 longitude: ""

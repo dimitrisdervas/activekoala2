@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Yoga"]
 categories: ["kleistou-xorou"]
 subcategories: ["yoga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Χορμοβίτου 87, 18544 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18545"]
+schoolsUID: "school251120180656"
 UID: "school251120180656"
 latitude: ""
 longitude: ""

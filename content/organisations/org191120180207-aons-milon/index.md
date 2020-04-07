@@ -1,7 +1,7 @@
 ---
 title: |
    ΑΟΝΣ ΜΙΛΩΝ
-UID: ["org191120180207"]
+orgUID: "org191120180207"
 schoolsUID: ["school151120182120"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Volley"]

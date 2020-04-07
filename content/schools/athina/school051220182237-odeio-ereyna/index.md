@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: [""]
 categories: ["mousiki"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κεφαλληνιας 99 Β, 112 51 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220182237"
 UID: "school051220182237"
 latitude: ""
 longitude: ""

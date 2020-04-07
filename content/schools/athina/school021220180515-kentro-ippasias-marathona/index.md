@@ -6,7 +6,7 @@ categoryNoSLug: "Υπαιθρίες Δραστηριότητες"
 subcategoriesNoSLug: ["Ιππασία"]
 categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πλαταιων 57,Τσεπι, 19007 Marathón"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180515"
 UID: "school021220180515"
 latitude: "38,12669671"
 longitude: "23,95856918"

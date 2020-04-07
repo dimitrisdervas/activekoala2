@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΠΕΥΚΩΝ &amp; ΕΥΚΑΛΥΠΤΩΝ, 121 37 ΠΕΡΙΣΤΕΡΙ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181436"
 UID: "school241120181436"
 latitude: ""
 longitude: ""

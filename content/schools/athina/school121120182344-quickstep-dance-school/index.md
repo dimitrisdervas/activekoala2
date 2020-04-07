@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Τάνγκο"]
 categories: ["xoros"]
 subcategories: ["tango"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Υμηττού 119 ΠΑΓΚΡΑΤΙ * Λ. Βουλιαγμένης 583 ΑΡΓΥΡΟΥΠΟΛΗ, 11633 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school121120182344"
 UID: "school121120182344"
 latitude: "37,9657898"
 longitude: "23,7500896"

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Basket"]
 categories: ["athlitismos"]
 subcategories: ["basket"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σιπύλου 16, 12351"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12351"]
+schoolsUID: "school171120180139"
 UID: "school171120180139"
 latitude: ""
 longitude: ""

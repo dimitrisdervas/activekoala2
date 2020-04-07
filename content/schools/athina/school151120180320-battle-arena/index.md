@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["kleistou-xorou"]
 subcategories: ["kickboxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "elpidos 10, 15343 Ayía Paraskeví, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15343"]
+schoolsUID: "school151120180320"
 UID: "school151120180320"
 latitude: ""
 longitude: ""

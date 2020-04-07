@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Παρκούρ"]
 categories: ["athlitismos"]
 subcategories: ["parkour"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ανδρέα Παπανδρέου 13, Μελίσσια, 15127 Melíssia, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181212"
 UID: "school011220181212"
 latitude: ""
 longitude: ""

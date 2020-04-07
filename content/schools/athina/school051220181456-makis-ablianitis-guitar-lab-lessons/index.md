@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: [""]
 categories: ["mousiki"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "16 Bouboulinas, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220181456"
 UID: "school051220181456"
 latitude: ""
 longitude: ""

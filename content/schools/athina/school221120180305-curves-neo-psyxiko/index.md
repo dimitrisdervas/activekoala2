@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Αδριανείου 34,Νέο Ψυχικό, Τ.Κ. 115 25"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11525"]
+schoolsUID: "school221120180305"
 UID: "school221120180305"
 latitude: ""
 longitude: ""

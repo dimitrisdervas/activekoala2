@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kranias 5 &amp; Prinou, Gerakas, 15344 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120180724"
 UID: "school191120180724"
 latitude: "38,02926241"
 longitude: "23,85272652"

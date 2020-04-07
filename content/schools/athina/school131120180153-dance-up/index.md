@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Μοντέρνος Χορός"]
 categories: ["xoros"]
 subcategories: ["modern-dance"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πρωτογένους 1, 10551 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180153"
 UID: "school131120180153"
 latitude: "37,9782"
 longitude: "23,72633"

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Νεο Γυμναστήριο Ε.Μ.Π"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school201120180041"
 UID: "school201120180041"
 latitude: ""
 longitude: ""

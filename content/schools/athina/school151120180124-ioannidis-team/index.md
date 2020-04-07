@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Savate"]
 categories: ["polemikes-texnes"]
 subcategories: ["savate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Θησεως 7α, 17676 Kallithéa, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180124"
 UID: "school151120180124"
 latitude: "37,96306"
 longitude: "23,71562"

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "16610 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school181120181324"
 UID: "school181120181324"
 latitude: ""
 longitude: ""

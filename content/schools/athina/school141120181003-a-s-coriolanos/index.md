@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Krav Maga"]
 categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σκιάθου 26, Ηλιούπολη, 16346 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120181003"
 UID: "school141120181003"
 latitude: "37,94263"
 longitude: "23,74671"

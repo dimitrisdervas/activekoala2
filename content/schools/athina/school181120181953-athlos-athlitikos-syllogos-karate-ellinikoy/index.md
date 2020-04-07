@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Karate"]
 categories: ["athlitismos"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΠΛΑΠΟΎΤΑ 21, 16777 Ellinikón, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
+schoolsUID: "school181120181953"
 UID: "school181120181953"
 latitude: "37,89209"
 longitude: "23,75822"

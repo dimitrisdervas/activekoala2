@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΒΕΙΚΟΥ&amp;ΣΥΡΟΥ 5, 11147 Galátsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11147"]
+schoolsUID: "school171120182344"
 UID: "school171120182344"
 latitude: "38,0125084"
 longitude: "23,7551746"

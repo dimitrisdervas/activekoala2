@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Krav Maga"]
 categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Evaggelistrias 30 &amp;, Militou, 14671 Néa Erithraía, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120181505"
 UID: "school141120181505"
 latitude: "38,09062"
 longitude: "23,81481"

@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Μοντέρνος Χορός"]
 categories: ["xoros"]
 subcategories: ["modern-dance"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "55, Omirou Str, 106 72 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school121120182300"
 UID: "school121120182300"
 latitude: "37,98082"
 longitude: "23,73817"

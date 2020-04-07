@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180544"
 UID: "school141120180544"
 latitude: ""
 longitude: ""

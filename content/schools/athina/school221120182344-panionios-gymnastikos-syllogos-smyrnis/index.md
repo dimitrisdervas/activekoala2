@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180236"
+orgUID: "org191120180236"
 organisation: "ΠΑΝΙΩΝΙΟΣ ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΣΜΥΡΝΗΣ"
 orgurl: "org191120180236-panionios-gymnastikos-syllogos-smyrnis"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school221120182344"
 UID: "school221120182344"
 latitude: ""
 longitude: ""

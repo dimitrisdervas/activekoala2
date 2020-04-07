@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΥΨΗΛΑΝΤΟΥ &amp; ΚΑΠΟΔΙΣΤΡΙΟΥ 35, 11146 Galátsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220181720"
 UID: "school051220181720"
 latitude: "38,01718695"
 longitude: "23,75197738"

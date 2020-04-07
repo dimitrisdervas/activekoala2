@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: [""]
 categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μιαούλη 15, Βριλήσσια, 15235 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220181959"
 UID: "school051220181959"
 latitude: ""
 longitude: ""

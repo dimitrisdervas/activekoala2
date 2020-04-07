@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Agias Lavras 67, 11141 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school181120180808"
 UID: "school181120180808"
 latitude: ""
 longitude: ""

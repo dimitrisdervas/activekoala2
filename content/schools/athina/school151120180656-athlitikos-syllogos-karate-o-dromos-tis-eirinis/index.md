@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δημητρίου Ράλλη 11 Μαρούσι Αττικής, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180656"
 UID: "school151120180656"
 latitude: ""
 longitude: ""

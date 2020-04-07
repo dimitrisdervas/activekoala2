@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Paraschou Achilleos 80, 11474 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11525"]
+schoolsUID: "school211120180515"
 UID: "school211120180515"
 latitude: "37,9896561"
 longitude: "23,7473344"

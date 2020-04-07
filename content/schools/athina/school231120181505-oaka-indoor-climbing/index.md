@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Climbing"]
 categories: ["kleistou-xorou"]
 subcategories: ["climbing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Spyrou Loui 37, 15123 Amaroúsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15124"]
+schoolsUID: "school231120181505"
 UID: "school231120181505"
 latitude: "38,03888503"
 longitude: "23,78246258"

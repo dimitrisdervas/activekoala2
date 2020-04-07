@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κυπριων Αγωνιστων 8β &amp; Μεθανων, 18541 Peiraeus, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18541"]
+schoolsUID: "school191120181310"
 UID: "school191120181310"
 latitude: "37,95492802"
 longitude: "23,6571088"

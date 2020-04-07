@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["MMA"]
 categories: ["polemikes-texnes"]
 subcategories: ["mma"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Leoforos Mesogeion 452, 15342 Ayía Paraskeví, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180710"
 UID: "school151120180710"
 latitude: "38,01363"
 longitude: "23,82985"

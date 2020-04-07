@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Swing"]
 categories: ["xoros"]
 subcategories: ["swing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Φθιώτιδος 24, 11523 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180348"
 UID: "school131120180348"
 latitude: "37,9899411"
 longitude: "23,7608315"

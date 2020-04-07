@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: [""]
 categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μισραχή 15, 54642 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school301120182148"
 UID: "school301120182148"
 latitude: ""
 longitude: ""

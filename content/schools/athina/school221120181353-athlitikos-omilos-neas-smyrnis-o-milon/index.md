@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΣΑΚΕΛΛΑΡΙΔΗΣ ΜΙΧΑΛΗΣ"
 zipcode: ["17121"]
+schoolsUID: "school221120181353"
 UID: "school221120181353"
 latitude: ""
 longitude: ""

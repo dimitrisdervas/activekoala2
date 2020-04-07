@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Μουσική Σχολή"]
 categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Α.Παπανδρέου 48Β Αγ.Ιωάννης Καλαμαριά, 55132 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180236"
 UID: "school011220180236"
 latitude: ""
 longitude: ""

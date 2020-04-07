@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Γράμμου 4,Μελίσσια, Τ.Κ. 151 27"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15127"]
+schoolsUID: "school211120180544"
 UID: "school211120180544"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αθ. Διάκου 26 &amp; 25ης Μαρτίου, Chaidari"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180153"
 UID: "school141120180153"
 latitude: "38,01364106"
 longitude: "23,6509198"

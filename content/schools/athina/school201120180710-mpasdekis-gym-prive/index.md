@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κουντουριώτου 13, Ηλιούπολη, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16342"]
+schoolsUID: "school201120180710"
 UID: "school201120180710"
 latitude: ""
 longitude: ""

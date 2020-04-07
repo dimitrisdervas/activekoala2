@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Basket"]
 categories: ["athlitismos"]
 subcategories: ["basket"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μαινεμένης 4, 17237 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κα.ΡΟΥΤΣΗ ΣΤΑΜΑΤΙΝΑ"
 zipcode: ["16232"]
+schoolsUID: "school251120180446"
 UID: "school251120180446"
 latitude: ""
 longitude: ""

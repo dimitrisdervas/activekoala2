@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kick Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["kickboxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αλυτρώτων Ελλήνων 22. Δασκάλους, 85100 Rhodes"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school181120181408"
 UID: "school181120181408"
 latitude: "36,4306634"
 longitude: "28,2220163"

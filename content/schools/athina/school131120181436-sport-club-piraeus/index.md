@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["MMA"]
 categories: ["polemikes-texnes"]
 subcategories: ["mma"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΕΛΙΚΏΝΟΣ 34-36 ΚΑΜΊΝΙΑ, 185 40 Peiraeus, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181436"
 UID: "school131120181436"
 latitude: ""
 longitude: ""

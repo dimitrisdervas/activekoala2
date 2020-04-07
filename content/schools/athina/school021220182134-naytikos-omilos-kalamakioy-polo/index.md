@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Πόλο"]
 categories: ["athlitismos"]
 subcategories: ["polo"]
-organisationid: "org241120180308"
+orgUID: "org241120180308"
 organisation: "ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΚΑΛΑΜΑΚΙΟΥ"
 orgurl: "org241120180308-naytikos-omilos-kalamakioy"
 address: "2η στάση Καλαμακίου,Μαρίνα Αλίμου, Άλιμος"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220182134"
 UID: "school021220182134"
 latitude: ""
 longitude: ""

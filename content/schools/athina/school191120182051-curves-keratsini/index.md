@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Γρ. Λαμπράκη 417, 1ος όροφος,Κερατσίνι, Τ.Κ. 187 57"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18757"]
+schoolsUID: "school191120182051"
 UID: "school191120182051"
 latitude: ""
 longitude: ""

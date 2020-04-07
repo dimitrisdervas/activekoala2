@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "(Λ.Ποσειδωνος Αγ.Κοσμας), Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: ["Kολυμβητήριο Αγίου Κοσμά"]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120181827"
 UID: "school281120181827"
 latitude: ""
 longitude: ""

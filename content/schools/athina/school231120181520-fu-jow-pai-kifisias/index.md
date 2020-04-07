@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Aristotelous 18, 145 63 Kifisiá, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120181520"
 UID: "school231120181520"
 latitude: "38,0865055"
 longitude: "23,8325859"

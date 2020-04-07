@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βουνοπλαγιά, 45500 Ioánnina, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180627"
 UID: "school131120180627"
 latitude: "39,67446995"
 longitude: "20,80209108"

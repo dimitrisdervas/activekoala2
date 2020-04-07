@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: [""]
 categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σκύρου 78, Ν. Κυψέλη, Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220180842"
 UID: "school051220180842"
 latitude: ""
 longitude: ""

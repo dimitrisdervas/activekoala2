@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: [""]
 categories: ["baby"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Γράμμου 42 Βριλήσσια, 15235 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15235"]
+schoolsUID: "school171120181939"
 UID: "school171120181939"
 latitude: ""
 longitude: ""

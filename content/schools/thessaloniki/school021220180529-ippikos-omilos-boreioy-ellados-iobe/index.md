@@ -6,7 +6,7 @@ categoryNoSLug: "Υπαιθρίες Δραστηριότητες"
 subcategoriesNoSLug: ["Ιππασία"]
 categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μίκρα Θεσσαλονίκης, τέρμα Νέα Κρήνη, 55132 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180529"
 UID: "school021220180529"
 latitude: ""
 longitude: ""

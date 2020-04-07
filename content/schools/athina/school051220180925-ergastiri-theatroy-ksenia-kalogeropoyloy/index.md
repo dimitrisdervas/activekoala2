@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: [""]
 categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220180925"
 UID: "school051220180925"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kendo"]
 categories: ["polemikes-texnes"]
 subcategories: ["kobudo"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180236"
 UID: "school231120180236"
 latitude: ""
 longitude: ""

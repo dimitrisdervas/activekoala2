@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: ["Θεατρικό Εργαστήρι"]
 categories: ["paidagogika-kallitexnika"]
 subcategories: ["theatro"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αλεξάνδρου Σβώλου 7, 54622 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120181729"
 UID: "school281120181729"
 latitude: ""
 longitude: ""

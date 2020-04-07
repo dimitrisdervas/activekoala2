@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kountouriotou 89, 18534 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181144"
 UID: "school241120181144"
 latitude: "37,94462054"
 longitude: "23,65133286"

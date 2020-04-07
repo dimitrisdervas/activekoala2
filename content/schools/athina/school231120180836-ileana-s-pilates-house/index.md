@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πρασινου Λόφου &amp; Μπιζανίου 44, 14122 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14122"]
+schoolsUID: "school231120180836"
 UID: "school231120180836"
 latitude: ""
 longitude: ""

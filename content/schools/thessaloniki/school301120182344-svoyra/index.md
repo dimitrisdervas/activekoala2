@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: [""]
 categories: ["paidagogika-kallitexnika"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παλαιών Πατρών Γερμανού 22 (παιδικός σταθμός). Παυλου Μελά 18 ( Εργαστήρια για παιδιά δημοτικού), 54622 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school301120182344"
 UID: "school301120182344"
 latitude: ""
 longitude: ""

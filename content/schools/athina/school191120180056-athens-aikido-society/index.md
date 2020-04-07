@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Leoforos Agiou Ioannou Karea &amp; 25Is Martiou, 16233 Víron, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120180056"
 UID: "school191120180056"
 latitude: ""
 longitude: ""

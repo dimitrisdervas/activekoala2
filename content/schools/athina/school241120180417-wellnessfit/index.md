@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ethnikis Antistaseos 65, Khalándrion, 15231 Khalándrion, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15231"]
+schoolsUID: "school241120180417"
 UID: "school241120180417"
 latitude: "38,01249"
 longitude: "23,78694"

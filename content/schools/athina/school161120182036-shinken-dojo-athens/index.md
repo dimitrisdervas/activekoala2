@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ninjutsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σουλίου, 19002 Paianía, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school161120182036"
 UID: "school161120182036"
 latitude: "37,97671814"
 longitude: "23,73199932"

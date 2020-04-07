@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ju Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφ. Βουλιαγμένης 12, 16673 Voúla, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182134"
 UID: "school131120182134"
 latitude: "37,85224658"
 longitude: "23,76720428"

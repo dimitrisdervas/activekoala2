@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school171120181534"
 UID: "school171120181534"
 latitude: "37,99975"
 longitude: ""

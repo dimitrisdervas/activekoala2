@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Pole Dance"]
 categories: ["xoros"]
 subcategories: ["pole-dance"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Agias Eleousas 5, Monastiraki, Psyrri, 10554 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180041"
 UID: "school131120180041"
 latitude: "37,97793"
 longitude: "23,72575"

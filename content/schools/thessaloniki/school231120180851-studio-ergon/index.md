@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: [""]
 categories: ["theatro"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σπανδωνίδη Πέτρου 7 &amp; Κορυτσάς, 546 39 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180851"
 UID: "school231120180851"
 latitude: ""
 longitude: ""

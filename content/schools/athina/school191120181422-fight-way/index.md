@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Hapkido"]
 categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Στοργής 2, 166 74 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181422"
 UID: "school191120181422"
 latitude: "37,87747869"
 longitude: "23,76432896"

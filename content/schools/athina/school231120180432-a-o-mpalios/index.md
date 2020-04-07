@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σελήνης 25, 141 21 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14572"]
+schoolsUID: "school231120180432"
 UID: "school231120180432"
 latitude: ""
 longitude: ""

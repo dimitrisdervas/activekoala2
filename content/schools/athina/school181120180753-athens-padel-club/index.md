@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: [""]
 categories: ["athlitismos"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κωνσταντίνου Καραμανλή, 4, 16673 Voúla, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16561"]
+schoolsUID: "school181120180753"
 UID: "school181120180753"
 latitude: ""
 longitude: ""

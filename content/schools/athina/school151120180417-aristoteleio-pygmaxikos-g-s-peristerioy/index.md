@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΒΟΡΕΙΟΥ ΗΠΕΙΡΟΥ 21, 12133 Peristéri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180417"
 UID: "school151120180417"
 latitude: ""
 longitude: ""

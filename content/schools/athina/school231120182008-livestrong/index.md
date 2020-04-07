@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["PILATES"]
 categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "18 Areos street, 17562 Palaión Fáliron, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17562"]
+schoolsUID: "school231120182008"
 UID: "school231120182008"
 latitude: ""
 longitude: ""

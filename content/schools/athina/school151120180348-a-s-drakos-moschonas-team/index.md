@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ju Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΡΕΜΟΥ 53, 176 76 Kallithéa, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180348"
 UID: "school151120180348"
 latitude: "37,9602623"
 longitude: "23,7033691"

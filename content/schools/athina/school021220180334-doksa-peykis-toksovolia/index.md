@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Τοξοβολία"]
 categories: ["athlitismos"]
 subcategories: ["toxovolia"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180334"
 UID: "school021220180334"
 latitude: ""
 longitude: ""

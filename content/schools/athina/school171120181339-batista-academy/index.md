@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδόσφαιρο"]
 categories: ["athlitismos"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ.Δεκελειας 193, 13671 Acharne, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13671"]
+schoolsUID: "school171120181339"
 UID: "school171120181339"
 latitude: "38,0910306"
 longitude: "23,7591737"

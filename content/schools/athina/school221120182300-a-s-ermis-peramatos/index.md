@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΕΩΦ. ΕΙΡΗΝΗΣ 249, 18863 Perama"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18863"]
+schoolsUID: "school221120182300"
 UID: "school221120182300"
 latitude: "37,96297468"
 longitude: "23,57785148"

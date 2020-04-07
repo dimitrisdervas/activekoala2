@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Κατάδυση"]
 categories: ["water-sports"]
 subcategories: ["diving"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "12 Fokionos Negri, Lavreotoki, Griechenland, 195 00 Lávrion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19500"]
+schoolsUID: "school211120182148"
 UID: "school211120182148"
 latitude: ""
 longitude: ""

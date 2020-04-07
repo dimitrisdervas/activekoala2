@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΑΜΠΟΥΡΗ 8, 18345"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18345"]
+schoolsUID: "school211120180905"
 UID: "school211120180905"
 latitude: ""
 longitude: ""

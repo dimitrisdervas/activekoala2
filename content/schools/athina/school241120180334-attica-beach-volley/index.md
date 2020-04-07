@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Στάδιο Ειρήνης &amp; Φιλίας"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18547"]
+schoolsUID: "school241120180334"
 UID: "school241120180334"
 latitude: ""
 longitude: ""

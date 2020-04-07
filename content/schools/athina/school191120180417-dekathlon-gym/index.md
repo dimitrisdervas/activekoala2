@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΓ. ΦΑΝΟΥΡΙΟΥ 45 . ΙΛΙΟΝ, 13121 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13122"]
+schoolsUID: "school191120180417"
 UID: "school191120180417"
 latitude: ""
 longitude: ""

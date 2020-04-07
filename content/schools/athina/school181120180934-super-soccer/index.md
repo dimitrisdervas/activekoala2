@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: [""]
 categories: ["athlitismos"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αριστείδου 2, 16561 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
+schoolsUID: "school181120180934"
 UID: "school181120180934"
 latitude: "37,87389"
 longitude: "23,75772"

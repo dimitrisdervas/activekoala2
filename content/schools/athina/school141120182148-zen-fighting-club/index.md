@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βασιλίσσης Σοφίας 38, 15124 Amaroúsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120182148"
 UID: "school141120182148"
 latitude: "38,05429"
 longitude: "23,8085099"

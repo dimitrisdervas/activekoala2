@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ermou 10, Metamorfosi 144 52, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180920"
 UID: "school131120180920"
 latitude: ""
 longitude: ""

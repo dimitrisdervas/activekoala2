@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "26-28 Μπότσαρη Μάρκου, 17563 Old Faliron, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17563"]
+schoolsUID: "school241120180208"
 UID: "school241120180208"
 latitude: "37,93070296"
 longitude: "23,71046569"

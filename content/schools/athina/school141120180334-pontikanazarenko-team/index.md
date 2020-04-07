@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Brazilian Jiu Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["brazilian"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΥΨΕΛΗΣ 17 ΚΥΨΕΛΗ ΑΘΗΝΑ, 11257 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180334"
 UID: "school141120180334"
 latitude: ""
 longitude: ""

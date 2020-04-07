@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ακροπόλεως 49, 18756 Keratsíni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18541"]
+schoolsUID: "school221120182120"
 UID: "school221120182120"
 latitude: ""
 longitude: ""

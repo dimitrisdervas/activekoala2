@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΟΛΥΜΒΗΤΗΡΙΟ ΝΕΑΠΟΛΕΩΣ KAI ΠΟΣΕΙΔΩΝΙΟ ΚΟΛΥΜΒΗΤΗΡΙΟ, 56533 ΘΕΣΣΑΛΟΝΙΚΗ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120182217"
 UID: "school281120182217"
 latitude: ""
 longitude: ""

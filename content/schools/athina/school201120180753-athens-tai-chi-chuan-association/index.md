@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tai Chi"]
 categories: ["polemikes-texnes"]
 subcategories: ["taichi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Selinis 23, 14121 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14123"]
+schoolsUID: "school201120180753"
 UID: "school201120180753"
 latitude: ""
 longitude: ""

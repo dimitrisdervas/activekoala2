@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Brazilian Jiu Jitsu","MMA","Kickboxing","Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Sarantaporou 5, 15561 Holargos, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180529"
 UID: "school131120180529"
 latitude: "37,99967983"
 longitude: "23,79291058"

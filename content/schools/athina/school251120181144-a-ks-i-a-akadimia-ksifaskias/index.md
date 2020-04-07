@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ξιφασκία"]
 categories: ["athlitismos"]
 subcategories: ["fencing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Aidiniou 21, 12461 Chaidari"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12462"]
+schoolsUID: "school251120181144"
 UID: "school251120181144"
 latitude: ""
 longitude: ""

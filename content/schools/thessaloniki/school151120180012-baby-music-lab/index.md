@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: ["Μουσική Σχολή"]
 categories: ["paidagogika-kallitexnika"]
 subcategories: ["mousiki-sxoli"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180012"
 UID: "school151120180012"
 latitude: ""
 longitude: ""

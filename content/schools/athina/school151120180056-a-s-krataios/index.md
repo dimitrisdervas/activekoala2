@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["MMA"]
 categories: ["polemikes-texnes"]
 subcategories: ["mma"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Χαριλάου Τρικούπη 17 Γλυφάδα, 16675 Αθηνα"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180056"
 UID: "school151120180056"
 latitude: ""
 longitude: ""

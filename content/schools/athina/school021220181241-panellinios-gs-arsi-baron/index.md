@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Άρση Βαρών"]
 categories: ["athlitismos"]
 subcategories: ["lifting"]
-organisationid: "org241120180351"
+orgUID: "org241120180351"
 organisation: "Πανελλήνιος ΓΣ"
 orgurl: "org241120180351-panellinios-gs"
 address: "Ευελπίδων 2, 11362 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181241"
 UID: "school021220181241"
 latitude: ""
 longitude: ""

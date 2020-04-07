@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org170320192009"
+orgUID: "org170320192009"
 organisation: "ΟΦΘ Ομιλος Φιλων Θαλασσης"
 orgurl: "org170320192009-ofth-omilos-filon-thalassis"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181844"
 UID: "school041220181844"
 latitude: ""
 longitude: ""

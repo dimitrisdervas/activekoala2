@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΟΡΕΝΤΖΟΥ ΜΑΒΙΛΗ 3, 17563 Palaión Fáliron, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181632"
 UID: "school151120181632"
 latitude: "37,92762"
 longitude: "23,71239"

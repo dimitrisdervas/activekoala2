@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Αναρίχηση"]
 categories: ["athlitismos"]
 subcategories: ["anarixisi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "6 Ρόδων, 17455 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181422"
 UID: "school011220181422"
 latitude: "37,91316"
 longitude: "23,73612"

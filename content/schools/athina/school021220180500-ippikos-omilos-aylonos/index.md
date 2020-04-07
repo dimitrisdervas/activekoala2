@@ -6,7 +6,7 @@ categoryNoSLug: "Υπαιθρίες Δραστηριότητες"
 subcategoriesNoSLug: ["Ιππασία"]
 categories: ["ypaithries-drastiriotites"]
 subcategories: ["horse-riding"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αθηνών Χαλκίδας, 19011 Avlón, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180500"
 UID: "school021220180500"
 latitude: "38,24007"
 longitude: "23,74083"

@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: ["Μουσική Σχολή"]
 categories: ["theatro"]
 subcategories: ["mousiki-sxoli"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Olympiados 133, 54634 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120182329"
 UID: "school281120182329"
 latitude: ""
 longitude: ""

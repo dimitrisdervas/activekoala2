@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Skoufa 43, 13671 Acharne, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180251"
 UID: "school141120180251"
 latitude: "38,077086"
 longitude: "23,7404775"

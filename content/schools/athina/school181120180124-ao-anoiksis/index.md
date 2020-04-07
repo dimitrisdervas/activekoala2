@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Likavitou 27, 14569 Dionysos, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school181120180124"
 UID: "school181120180124"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: [""]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΦΙΛΟΚΤΗΤΟΥ 96, 131 22 Ilion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13122"]
+schoolsUID: "school191120180403"
 UID: "school191120180403"
 latitude: ""
 longitude: ""

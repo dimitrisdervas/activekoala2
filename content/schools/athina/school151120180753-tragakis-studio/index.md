@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Sanda"]
 categories: ["polemikes-texnes"]
 subcategories: ["sanda"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δήμητρας 11 , Άγιος Δημήτριος, 17343 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180753"
 UID: "school151120180753"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "VALTETSIOU 11, 12243 Aegaleo, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12241"]
+schoolsUID: "school171120181520"
 UID: "school171120181520"
 latitude: "37,9971352"
 longitude: "23,6752491"

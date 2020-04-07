@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εθ. Αντίστασης &amp; Μεσολογγίου 54, Peristéri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12134"]
+schoolsUID: "school241120181324"
 UID: "school241120181324"
 latitude: "38,0134953"
 longitude: "23,6910673"

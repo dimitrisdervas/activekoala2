@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org191120180236"
+orgUID: "org191120180236"
 organisation: "ΠΑΝΙΩΝΙΟΣ ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΣΜΥΡΝΗΣ"
 orgurl: "org191120180236-panionios-gymnastikos-syllogos-smyrnis"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181715"
 UID: "school191120181715"
 latitude: ""
 longitude: ""

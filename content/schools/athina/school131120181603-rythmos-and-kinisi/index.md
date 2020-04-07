@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ.ΕΙΡΗΝΗΣ 87, 18863 Perama"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181603"
 UID: "school131120181603"
 latitude: "37,9641847"
 longitude: "23,5658084"

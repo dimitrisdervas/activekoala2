@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["PERSONAL TRAINER"]
 categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Συγγρού 147, 17121 Néa Smírni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17455"]
+schoolsUID: "school171120182008"
 UID: "school171120182008"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ξιφασκία"]
 categories: ["athlitismos"]
 subcategories: ["fencing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Τρίτης Σεπτεμβρίου 9, 56334 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181821"
 UID: "school041220181821"
 latitude: ""
 longitude: ""

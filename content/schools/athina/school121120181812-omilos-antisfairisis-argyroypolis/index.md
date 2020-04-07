@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μ. Ασίας και Τριπόλεως, 164 52 Argyroupolis, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ. ΚΑΛΟΓΕΡΑΣ ΓΕΩΡΓΙΟΣ"
 zipcode: [""]
+schoolsUID: "school121120181812"
 UID: "school121120181812"
 latitude: ""
 longitude: ""

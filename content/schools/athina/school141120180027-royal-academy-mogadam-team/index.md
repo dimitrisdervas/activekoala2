@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Χανίων 1, 141 23 Likóvrisi, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180027"
 UID: "school141120180027"
 latitude: "38,07326443"
 longitude: "23,79067898"

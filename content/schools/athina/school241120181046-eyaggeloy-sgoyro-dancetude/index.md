@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΦΟΡΜΙΩΝΟΣ 137 ΚΑΙΣΑΡΙΑΝΗ, 16121 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181046"
 UID: "school241120181046"
 latitude: "37,9641953"
 longitude: "23,7574863"

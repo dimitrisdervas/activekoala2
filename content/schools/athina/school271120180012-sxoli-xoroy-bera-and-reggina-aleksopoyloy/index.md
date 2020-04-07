@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σουλίου 6α Μαρούσι- Αγίου Γεωργίου 42 Νέα Ιωνία, 15124 και 14234 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180012"
 UID: "school271120180012"
 latitude: ""
 longitude: ""

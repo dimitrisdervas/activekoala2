@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["MMA"]
 categories: ["polemikes-texnes"]
 subcategories: ["mma"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "4 Alexandrou Papanastasiou Street, 14341 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180348"
 UID: "school231120180348"
 latitude: "38,03400652"
 longitude: "23,74174241"

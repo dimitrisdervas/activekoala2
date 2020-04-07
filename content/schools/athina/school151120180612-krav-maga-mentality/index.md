@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Krav Maga"]
 categories: ["polemikes-texnes"]
 subcategories: ["krav-manga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Βεϊκου 121 – 123, Γαλάτσι, 111 47 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180612"
 UID: "school151120180612"
 latitude: ""
 longitude: ""

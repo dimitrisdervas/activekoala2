@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Αναρίχηση"]
 categories: ["athlitismos"]
 subcategories: ["anarixisi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Γεωργίου Γεννηματά 55, 551 32 Kalamariá, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181408"
 UID: "school011220181408"
 latitude: ""
 longitude: ""

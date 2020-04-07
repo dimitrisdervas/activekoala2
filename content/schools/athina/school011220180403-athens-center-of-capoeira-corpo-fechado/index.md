@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Argolidos 48, 11523 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180403"
 UID: "school011220180403"
 latitude: "37,99080209"
 longitude: "23,76083136"

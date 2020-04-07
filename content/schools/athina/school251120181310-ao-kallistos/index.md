@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ο.Α.Κ.Α. Βοηθητικά Γήπεδα Κ1, Κ2 (είσοδος επί της οδού Αρτέμιδος), 15126 Amaroúsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15233"]
+schoolsUID: "school251120181310"
 UID: "school251120181310"
 latitude: ""
 longitude: ""

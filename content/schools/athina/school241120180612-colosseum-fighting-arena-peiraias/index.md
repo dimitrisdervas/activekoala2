@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["MMA"]
 categories: ["polemikes-texnes"]
 subcategories: ["mma"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ομηρίδου Σκυλίτση 14, 18532 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120180612"
 UID: "school241120180612"
 latitude: "37,9428596"
 longitude: "23,6472301"

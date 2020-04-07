@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ιωάννου Μεταξά 4 Λεωφόρος Βουλιαγμένης, Άγιος Δημήτριος, 17343 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school261120180208"
 UID: "school261120180208"
 latitude: ""
 longitude: ""

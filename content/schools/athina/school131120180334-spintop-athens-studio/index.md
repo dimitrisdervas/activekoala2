@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Pole Dance"]
 categories: ["xoros"]
 subcategories: ["pole-dance"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αμφιαράου 59 - 4ος όροφος, 10442 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180334"
 UID: "school131120180334"
 latitude: "37,99737"
 longitude: "23,70836"

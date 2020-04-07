@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org170320192012"
+orgUID: "org170320192012"
 organisation: "ΓΣ ΑΜΑΡΟΥΣΙΟΥ"
 orgurl: "org170320192012-gs-amaroysioy"
 address: "ΔΙΟΝΥΣΟΥ &amp; ΝΙΟΒΗΣ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15124"]
+schoolsUID: "school221120180124"
 UID: "school221120180124"
 latitude: ""
 longitude: ""

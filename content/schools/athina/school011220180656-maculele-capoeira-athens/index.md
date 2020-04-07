@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "160 Tracy St, Athens, Georgia"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180656"
 UID: "school011220180656"
 latitude: ""
 longitude: ""

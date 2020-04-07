@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Σχολή Χορού"]
 categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ιουστινιανού 8,κέντρο, 54631 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school161120180432"
 UID: "school161120180432"
 latitude: ""
 longitude: ""

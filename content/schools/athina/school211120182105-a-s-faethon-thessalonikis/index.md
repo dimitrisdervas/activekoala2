@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ninjutsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["ninjutsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελ. Βενιζέλου 91, 56728 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school211120182105"
 UID: "school211120182105"
 latitude: "40,65267596"
 longitude: "22,94188857"

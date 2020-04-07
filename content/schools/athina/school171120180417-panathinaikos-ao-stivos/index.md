@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org241120180337"
+orgUID: "org241120180337"
 organisation: "ΠΑΝΑΘΗΝΑΙΚΟΣ ΑΟ"
 orgurl: "org241120180337-panathinaikos-ao"
 address: "Μακεδόνων 8, 11521 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11521"]
+schoolsUID: "school171120180417"
 UID: "school171120180417"
 latitude: "37,9828398"
 longitude: "23,7557773"

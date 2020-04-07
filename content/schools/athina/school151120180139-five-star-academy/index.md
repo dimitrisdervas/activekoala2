@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Βουλιαγμένης 171, 17237 Δάφνη Αττικής., 17237 Dáfni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180139"
 UID: "school151120180139"
 latitude: "37,9551018"
 longitude: "23,7363207"

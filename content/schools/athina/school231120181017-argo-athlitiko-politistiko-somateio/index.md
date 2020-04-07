@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ολυμπιακό Αθλητικό Κέντρο Αθηνών &quot;ΣΠΥΡΟΣ ΛΟΥΗΣ&quot; Κηφισίας 37, Μαρούσι, 151 23 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120181017"
 UID: "school231120181017"
 latitude: ""
 longitude: ""

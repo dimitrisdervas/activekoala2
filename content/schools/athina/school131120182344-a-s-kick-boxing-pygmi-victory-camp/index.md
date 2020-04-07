@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κρυστάλλη 42 (&amp; Φλέβας Ίλιον), Άγιοι Ανάργυροι"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182344"
 UID: "school131120182344"
 latitude: "38,02713482"
 longitude: "23,7138176"

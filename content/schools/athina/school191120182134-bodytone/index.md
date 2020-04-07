@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πλάτωνος 7, Ελληνικό - Άνω Γλυφάδα, 16777 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
+schoolsUID: "school191120182134"
 UID: "school191120182134"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["polemikes-texnes"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ολυμπιακό Στάδιο (Ο.Α.Κ.Α), 15123 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181144"
 UID: "school151120181144"
 latitude: "38,01596134"
 longitude: "23,75947952"

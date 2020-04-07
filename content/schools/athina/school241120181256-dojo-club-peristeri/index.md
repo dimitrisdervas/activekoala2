@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Judo"]
 categories: ["polemikes-texnes"]
 subcategories: ["judi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Komis 20, 12137 Peristéri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12137"]
+schoolsUID: "school241120181256"
 UID: "school241120181256"
 latitude: "38,0227928"
 longitude: "23,67453"

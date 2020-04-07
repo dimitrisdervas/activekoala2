@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["polemikes-texnes"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Protogenous 1, 105 54 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180612"
 UID: "school011220180612"
 latitude: ""
 longitude: ""

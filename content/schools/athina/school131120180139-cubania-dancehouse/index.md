@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Salsa"]
 categories: ["xoros"]
 subcategories: ["salsa"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Leoforos Kifisias 1, 11523 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180139"
 UID: "school131120180139"
 latitude: "37,98672867"
 longitude: "23,76137247"

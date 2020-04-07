@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: "org191120180251"
+orgUID: "org191120180251"
 organisation: "Holmes Place"
 orgurl: "org191120180251-holmes-place"
 address: "Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120181856"
 UID: "school281120181856"
 latitude: ""
 longitude: ""

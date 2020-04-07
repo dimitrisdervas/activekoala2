@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: [""]
 categories: ["baby"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αγ. Γεωργίου 9, Πατριαρχικό Πυλαίας ,περιοχή Mediteranean Cosmos, 57001 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180822"
 UID: "school011220180822"
 latitude: ""
 longitude: ""

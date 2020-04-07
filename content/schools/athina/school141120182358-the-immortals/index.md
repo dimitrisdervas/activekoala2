@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σοφοκλέους 12, 12461 Chaidari"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120182358"
 UID: "school141120182358"
 latitude: ""
 longitude: ""

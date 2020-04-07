@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["athlitismos"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΠΕΝΤΕΛΗΣ 150, Khalándri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15233"]
+schoolsUID: "school251120181939"
 UID: "school251120181939"
 latitude: "38,03401449"
 longitude: "23,8234379"

@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "PAPASTRATOU 60, 18545 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18545"]
+schoolsUID: "school241120180403"
 UID: "school241120180403"
 latitude: "37,95217486"
 longitude: "23,63618979"

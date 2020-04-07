@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Σχολή Χορού"]
 categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΒΑΣΙΛΙΣΣΗΣ ΟΛΓΑΣ 192, Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181715"
 UID: "school151120181715"
 latitude: ""
 longitude: ""

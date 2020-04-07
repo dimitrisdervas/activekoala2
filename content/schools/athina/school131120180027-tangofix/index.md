@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Τάνγκο"]
 categories: ["xoros"]
 subcategories: ["tango"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δηλιάδος και Λεωφορος Συγγρου 66, 117 42 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180027"
 UID: "school131120180027"
 latitude: ""
 longitude: ""

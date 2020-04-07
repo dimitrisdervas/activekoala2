@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Σαρανταπόρου 47 , Κ.Χαλάνδρι, 15231 Αθήνα"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15231"]
+schoolsUID: "school191120180739"
 UID: "school191120180739"
 latitude: ""
 longitude: ""

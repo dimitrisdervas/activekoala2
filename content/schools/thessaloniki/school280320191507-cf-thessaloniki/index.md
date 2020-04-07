@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school280320191507"
 UID: "school280320191507"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Cross Fit"]
 categories: ["kleistou-xorou"]
 subcategories: ["crossfit"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΣΤΡΑΤΗΓΟΥ ΔΑΓΚΛΗ 49, ΚΑΤΩ ΠΑΤΗΣΙΑ, 10445 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13673"]
+schoolsUID: "school171120181353"
 UID: "school171120181353"
 latitude: ""
 longitude: ""

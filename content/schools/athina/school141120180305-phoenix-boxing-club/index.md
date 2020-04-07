@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελληνοσερβικής Φιλίας 63, 15343 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180305"
 UID: "school141120180305"
 latitude: "38,015843"
 longitude: "23,82059097"

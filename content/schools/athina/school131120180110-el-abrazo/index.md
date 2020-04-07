@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Τάνγκο"]
 categories: ["xoros"]
 subcategories: ["tango"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kapetan Petroutsou 5-7, 11 523 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180110"
 UID: "school131120180110"
 latitude: "37,9893913"
 longitude: "23,7597275"

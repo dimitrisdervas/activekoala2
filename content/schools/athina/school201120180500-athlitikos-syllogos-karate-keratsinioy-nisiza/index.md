@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Karate"]
 categories: ["polemikes-texnes"]
 subcategories: ["karate"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΝΤΩΝΙΟΥ ΓΙΑΝΝΟΥΡΗ 1, 18757 Keratsíni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18758"]
+schoolsUID: "school201120180500"
 UID: "school201120180500"
 latitude: ""
 longitude: ""

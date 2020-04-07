@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ju Jitsu"]
 categories: ["polemikes-texnes"]
 subcategories: ["jujitsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΩΝΣΤΑΝΤΙΝΟΥΠΟΛΕΩΣ 88, 19200 ΕΛΕΥΣΙΝΑ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181939"
 UID: "school191120181939"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Τοξοβολία"]
 categories: ["athlitismos"]
 subcategories: ["toxovolia"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Στοργής 2, 16674 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
+schoolsUID: "school191120181408"
 UID: "school191120181408"
 latitude: "37,87733"
 longitude: "23,7644"

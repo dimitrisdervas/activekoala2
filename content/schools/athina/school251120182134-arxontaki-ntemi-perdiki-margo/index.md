@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "STUDIO 1: Λ.Πεντέλης 25 &amp; Ομήρου 1, Βριλήσσια STUDIO 2: Π.Μπακογιάννη 43 &amp; Ηρακλείτου, Πάτημα Χαλανδρίου, 15235 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school251120182134"
 UID: "school251120182134"
 latitude: ""
 longitude: ""

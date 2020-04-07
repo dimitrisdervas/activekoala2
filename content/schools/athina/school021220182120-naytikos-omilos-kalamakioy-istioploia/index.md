@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: "org241120180308"
+orgUID: "org241120180308"
 organisation: "ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΚΑΛΑΜΑΚΙΟΥ"
 orgurl: "org241120180308-naytikos-omilos-kalamakioy"
 address: "Μαρίνα Αλίμου, 17455 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220182120"
 UID: "school021220182120"
 latitude: ""
 longitude: ""

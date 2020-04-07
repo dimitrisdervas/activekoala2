@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: ["boxing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΟΑΚΑ (ΚΛΕΙΣΤΟ ΚΟΛΥΜΒΗΤΗΡΙΟ) 151-22"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181924"
 UID: "school131120181924"
 latitude: ""
 longitude: ""

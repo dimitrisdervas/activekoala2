@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΧΑΡΟΚΟΠΟΥ 115 - 117, Τηλ. 2109566309 - 2109566368 Καλλιθέα Αττικής Τ.Κ. 17676"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181953"
 UID: "school151120181953"
 latitude: "37,9608223"
 longitude: "23,706816"

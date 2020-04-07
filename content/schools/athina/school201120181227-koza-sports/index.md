@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ping Pong"]
 categories: ["athlitismos"]
 subcategories: ["ping-pong"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παναγούλη Αλέκου &amp; Ανδριανού 1, 14234 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14121"]
+schoolsUID: "school201120181227"
 UID: "school201120181227"
 latitude: ""
 longitude: ""

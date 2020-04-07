@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org191120180207"
+orgUID: "org191120180207"
 organisation: "ΑΟΝΣ ΜΙΛΩΝ"
 orgurl: "org191120180207-aons-milon"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120182120"
 UID: "school151120182120"
 latitude: ""
 longitude: ""

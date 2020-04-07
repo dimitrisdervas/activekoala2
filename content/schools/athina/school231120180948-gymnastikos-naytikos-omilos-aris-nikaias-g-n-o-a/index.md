@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180500"
+orgUID: "org191120180500"
 organisation: "ΑΡΗΣ ΝΙΚΑΙΑΣ"
 orgurl: "org191120180500-aris-nikaias"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180948"
 UID: "school231120180948"
 latitude: ""
 longitude: ""

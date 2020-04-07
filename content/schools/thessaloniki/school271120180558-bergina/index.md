@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΕΤΟΡΑΧΗΣ 7, ΕΥΟΣΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["56224"]
+schoolsUID: "school271120180558"
 UID: "school271120180558"
 latitude: ""
 longitude: ""

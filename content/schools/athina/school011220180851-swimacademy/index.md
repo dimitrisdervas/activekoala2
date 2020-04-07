@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: [""]
 categories: ["baby"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελ Βενιζέλου 3α &amp; 33ης Ελληνικό, 16777 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180851"
 UID: "school011220180851"
 latitude: "37,8911655"
 longitude: "23,74626828"

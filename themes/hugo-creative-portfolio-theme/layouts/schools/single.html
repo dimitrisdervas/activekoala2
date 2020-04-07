@@ -101,6 +101,15 @@
               <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="http://{{ .Params.website | safeURL }}"  target="_blank" >website</a>
             {{ end }}
         </div>
+<!-- ORGANIZATION -->
+        <div class="social bg-white flex flex-col  mb-8 p-8 ">
+            {{ if  .Params.organisation }}
+                {{ $orgRelated := where (.Site.RegularPages.RelatedTo ( keyVals "orgUID" .Params.orgUID )) "Type" "organisations" }}
+                {{ range $orgRelated }}
+                    <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="{{ .Permalink }}" target="_blank">{{.Title}}</a>
+                {{ end }}
+           {{ end }}
+       </div>
     </div>
     </div>
     </div>

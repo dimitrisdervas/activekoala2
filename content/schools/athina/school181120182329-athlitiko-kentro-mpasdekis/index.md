@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΔΙΓΕΝΗ 8, ΗΛΙΟΥΠΟΛΗ, 16344 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16344"]
+schoolsUID: "school181120182329"
 UID: "school181120182329"
 latitude: "37,94559425"
 longitude: "23,75877678"

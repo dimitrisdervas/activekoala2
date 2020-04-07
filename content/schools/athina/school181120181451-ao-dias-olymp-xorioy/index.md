@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΣΤΑΔΙΟ ΟΛΥΜΠΙΑΚΟΥ ΧΩΡΙΟΥ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13677"]
+schoolsUID: "school181120181451"
 UID: "school181120181451"
 latitude: ""
 longitude: ""

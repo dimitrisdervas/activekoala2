@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ski"]
 categories: ["water-sports"]
 subcategories: ["ski"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Θερμησία, Ermióni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19003"]
+schoolsUID: "school231120181715"
 UID: "school231120181715"
 latitude: "37,41925396"
 longitude: "23,32946777"

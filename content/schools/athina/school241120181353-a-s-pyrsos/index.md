@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tang Soo Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tang-soo-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΟΛΟΚΟΤΡΩΝΗ 24, 14121 Iráklion (Athens), Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school241120181353"
 UID: "school241120181353"
 latitude: ""
 longitude: ""

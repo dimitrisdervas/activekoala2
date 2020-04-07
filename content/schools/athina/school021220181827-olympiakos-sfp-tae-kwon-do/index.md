@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["athlitismos"]
 subcategories: ["tae-kwon-do"]
-organisationid: "org241120180322"
+orgUID: "org241120180322"
 organisation: "ΟΛΥΜΠΙΑΚΟΣ ΣΦΠ"
 orgurl: "org241120180322-olympiakos-sfp"
 address: "18534 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181827"
 UID: "school021220181827"
 latitude: ""
 longitude: ""

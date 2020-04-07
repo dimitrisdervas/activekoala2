@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Πάλη"]
 categories: ["athlitismos"]
 subcategories: ["wrestling"]
-organisationid: "org191120180627"
+orgUID: "org191120180627"
 organisation: "Α.Σ. ΠΑΟΚ / PAOK Athletic Club"
 orgurl: "org191120180627-a-s-paok-paok-athletic-club"
 address: "Mikras Asias 1, 54351 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181534"
 UID: "school021220181534"
 latitude: ""
 longitude: ""

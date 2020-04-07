@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["PILATES"]
 categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κολοκοτρώνη 36, Γλυφάδα, ΤΚ 16675"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16675"]
+schoolsUID: "school181120180920"
 UID: "school181120180920"
 latitude: ""
 longitude: ""

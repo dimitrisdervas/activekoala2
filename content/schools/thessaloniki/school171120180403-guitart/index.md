@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Κιθάρα"]
 categories: ["mousiki"]
 subcategories: ["guitar"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Τάκη Οικονομίδη 44, 55131 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school171120180403"
 UID: "school171120180403"
 latitude: ""
 longitude: ""

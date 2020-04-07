@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΕΜΠΟΡΙΚΟ ΚΕΝΤΡΟ PLAZA, ΑΓΓ.ΜΕΤΑΞΑ 39 (1ος όροφος), Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181451"
 UID: "school191120181451"
 latitude: "37,86008225"
 longitude: "23,75450134"

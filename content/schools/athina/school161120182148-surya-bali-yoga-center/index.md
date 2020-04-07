@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εθνάρχου Μακαρίου 113Α, 16452 Argyroupolis, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16451"]
+schoolsUID: "school161120182148"
 UID: "school161120182148"
 latitude: "37,9091187"
 longitude: "23,7491703"

@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: [""]
 categories: ["theatro"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Thessalonikis 20,Ωραιόκαστρο, 57013 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180305"
 UID: "school231120180305"
 latitude: "40,73160035"
 longitude: "22,92125702"

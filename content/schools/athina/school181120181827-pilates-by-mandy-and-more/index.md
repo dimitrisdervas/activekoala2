@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πλαπούτα 39 &amp; Ροδοπόλεως 73, 167 77 Ellinikón, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
+schoolsUID: "school181120181827"
 UID: "school181120181827"
 latitude: ""
 longitude: ""

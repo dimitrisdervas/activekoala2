@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Bachata"]
 categories: ["xoros"]
 subcategories: ["bachata"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "57 Sygrou Avenue , (Fix), 11745 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180236"
 UID: "school131120180236"
 latitude: "37,9626495"
 longitude: "23,72446209"

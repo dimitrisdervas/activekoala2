@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Hapkido"]
 categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "αιγαιου 11, 17121 Néa Smírni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120180710"
 UID: "school141120180710"
 latitude: "37,9536629"
 longitude: "23,7155476"

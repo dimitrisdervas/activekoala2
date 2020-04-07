@@ -1,7 +1,7 @@
 ---
 title: |
    ΧΑΝΘ
-UID: ["org191120180641"]
+orgUID: "org191120180641"
 schoolsUID: ["school271120180948"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Κολύμβηση"]

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlitismos"]
 subcategories: ["cycling"]
-organisationid: "org191120180655"
+orgUID: "org191120180655"
 organisation: "ΓΣ ΗΡΑΚΛΗΣ ΘΕΣ/ΝΙΚΗΣ"
 orgurl: "org191120180655-gs-iraklis-thes-nikis"
 address: "Αγίου Δημητρίου 159Β, Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181603"
 UID: "school011220181603"
 latitude: ""
 longitude: ""

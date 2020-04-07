@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ακτή Μουτσοπούλου 37, 185 34 Peiraeus, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18535"]
+schoolsUID: "school221120181924"
 UID: "school221120181924"
 latitude: "37,93564307"
 longitude: "23,65004539"

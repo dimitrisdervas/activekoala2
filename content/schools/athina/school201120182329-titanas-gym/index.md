@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Ενόργανη-Ρυθμική"]
 categories: ["polemikes-texnes"]
 subcategories: ["gymnastics-rithmiki"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Παπαφλέσσα 26 και Βορείου Ηπείρου, 15125 Amaroúsion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school201120182329"
 UID: "school201120182329"
 latitude: "38,05222246"
 longitude: "23,81124616"

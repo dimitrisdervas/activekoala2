@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "OAKA - Μαρούσι, 15123 Αμαρυσίας Αρτέμιδος 43-45 ,Μαρούσι"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11257"]
+schoolsUID: "school171120181408"
 UID: "school171120181408"
 latitude: "38,04040321"
 longitude: "23,78792174"

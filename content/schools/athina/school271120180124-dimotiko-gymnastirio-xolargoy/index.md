@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["kleistou-xorou"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Νευροκοπίου &amp; Αργυροκάστρου, 15669 Papágou, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15561"]
+schoolsUID: "school271120180124"
 UID: "school271120180124"
 latitude: ""
 longitude: ""

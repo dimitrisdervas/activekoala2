@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Πόλο"]
 categories: ["athlitismos"]
 subcategories: ["polo"]
-organisationid: "org241120180322"
+orgUID: "org241120180322"
 organisation: "ΟΛΥΜΠΙΑΚΟΣ ΣΦΠ"
 orgurl: "org241120180322-olympiakos-sfp"
 address: "18534 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181856"
 UID: "school021220181856"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Evert Angelou, 16342 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ. ΔΡΑΚΟΠΟΥΛΟΣ ΠΕΤΡΟΣ"
 zipcode: ["16342"]
+schoolsUID: "school201120180056"
 UID: "school201120180056"
 latitude: ""
 longitude: ""

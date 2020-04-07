@@ -1,7 +1,7 @@
 ---
 title: |
    ΑΡΗΣ ΝΙΚΑΙΑΣ
-UID: ["org191120180500"]
+orgUID: "org191120180500"
 schoolsUID: ["school231120180948"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Κολύμβηση"]

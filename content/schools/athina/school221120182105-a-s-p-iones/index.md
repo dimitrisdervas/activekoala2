@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΑΛΒΟΥ &amp; ΤΖΑΒΕΛΛΑ, 14231 Ν. ΙΩΝΙΑ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14231"]
+schoolsUID: "school221120182105"
 UID: "school221120182105"
 latitude: ""
 longitude: ""

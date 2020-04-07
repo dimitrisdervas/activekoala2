@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κωπηλασία"]
 categories: ["athlitismos"]
 subcategories: ["rowing"]
-organisationid: "org170320192006"
+orgUID: "org170320192006"
 organisation: "Ναυτικός Όμιλος Θεσσαλονίκης"
 orgurl: "org170320192006-naytikos-omilos-thessalonikis"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180622"
 UID: "school021220180622"
 latitude: ""
 longitude: ""

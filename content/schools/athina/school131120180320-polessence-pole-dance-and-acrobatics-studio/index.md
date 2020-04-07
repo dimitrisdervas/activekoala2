@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Pole Dance"]
 categories: ["xoros"]
 subcategories: ["pole-dance"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Odemisioy 1 and Evroy 40, 11527 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180320"
 UID: "school131120180320"
 latitude: "37,98276893"
 longitude: "23,75973701"

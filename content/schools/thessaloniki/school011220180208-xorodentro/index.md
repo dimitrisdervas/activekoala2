@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Εργαστηρι Χορού"]
 categories: ["mousiki"]
 subcategories: ["ergastiri-xorou"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Καθολικών 4, 54625 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220180208"
 UID: "school011220180208"
 latitude: ""
 longitude: ""

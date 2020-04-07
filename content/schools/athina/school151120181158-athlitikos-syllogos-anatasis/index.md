@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δωδεκανήσου 18 Άγιοι Ανάργυροι,Ανάκασα(πλατεία Άρη Βελουχιώτη), 13562 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181158"
 UID: "school151120181158"
 latitude: "38,03986176"
 longitude: "23,729463"

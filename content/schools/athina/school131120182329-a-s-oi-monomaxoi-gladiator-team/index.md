@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Hapkido"]
 categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Θεσσαλονίκης 151 ,Εναντι σταθμου Α.Πετραλωνων, 11852 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120182329"
 UID: "school131120182329"
 latitude: "37,9675079"
 longitude: "23,7089307"

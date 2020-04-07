@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Πόλο"]
 categories: ["athlitismos"]
 subcategories: ["polo"]
-organisationid: "org241120180405"
+orgUID: "org241120180405"
 organisation: "ΣΑΠΚ ΝΕΑΠΟΛΗΣ"
 orgurl: "org241120180405-sapk-neapolis"
 address: "ΕΑΚ ΝΕΑΠΟΛΗΣ - 1ος όροφος, 56728 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180851"
 UID: "school271120180851"
 latitude: ""
 longitude: ""

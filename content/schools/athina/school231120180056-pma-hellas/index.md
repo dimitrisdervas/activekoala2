@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ξιφασκία"]
 categories: ["athlitismos"]
 subcategories: ["fencing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "4 Alexandrou Papanastasiou Street, 14341 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14341"]
+schoolsUID: "school231120180056"
 UID: "school231120180056"
 latitude: "38,03400652"
 longitude: "23,74174241"

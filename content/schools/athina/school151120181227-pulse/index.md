@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΕΟΦΩΡΟΣ ΜΑΡΑΘΩΝΟΣ 4, 14565 AΓΙΟΣ ΣΤΕΦΑΝΟΣ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14565"]
+schoolsUID: "school151120181227"
 UID: "school151120181227"
 latitude: ""
 longitude: ""

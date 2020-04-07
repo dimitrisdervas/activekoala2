@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Athanasiou Diakou 12, Vrilissia, 15235 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15235"]
+schoolsUID: "school191120180041"
 UID: "school191120180041"
 latitude: ""
 longitude: ""

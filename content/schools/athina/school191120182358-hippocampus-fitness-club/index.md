@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ.Βουλιαγμένης 2 &amp; Παπαφλέσσα 1A, 16777 Ellinikón, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16777"]
+schoolsUID: "school191120182358"
 UID: "school191120182358"
 latitude: "37,88845299"
 longitude: "23,75041894"

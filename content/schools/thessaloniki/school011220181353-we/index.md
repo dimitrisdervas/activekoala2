@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Αναρίχηση"]
 categories: ["athlitismos"]
 subcategories: ["anarixisi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "G&#39; Septemvriou &amp; Gr.Lampraki, 54636 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181353"
 UID: "school011220181353"
 latitude: ""
 longitude: ""

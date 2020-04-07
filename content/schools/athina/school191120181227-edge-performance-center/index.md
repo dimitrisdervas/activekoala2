@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Foivis 13, 16674 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16674"]
+schoolsUID: "school191120181227"
 UID: "school191120181227"
 latitude: "37,85973"
 longitude: "23,75402"

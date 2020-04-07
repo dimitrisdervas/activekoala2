@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Χατζηκωνσταντή Μιχαήλ 39, Αμπελόκηποι, TK 11524"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11524"]
+schoolsUID: "school151120181924"
 UID: "school151120181924"
 latitude: ""
 longitude: ""

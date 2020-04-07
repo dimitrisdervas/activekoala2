@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlitismos"]
 subcategories: ["cycling"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Nikolaidou 3, 19600 Mándra, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180236"
 UID: "school021220180236"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΓΙΟΥ ΑΝΤΩΝΙΟΥ, 19007 Néa Mákri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19007"]
+schoolsUID: "school231120180012"
 UID: "school231120180012"
 latitude: "38,1041603"
 longitude: "23,9755096"

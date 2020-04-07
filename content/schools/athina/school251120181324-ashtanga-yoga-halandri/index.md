@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Yoga"]
 categories: ["polemikes-texnes"]
 subcategories: ["yoga"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μεταμορφώσεως 51, Χαλάνδρι, 15234 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15234"]
+schoolsUID: "school251120181324"
 UID: "school251120181324"
 latitude: "38,02564648"
 longitude: "23,82309099"

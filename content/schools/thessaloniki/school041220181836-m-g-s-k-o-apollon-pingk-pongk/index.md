@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ping Pong"]
 categories: ["athlitismos"]
 subcategories: ["ping-pong"]
-organisationid: "org170320192010"
+orgUID: "org170320192010"
 organisation: "Μ.Γ.Σ.Κ. &quot;Ο Απόλλων&quot;"
 orgurl: "org170320192010-m-g-s-k-o-apollon"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181836"
 UID: "school041220181836"
 latitude: ""
 longitude: ""

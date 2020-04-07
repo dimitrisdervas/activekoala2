@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: ["tae-kwon-do"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΑΓ. ΦΑΝΟΥΡΙΟΥ 38, 13122 Néa Liósia, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13522"]
+schoolsUID: "school191120180348"
 UID: "school191120180348"
 latitude: "38,02009121"
 longitude: "23,70956973"

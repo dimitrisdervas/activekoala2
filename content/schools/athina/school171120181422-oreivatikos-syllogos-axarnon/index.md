@@ -6,7 +6,7 @@ categoryNoSLug: "Βουνό"
 subcategoriesNoSLug: ["Climbing"]
 categories: ["athlimata-vounou"]
 subcategories: ["climbing"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ. Φιλαδελφειας 126, 13673 Acharnae, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["13673"]
+schoolsUID: "school171120181422"
 UID: "school171120181422"
 latitude: "38,0711379"
 longitude: "23,7387384"

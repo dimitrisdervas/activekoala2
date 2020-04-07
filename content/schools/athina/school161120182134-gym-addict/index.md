@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "25is Martiou 43, Argyroupoli, 16452 Argyroupolis, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16452"]
+schoolsUID: "school161120182134"
 UID: "school161120182134"
 latitude: "37,90446989"
 longitude: "23,75266075"

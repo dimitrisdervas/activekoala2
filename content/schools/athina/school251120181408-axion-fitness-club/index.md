@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δουκισσης Πλακεντιας 8, Πλ. Κέννεντυ, Χαλάνδρι, 15234 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15234"]
+schoolsUID: "school251120181408"
 UID: "school251120181408"
 latitude: "38,01913944"
 longitude: "23,80902529"

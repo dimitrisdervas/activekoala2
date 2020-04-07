@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Λ. Μαραθώνος 150, 1ος όροφος,Νέα Μάκρη, T.K. 190 05"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19005"]
+schoolsUID: "school211120181924"
 UID: "school211120181924"
 latitude: ""
 longitude: ""

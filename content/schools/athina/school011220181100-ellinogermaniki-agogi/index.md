@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κηφισίας 37, 15123 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: ["Κολυμβητήριο ΟΑΚΚΑ"]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181100"
 UID: "school011220181100"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Kitesurf"]
 categories: ["water-sports"]
 subcategories: ["kitesurf"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Apostolou Ilektras 1 Neo Irakleio, 14121 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [":15234"]
+schoolsUID: "school251120181715"
 UID: "school251120181715"
 latitude: ""
 longitude: ""

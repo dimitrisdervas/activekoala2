@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: [""]
 categories: ["kleistou-xorou"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Χελιδονούς 20A Κηφισιά Αττική Ελλάδα /20A Chelidonous street, Kifisia, Athens, Greece, 14564 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14564"]
+schoolsUID: "school211120181603"
 UID: "school211120181603"
 latitude: "38,0859795"
 longitude: "23,8015308"

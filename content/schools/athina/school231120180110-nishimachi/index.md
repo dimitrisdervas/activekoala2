@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΠΕΛΑΣΓΙΑΣ &amp; ΔΩΔΕΚΑΝΗΣΟΥ 1, 12136 Peristéri, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180110"
 UID: "school231120180110"
 latitude: "38,01249694"
 longitude: "23,68630607"

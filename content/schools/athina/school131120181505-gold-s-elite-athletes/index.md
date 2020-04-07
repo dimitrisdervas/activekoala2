@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΕΩΦΟΡΟΣ ΔΗΜΟΚΡΑΤΙΑΣ 15, ΗΛΙΟΥΠΟΛΗ, 16344 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120181505"
 UID: "school131120181505"
 latitude: ""
 longitude: ""

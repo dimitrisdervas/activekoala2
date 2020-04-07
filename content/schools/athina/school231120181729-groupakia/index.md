@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Πόρτο Ράφτη 235,Πόρτο Ράφτη,Τ.Κ. 19003"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19003"]
+schoolsUID: "school231120181729"
 UID: "school231120181729"
 latitude: ""
 longitude: ""

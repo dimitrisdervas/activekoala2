@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180319"
+orgUID: "org191120180319"
 organisation: "ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΗΛΙΟΥΠΟΛΗΣ"
 orgurl: "org191120180319-gymnastikos-syllogos-ilioypolis"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school201120180656"
 UID: "school201120180656"
 latitude: ""
 longitude: ""

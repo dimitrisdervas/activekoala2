@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Handball"]
 categories: ["athlitismos"]
 subcategories: ["handball"]
-organisationid: "org241120180322"
+orgUID: "org241120180322"
 organisation: "ΟΛΥΜΠΙΑΚΟΣ ΣΦΠ"
 orgurl: "org241120180322-olympiakos-sfp"
 address: "18534 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181744"
 UID: "school021220181744"
 latitude: ""
 longitude: ""

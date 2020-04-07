@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org241120180239"
+orgUID: "org241120180239"
 organisation: "ΕΘΝΙΚΟΣ ΓΣ"
 orgurl: "org241120180239-ethnikos-gs"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180334"
 UID: "school271120180334"
 latitude: ""
 longitude: ""

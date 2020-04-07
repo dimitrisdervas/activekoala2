@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: [""]
 categories: ["theatro"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μαρίνου Αντύπα και Χάλκης 3, Περιοχή Praktiker (πίσω απο τα Jumbo)"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120181715"
 UID: "school281120181715"
 latitude: ""
 longitude: ""

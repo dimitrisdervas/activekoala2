@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Πάλη"]
 categories: ["athlitismos"]
 subcategories: ["wrestling"]
-organisationid: "org241120180351"
+orgUID: "org241120180351"
 organisation: "Πανελλήνιος ΓΣ"
 orgurl: "org241120180351-panellinios-gs"
 address: "Ευελπίδων 2, 11362 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181256"
 UID: "school021220181256"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org241120180156"
+orgUID: "org241120180156"
 organisation: "ΑΘΛΗΤΙΚΟΣ ΝΑΥΤΙΚΟΣ ΟΜΙΛΟΣ ΓΛΥΦΑΔΑΣ (Α.Ν.Ο.Γ)"
 orgurl: "org241120180156-athlitikos-naytikos-omilos-glyfadas-a-n-o-g"
 address: "42 Diadoxou Pavlou Street, Glyfada, Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school191120181158"
 UID: "school191120181158"
 latitude: "37,86325016"
 longitude: "23,74453425"

@@ -6,7 +6,7 @@ categoryNoSLug: "Baby"
 subcategoriesNoSLug: ["Baby Swimming"]
 categories: ["baby"]
 subcategories: ["baby-swimming"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αρχιπελάγους 88 Άνω Γλυφάδα, 16562 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: ["Κολυμβητήριο Γλυφάδας"]
 rensponsibles: ""
 zipcode: ["16562"]
+schoolsUID: "school011220181046"
 UID: "school011220181046"
 latitude: ""
 longitude: ""

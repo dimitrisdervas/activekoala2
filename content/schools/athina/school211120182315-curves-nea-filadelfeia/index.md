@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Κοιμήσεως Θεοτόκου 33 &amp; Ανδριανού,Νέα Φιλαδέλφεια, Τ.Κ. 143 41"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14341"]
+schoolsUID: "school211120182315"
 UID: "school211120182315"
 latitude: ""
 longitude: ""

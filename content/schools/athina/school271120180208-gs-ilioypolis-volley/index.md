@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Volley"]
 categories: ["athlitismos"]
 subcategories: ["volley"]
-organisationid: "org241120180225"
+orgUID: "org241120180225"
 organisation: "ΓΣ ΗΛΙΟΥΠΟΛΗΣ"
 orgurl: "org241120180225-gs-ilioypolis"
 address: "ΤΥΡΤΑΙΟΥ 1-3, 163 45 ΗΛΙΟΥΠΟΛΗ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180208"
 UID: "school271120180208"
 latitude: ""
 longitude: ""

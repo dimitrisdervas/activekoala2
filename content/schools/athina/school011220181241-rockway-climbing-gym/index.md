@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Αναρίχηση"]
 categories: ["athlitismos"]
 subcategories: ["anarixisi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Proveleggiou 4, Iraklio, 14122 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181241"
 UID: "school011220181241"
 latitude: "38,0609"
 longitude: "23,77985"

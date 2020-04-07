@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Τσαμαδού 43 &amp; Ευριπίδου, 3ος όροφος,Πειραιάς, Τ.Κ. 185 32"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18532"]
+schoolsUID: "school221120181729"
 UID: "school221120181729"
 latitude: ""
 longitude: ""

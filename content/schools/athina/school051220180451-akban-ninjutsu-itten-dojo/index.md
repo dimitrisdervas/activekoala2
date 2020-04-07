@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Ninjutsu"]
 categories: ["kleistou-xorou"]
 subcategories: ["ninjutsu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αντιλόχου 5, 10435 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220180451"
 UID: "school051220180451"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Ποδόσφαιρο"]
 categories: ["athlitismos"]
 subcategories: ["football"]
-organisationid: "org191120180627"
+orgUID: "org191120180627"
 organisation: "Α.Σ. ΠΑΟΚ / PAOK Athletic Club"
 orgurl: "org191120180627-a-s-paok-paok-athletic-club"
 address: "Mikras Asias 1, 54351 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181339"
 UID: "school021220181339"
 latitude: ""
 longitude: ""

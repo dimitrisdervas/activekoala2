@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org191120180222"
+orgUID: "org191120180222"
 organisation: "GOLDEN GYM"
 orgurl: "org191120180222-golden-gym"
 address: "Κυψέλης 32, Κυψέλη, ΤΚ 11362"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11362"]
+schoolsUID: "school211120182051"
 UID: "school211120182051"
 latitude: ""
 longitude: ""

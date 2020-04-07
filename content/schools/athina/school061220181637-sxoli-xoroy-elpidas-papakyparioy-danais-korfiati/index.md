@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΣΩΚΡΑΤΟΥΣ 76 ΚΑΙ ΔΑΒΑΚΗ, ΚΑΛΛΙΘΕΑ, 176 72 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school061220181637"
 UID: "school061220181637"
 latitude: ""
 longitude: ""

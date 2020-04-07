@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Ιστιοπλοϊα"]
 categories: ["water-sports"]
 subcategories: ["sailing"]
-organisationid: "org170320192009"
+orgUID: "org170320192009"
 organisation: "ΟΦΘ Ομιλος Φιλων Θαλασσης"
 orgurl: "org170320192009-ofth-omilos-filon-thalassis"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181842"
 UID: "school041220181842"
 latitude: ""
 longitude: ""

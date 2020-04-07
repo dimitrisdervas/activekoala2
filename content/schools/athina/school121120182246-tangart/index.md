@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Τάνγκο"]
 categories: ["xoros"]
 subcategories: ["tango"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "10 Kallirrois str, 11743 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school121120182246"
 UID: "school121120182246"
 latitude: "37,9669379"
 longitude: "23,73181446"

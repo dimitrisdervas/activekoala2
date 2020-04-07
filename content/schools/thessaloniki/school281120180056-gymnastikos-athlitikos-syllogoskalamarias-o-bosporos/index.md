@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180724"
+orgUID: "org191120180724"
 organisation: "ΒΟΣΠΟΡΟΣ ΚΑΛΑΜΑΡΙΑΣ"
 orgurl: "org191120180724-bosporos-kalamarias"
 address: "Τραπεζούντος 40          "
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120180056"
 UID: "school281120180056"
 latitude: ""
 longitude: ""

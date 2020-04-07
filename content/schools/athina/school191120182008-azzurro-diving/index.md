@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["water-sports"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λεωφόρος Ιωνιας 154 Αλιμος, 17456 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [":10445"]
+schoolsUID: "school191120182008"
 UID: "school191120182008"
 latitude: "37,91725316"
 longitude: "23,73373032"

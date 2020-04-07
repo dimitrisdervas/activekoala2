@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: "org170320192013"
+orgUID: "org170320192013"
 organisation: "ΑΟΠΦ - Αθλητικός Όμιλος Παλαιού Φαλήρου"
 orgurl: "org170320192013-aopf-athlitikos-omilos-palaioy-faliroy"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΚΟΥΤΣΟΘΑΝΑΣΗΣ ΠΑΝΤΕΛΗΣ"
 zipcode: ["17562"]
+schoolsUID: "school231120181227"
 UID: "school231120181227"
 latitude: ""
 longitude: ""

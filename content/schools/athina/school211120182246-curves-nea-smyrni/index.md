@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org170320192014"
+orgUID: "org170320192014"
 organisation: "Curves"
 orgurl: "org170320192014-curves"
 address: "Προσκόπων Αϊδινίου 1Α,1ος Όροφος,Νέα Σμύρνη, Τ.Κ. 171 23"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17123"]
+schoolsUID: "school211120182246"
 UID: "school211120182246"
 latitude: ""
 longitude: ""

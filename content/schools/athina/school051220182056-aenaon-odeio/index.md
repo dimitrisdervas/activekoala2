@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: [""]
 categories: ["mousiki"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Εργατών Τύπου 19 Ηλιούπολη , ΤΡΑΛΛΕΩΝ 22, Βύρωνας, 16346 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220182056"
 UID: "school051220182056"
 latitude: ""
 longitude: ""

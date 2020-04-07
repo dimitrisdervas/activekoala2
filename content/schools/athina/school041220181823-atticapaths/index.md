@@ -6,7 +6,7 @@ categoryNoSLug: "Βουνό"
 subcategoriesNoSLug: ["Ποδηλασία"]
 categories: ["athlimata-vounou"]
 subcategories: ["cycling"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school041220181823"
 UID: "school041220181823"
 latitude: ""
 longitude: ""

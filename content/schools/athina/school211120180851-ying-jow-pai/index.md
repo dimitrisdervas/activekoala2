@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Kung Fu"]
 categories: ["polemikes-texnes"]
 subcategories: ["kung-fu"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΛΑΜΠΡΑΚΗ ΓΡΗΓΟΡΙΟΥ 415 ΚΕΡΑΤΣΙΝΙ, 18757 Keratsíni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18757"]
+schoolsUID: "school211120180851"
 UID: "school211120180851"
 latitude: ""
 longitude: ""

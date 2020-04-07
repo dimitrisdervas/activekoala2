@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ ΒΑΡΗΣ( Γραφείο εντός σταδίου), 16672 Vári, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["16672"]
+schoolsUID: "school181120181617"
 UID: "school181120181617"
 latitude: "37,8333511"
 longitude: "23,7842007"

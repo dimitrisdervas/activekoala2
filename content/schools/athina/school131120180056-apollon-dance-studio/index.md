@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Salsa"]
 categories: ["xoros"]
 subcategories: ["salsa"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "1) Άγιοι Ανάργυροι, Κλεισούρας 20 2) Ίλιον, Ναυσικάς 118 &amp; Πρέσπας 18 3) Μεταμόρφωση, Παπανικολή &amp; Μολιέρου 2"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180056"
 UID: "school131120180056"
 latitude: ""
 longitude: ""

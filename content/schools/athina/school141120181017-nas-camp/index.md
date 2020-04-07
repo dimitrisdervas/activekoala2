@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai","MMA","Boxing","Tae Kwon Do"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Iroon Polytechneiou 13,SARANTAPOROU 1A, 14565 �Yios Stéfanos, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school141120181017"
 UID: "school141120181017"
 latitude: "38,13824058"
 longitude: "23,85720189"

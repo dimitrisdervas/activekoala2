@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Basket"]
 categories: ["athlitismos"]
 subcategories: ["basket"]
-organisationid: "org191120180612"
+orgUID: "org191120180612"
 organisation: "Α.Σ. ΟΔΥΣΣΕΑΣ ΑΓ.ΒΑΡΒΑΡΑΣ "
 orgurl: "org191120180612-a-s-odysseas-ag-barbaras"
 address: "Σιπύλου 16, 12351"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181939"
 UID: "school021220181939"
 latitude: ""
 longitude: ""

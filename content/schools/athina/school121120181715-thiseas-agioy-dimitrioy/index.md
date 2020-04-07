@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Δημοτικό Γυμναστήριο Αγίου Δημητρίου, 17342"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΣΑΠΟΥΝΑΣ"
 zipcode: [""]
+schoolsUID: "school121120181715"
 UID: "school121120181715"
 latitude: ""
 longitude: ""

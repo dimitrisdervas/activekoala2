@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: "org170320192006"
+orgUID: "org170320192006"
 organisation: "Ναυτικός Όμιλος Θεσσαλονίκης"
 orgurl: "org170320192006-naytikos-omilos-thessalonikis"
 address: "Θεμ.Σοφούλη 112, 551 31 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220180623"
 UID: "school021220180623"
 latitude: ""
 longitude: ""

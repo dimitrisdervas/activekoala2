@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Kendo"]
 categories: ["kleistou-xorou"]
 subcategories: ["kobudo"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Artis 20, 143 42 Néa Filadélfeia, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school051220180535"
 UID: "school051220180535"
 latitude: ""
 longitude: ""

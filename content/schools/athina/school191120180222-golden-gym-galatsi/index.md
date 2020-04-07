@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: "org191120180222"
+orgUID: "org191120180222"
 organisation: "GOLDEN GYM"
 orgurl: "org191120180222-golden-gym"
 address: ""
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["11146"]
+schoolsUID: "school191120180222"
 UID: "school191120180222"
 latitude: ""
 longitude: ""

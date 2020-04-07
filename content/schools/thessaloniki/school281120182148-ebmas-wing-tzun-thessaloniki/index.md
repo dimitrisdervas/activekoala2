@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Wing Chun"]
 categories: ["polemikes-texnes"]
 subcategories: ["wing-chun"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Βιζυης 56, 54454 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120182148"
 UID: "school281120182148"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Θάλασσα"
 subcategoriesNoSLug: [""]
 categories: ["water-sports"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Karystou 29, 19016 Artemis Loútsa, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["19016"]
+schoolsUID: "school171120180153"
 UID: "school171120180153"
 latitude: "37,99152195"
 longitude: "24,0305394"

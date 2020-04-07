@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "338 Leoforos Kifisias, 154 51 Neo Psychiko, Greece, 15451 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["15451"]
+schoolsUID: "school281120180515"
 UID: "school281120180515"
 latitude: "38,00852612"
 longitude: "23,77909741"

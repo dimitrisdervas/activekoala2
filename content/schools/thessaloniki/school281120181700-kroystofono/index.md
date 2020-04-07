@@ -6,7 +6,7 @@ categoryNoSLug: "Μουσική"
 subcategoriesNoSLug: ["Μουσική Σχολή"]
 categories: ["mousiki"]
 subcategories: ["mousiki-sxoli"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Alexandrou Papadiamanti 6, 54645 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school281120181700"
 UID: "school281120181700"
 latitude: ""
 longitude: ""

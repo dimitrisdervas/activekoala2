@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Personal Trainer"]
 categories: ["kleistou-xorou"]
 subcategories: ["personal-trainer"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελευθερίου Βενιζελου 181, 17123 Néa Smírni, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17123"]
+schoolsUID: "school221120181758"
 UID: "school221120181758"
 latitude: "37,93527778"
 longitude: "23,71161185"

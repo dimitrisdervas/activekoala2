@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Aikido"]
 categories: ["polemikes-texnes"]
 subcategories: ["aikido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Γρ.Λαμπρακη 11, 145 65 �Yios Stéfanos, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14568"]
+schoolsUID: "school211120181953"
 UID: "school211120181953"
 latitude: "38,13764515"
 longitude: "23,86950374"

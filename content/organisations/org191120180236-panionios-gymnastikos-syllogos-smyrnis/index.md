@@ -1,7 +1,7 @@
 ---
 title: |
    ΠΑΝΙΩΝΙΟΣ ΓΥΜΝΑΣΤΙΚΟΣ ΣΥΛΛΟΓΟΣ ΣΜΥΡΝΗΣ
-UID: ["org191120180236"]
+orgUID: "org191120180236"
 schoolsUID: ["school191120181715","school221120182344"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Volley","Κολύμβηση"]

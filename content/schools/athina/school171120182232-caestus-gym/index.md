@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["polemikes-texnes"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Kασταμονής 99Α &amp; Μακρυγιάννη, Αλσούπολη Νέας Ιωνίας, 142 35 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14235"]
+schoolsUID: "school171120182232"
 UID: "school171120182232"
 latitude: ""
 longitude: ""

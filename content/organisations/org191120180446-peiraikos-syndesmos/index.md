@@ -1,7 +1,7 @@
 ---
 title: |
    ΠΕΙΡΑΪΚΟΣ ΣΥΝΔΕΣΜΟΣ
-UID: ["org191120180446"]
+orgUID: "org191120180446"
 schoolsUID: ["school231120180656"]
 schoolcategories: ["Αθλητισμός"]
 schoolsubcategories: ["Volley"]

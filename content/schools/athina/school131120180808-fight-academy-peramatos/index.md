@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Sanda"]
 categories: ["polemikes-texnes"]
 subcategories: ["sanda"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ηπείρου 59, 18863 Perama"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school131120180808"
 UID: "school131120180808"
 latitude: "37,96528742"
 longitude: "23,56497645"

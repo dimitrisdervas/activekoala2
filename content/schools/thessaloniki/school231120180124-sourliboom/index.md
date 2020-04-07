@@ -6,7 +6,7 @@ categoryNoSLug: "Παιδαγωγικά + Καλιτεχνικά"
 subcategoriesNoSLug: ["Χώρος Τέχνης"]
 categories: ["paidagogika-kallitexnika"]
 subcategories: ["xoros-texnis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Κ. Κρυστάλλη 4, 54630 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school231120180124"
 UID: "school231120180124"
 latitude: "40,6398498"
 longitude: "22,9406099"

@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Α) Κεντρικό: Σουλίου 155 Πετρούπολη Β) Υποκατάστημα: Ορχομενού 42 Άνω Λιόσια, 13231 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school251120182358"
 UID: "school251120182358"
 latitude: "38,0860107"
 longitude: "23,7072727"

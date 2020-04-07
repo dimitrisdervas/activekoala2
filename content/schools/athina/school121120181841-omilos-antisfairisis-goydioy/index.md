@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Γεωργίου Παπανδρέου 88 έναντι &amp; τέρμα Αγ. Λαύρας, 157 73 Goudi, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ.ΠΑΠΑΘΕΟΔΩΡΟΥ ΓΕΩΡΓΙΟΣ"
 zipcode: [""]
+schoolsUID: "school121120181841"
 UID: "school121120181841"
 latitude: ""
 longitude: ""

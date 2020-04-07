@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Judo"]
 categories: ["polemikes-texnes"]
 subcategories: ["judi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ελευσινίων Μυστηρίων (Περιβαλλοντικό πάρκο Ιλίου) Ilion, Greece, 13122"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school201120181646"
 UID: "school201120181646"
 latitude: ""
 longitude: ""

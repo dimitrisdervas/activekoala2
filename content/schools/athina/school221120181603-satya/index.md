@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Pilates"]
 categories: ["kleistou-xorou"]
 subcategories: ["pilates"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αλκιβιάδου 102, 18532 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18534"]
+schoolsUID: "school221120181603"
 UID: "school221120181603"
 latitude: "37,94376"
 longitude: "23,64934"

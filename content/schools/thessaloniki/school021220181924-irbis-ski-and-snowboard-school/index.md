@@ -6,7 +6,7 @@ categoryNoSLug: "Βουνό"
 subcategoriesNoSLug: ["Ski"]
 categories: ["athlimata-vounou"]
 subcategories: ["ski"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μπακαλμπάση 27, Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school021220181924"
 UID: "school021220181924"
 latitude: ""
 longitude: ""

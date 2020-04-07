@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Muay Thai"]
 categories: ["polemikes-texnes"]
 subcategories: ["muay-thai"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΚΙΜΩΝΟΣ 1 ΚΑΙ ΑΧΙΛΕΩΣ, ΝΙΚΑΙΑ ΠΛΗΣΙΟΝ ΦΑΝΑΡΙΑ ΚΡΑΤΙΚΟΥ ΝΟΣΟΚΟΜΕΙΟΥ ΝΙΚΑΙΑΣ, ΝΙΚΑΙΑ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120181827"
 UID: "school151120181827"
 latitude: ""
 longitude: ""

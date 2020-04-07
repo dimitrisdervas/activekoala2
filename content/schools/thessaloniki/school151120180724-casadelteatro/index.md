@@ -6,7 +6,7 @@ categoryNoSLug: "Θέατρο"
 subcategoriesNoSLug: ["Θεατρικό Εργαστήρι"]
 categories: ["theatro"]
 subcategories: ["theatro"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ραιδεστού 12, 54636 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180724"
 UID: "school151120180724"
 latitude: ""
 longitude: ""

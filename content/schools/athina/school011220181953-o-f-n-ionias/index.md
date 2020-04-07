@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Handball"]
 categories: ["athlitismos"]
 subcategories: ["handball"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μεσολογγίου 40, 14231 Néa Ionía, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181953"
 UID: "school011220181953"
 latitude: ""
 longitude: ""

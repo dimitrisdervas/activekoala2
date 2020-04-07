@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Κολύμβηση"]
 categories: ["athlitismos"]
 subcategories: ["kithara"]
-organisationid: "org191120180417"
+orgUID: "org191120180417"
 organisation: "Α.Ο.Ν.Σ. &quot; Ο ΜΙΛΩΝ&quot;"
 orgurl: "org191120180417-a-o-n-s-o-milon"
 address: "Αδ. Κοραή &amp; Μεγ. Βασιλείου, 17122 Νέα Σμύρνη"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school221120181744"
 UID: "school221120181744"
 latitude: ""
 longitude: ""

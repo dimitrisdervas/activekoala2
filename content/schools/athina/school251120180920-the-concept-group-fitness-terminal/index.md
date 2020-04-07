@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Capoeira"]
 categories: ["kleistou-xorou"]
 subcategories: ["capoeira"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "28 Koryzi, 17778 Távros, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["17778"]
+schoolsUID: "school251120180920"
 UID: "school251120180920"
 latitude: "37,9649089"
 longitude: "23,69940877"

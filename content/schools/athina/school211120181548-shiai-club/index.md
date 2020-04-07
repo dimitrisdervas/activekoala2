@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Judo"]
 categories: ["polemikes-texnes"]
 subcategories: ["judi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Μάρκου Μπότσαρη 30, 14561 Kifisiá, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14561"]
+schoolsUID: "school211120181548"
 UID: "school211120181548"
 latitude: "38,07613"
 longitude: "23,80068"

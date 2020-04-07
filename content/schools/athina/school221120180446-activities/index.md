@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΠΕΤΡΟΥ ΡΑΛΛΗ 291 ΚΑΙ ΓΡΕΒΕΝΩΝ, 18450 Níkaia, Attiki, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18450"]
+schoolsUID: "school221120180446"
 UID: "school221120180446"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Παρκούρ"]
 categories: ["athlitismos"]
 subcategories: ["parkour"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Πανεπιστημιούπολη Θέρμης, 14ο χλμ. Θεσσαλονίκης Θέρμης, Λεωφόρος Χαριλάου Θέρμης, Περιοχή ΝΟΗΣΙΣ, Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school011220181227"
 UID: "school011220181227"
 latitude: ""
 longitude: ""

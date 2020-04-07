@@ -6,7 +6,7 @@ categoryNoSLug: "Κλειστού Χώρου"
 subcategoriesNoSLug: ["Γυμναστήριο"]
 categories: ["kleistou-xorou"]
 subcategories: ["gym"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Λ. Θηβών 333 &amp; Κ. Βαρνάλη 1, 12244 Aigáleo, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12242"]
+schoolsUID: "school171120181505"
 UID: "school171120181505"
 latitude: "37,98706"
 longitude: "23,67484"

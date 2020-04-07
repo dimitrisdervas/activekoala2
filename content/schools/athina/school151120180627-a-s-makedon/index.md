@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Hapkido"]
 categories: ["polemikes-texnes"]
 subcategories: ["hapkido"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Φλέμινγκ 16-18, 17563 Athens, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school151120180627"
 UID: "school151120180627"
 latitude: ""
 longitude: ""

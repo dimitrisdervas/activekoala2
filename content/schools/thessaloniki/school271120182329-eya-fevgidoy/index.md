@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Μπαλέτο"]
 categories: ["xoros"]
 subcategories: ["balet"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Ιουστινιανου 2, Καλαμαρια, 55134 Kalamariá, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120182329"
 UID: "school271120182329"
 latitude: ""
 longitude: ""

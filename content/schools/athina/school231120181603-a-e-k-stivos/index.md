@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Στίβος"]
 categories: ["athlitismos"]
 subcategories: ["stivos"]
-organisationid: "org191120180515"
+orgUID: "org191120180515"
 organisation: "Α.Ε.Κ"
 orgurl: "org191120180515-a-e-k"
 address: "Τυάννων 2Β &amp; Πίνδου, Néa Filadélfeia, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["14341"]
+schoolsUID: "school231120181603"
 UID: "school231120181603"
 latitude: ""
 longitude: ""

@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Boxing"]
 categories: ["polemikes-texnes"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΡΗΓΑ ΦΕΡΑΙΟΥ &amp; ΚΟΥΝΤΟΥΡΙΩΤΟΥ, 18648 Piraeus, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["18648"]
+schoolsUID: "school191120181924"
 UID: "school191120181924"
 latitude: "37,94564006"
 longitude: "23,62929583"

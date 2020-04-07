@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: [""]
 categories: ["xoros"]
 subcategories: [""]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "ΘΕΟΦΡΑΣΤΟΥ 38, 187-56 ΚΕΡΑΤΣΙΝΙ"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school251120181646"
 UID: "school251120181646"
 latitude: ""
 longitude: ""

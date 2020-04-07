@@ -6,7 +6,7 @@ categoryNoSLug: "Χορός"
 subcategoriesNoSLug: ["Σχολή Χορού"]
 categories: ["xoros"]
 subcategories: ["sxoli-xorou"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Leoforos Megalou Alexandrou 47, 546 43 Thessaloniki, Greece, 54643 Thessaloníki"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: [""]
+schoolsUID: "school271120180056"
 UID: "school271120180056"
 latitude: ""
 longitude: ""

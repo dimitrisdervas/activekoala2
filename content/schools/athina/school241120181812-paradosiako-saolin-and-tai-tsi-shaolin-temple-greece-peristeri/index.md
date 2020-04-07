@@ -6,7 +6,7 @@ categoryNoSLug: "Πολεμικές τέχνες"
 subcategoriesNoSLug: ["Tai Chi"]
 categories: ["polemikes-texnes"]
 subcategories: ["taichi"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Αγίου Πέτρου 25Α, 12136 Peristérion, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: ""
 zipcode: ["12135"]
+schoolsUID: "school241120181812"
 UID: "school241120181812"
 latitude: "38,01229282"
 longitude: "23,6874193"

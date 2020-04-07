@@ -6,7 +6,7 @@ categoryNoSLug: "Αθλητισμός"
 subcategoriesNoSLug: ["Tennis"]
 categories: ["athlitismos"]
 subcategories: ["tennis"]
-organisationid: ""
+orgUID: ""
 organisation: ""
 orgurl: "-"
 address: "Γούναρη &amp; Ευγενίδη, 16674 Glyfáda, Greece"
@@ -21,6 +21,7 @@ courses: ""
 places: [""]
 rensponsibles: "κ. ΘΕΟΔΟΣΗΣ ΑΡΗΣ"
 zipcode: [""]
+schoolsUID: "school121120181827"
 UID: "school121120181827"
 latitude: ""
 longitude: ""
