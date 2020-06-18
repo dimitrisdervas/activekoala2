@@ -15,7 +15,7 @@
 {{ partial "subcategories/subcategories-filters.html" . }}
 </div>
 
-{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+{{ $paginator := .Paginate (.Data.Pages) 30 }}
 
 <div class="col-xs-9 col-sm-9 col-md-9 content-column border-gray-200 border-solid border-l pt-4">
     {{ partial "mobile_nav_toggle.html" . }}

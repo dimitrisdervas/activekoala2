@@ -27,7 +27,7 @@
 
 
 
-{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+{{ $paginator := .Paginate (.Data.Pages) 30 }}
 
 
 

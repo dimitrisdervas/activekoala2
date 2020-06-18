@@ -1,7 +1,7 @@
 {{ $cityCategory := .Params.city  }}
 {{ $Category := .Params.slug }}
 
-{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+{{ $paginator := .Paginate (.Data.Pages) 30 }}
 {{ partial "pagination.html" . }}
 
 

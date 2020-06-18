@@ -20,7 +20,7 @@
     {{ end }}
 </div>
 
-{{ $paginator := (.Paginator 30) (where .Site.Pages "Section" "schools") }}
+{{ $paginator :=  .Paginate (where .Site.Pages "Section" "schools") 30  }}
 {{ partial "pagination.html" . }}
 
 
@@ -29,7 +29,7 @@
     <div class="grid">
         <div class="row">
           {{ range $paginator.Pages }}
-  {{ partial "categories/results-boxes.html" . }}
+  {{ partial "categories/results-boxes-organisations.html" . }}
           {{ end }}
         </div>
     </div>

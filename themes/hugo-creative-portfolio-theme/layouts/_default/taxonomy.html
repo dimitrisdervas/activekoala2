@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h2 class="col-xs-12 col-sm-8 col-md-9 p-6">{{ .Title }}</h2>
 
-{{ $paginator := (.Paginator 30) (.Data.Pages) }}
+{{ $paginator := .Paginate (.Data.Pages) 30 }}
 {{ partial "pagination.html" . }}
 
 <div class="col-xs-12 col-sm-8 col-md-9 content-column">

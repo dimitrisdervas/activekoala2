@@ -9,20 +9,19 @@
         <div class="profile bg-white  mb-8">
 <!-- MAIN IMAGE -->
           <div class="mainimg py-6 flex justify-start">
-          {{ if in .Title "GADALA"}}
             {{ range $original:= .Resources.Match "*cover.jpg" }}
             {{ $image310x207:= $original.Fill "310x207 Center" }}
             {{ $image300x200:= $original.Fill "300x200 Center" }}
             {{ $image768x512:= $original.Fill "768x512 Center" }}
             {{ $image450x300:= $original.Fill "450x300 Center" }}
-            <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
+            <img width="{{ $image768x512.Width }}" height="{{ $image310x207.Height }}"
               src="{{ $image310x207.RelPermalink }}"
               alt="{{ .Title }}"
               srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
               sizes="(max-width: 310px) 100vw, 310px"/>
           {{ end }}
-          {{ end }}
-          <img class=" " src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+
+<!--   -->
           </div>
 </div>
 </div>

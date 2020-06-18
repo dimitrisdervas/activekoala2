@@ -7,21 +7,20 @@
         <div class="content-column-content px-0">
           <div class="profile bg-white  mb-8">
   <!-- MAIN IMAGE -->
-            <div class="mainimg py-6 flex justify-start">
-            {{ if in .Title "GADALA"}}
-              {{ range $original:= .Resources.Match "*cover.jpg" }}
-              {{ $image310x207:= $original.Fill "310x207 Center" }}
-              {{ $image300x200:= $original.Fill "300x200 Center" }}
-              {{ $image768x512:= $original.Fill "768x512 Center" }}
-              {{ $image450x300:= $original.Fill "450x300 Center" }}
-              <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
-                src="{{ $image310x207.RelPermalink }}"
-                alt="{{ .Title }}"
-                srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
-                sizes="(max-width: 310px) 100vw, 310px"/>
-            {{ end }}
-            {{ end }}
-            <img class=" " src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
+             <div class="mainimg py-6 flex justify-start">
+              {{ range $original:= .Resources.Match "*-cover.jpg" }}
+                  {{ $image310x207:= $original.Fill "310x207 Center" }}
+                  {{ $image300x200:= $original.Fill "300x200 Center" }}
+                  {{ $image768x512:= $original.Fill "768x512 Center" }}
+                  {{ $image450x300:= $original.Fill "450x300 Center" }}
+                  <img width="{{ $image768x512.Width }}" height="{{ $image310x207.Height }}"
+                    src="{{ $image310x207.RelPermalink }}"
+                    alt="{{ .Title }}"
+                    srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
+                    sizes="(max-width: 310px) 100vw, 310px"/>
+                {{ end }}
+              
+<img class=" " src="/images/{{ .Params.UID }}/{{ .Params.orguid }}-cover" alt="{{.Title}}" class="img-responsive">
             </div>
   </div>
   </div>
@@ -38,9 +37,44 @@
                <h1 class="page-title text-6xl p-6 ">{{ .Title }}</h1>
             </div>
 
-          <div class="tags">
 
-        </div>
+          <div class="tags">
+              <ul class="filters-menu list-reset flex flex-wrap justify-start">
+<!-- CITIES -->
+                  {{ range .Params.Cities }}
+                    <li class="py-2 w-full flex"><a class="w-full border-gray-200 border-b border-solid px-4 py-6 hover:bg-gray-200 text-2xl" href="{{ "/cities/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+                  {{ end }}
+<!-- CATEGORIES -->
+                  {{ range $title := .Params.categories }}
+                    <li class="py-2 w-full flex"><a class="w-full border-gray-200 border-b border-solid px-4 py-6 hover:bg-gray-200 text-2xl" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ $category := index $.Site.Data.yml.categories ($title) }}
+                                {{ $category.title }}</a></li>
+                  {{ end }}
+<!-- SUBCATEGORIES -->
+                
+                    {{ range $title := .Params.schoolsubcategories }}
+                    
+                    {{ with $title }}
+                      <li class="flex m-2">
+                      <a class="category-list-link bg-transparent category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded" href="{{ "/subcategories/" | relLangURL }}{{ . | urlize }}">{{ $title}}{{ $subcategory := index $.Site.Data.yml.subcategories ($title) }}{{ $subcategory.title }}</a> </li>
+                    {{ end }}
+                    {{ end }}
+
+                     <div class="social bg-white flex flex-col  mb-8 p-8 ">
+                            {{ if  .Params.org_facebook }}
+                             <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="{{ .Params.org_facebook | safeURL }}" target="_blank">facebook</a>
+                           {{ end }}
+                           {{ range .Params.org_website }}
+                             <a class="border-gray-200 border border-solid px-4 py-2 mb-6 rounded bg-gray-200 text-3xl" href="http://{{ . }}"  target="_blank" >website</a>
+                           {{ end }}
+                       </div>
+              
+<!-- ADDRESS -->
+<!--                 <li class="py-2 w-full">
+                      <div class="w-full border-gray-200 border-b border-solid px-4 py-6  text-2xl">{{ .Params.address }}</div>                
+                    </li> -->
+
+                </ul>
+            </div>
     </div>
   </div>
 </div>
@@ -52,7 +86,7 @@
     <div class="row">
       <div class="flex flex-wrap justify-between">
 
-{{ range .Params.schoolsUID }}
+{{/*  {{ range .Params.schoolsUID }}
     {{ $schoolUID := . }}
     {{ $schoolRelated := where ($.Site.RegularPages.RelatedTo ( keyVals "schoolsUID" $schoolUID )) "Type" "schools" }}
                 {{ range $schoolRelated }}
@@ -77,7 +111,7 @@
                        </div>
                     </div>
                 {{ end }}
-{{ end }}
+{{ end }}  */}}
 
 
 </div>
@@ -85,6 +119,6 @@
 </div>
 </div>
 </div>
-
+<div>{{.Params.orguid}}</div>
 
 {{ end }}
