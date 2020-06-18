@@ -1,11 +1,43 @@
 ---
-title: |
-   {{organisation}}
-orgUID: "{{UID}}"
-schoolsUID: ["{{schoolsUID | replace(',', '","' ) | safe  }}"]
-schoolcategories: ["{{schoolscategory | replace(',', '","' ) | safe  }}"]
-schoolsubcategories: ["{{ schoolssubcategory | replace(',', '","' ) | safe  }}"]
-facebook: "{{facebook}}"
+title: "{{organization}}"
+orguid: "{{orguid}}"
+
+schools: ["{{schools| replace(',', '","' ) | safe  }}"]
+categorynoslug: ["{{categorynoslug| replace(',', '","' ) | safe  }}"]
+
+categories: ["{{categories| replace(',', '","' ) | safe  }}"]
+
+
+org_facebook: "{{org_facebook}}"
+
+org_website: ["{{org_website| replace(',', '","' ) | safe  }}"]
+
+
+
+
+
+
+
+count_schools: "{{count_schools}}"
+logo: "{{logo}}"
+
+description: "{{description}}"
+cities: ["{{cities| replace(',', '","' ) | safe  }}"]
+
+
+
+long: "{{long}}"
+lat : "{{lat }}"
+
+
+phone: "{{phone}}"
+address: |
+    {{address}}
+
+url: "organisations/{{orgTranslit}}/{{cityTranslit}}/{{ categories | replace(',', '","' ) | safe  }}"
+slug: "{{orgTranslit}}"
+aliases:
+    - /{{orguid}}
 ---
 
 {{description}}
