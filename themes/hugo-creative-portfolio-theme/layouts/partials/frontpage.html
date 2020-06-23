@@ -20,7 +20,7 @@
     {{ end }}
 </div>
 
-{{ $paginator :=  .Paginate (where .Site.Pages "Section" "schools") 30  }}
+{{ $paginator :=  .Paginate (where .Site.Pages "Section" "organisations") 30  }}
 {{ partial "pagination.html" . }}
 
 
