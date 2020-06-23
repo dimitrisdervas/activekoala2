@@ -5,17 +5,17 @@
         {{ if (fileExists $filenamecover )}}
           <img class="rounded" src="/images/{{ .Params.UID }}/{{ .Params.UID }}-cover.jpg" alt="{{.Title}}" class="img-responsive">
         {{ end }} -->
-         {{ range $original:= .Resources.Match "*cover.jpeg" }}
-              {{ $image310x207:= $original.Fit "310x207 Center" }}
-              {{ $image300x200:= $original.Fit "300x200 Center" }}
-              {{ $image768x512:= $original.Fit "768x512 Center" }}
-              {{ $image450x300:= $original.Fit "450x300 Center" }}
-              <img width="{{ $image310x207.Width }}" height="{{ $image310x207.Height }}"
-                src="{{ $image310x207.RelPermalink }}"
-                alt="{{ .Title }}"
-                srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
-                sizes="(max-width: 310px) 100vw, 310px"/>
-            {{ end }}
+            {{ range $original:= .Resources.Match "*cover.jpg" }}
+            {{ $image310x207:= $original.Fill "310x207 Center" }}
+            {{ $image300x200:= $original.Fill "300x200 Center" }}
+            {{ $image768x512:= $original.Fill "768x512 Center" }}
+            {{ $image450x300:= $original.Fill "450x300 Center" }}
+            <img width="{{ $image768x512.Width }}" height="{{ $image310x207.Height }}"
+              src="{{ $image310x207.RelPermalink }}"
+              alt="{{ .Title }}"
+              srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
+              sizes="(max-width: 310px) 100vw, 310px"/>
+          {{ end }}
         </a>
       <div class=" bg-white rounded bpx-6 py-2">
             <div class="result-box-title">
