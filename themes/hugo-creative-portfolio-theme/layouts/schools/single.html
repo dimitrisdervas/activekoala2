@@ -17,8 +17,12 @@
             <img width="{{ $image768x512.Width }}" height="{{ $image310x207.Height }}"
               src="{{ $image310x207.RelPermalink }}"
               alt="{{ .Title }}"
-              srcset="{{ $image310x207.RelPermalink }} 310w, {{ $image300x200.RelPermalink }} 300w, {{ $image768x512.RelPermalink }} 768w, {{ $image450x300.RelPermalink }} 450w, {{ $original.RelPermalink }} 1000w"
-              sizes="(max-width: 310px) 100vw, 310px"/>
+              srcset="{{ $image310x207.RelPermalink }} 310w, 
+              {{ $image300x200.RelPermalink }} 300w, 
+              {{ $image768x512.RelPermalink }} 768w, 
+              {{ $image450x300.RelPermalink }} 450w, 
+              {{ $original.RelPermalink }} 1000w"
+              sizes="(max-width: 1280px) 100vw, 310px"/>
           {{ end }}
 
 <!--   -->
