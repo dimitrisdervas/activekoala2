@@ -1,35 +1,96 @@
 
 
-<div class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
-     {{ if isset .Site.Taxonomies "categories" }}
-             <ul class="filters-menu list-reset flex flex-wrap justify-start">
-                  {{ $.Scratch.Set "counter" 0 }}
-                  {{ range $title, $items := .Site.Taxonomies.categories }}
-                  {{ if eq $title "#n/a" }}
-                   {{ else }}
-                  <li class="flex m-2">
-                      {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
-                        <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " href="{{ $url | absURL }}">
-                        {{ (index $.Site.Data.yml.categories ($title)).title }}
-                        <span class="text-grey">({{ len $items }})</span>
-                      </a>
-                  </li>
-                  {{ end }}
-                  {{ end }}
-              </ul>
+<div 
+    x-data="{ tab: 'athlimata-vounou' }"
+    class="taxonomy-filters col-xs-12 col-sm-12 col-md-12 p-6 float-right"> 
+{{ if isset .Site.Taxonomies "categories" }}
+    <ul class="filters-menu list-reset flex flex-wrap justify-start">
+        {{ $.Scratch.Set "counter" 0 }}
+        {{ range $title, $items := .Site.Taxonomies.categories }}
+        {{ if eq $title "#n/a" }}
+        {{ else }}
+        <li class="flex m-2" >
+            {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+            
+            <a 
+                @click.prevent="tab = '{{$title}}'"
+                class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " 
+                href="#">
+            {{ (index $.Site.Data.yml.categories ($title)).title }}
+            <span class="text-grey">({{ len $items }})</span>
+            </a>
+        </li>
+   
     {{ end }}
+    {{ end }}
+     </ul>
+{{ end }}
+
+<div class="border border-blue-600" >
+{{ if isset .Site.Taxonomies "categories" }}
+  
+    {{ $.Scratch.Set "counter" 0 }}
+    {{ range $title, $items := .Site.Taxonomies.categories }}
+    {{ if eq $title "#n/a" }}
+        {{ else }}
+        {{ $url := printf "%s/%s" "categories" ($title | urlize | lower)}}
+            
+           
+
+            {{ $slugsubcategory := (index $.Site.Data.yml.categories ($title)).slugsubcategory }}
+            <ul 
+                class="filters-menu list-reset flex flex-wrap justify-start"    
+                x-show="tab === '{{$title}}'">
+            <li class="flex m-2" >
+             <a 
+                class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline " 
+                href="{{ $url | absURL }}">
+            Όλα
+            <span class="text-grey">({{ len $items }})</span>
+            </a>
+            </li>
+            {{ range $slugsubcategory}}
+            <li class="flex m-2" > 
+            {{ $subcategory := index $.Site.Data.yml.subcategories . }}
+            {{ if eq $subcategory.schoolscount "0" }}
+            {{ $url := printf "%s/%s" "subcategories" ( . | urlize | lower)}}
+            <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+            </a>
+        {{ else }}
+            {{ $url := printf "%s/%s" "subcategories" ( . | urlize | lower)}}
+            <a class="category-list-link bg-transparent hover:bg-gray-100  py-2 px-4 border border-blue hover:border-blue-700  hover:no-underline rounded " href="{{ $url | absURL }}">
+            {{ $subcategory.title }}
+            <span>( {{ $subcategory.schoolscount }} )</span>
+            </a>
+            {{ end }}
+            </li>
+            </li>
+            {{ end }}
+            </ul>
+
+    {{ end }}
+    {{ end }}
+{{ end }}
+</div>
 </div>
 
-{{ $paginator :=  .Paginate (where .Site.Pages "Section" "organisations") 30  }}
+
+
+
+{{ $paginator :=  .Paginate (where .Site.Pages "Section" "schools") 30  }}
+
+
 {{ partial "pagination.html" . }}
 
 
 <div class="col-xs-12 col-sm-12 col-md-12 content-column">
     {{ partial "mobile_nav_toggle.html" . }}
-    <div class="grid">
-        <div class="row">
+        <div class="grid">
+            <div class="row">
           {{ range $paginator.Pages }}
-  {{ partial "categories/results-boxes-organisations.html" . }}
+                {{ partial "categories/results-boxes-organisations.html" . }}
           {{ end }}
         </div>
     </div>
