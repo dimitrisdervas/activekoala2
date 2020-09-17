@@ -9,8 +9,8 @@ facebookorg:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
 websiteorg:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
 UID: {{schooluid}}
 cities: ["{{city| replace(',', '","' ) | safe  }}"]
-perioxi: {{perioxi}}
-address: {{address}}
+perioxi: "{{perioxi}}"
+address: "{{address}}"
 
 places: ["{{place| replace(',', '","' ) | safe  }}"]
 categories: ["{{category| replace(',', '","' ) | safe  }}"]
@@ -18,7 +18,7 @@ subcategories: ["{{subcategory| replace(',', '","' ) | safe  }}"]
 categoryNoSLug: ["{{categorynoslug| replace(',', '","' ) | safe  }}"]
 subcategoriesNoSLug: ["{{subcategoriesnoslug| replace(',', '","' ) | safe  }}"]
 
-orgUID: {{organisation_uid}}
+orgUID: "{{organisation_uid}}"
 
 url: "{{schoolTranslit}}/{{cityTranslit}}/{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}/{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"
 slug: "{{schoolTranslit}}"
