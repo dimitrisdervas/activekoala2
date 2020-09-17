@@ -1,11 +1,15 @@
 ---
-title: |
-   {{subcategory}}
-schools: ["{{ SchoolsUID | replace(',', '","' ) | safe  }}"]
-category: "{{category}}"
-slug: "{{slugSubcategory}}"
-slugCategory: "{{slugCategory}}"
-schoolscount: "{{schoolscount}}"
+title: {{subcategory}}
+category: {{categories}}
+schools: ["{{schoolsuid| replace(',', '","' ) | safe  }}"]
+slug: {{slugsubcategory}}
+slugCategory: {{slugcategory}}
+schoolscount: {{countschools}}
+athensschools: ["{{athensschools| replace(',', '","' ) | safe  }}"]
+schoolscount: {{athenscount}}
+thessschools: ["{{thessschools| replace(',', '","' ) | safe  }}"]
+schoolscount: {{thesscount}}
 ---
 
 {{description}}
+

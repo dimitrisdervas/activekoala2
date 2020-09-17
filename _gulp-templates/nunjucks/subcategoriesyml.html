@@ -1,12 +1,22 @@
 ---
-title: "{{subcategory}}"
-slug: "{{slugSubcategory}}"
-category: "{{category}}"
-slugCategory: "{{slugCategory}}"
-schoolscount: "{{schoolscount}}"
-{% if schools|length %}{% if (schools == "#REF!") or (schools == "#N/A") %}{% else %}schools: ["{{ schools | replace(',', '", "' ) | safe  }}"]{% endif %}{% endif %}
-athensschools: ["{{athensschools | replace(',', '","' ) | safe }}"]
+
+{{/*  {% if schools|length %}{% if (schools == "#REF!") or (schools == "#N/A") %}{% else %}schools: ["{{ schools | replace(',', '", "' ) | safe  }}"]{% endif %}{% endif %}  */}}
+{{/*  athensschools: ["{{athensschools | replace(',', '","' ) | safe }}"]
 athensschoolscount: "{{athensschoolscount}}"
 thessschools: ["{{thessschools | replace(',', '","' ) | safe}}"]
-thessschoolscount: "{{thessschoolscount}}"
+thessschoolscount: "{{thessschoolscount}}"  */}}
+
+
+title: {{subcategory}}
+category: {{categories}}
+schools: ["{{schoolsuid| replace(',', '","' ) | safe  }}"]
+slug: {{slugsubcategory}}
+slugCategory: {{slugcategory}}
+schoolscount: {{countschools}}
+city: {{athens-city}}
+athensschools: ["{{athensschools| replace(',', '","' ) | safe  }}"]
+schoolscount: {{athenscount}}
+city: {{thesscity}}
+thessschools: ["{{thessschools| replace(',', '","' ) | safe  }}"]
+schoolscount: {{thesscount}}
 ---

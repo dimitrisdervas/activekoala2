@@ -1,11 +1,9 @@
 ---
-title: |
-   {{category}}
-schools: ["{{ SchoolsUID | replace(',', '","' ) | safe }}"]
-subcategory: ["{{subcategory | replace(',', '","' ) | safe }}"]
-slug: "{{slugCategory}}"
-slugSubcategory: ["{{slugSubcategories | replace(',', '","' ) | safe }}"]
+title: "{{title}}"
+schools: ["{{schools | replace(',', '","' ) | safe  }}"]
+subcategory: ["{{subcategory | replace(',', '","' ) | safe  }}"]
+slug: "{{slug}}"
+slugSubcategory: ["{{slugsubcategory | replace(',', '","' ) | safe  }}"]
 ---
 
-{{description}}
 
