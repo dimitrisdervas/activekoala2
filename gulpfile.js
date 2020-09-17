@@ -73,3 +73,4 @@ gulp.task('default:create', gulpSequence( 'del:all','download:csvs',['md:organis
 
 gulp.task('default:createmd', gulpSequence( 'del:all',['md:organisations','md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
 
+gulp.task('default:createmddownaload', gulpSequence('download:csvs',['md:organisations','md:schools','md:categories','md:subcategories','md:athenscategories','md:thesscategories','md:subcategoryathens','md:subcategorythessaloniki'],['yml:subcategories','yml:categories','yml:athenscategories','yml:thesscategories']))
