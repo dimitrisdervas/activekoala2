@@ -1,0 +1,31 @@
+---
+title: Núcleo Capoeira  Athens-Αθήνα-Capoeira
+
+facebook:
+
+website:
+organisation: Núcleo Capoeira  Athens
+facebookorg:
+websiteorg:
+UID: "07042020140554school"
+cities: "Αθήνα"
+perioxi: ""
+address: ""
+
+places: [""]
+categories: ["polemikes-texnes"]
+subcategories: ["capoeira"]
+categoryNoSLug: ["Πολεμικές τέχνες"]
+subcategoriesNoSLug: ["Capoeira"]
+
+orgUID: org14042020000250
+
+url: "nucleo-capoeira-athens-athina-capoeira/athina//"
+slug: "nucleo-capoeira-athens-athina-capoeira"
+aliases:
+    - /07042020140554school
+---
+
+
+
+
