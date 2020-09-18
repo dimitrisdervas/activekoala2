@@ -1,4 +1,4 @@
-{% if city == "Θεσσαλονίκη" %}
+{% if city == "Αθήνα" %}
 ---
 title: {{title}}
 schools: ["{{schools| replace(',', '","' ) | safe  }}"]
@@ -6,10 +6,9 @@ subcategory: ["{{subcategory| replace(',', '","' ) | safe  }}"]
 slugCategory: {{slug}}
 slugSubcategory: ["{{slugsubcategory| replace(',', '","' ) | safe  }}"]
 countschools: {{countschools}}
-city: {{thesscity}}
-schools: {{thesscity}}
-schoolscount: {{thesscity}}
+city: {{athenscity}}
+schools: {{athensschools}}
+schoolscount: {{athenscount}}
 ---
-
 {{description}}
 {% endif %}

@@ -1,14 +1,14 @@
 ---
 title: {{schools}}
 
-facebook:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
+facebook:{{school_facebook| replace("http://", "") | replace("https://", "") }}
 
-website:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
+website:{{school_website| replace("http://", "") | replace("https://", "") }}
 organisation: {{organisation}}
 facebookorg:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
-websiteorg:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
-UID: {{schooluid}}
-cities: ["{{city| replace(',', '","' ) | safe  }}"]
+websiteorg:{{Org_Website| replace("http://", "") | replace("https://", "") }}
+UID: "{{schooluid}}"
+cities: "{{city}}"
 perioxi: "{{perioxi}}"
 address: "{{address}}"
 
@@ -18,9 +18,9 @@ subcategories: ["{{subcategory| replace(',', '","' ) | safe  }}"]
 categoryNoSLug: ["{{categorynoslug| replace(',', '","' ) | safe  }}"]
 subcategoriesNoSLug: ["{{subcategoriesnoslug| replace(',', '","' ) | safe  }}"]
 
-orgUID: "{{organisation_uid}}"
+orgUID: {{organisation_uid}}
 
-url: "{{schoolTranslit}}/{{cityTranslit}}/{% if (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{slugCategories}}{% endif %}/{% if  (slugSubcategories == "#REF!") or (slugSubcategories == "#N/A") %}{% else %}{{ slugSubcategories | replace(',', '","' ) | safe  }}{% endif %}"
+url: "{{schoolTranslit}}/{{cityTranslit}}/{{categories}}/{{ subcategories | replace(',', '","' ) | safe  }}"
 slug: "{{schoolTranslit}}"
 aliases:
     - /{{schooluid}}

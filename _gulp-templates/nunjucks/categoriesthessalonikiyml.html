@@ -1,12 +1,13 @@
 {% if city == "Θεσσαλονίκη" %}
 ---
-title: |
-   {{category}}
-schools: ["{{ SchoolsUID | replace(',', '","' ) | safe }}"]
-subcategory: ["{{subcategory | replace(',', '","' ) | safe }}"]
-slug: "{{slugCategory}}"
-slugSubcategory: ["{{slugSubcategories | replace(',', '","' ) | safe }}"]
-schoolscount: {{schoolscount}}
-city: "{{city}}"
+title: {{title}}
+schools: ["{{schools| replace(',', '","' ) | safe  }}"]
+subcategory: ["{{subcategory| replace(',', '","' ) | safe  }}"]
+slugCategory: {{slug}}
+slugSubcategory: ["{{slugsubcategory| replace(',', '","' ) | safe  }}"]
+countschools: {{countschools}}
+city: {{thesscity}}
+schools: {{thesscity}}
+schoolscount: {{thesscity}}
 ---
 {% endif %}
