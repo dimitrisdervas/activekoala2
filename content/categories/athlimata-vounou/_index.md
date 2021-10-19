@@ -1,11 +1,10 @@
 ---
-title: |
-   Βουνό
-schools: ["Αθήνα"]
-subcategory: ["","school171120181422"]
-slug: "athlimata-vounou"
+title: Βουνό
+schools: ["7042020140113school"]
+subcategory: ["Climbing","Ski","Ποδηλασία"]
+slugCategory: athlimata-vounou
 slugSubcategory: ["ski"]
+countschools: 1
 ---
-
 
 

@@ -1,11 +1,10 @@
 ---
-title: |
-   Εκπαιδευτικά
-schools: [""]
-subcategory: [""]
-slug: "ekpaideutika"
+title: Εκπαιδευτικά
+schools: ["7042020140113school"]
+subcategory: ["Robotics"]
+slugCategory: ekpaideutika
 slugSubcategory: ["robotics","dimiourgiki-apasxolisi"]
+countschools: 1
 ---
-
 
 

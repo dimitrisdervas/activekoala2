@@ -1,11 +1,10 @@
 ---
-title: |
-   Καλιτεχνικά
+title: Καλιτεχνικά
 schools: [""]
 subcategory: [""]
-slug: "kalitexnika"
+slugCategory: kalitexnika
 slugSubcategory: ["zografiki","ergastiri-kalitexniko","theatro"]
+countschools: 0
 ---
-
 
 

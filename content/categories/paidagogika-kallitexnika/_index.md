@@ -1,11 +1,10 @@
 ---
-title: |
-   Παιδαγωγικά + Καλιτεχνικά
-schools: ["Αθήνα"]
-subcategory: ["","","","","","","","","","","","","","","",""]
-slug: "paidagogika-kallitexnika"
-slugSubcategory: ["ergastiri-xorou"]
+title: Παιδαγωγικά  Καλιτεχνικά
+schools: [""]
+subcategory: [""]
+slugCategory: paidagogika-kallitexnika
+slugSubcategory: ["ergastiri-xorou","zwgrafiki","skitsocomic","plektiki","makramekosmima","diakosmitikaconstructions","koptikiraptiki"]
+countschools: 0
 ---
-
 
 
