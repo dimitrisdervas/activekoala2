@@ -1,10 +1,12 @@
 ---
-title: |
-   Μουσική Σχολή
-schools: ["school281120182329","school151120180012","school281120181700","school011220180153","school011220180236"]
-category: "Μουσική"
-slug: "mousiki-sxoli"
-slugCategory: "mousiki"
-schoolscount: "5"
+title: Μουσική Σχολή
+category: Μουσική
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: mousiki-sxoli
+slugCategory: mousiki
+schoolscount: 1
+
 ---
+
+
 

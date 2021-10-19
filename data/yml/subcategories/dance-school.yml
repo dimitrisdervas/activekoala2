@@ -1,12 +1,15 @@
 ---
-title: "Dance School"
-slug: "dance-school"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Dance School
+category: Χορός
+schools: [""]
+slug: dance-school
+slugCategory: xoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

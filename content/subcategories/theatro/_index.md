@@ -1,10 +1,12 @@
 ---
-title: |
-   Θεατρικό Εργαστήρι
-schools: ["school281120181910","school151120180724","school271120180403","school281120181729"]
-category: "Καλιτεχνικά"
-slug: "theatro"
-slugCategory: "kalitexnika"
-schoolscount: "4"
+title: Θεατρικό Εργαστήρι
+category: Καλιτεχνικά
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: theatro
+slugCategory: kalitexnika
+schoolscount: 1
+
 ---
+
+
 

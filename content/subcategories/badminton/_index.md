@@ -1,10 +1,12 @@
 ---
-title: |
-   Badminton
-schools: ["school021220181212"]
-category: "Αθλητισμός"
-slug: "badminton"
-slugCategory: "athlitismos"
-schoolscount: "1"
+title: Badminton
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: badminton
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

@@ -2,10 +2,11 @@
 title: |
    Βιολί
 schools: [""]
-slugSubcategory: "violin"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
 city: ""
+
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: |
    Kick Boxing
-schools: ["school221120180403","school141120181758","school151120180320","school131120181451","school151120181241","school151120180641","school151120180529","school201120180348","school151120181910","school141120182315","school131120182051","school151120181324","school201120182134","school151120180948","school221120180836","school141120180641","school141120180153","school151120181339","school181120181408","school131120181617","school151120180920","school151120180251","school151120181032","school241120180529","school251120181256","school131120182232","school151120180041","school191120180334","school021220181758","school021220181129","",""]
-slugSubcategory: "kickboxing"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "32"
-city: "Αθήνα"
+schools: [""]
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
+city: ""
+
 ---
 

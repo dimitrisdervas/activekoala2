@@ -1,12 +1,15 @@
 ---
-title: "Παραδοσιακοί Χοροί"
-slug: "paradosiakoi-xoroi"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Παραδοσιακοί Χοροί
+category: Χορός
+schools: [""]
+slug: paradosiakoi-xoroi
+slugCategory: xoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

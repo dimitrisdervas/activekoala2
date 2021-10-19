@@ -1,10 +1,12 @@
 ---
-title: |
-   Παραδοσιακοί Χοροί
+title: Παραδοσιακοί Χοροί
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "paradosiakoi-xoroi"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: paradosiakoi-xoroi
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

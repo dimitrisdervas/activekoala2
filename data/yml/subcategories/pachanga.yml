@@ -1,12 +1,15 @@
 ---
-title: "Pachanga"
-slug: "pachanga"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Pachanga
+category: Χορός
+schools: [""]
+slug: pachanga
+slugCategory: xoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,10 +1,12 @@
 ---
-title: |
-   Flying
+title: Flying
+category: Υπαιθρίες Δραστηριότητες
 schools: [""]
-category: "Υπαιθρίες Δραστηριότητες"
-slug: "flying"
-slugCategory: "ypaithries-drastiriotites"
-schoolscount: "0"
+slug: flying
+slugCategory: ypaithries-drastiriotites
+schoolscount: 0
+
 ---
+
+
 

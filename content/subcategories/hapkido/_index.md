@@ -1,10 +1,12 @@
 ---
-title: |
-   Hapkido
-schools: ["school191120181422","school131120182329","school151120180627","school141120180710"]
-category: "Πολεμικές τέχνες"
-slug: "hapkido"
-slugCategory: "polemikes-texnes"
-schoolscount: "4"
+title: Hapkido
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: hapkido
+slugCategory: polemikes-texnes
+schoolscount: 1
+
 ---
+
+
 

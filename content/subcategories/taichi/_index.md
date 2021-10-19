@@ -1,10 +1,12 @@
 ---
-title: |
-   Tai Chi
-schools: ["school201120180753","school241120181812"]
-category: "Πολεμικές τέχνες"
-slug: "taichi"
-slugCategory: "polemikes-texnes"
-schoolscount: "2"
+title: Tai Chi
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: taichi
+slugCategory: polemikes-texnes
+schoolscount: 1
+
 ---
+
+
 

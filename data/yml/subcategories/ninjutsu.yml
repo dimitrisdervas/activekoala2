@@ -1,12 +1,15 @@
 ---
-title: "Ninjutsu"
-slug: "ninjutsu"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "7"
-schools: ["school281120181924", "school131120182315", "school181120180836", "school161120182036", "school211120182105", "", ""]
-athensschools: ["school131120182315","school161120182036","school211120182105","",""]
-athensschoolscount: "5"
-thessschools: ["school281120181924","school181120180836"]
-thessschoolscount: "2"
+
+title: Ninjutsu
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: ninjutsu
+slugCategory: polemikes-texnes
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

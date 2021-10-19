@@ -1,10 +1,12 @@
 ---
-title: |
-   Savate
-schools: ["school151120180124"]
-category: "Πολεμικές τέχνες"
-slug: "savate"
-slugCategory: "polemikes-texnes"
-schoolscount: "1"
+title: Savate
+category: Πολεμικές τέχνες
+schools: ["7042020140113school"]
+slug: savate
+slugCategory: polemikes-texnes
+schoolscount: 1
+
 ---
+
+
 

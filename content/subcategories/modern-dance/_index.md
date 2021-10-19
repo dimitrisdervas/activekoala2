@@ -1,10 +1,12 @@
 ---
-title: |
-   Μοντέρνος Χορός
-schools: ["school131120180153","school121120182300"]
-category: "Χορός"
-slug: "modern-dance"
-slugCategory: "xoros"
-schoolscount: "2"
+title: Μοντέρνος Χορός
+category: Χορός
+schools: ["7042020140113school"]
+slug: modern-dance
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

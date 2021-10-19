@@ -1,10 +1,12 @@
 ---
-title: |
-   Zωγραφική
+title: Zωγραφική
+category: Καλιτεχνικά
 schools: [""]
-category: "Καλιτεχνικά"
-slug: "zografiki"
-slugCategory: "kalitexnika"
-schoolscount: "0"
+slug: zografiki
+slugCategory: kalitexnika
+schoolscount: 0
+
 ---
+
+
 

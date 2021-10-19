@@ -1,12 +1,15 @@
 ---
-title: "Ωδείο"
-slug: "odeio"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
 
+title: Ωδείο
+category: Μουσική
+schools: [""]
+slug: odeio
+slugCategory: mousiki
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,11 +1,12 @@
 ---
 title: |
    Tai Chi
-schools: ["school201120180753","school241120181812"]
-slugSubcategory: "taichi"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "2"
-city: "Αθήνα"
+schools: [""]
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
+city: ""
+
 ---
 

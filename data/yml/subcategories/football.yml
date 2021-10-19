@@ -1,12 +1,15 @@
 ---
-title: "Ποδόσφαιρο"
-slug: "football"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "4"
-schools: ["school171120181339", "school021220181339", "school021220182329", "school021220180822"]
-athensschools: ["school171120181339","school021220182329","school021220180822"]
-athensschoolscount: "3"
-thessschools: ["school021220181339"]
-thessschoolscount: "1"
+
+title: Ποδόσφαιρο
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: football
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

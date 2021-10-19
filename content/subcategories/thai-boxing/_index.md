@@ -1,10 +1,12 @@
 ---
-title: |
-   Thai Boxing
+title: Thai Boxing
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "thai-boxing"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: thai-boxing
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

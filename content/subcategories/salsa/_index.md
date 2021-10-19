@@ -1,10 +1,12 @@
 ---
-title: |
-   Salsa
-schools: ["school131120180056","school131120180139"]
-category: "Χορός"
-slug: "salsa"
-slugCategory: "xoros"
-schoolscount: "2"
+title: Salsa
+category: Χορός
+schools: ["7042020140113school","7042020140113school"]
+slug: salsa
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

@@ -1,10 +1,12 @@
 ---
-title: |
-   Natural Movement
+title: Natural Movement
+category: Αθλητισμός
 schools: [""]
-category: "Αθλητισμός"
-slug: "natural-movement"
-slugCategory: "athlitismos"
-schoolscount: "0"
+slug: natural-movement
+slugCategory: athlitismos
+schoolscount: 0
+
 ---
+
+
 

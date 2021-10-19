@@ -1,12 +1,15 @@
 ---
-title: "Thai Boxing"
-slug: "thai-boxing"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
 
+title: Thai Boxing
+category: Πολεμικές τέχνες
+schools: [""]
+slug: thai-boxing
+slugCategory: polemikes-texnes
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

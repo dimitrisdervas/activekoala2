@@ -1,7 +1,8 @@
 ---
-title: "Παιδαγωγικά + Καλιτεχνικά"
-slug: "paidagogika-kallitexnika"
-subcategory: ["","","","","","","","","","","","","","","",""]
-slugsubcategory: ["ergastiri-xorou"]
-schoolscount: "31"
+title: Παιδαγωγικά  Καλιτεχνικά
+schools: [""]
+subcategory: [""]
+slugCategory: "paidagogika-kallitexnika"
+slugSubcategory: ["ergastiri-xorou","zwgrafiki","skitsocomic","plektiki","makramekosmima","diakosmitikaconstructions","koptikiraptiki"]
+countschools: 0
 ---

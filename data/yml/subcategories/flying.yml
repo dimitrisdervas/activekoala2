@@ -1,12 +1,15 @@
 ---
-title: "Flying"
-slug: "flying"
-category: "Υπαιθρίες Δραστηριότητες"
-slugCategory: "ypaithries-drastiriotites"
-schoolscount: "0"
 
+title: Flying
+category: Υπαιθρίες Δραστηριότητες
+schools: [""]
+slug: flying
+slugCategory: ypaithries-drastiriotites
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

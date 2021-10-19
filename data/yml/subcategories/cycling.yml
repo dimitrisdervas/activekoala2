@@ -1,12 +1,15 @@
 ---
-title: "Ποδηλασία"
-slug: "cycling"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "13"
-schools: ["school021220180027", "", "school021220180236", "school181120182120", "school011220181505", "school021220180222", "school011220181520", "school011220181548", "school011220181603", "school211120181715", "school011220181617", "school011220181632", "school021220180320"]
-athensschools: ["school021220180027","","school021220180236","school181120182120","school021220180222","school211120181715"]
-athensschoolscount: "6"
-thessschools: ["school011220181505","school011220181520","school011220181548","school011220181603","school011220181617","school011220181632","school021220180320"]
-thessschoolscount: "7"
+
+title: Ποδηλασία
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: cycling
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

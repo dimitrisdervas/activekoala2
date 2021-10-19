@@ -1,12 +1,15 @@
 ---
-title: "Μουσική Προπαιδεία"
-slug: "mousiki-propaidia"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
 
+title: Μουσική Προπαιδεία
+category: Μουσική
+schools: [""]
+slug: mousiki-propaidia
+slugCategory: mousiki
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

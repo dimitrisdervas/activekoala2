@@ -1,12 +1,15 @@
 ---
-title: "Personal Trainer"
-slug: "personal-trainer"
-category: "Κλειστού Χώρου"
-slugCategory: "kleistou-xorou"
-schoolscount: "6"
-schools: ["school221120181758", "school191120181227", "school201120180710", "school131120180012", "school211120180515", "school181120180208"]
-athensschools: ["school221120181758","school191120181227","school201120180710","school131120180012","school211120180515","school181120180208"]
-athensschoolscount: "6"
+
+title: Personal Trainer
+category: Κλειστού Χώρου
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: personal-trainer
+slugCategory: kleistou-xorou
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

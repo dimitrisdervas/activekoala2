@@ -1,10 +1,12 @@
 ---
-title: |
-   Ski
-schools: ["school231120181715","school021220181924"]
-category: "Βουνό"
-slug: "ski"
-slugCategory: "athlimata-vounou"
-schoolscount: "2"
+title: Ski
+category: Βουνό
+schools: ["7042020140113school","7042020140113school"]
+slug: ski
+slugCategory: athlimata-vounou
+schoolscount: 1
+
 ---
+
+
 

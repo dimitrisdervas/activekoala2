@@ -2,10 +2,11 @@
 title: |
    Ωδείο
 schools: [""]
-slugSubcategory: "odeio"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
 city: ""
+
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: "Swing"
-slug: "swing"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "1"
-schools: ["school131120180348"]
-athensschools: ["school131120180348"]
-athensschoolscount: "1"
+
+title: Swing
+category: Χορός
+schools: ["7042020140113school"]
+slug: swing
+slugCategory: xoros
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

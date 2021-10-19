@@ -1,10 +1,12 @@
 ---
-title: |
-   Άρση Βαρών
-schools: ["school021220181241"]
-category: "Αθλητισμός"
-slug: "lifting"
-slugCategory: "athlitismos"
-schoolscount: "1"
+title: Άρση Βαρών
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: lifting
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

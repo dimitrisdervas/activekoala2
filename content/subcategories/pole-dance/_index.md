@@ -1,10 +1,12 @@
 ---
-title: |
-   Pole Dance
-schools: ["school131120180041","school131120180320","school131120180208","school131120180334"]
-category: "Χορός"
-slug: "pole-dance"
-slugCategory: "xoros"
-schoolscount: "4"
+title: Pole Dance
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: pole-dance
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

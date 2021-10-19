@@ -2,10 +2,11 @@
 title: |
    Self-Defense
 schools: [""]
-slugSubcategory: "self-defense"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
 city: ""
+
 ---
 

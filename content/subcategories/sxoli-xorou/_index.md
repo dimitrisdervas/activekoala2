@@ -1,10 +1,12 @@
 ---
-title: |
-   Σχολή Χορού
-schools: ["school151120181715","school161120180432","school271120180056"]
-category: "Χορός"
-slug: "sxoli-xorou"
-slugCategory: "xoros"
-schoolscount: "3"
+title: Σχολή Χορού
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: sxoli-xorou
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

@@ -2,10 +2,11 @@
 title: |
    Wing Chun
 schools: [""]
-slugSubcategory: "wing-chun"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
 city: ""
+
 ---
 

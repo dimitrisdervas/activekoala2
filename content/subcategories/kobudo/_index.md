@@ -1,10 +1,12 @@
 ---
-title: |
-   Kobudo
+title: Kobudo
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "kobudo"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: kobudo
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

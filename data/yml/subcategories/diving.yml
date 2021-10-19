@@ -1,12 +1,15 @@
 ---
-title: "Κατάδυση"
-slug: "diving"
-category: "Θάλασσα"
-slugCategory: "water-sports"
-schoolscount: "2"
-schools: ["school241120180446", "school211120182148"]
-athensschools: ["school241120180446","school211120182148"]
-athensschoolscount: "2"
+
+title: Κατάδυση
+category: Θάλασσα
+schools: ["7042020140113school","7042020140113school"]
+slug: diving
+slugCategory: water-sports
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

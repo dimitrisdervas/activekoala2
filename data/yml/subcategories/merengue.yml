@@ -1,12 +1,15 @@
 ---
-title: "Merengue"
-slug: "merengue"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Merengue
+category: Χορός
+schools: [""]
+slug: merengue
+slugCategory: xoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

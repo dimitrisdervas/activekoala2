@@ -1,10 +1,12 @@
 ---
-title: |
-   Μουσική Προπαιδεία
+title: Μουσική Προπαιδεία
+category: Μουσική
 schools: [""]
-category: "Μουσική"
-slug: "mousiki-propaidia"
-slugCategory: "mousiki"
-schoolscount: "0"
+slug: mousiki-propaidia
+slugCategory: mousiki
+schoolscount: 0
+
 ---
+
+
 

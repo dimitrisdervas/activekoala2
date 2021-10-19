@@ -1,12 +1,15 @@
 ---
-title: "Tang Soo Do"
-slug: "tang-soo-do"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "2"
-schools: ["school161120182022", "school241120181353"]
-athensschools: ["school161120182022","school241120181353"]
-athensschoolscount: "2"
+
+title: Tang Soo Do
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school"]
+slug: tang-soo-do
+slugCategory: polemikes-texnes
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,10 +1,12 @@
 ---
-title: |
-   Merengue
+title: Merengue
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "merengue"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: merengue
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

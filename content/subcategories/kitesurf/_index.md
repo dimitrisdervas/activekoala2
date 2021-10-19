@@ -1,10 +1,12 @@
 ---
-title: |
-   Kitesurf
-schools: ["school251120181715"]
-category: "Θάλασσα"
-slug: "kitesurf"
-slugCategory: "water-sports"
-schoolscount: "1"
+title: Kitesurf
+category: Θάλασσα
+schools: ["7042020140113school"]
+slug: kitesurf
+slugCategory: water-sports
+schoolscount: 1
+
 ---
+
+
 

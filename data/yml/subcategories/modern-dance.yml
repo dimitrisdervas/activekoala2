@@ -1,12 +1,15 @@
 ---
-title: "Μοντέρνος Χορός"
-slug: "modern-dance"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "2"
-schools: ["school131120180153", "school121120182300"]
-athensschools: ["school131120180153","school121120182300"]
-athensschoolscount: "2"
+
+title: Μοντέρνος Χορός
+category: Χορός
+schools: ["7042020140113school"]
+slug: modern-dance
+slugCategory: xoros
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

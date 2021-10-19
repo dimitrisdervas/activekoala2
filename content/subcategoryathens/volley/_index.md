@@ -1,11 +1,12 @@
 ---
 title: |
    Volley
-schools: ["school241120180334","school221120182105","school231120181408","school171120181144","school161120181744","school181120180124","school191120181758","school171120181827","school211120181632","school221120181100","school151120182120","school151120182134","school201120182232","school231120181422","school151120182217","school161120181256","school171120181158","school211120181256","school271120180208","school191120181715","school151120182300","school271120180334","school021220181841","school021220181700","school021220180905","school231120180656"]
-slugSubcategory: "volley"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "26"
-city: "Αθήνα"
+schools: [""]
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
+city: ""
+
 ---
 

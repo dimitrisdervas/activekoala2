@@ -1,10 +1,12 @@
 ---
-title: |
-   Χώρος Τέχνης
-schools: ["school231120180124"]
-category: "Πολυχώρος"
-slug: "xoros-texnis"
-slugCategory: "polyxoros"
-schoolscount: "1"
+title: Χώρος Τέχνης
+category: Πολυχώρος
+schools: ["7042020140113school"]
+slug: xoros-texnis
+slugCategory: polyxoros
+schoolscount: 1
+
 ---
+
+
 

@@ -1,10 +1,12 @@
 ---
-title: |
-   Robotics
-schools: [""]
-category: "Εκπαιδευτικά"
-slug: "robotics"
-slugCategory: "ekpaideutika"
-schoolscount: "0"
+title: Robotics
+category: Εκπαιδευτικά
+schools: ["7042020140113school","7042020140113school"]
+slug: robotics
+slugCategory: ekpaideutika
+schoolscount: 1
+
 ---
+
+
 

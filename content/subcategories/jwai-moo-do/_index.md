@@ -1,10 +1,12 @@
 ---
-title: |
-   Hwal Moo Do
+title: Hwal Moo Do
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "jwai-moo-do"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: jwai-moo-do
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

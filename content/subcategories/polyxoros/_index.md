@@ -1,10 +1,12 @@
 ---
-title: |
-   Στέγη Πολιτισμού
+title: Στέγη Πολιτισμού
+category: Πολυχώρος
 schools: [""]
-category: "Πολυχώρος"
-slug: "polyxoros"
-slugCategory: "polyxoros"
-schoolscount: "0"
+slug: polyxoros
+slugCategory: polyxoros
+schoolscount: 0
+
 ---
+
+
 

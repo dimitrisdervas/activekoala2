@@ -1,11 +1,12 @@
 ---
 title: |
    Cha Cha Cha
-schools: ["school131120180222"]
-slugSubcategory: "cha-cha-cha"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "1"
-city: "Αθήνα"
+schools: [""]
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
+city: ""
+
 ---
 

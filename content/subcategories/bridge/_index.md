@@ -1,10 +1,12 @@
 ---
-title: |
-   Bridge
-schools: ["school021220180613"]
-category: "Αθλητισμός"
-slug: "bridge"
-slugCategory: "athlitismos"
-schoolscount: "1"
+title: Bridge
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: bridge
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

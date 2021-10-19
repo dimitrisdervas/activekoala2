@@ -1,10 +1,12 @@
 ---
-title: |
-   Μπαλέτο
-schools: ["school271120182329","school021220180934"]
-category: "Χορός"
-slug: "balet"
-slugCategory: "xoros"
-schoolscount: "2"
+title: Μπαλέτο
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: balet
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

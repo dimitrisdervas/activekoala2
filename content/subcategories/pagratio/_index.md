@@ -1,10 +1,12 @@
 ---
-title: |
-   Παγκράτιο
+title: Παγκράτιο
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "pagratio"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: pagratio
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

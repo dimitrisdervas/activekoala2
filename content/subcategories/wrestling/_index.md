@@ -1,10 +1,12 @@
 ---
-title: |
-   Πάλη
-schools: ["school021220181534","school011220180027","school021220181910","school021220181256"]
-category: "Αθλητισμός"
-slug: "wrestling"
-slugCategory: "athlitismos"
-schoolscount: "4"
+title: Πάλη
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: wrestling
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

@@ -1,10 +1,12 @@
 ---
-title: |
-   Κωπηλασία
-schools: ["school021220180614","school021220180622","school021220181617",""]
-category: "Αθλητισμός"
-slug: "rowing"
-slugCategory: "athlitismos"
-schoolscount: "4"
+title: Κωπηλασία
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: rowing
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

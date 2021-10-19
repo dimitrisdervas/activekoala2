@@ -1,7 +1,8 @@
 ---
-title: "Βουνό"
-slug: "athlimata-vounou"
-subcategory: ["","school171120181422"]
-slugsubcategory: ["ski"]
-schoolscount: "3"
+title: Βουνό
+schools: ["7042020140113school"]
+subcategory: ["Climbing","Ski","Ποδηλασία"]
+slugCategory: "athlimata-vounou"
+slugSubcategory: ["ski"]
+countschools: 1
 ---

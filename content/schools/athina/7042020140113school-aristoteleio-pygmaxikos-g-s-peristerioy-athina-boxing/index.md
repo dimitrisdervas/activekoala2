@@ -1,0 +1,31 @@
+---
+title: "Αριστοτέλειο Πυγμαχικός Γ.Σ Περιστερίου-Αθήνα-Boxing"
+
+facebook: ""
+
+website: ""
+organisation: "Αριστοτέλειο Πυγμαχικός Γ.Σ Περιστερίου"
+facebookorg: "https://www.facebook.com/aristoteleio.boxing"
+websiteorg: "no"
+UID: "7042020140113school"
+cities: ["Αθήνα"]
+perioxi: ""
+address: ""
+
+places: [""]
+categories: ["Πολεμικές τέχνες"]
+subcategories: ["Boxing"]
+categoryNoSLug: ["polemikes-texnes"]
+subcategoriesNoSLug: ["boxing"]
+
+orgUID: "org14042020000220"
+
+url: "aristoteleio-pygmaxikos-g-s-peristerioy-athina-boxing/athina"
+slug: "aristoteleio-pygmaxikos-g-s-peristerioy-athina-boxing"
+aliases:
+    - /7042020140113school
+---
+
+
+
+

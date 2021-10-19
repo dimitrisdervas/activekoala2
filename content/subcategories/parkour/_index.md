@@ -1,10 +1,12 @@
 ---
-title: |
-   Παρκούρ
-schools: ["school011220180320","school011220181227","school011220181212"]
-category: "Αθλητισμός"
-slug: "parkour"
-slugCategory: "athlitismos"
-schoolscount: "3"
+title: Παρκούρ
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: parkour
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

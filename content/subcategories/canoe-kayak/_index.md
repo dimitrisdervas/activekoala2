@@ -1,10 +1,12 @@
 ---
-title: |
-   Κάνοε-Καγιάκ
-schools: ["school021220180617","school021220180620","school021220181646"]
-category: "Θάλασσα"
-slug: "canoe-kayak"
-slugCategory: "water-sports"
-schoolscount: "3"
+title: Κάνοε-Καγιάκ
+category: Θάλασσα
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: canoe-kayak
+slugCategory: water-sports
+schoolscount: 1
+
 ---
+
+
 

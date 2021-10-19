@@ -1,7 +1,8 @@
 ---
-title: "Καλιτεχνικά"
-slug: "kalitexnika"
+title: Καλιτεχνικά
+schools: [""]
 subcategory: [""]
-slugsubcategory: ["zografiki","ergastiri-kalitexniko","theatro"]
-schoolscount: "0"
+slugCategory: "kalitexnika"
+slugSubcategory: ["zografiki","ergastiri-kalitexniko","theatro"]
+countschools: 0
 ---

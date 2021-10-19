@@ -1,10 +1,12 @@
 ---
-title: |
-   Cross Fit
-schools: ["","","","","school171120181353","school221120182008","","","","school241120180403","","","","school231120181353","school181120180612","","","","school241120180641","","","","","","school241120180153","school221120180222",""]
-category: "Κλειστού Χώρου"
-slug: "crossfit"
-slugCategory: "kleistou-xorou"
-schoolscount: "27"
+title: Cross Fit
+category: Κλειστού Χώρου
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: crossfit
+slugCategory: kleistou-xorou
+schoolscount: 1
+
 ---
+
+
 

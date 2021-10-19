@@ -1,12 +1,15 @@
 ---
-title: "Παγκράτιο"
-slug: "pagratio"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
 
+title: Παγκράτιο
+category: Πολεμικές τέχνες
+schools: [""]
+slug: pagratio
+slugCategory: polemikes-texnes
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

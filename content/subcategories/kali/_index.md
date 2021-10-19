@@ -1,10 +1,12 @@
 ---
-title: |
-   Kali
-schools: ["school231120182246"]
-category: "Πολεμικές τέχνες"
-slug: "kali"
-slugCategory: "polemikes-texnes"
-schoolscount: "1"
+title: Kali
+category: Πολεμικές τέχνες
+schools: ["7042020140113school"]
+slug: kali
+slugCategory: polemikes-texnes
+schoolscount: 1
+
 ---
+
+
 

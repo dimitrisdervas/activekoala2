@@ -1,12 +1,15 @@
 ---
-title: "Padel Tennis"
-slug: "padel-tennis"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "2"
-schools: ["", ""]
-athensschools: ["",""]
-athensschoolscount: "2"
+
+title: Padel Tennis
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: padel-tennis
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

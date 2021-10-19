@@ -1,12 +1,15 @@
 ---
-title: "Sanda"
-slug: "sanda"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "2"
-schools: ["school131120180808", "school151120180753"]
-athensschools: ["school131120180808","school151120180753"]
-athensschoolscount: "2"
+
+title: Sanda
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: sanda
+slugCategory: polemikes-texnes
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

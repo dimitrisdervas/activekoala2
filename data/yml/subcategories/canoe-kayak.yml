@@ -1,12 +1,15 @@
 ---
-title: "Κάνοε-Καγιάκ"
-slug: "canoe-kayak"
-category: "Θάλασσα"
-slugCategory: "water-sports"
-schoolscount: "3"
-schools: ["school021220180617", "school021220180620", "school021220181646"]
-athensschools: ["school021220181646"]
-athensschoolscount: "1"
-thessschools: ["school021220180617","school021220180620"]
-thessschoolscount: "2"
+
+title: Κάνοε-Καγιάκ
+category: Θάλασσα
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: canoe-kayak
+slugCategory: water-sports
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

@@ -2,10 +2,11 @@
 title: |
    Μουσική Σχολή
 schools: [""]
-slugSubcategory: "mousiki-sxoli"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
+slugSubcategory: ""
+category: ""
+slugCategory: ""
+schoolscount: ""
 city: ""
+
 ---
 

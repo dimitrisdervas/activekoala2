@@ -1,10 +1,12 @@
 ---
-title: |
-   Αφρικάνικος Χορός
+title: Αφρικάνικος Χορός
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "african-dance"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: african-dance
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

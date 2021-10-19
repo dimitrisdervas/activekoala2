@@ -1,10 +1,12 @@
 ---
-title: |
-   Oriental
+title: Oriental
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "oriental"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: oriental
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

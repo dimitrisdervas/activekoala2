@@ -1,10 +1,12 @@
 ---
-title: |
-   Ποδόσφαιρο
-schools: ["school171120181339","school021220181339","school021220182329","school021220180822"]
-category: "Αθλητισμός"
-slug: "football"
-slugCategory: "athlitismos"
-schoolscount: "4"
+title: Ποδόσφαιρο
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: football
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

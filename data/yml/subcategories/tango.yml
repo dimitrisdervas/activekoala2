@@ -1,12 +1,15 @@
 ---
-title: "Τάνγκο"
-slug: "tango"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "4"
-schools: ["school131120180110", "school121120182344", "school121120182246", "school131120180027"]
-athensschools: ["school131120180110","school121120182344","school121120182246","school131120180027"]
-athensschoolscount: "4"
+
+title: Τάνγκο
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: tango
+slugCategory: xoros
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

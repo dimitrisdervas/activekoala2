@@ -1,10 +1,12 @@
 ---
-title: |
-   Pilates
-schools: ["school191120182134","school231120180836","school181120181827","school191120180041","school221120181603"]
-category: "Κλειστού Χώρου"
-slug: "pilates"
-slugCategory: "kleistou-xorou"
-schoolscount: "5"
+title: Pilates
+category: Κλειστού Χώρου
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: pilates
+slugCategory: kleistou-xorou
+schoolscount: 1
+
 ---
+
+
 

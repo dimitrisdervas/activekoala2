@@ -1,12 +1,15 @@
 ---
-title: "Άρση Βαρών"
-slug: "lifting"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "1"
-schools: ["school021220181241"]
-athensschools: ["school021220181241"]
-athensschoolscount: "1"
+
+title: Άρση Βαρών
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: lifting
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

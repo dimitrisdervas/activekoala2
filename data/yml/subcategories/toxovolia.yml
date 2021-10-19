@@ -1,12 +1,15 @@
 ---
-title: "Τοξοβολία"
-slug: "toxovolia"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "3"
-schools: ["school191120181408", "school021220180334", "school021220181032"]
-athensschools: ["school191120181408","school021220180334","school021220181032"]
-athensschoolscount: "3"
+
+title: Τοξοβολία
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: toxovolia
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

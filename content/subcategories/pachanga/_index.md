@@ -1,10 +1,12 @@
 ---
-title: |
-   Pachanga
+title: Pachanga
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "pachanga"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: pachanga
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

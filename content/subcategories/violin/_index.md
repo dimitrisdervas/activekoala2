@@ -1,10 +1,12 @@
 ---
-title: |
-   Βιολί
+title: Βιολί
+category: Μουσική
 schools: [""]
-category: "Μουσική"
-slug: "violin"
-slugCategory: "mousiki"
-schoolscount: "0"
+slug: violin
+slugCategory: mousiki
+schoolscount: 0
+
 ---
+
+
 

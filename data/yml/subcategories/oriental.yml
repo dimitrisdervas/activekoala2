@@ -1,12 +1,15 @@
 ---
-title: "Oriental"
-slug: "oriental"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Oriental
+category: Χορός
+schools: [""]
+slug: oriental
+slugCategory: xoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

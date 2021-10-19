@@ -1,10 +1,12 @@
 ---
-title: |
-   Zumba
+title: Zumba
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "zumba"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: zumba
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

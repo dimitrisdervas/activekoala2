@@ -1,10 +1,12 @@
 ---
-title: |
-   Ξιφασκία
-schools: ["","school231120180056","school251120181144","","","","school131120182120","school021220180948"]
-category: "Αθλητισμός"
-slug: "fencing"
-slugCategory: "athlitismos"
-schoolscount: "8"
+title: Ξιφασκία
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: fencing
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

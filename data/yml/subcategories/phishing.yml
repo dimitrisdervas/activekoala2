@@ -1,12 +1,15 @@
 ---
-title: "Ψάρεμα"
-slug: "phishing"
-category: "Θάλασσα"
-slugCategory: "water-sports"
-schoolscount: "1"
-schools: ["school021220182105"]
-athensschools: ["school021220182105"]
-athensschoolscount: "1"
+
+title: Ψάρεμα
+category: Θάλασσα
+schools: [""]
+slug: phishing
+slugCategory: water-sports
+schoolscount: 0
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

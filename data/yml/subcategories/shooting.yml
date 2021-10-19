@@ -1,12 +1,15 @@
 ---
-title: "Σκοποβολή"
-slug: "shooting"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "1"
-schools: ["school021220181227"]
-athensschools: ["school021220181227"]
-athensschoolscount: "1"
+
+title: Σκοποβολή
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: shooting
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,12 +1,15 @@
 ---
-title: "Μπαλέτο"
-slug: "balet"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "2"
-schools: ["school271120182329", "school021220180934"]
-athensschools: ["school021220180934"]
-athensschoolscount: "1"
-thessschools: ["school271120182329"]
-thessschoolscount: "1"
+
+title: Μπαλέτο
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: balet
+slugCategory: xoros
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

@@ -1,12 +1,15 @@
 ---
-title: "Badminton"
-slug: "badminton"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "1"
-schools: ["school021220181212"]
-athensschools: ["school021220181212"]
-athensschoolscount: "1"
+
+title: Badminton
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: badminton
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

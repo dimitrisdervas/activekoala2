@@ -1,15 +1,21 @@
 ---
-title: "Kobudo"
-slug: "kobudo"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
 
+title: Kobudo
+category: Πολεμικές τέχνες
+schools: [""]
+slug: kobudo
+slugCategory: polemikes-texnes
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
----ount: "2"
+schoolscount: 
+--- NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

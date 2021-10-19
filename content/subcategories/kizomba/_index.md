@@ -1,10 +1,12 @@
 ---
-title: |
-   Kizomba
+title: Kizomba
+category: Χορός
 schools: [""]
-category: "Χορός"
-slug: "kizomba"
-slugCategory: "xoros"
-schoolscount: "0"
+slug: kizomba
+slugCategory: xoros
+schoolscount: 0
+
 ---
+
+
 

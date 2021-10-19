@@ -1,10 +1,12 @@
 ---
-title: |
-   Cha Cha Cha
-schools: ["school131120180222"]
-category: "Χορός"
-slug: "cha-cha-cha"
-slugCategory: "xoros"
-schoolscount: "1"
+title: Cha Cha Cha
+category: Χορός
+schools: ["7042020140113school"]
+slug: cha-cha-cha
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

@@ -1,12 +1,15 @@
 ---
-title: "MMA"
-slug: "mma"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "13"
-schools: ["school241120180612", "school151120180934", "school211120180656", "school141120181017", "school141120182300", "school131120181436", "school151120180056", "school141120180056", "school131120181953", "school131120180529", "school231120180348", "school151120180710", "school221120180724"]
-athensschools: ["school241120180612","school151120180934","school211120180656","school141120181017","school141120182300","school131120181436","school151120180056","school141120180056","school131120181953","school131120180529","school231120180348","school151120180710","school221120180724"]
-athensschoolscount: "13"
+
+title: MMA
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: mma
+slugCategory: polemikes-texnes
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,12 +1,15 @@
 ---
-title: "Natural Movement"
-slug: "natural-movement"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "0"
 
+title: Natural Movement
+category: Αθλητισμός
+schools: [""]
+slug: natural-movement
+slugCategory: athlitismos
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

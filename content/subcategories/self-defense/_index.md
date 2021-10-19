@@ -1,10 +1,12 @@
 ---
-title: |
-   Self-Defense
+title: Self-Defense
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "self-defense"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: self-defense
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

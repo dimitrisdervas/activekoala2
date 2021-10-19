@@ -1,12 +1,15 @@
 ---
-title: "Studio χορού"
-slug: "studio-xorou"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "0"
 
+title: Studio χορού
+category: Χορός
+schools: ["7042020140113school"]
+slug: studio-xorou
+slugCategory: xoros
+schoolscount: 1
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

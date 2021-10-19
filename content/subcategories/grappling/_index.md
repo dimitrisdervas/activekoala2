@@ -1,10 +1,12 @@
 ---
-title: |
-   Grappling
+title: Grappling
+category: Πολεμικές τέχνες
 schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "grappling"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+slug: grappling
+slugCategory: polemikes-texnes
+schoolscount: 0
+
 ---
+
+
 

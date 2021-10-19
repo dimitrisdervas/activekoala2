@@ -1,10 +1,12 @@
 ---
-title: |
-   Iaido
-schools: [""]
-category: "Πολεμικές τέχνες"
-slug: "iaido"
-slugCategory: "polemikes-texnes"
-schoolscount: "0"
+title: Iaido
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school"]
+slug: iaido
+slugCategory: polemikes-texnes
+schoolscount: 1
+
 ---
+
+
 

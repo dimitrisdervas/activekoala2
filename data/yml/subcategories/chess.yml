@@ -1,12 +1,15 @@
 ---
-title: "Σκάκι"
-slug: "chess"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "1"
-schools: ["school021220181520"]
+
+title: Σκάκι
+category: Κλειστού Χώρου
+schools: ["7042020140113school","7042020140113school","7042020140113school"]
+slug: chess
+slugCategory: kleistou-xorou
+schoolscount: 1
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
-thessschools: ["school021220181520"]
-thessschoolscount: "1"
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

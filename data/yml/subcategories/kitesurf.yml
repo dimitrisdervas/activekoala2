@@ -1,12 +1,15 @@
 ---
-title: "Kitesurf"
-slug: "kitesurf"
-category: "Θάλασσα"
-slugCategory: "water-sports"
-schoolscount: "1"
-schools: ["school251120181715"]
-athensschools: ["school251120181715"]
-athensschoolscount: "1"
+
+title: Kitesurf
+category: Θάλασσα
+schools: ["7042020140113school"]
+slug: kitesurf
+slugCategory: water-sports
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,12 +1,15 @@
 ---
-title: "Tai Chi"
-slug: "taichi"
-category: "Πολεμικές τέχνες"
-slugCategory: "polemikes-texnes"
-schoolscount: "2"
-schools: ["school201120180753", "school241120181812"]
-athensschools: ["school201120180753","school241120181812"]
-athensschoolscount: "2"
+
+title: Tai Chi
+category: Πολεμικές τέχνες
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: taichi
+slugCategory: polemikes-texnes
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,10 +1,12 @@
 ---
-title: |
-   Basket
-schools: ["school251120180446","school021220181324","school021220181939","","school021220182203","school171120180139","school021220181603","school021220180808"]
-category: "Αθλητισμός"
-slug: "basket"
-slugCategory: "athlitismos"
-schoolscount: "8"
+title: Basket
+category: Κλειστού Χώρου
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: basket
+slugCategory: kleistou-xorou
+schoolscount: 1
+
 ---
+
+
 

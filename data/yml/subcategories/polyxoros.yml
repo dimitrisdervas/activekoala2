@@ -1,12 +1,15 @@
 ---
-title: "Στέγη Πολιτισμού"
-slug: "polyxoros"
-category: "Πολυχώρος"
-slugCategory: "polyxoros"
-schoolscount: "0"
 
+title: Στέγη Πολιτισμού
+category: Πολυχώρος
+schools: [""]
+slug: polyxoros
+slugCategory: polyxoros
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

@@ -1,12 +1,15 @@
 ---
-title: "Beach Volley"
-slug: "beachvolley"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "1"
-schools: ["school021220181841"]
-athensschools: ["school021220181841"]
-athensschoolscount: "1"
+
+title: Beach Volley
+category: Αθλητισμός
+schools: ["7042020140113school"]
+slug: beachvolley
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

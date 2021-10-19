@@ -1,10 +1,12 @@
 ---
-title: |
-   Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών
+title: Κέντρο Δημιουργικής ΑπασχόλησηςΠαιδιών
+category: Εκπαιδευτικά
 schools: [""]
-category: "Εκπαιδευτικά"
-slug: "dimiourgiki-apasxolisi"
-slugCategory: "ekpaideutika"
-schoolscount: "0"
+slug: dimiourgiki-apasxolisi
+slugCategory: ekpaideutika
+schoolscount: 0
+
 ---
+
+
 

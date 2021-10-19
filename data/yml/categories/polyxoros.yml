@@ -1,7 +1,8 @@
 ---
-title: "Πολυχώρος"
-slug: "polyxoros"
+title: Πολυχώρος
+schools: [""]
 subcategory: [""]
-slugsubcategory: ["polyxoros","xoros-texnis"]
-schoolscount: "0"
+slugCategory: "polyxoros"
+slugSubcategory: ["polyxoros","xoros-texnis"]
+countschools: 0
 ---

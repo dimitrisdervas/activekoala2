@@ -1,12 +1,15 @@
 ---
-title: "Handball"
-slug: "handball"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "6"
-schools: ["", "", "school011220181953", "school021220181744", "school021220181046", ""]
-athensschools: ["school011220181953","school021220181744","school021220181046"]
-athensschoolscount: "3"
-thessschools: ["","",""]
-thessschoolscount: "3"
+
+title: Handball
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: handball
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---

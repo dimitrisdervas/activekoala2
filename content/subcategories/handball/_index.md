@@ -1,10 +1,12 @@
 ---
-title: |
-   Handball
-schools: ["","","school011220181953","school021220181744","school021220181046",""]
-category: "Αθλητισμός"
-slug: "handball"
-slugCategory: "athlitismos"
-schoolscount: "6"
+title: Handball
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: handball
+slugCategory: athlitismos
+schoolscount: 1
+
 ---
+
+
 

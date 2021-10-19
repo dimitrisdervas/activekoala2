@@ -1,12 +1,15 @@
 ---
-title: "Ping Pong"
-slug: "ping-pong"
-category: "Αθλητισμός"
-slugCategory: "athlitismos"
-schoolscount: "4"
-schools: ["school201120181227", "", "school021220181729", "school021220181017"]
-athensschools: ["school201120181227","school021220181729","school021220181017"]
-athensschoolscount: "3"
+
+title: Ping Pong
+category: Αθλητισμός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: ping-pong
+slugCategory: athlitismos
+schoolscount: 1
+city: NaN
+athensschools: [""]
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "1"
+schoolscount: 
 ---

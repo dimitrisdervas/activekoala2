@@ -1,10 +1,12 @@
 ---
-title: |
-   Bachata
-schools: ["school131120180236"]
-category: "Χορός"
-slug: "bachata"
-slugCategory: "xoros"
-schoolscount: "1"
+title: Bachata
+category: Χορός
+schools: ["7042020140113school"]
+slug: bachata
+slugCategory: xoros
+schoolscount: 1
+
 ---
+
+
 

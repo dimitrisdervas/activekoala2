@@ -1,12 +1,15 @@
 ---
-title: "Βιολί"
-slug: "violin"
-category: "Μουσική"
-slugCategory: "mousiki"
-schoolscount: "0"
 
+title: Βιολί
+category: Μουσική
+schools: [""]
+slug: violin
+slugCategory: mousiki
+schoolscount: 0
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
+schoolscount: 
+city: 
 thessschools: [""]
-thessschoolscount: "0"
+schoolscount: 
 ---

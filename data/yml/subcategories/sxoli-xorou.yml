@@ -1,12 +1,15 @@
 ---
-title: "Σχολή Χορού"
-slug: "sxoli-xorou"
-category: "Χορός"
-slugCategory: "xoros"
-schoolscount: "3"
-schools: ["school151120181715", "school161120180432", "school271120180056"]
+
+title: Σχολή Χορού
+category: Χορός
+schools: ["7042020140113school","7042020140113school","7042020140113school","7042020140113school"]
+slug: sxoli-xorou
+slugCategory: xoros
+schoolscount: 1
+city: NaN
 athensschools: [""]
-athensschoolscount: "0"
-thessschools: ["school151120181715","school161120180432","school271120180056"]
-thessschoolscount: "3"
+schoolscount: 
+city: 
+thessschools: [""]
+schoolscount: 
 ---
