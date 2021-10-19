@@ -1,0 +1,29 @@
+<div class="flex flex-col">
+<div class="flex"><h2 class="w-48">ALL TAxonomomies</h2><div class="flex-1">Current Page Taxonomies </div></div>
+{{ range $index , $taxonomies := $.Site.Taxonomies }}
+    {{ $pageCollections := $index }}
+    <div class=" flex " >
+    <a class="bg-gray-100 px-2 py-2 w-48" href="{{ $index | relLangURL }}" target="_blank" >{{ $index}} </a>
+    {{ range $index, $params:=$.Params }}
+        {{ if eq $index $pageCollections }}
+        <div class="bg-gray-100 px-2 py-2 flex-1"> yes / {{ . }} / {{ len . }}</div>
+        {{ end }}
+    {{ end }}
+    </div>
+{{ end }}
+</div>
+
+{{ if eq .Kind "term"}}
+    <h2 class="text-3xl bold">Term Variables</h2>
+    <div class="term variables"><span class="text-lg"> Data.Singula</span>: {{.Data.Singular}}</div>
+
+    <div class="term variables"><span class="text-lg"> Data.Plura</span>: {{.Data.Plural}}</div>
+
+    <div class="term variables"><span class="text-lg"> Data.Page</span>: {{.Data.Pages}}</div>
+
+    <div class="term variables"><span class="text-lg"> Data.Term</span>: {{.Data.Terms}}</div>
+
+    <div class="term variables"><span class="text-lg"> Data.Terms.Alphabetica</span>: {{.Data.Terms.Alphabetical}}</div>
+
+    <div class="term variables"><span class="text-lg"> Data.Terms.ByCoun</span>: {{.Data.Terms.ByCount}}</div>
+{{end }}

@@ -43,14 +43,15 @@ gulp.task('md:athenscategories', function() {
               })
 
             var templateData = {
-                category: items[1],
-                Courses: items[2],
-                slugCategory: items[5],                
-                city: items[8], 
-                SchoolsUID : items[9],
-                subcategory : items[10],                
-                slugSubcategories: items[11],
-                schoolscount: items[12],
+title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
+athenscity : items[7],
+athensschools : items[8],
+athenscount : items[9],
             };
 
 
@@ -59,7 +60,7 @@ gulp.task('md:athenscategories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: athenscategoriesPath.collection + "/" + templateData.slugCategory,
+                    dirname: athenscategoriesPath.collection + "/" + templateData.slug,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -80,14 +81,15 @@ gulp.task('yml:athenscategories', function() {
             var items = rows[i]
 
             var templateData = {
-                category: items[1],
-                Courses: items[2],
-                slugCategory: items[5],                
-                city: items[8], 
-                SchoolsUID : items[9],
-                subcategory : items[10],                
-                slugSubcategories: items[11],
-                schoolscount: items[12],
+title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
+athenscity : items[7],
+athensschools : items[8],
+athenscount : items[9],
             };
 
 

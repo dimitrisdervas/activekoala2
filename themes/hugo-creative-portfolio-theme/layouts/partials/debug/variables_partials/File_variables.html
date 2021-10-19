@@ -1,0 +1,48 @@
+<div class="flex justify-around flex-wrap">
+<div class="one--liners flex flex-col">
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File</h2>
+    <div class="px-2">{{.File}}</div>
+  </div>
+  {{ with .File }}
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">.File.Path</h2>
+    <div class="px-2">{{.Path}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">.File.LogicalName</h2>
+    <div class="px-2">{{.LogicalName}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.TranslationBaseName</h2>
+    <div class="px-2">{{.TranslationBaseName}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.ContentBaseName</h2>
+    <div class="px-2">{{.ContentBaseName}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.BaseFileName</h2>
+    <div class="px-2">{{.BaseFileName}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.Ext</h2>
+    <div class="px-2">{{.Ext}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.Lang</h2>
+    <div class="px-2">{{.Lang}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.Dir</h2>
+    <div class="px-2">{{.Dir}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">File.UniqueID</h2>
+    <div class="px-2">{{.UniqueID}}</div>
+  </div>
+    </div>
+    {{ end }}
+    {{/* END   ONELINER  */}}
+    </div>
+

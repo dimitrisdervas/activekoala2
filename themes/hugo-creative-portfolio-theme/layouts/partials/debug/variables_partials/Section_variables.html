@@ -1,0 +1,54 @@
+<div class="flex justify-around flex-wrap">
+<div class="one--liners flex flex-col">
+
+SECTION VARIABLES 
+
+    <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">FirstSection</h2>
+      <div class="px-2">{{.FirstSection }}</div>
+    </div>
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Parent</h2>
+      <div class="px-2">{{.Parent }}</div>
+    </div>
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Section</h2>
+      <div class="px-2">{{.Section }}</div>
+    </div>
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Sections</h2>
+      <div class="px-2">{{.Sections }}</div>
+    </div>
+
+PAGE VARIABLES
+{{ partial "debug/variables_partials/File_variables.html" . }}
+PAGE VARIABLES
+{{ partial "debug/variables_partials/Page_variables.html" . }}
+
+    </div>
+{{/* END   ONELINER  */}}
+<div class="flex flex-wrap">
+
+    <div class="flex flex-col">
+        <h2>.Pages</h2>
+        {{ range first 5 .Pages}}
+
+        <a class="text-pink-800 w-full" href="{{.Permalink}}">{{ .Permalink }}</a>
+        {{ end }}
+    </div>
+        <div class="flex flex-col">
+            <h2>.RegularPages</h2>
+        {{ range first 5 .RegularPages}}
+        <a class="text-pink-800 w-full" href="{{.Permalink}}">{{ .Permalink }}</a>
+        {{ end }}
+    </div>
+        <div class="flex flex-col">
+            <h2>.RegularPagesRecursive</h2>
+        {{ range first 5 .RegularPagesRecursive}}
+        <a class="text-pink-800 w-full" href="{{.Permalink}}">{{ .Permalink }}</a>
+        {{ end }}
+    </div>
+</div>
+
+  </div>
+

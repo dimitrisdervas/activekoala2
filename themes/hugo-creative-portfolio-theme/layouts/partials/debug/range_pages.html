@@ -1,0 +1,20 @@
+{{/*  LAYOUT Structure   */}}
+{{ range (readDir "layouts") }}
+    {{ .Name }}
+{{ end }}
+
+
+ {{ partial "debug/variables_partials/Taxonomies_variables.html" . }}
+
+{{ if eq .Kind "page"}}
+    {{ partial "debug/variables_partials/Page_variables.html" . }}
+{{ end }}
+
+
+{{ if eq .Kind "section"}}
+    {{ partial "debug/variables_partials/Section_variables.html" . }}
+{{ end }}
+
+{{ partial "debug/functions_strings.html" . }}
+
+{{ partial "debug/templates_debug" (dict "Which" .Kind "Type" .Type "Template" (.Scratch.Get "templatePath" )) }}

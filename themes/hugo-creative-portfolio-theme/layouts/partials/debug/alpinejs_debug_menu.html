@@ -1,0 +1,187 @@
+{{ if eq hugo.Environment "development" }}
+<div class="flex justify-around flex-wrap border px-2 m-2"
+x-cloak
+    x-data="{
+        top : false,
+        pageVariables : false,
+        frontmatter: false
+    }"
+    >
+
+    <div class="fixed z-50 overflow-scroll top-0 right-0 w-96 h-full bg-white p-2 shadow-lg " 
+    x-show="frontmatter" 
+    @click.away="frontmatter = false">
+        <div class="">            
+                    {{ $curCtx := .Params }}
+                    {{ if reflect.IsSlice $curCtx }}
+
+                            <div class="text-xl bold py-2">FrontMatter .Params {{ len $curCtx }}</div>
+                            <ul class="list-debug-hugo">
+                                {{ range $curCtx }}
+                                    {{ partial "helpers/debug-tables/debug-helpers/expand-var" (dict "value" .) }}
+                                {{ end }}
+                            </ul>
+                    {{ else if reflect.IsMap $curCtx }}
+                            <div class="text-xl bold py-2">FrontMatter .Params {{ len $curCtx }}</div>
+                            <ul class="list-debug-hugo">
+                                {{ range $key, $value := $curCtx }}
+                                    {{ partial "helpers/debug-tables/debug-helpers/expand-var" (dict "key" $key "value" $value) }}
+                                {{ end }}
+                            </ul>
+                    {{ else }}
+                        {{ partial "helpers/debug-tables/debug-helpers/expand-var" (dict "value" $curCtx) }}
+                    {{ end }}
+            </div>
+        </div>
+
+    <div    class="fixed z-50 overflow-scroll top-0 right-0 w-96 h-full bg-white p-2 shadow-lg " 
+            x-show="pageVariables" 
+            @click.away="pageVariables = false">
+
+    
+
+        <div class="flex justify-start flex-wrap px-2">
+
+            {{/*  Template to edit
+            File in Content to change
+            Frontmatter 
+            if term show taxonmy variables  */}}
+
+
+            {{ if .IsSection }}
+                <h2 class="w-full py-2 px-2">This Page is a Section </br> Number of Pages  {{ len .Pages}}</h2>
+                 <h2 class="bg-gray-100 px-2 w-full py-1"> {{ .Title }}</h2>
+                <div class="">
+                     <h2 class="bg-gray-100 px-2 w-full py-1">Pages that belong to the Section</h2>
+                    <div class="bg-gray-100 px-2 w-full py-1">range  .Pages /  .RelPermalink </div>
+                    {{ range  .Pages }}
+                        <a class="variable_value text-xs w-full py-1 border-b hover:bg-gray-100" href="{{.RelPermalink}}"> {{.RelPermalink }}</a></br>
+                    {{end }}
+                    </div>
+
+                        <div class="flex flex-col">
+                            <h2 class="bg-gray-100 px-2 w-full py-1">.RegularPages</h2>
+                        {{ range first 5 .RegularPages}}
+                        <a class="variable_value text-xs w-full py-1 border-b hover:bg-gray-100"  href="{{.RelPermalink}}">{{ .RelPermalink }}</a>
+                        {{ end }}
+                    </div>
+                        <div class="flex flex-col">
+                            <h2 class="bg-gray-100 px-2 w-full py-1">.RegularPagesRecursive</h2>
+                        {{ range first 5 .RegularPagesRecursive}}
+                        <a class="variable_value text-xs w-full py-1 border-b hover:bg-gray-100"  href="{{.RelPermalink}}">{{ .RelPermalink }}</a>
+                        {{ end }}
+                    </div>
+
+                    
+
+            {{ end}}
+
+
+            <div class=" flex flex-wrap w-full">
+                <div class="w-full page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .RelPermalink <div class="variable_value"> {{.RelPermalink }}</div>
+                </div>
+
+            <div class="squares w-full">
+                 <h2 class="bg-gray-100 px-2 w-full py-1">Checks</h2>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Page.BundleType<div class="variable_value"> {{ .Page.BundleType }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Type <div class="variable_value"> {{.Type }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Weight <div class="variable_value"> {{.Weight }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Draft <div class="variable_value"> {{.Draft }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Kind <div class="variable_value"> {{.Kind }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Language <div class="variable_value"> {{.Language }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsHome <div class="variable_value"> {{.IsHome }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsNode <div class="variable_value"> {{.IsNode }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsPage <div class="variable_value"> {{.IsPage }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsSection <div class="variable_value"> {{.IsSection }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsTranslated <div class="variable_value"> {{.IsTranslated }}</div></div>
+                </div>
+
+
+
+
+            <div class="squares w-full">
+                 <h2 class="bg-gray-100 px-2 w-full py-1">Translations</h2>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Language <div class="variable_value"> {{.Language }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .IsTranslated <div class="variable_value"> {{.IsTranslated }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Translations <div class="variable_value"> {{.Translations }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .TranslationKey <div class="variable_value"> {{.TranslationKey }}</div></div>
+                </div>
+
+
+            <div class="squares w-full">
+                 <h2 class="bg-gray-100 px-2 w-full py-1">Links</h2>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Title <div class="variable_value"> {{.Title }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .LinkTitle <div class="variable_value"> {{.LinkTitle }}</div></div>
+                <div class="page-variables text-sm flex w-full flex-wrap w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Permalink <div class="variable_value w-full"> {{.Permalink }}</div></div>
+                <div class="page-variables text-sm flex w-full flex-wrap w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .RelPermalink <div class="variable_value w-full"> {{.RelPermalink }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> .Aliases <div class="variable_value"> {{.Aliases }}</div></div>
+    
+                </div>
+
+
+            <div class="squares w-full">
+                 <h2 class="bg-gray-100 px-2 w-full py-1">FIle Variables</h2>
+                 {{ with .File }}
+                <div class="page-variables text-sm flex flex-wrap w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File <div class="variable_value w-full"> {{ . }}</div></div>
+                <div class="page-variables text-sm flex flex-wrap w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.Path <div class="variable_value w-full">{{ .Path }}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.LogicalName <div class="variable_value"> {{.LogicalName}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.TranslationBaseName <div class="variable_value"> {{.TranslationBaseName}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.ContentBaseName <div class="variable_value"> {{.ContentBaseName}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.BaseFileName <div class="variable_value"> {{.BaseFileName}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.Ext <div class="variable_value"> {{.Ext}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.Lang <div class="variable_value"> {{.Lang}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.Dir <div class="variable_value"> {{.Dir}}</div></div>
+                <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1">.File.UniqueID <div class="variable_value"> {{.UniqueID}}</div></div>
+                {{ end }}
+            </div>
+
+                <div class="squares w-full">
+                     <h2 class="bg-gray-100 px-2 w-full py-1">In Section</h2>
+                    <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> Next <div class="variable_value"> {{.Next }}</div></div>
+                    <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> Prev <div class="variable_value"> {{.Prev }}</div></div>
+                    <div class="page-variables text-sm flex w-full justify-between border-b pb-1 hover:bg-gray-100 px-1"> PrevInSection <div class="variable_value"> {{.PrevInSection }}</div></div>
+                    </div>
+
+        </div>
+    </div>
+    </div>
+{{/*  BUTTONS  */}}
+
+        <div class="bg-gray-100 fixed top-0 left-0 flex justify-between items-center shadow-lg">
+
+
+            <button 
+            class="  px-8 py-2 z-50 bg-yellow-500 opacity-40 hover:opacity-100"
+            @click="top = true"
+            >Debug
+            </button>
+
+            <div x-show="top">
+                <button
+                class="hover:bg-pink-800 hover:text-white mx-2 px-2 py-2"
+                x-on:click="pageVariables = true"
+                x-on:click.away="pageVariables = false">Page Variables</button>
+
+                <button
+                class="hover:bg-pink-800 hover:text-white mx-2 px-2 py-2"
+                x-on:click="frontmatter = true"
+                x-on:click.away="frontmatter = false">FrontMatter</button>
+
+                <a class="hover:bg-pink-800 hover:text-white mx-2 px-2 py-2" target="_blank"
+                href="/debug/alltaxonomies/">All Taxonomies</a>
+
+                <a class="hover:bg-pink-800 hover:text-white mx-2 px-2 py-2" target="_blank"
+                href="/debug/allpages/">All Pages</a>
+
+                <button 
+                class="hover:bg-gray-800 hover:text-white px-4 text-sm"
+                @click="top = false">close</button>
+            </div>
+        </div>
+        
+
+        
+ 
+
+</div>
+{{ end }}

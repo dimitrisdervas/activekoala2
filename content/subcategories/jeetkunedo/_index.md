@@ -1,0 +1,12 @@
+---
+title: Jeet Kune Do
+category: Πολεμικές τέχνες
+schools: ["7042020140113school"]
+slug: jeetkunedo
+slugCategory: polemikes-texnes
+schoolscount: 1
+
+---
+
+
+

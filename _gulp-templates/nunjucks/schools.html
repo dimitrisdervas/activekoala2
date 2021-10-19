@@ -1,26 +1,26 @@
 ---
-title: {{schools}}
+title: "{{schools}}"
 
-facebook:{{school_facebook| replace("http://", "") | replace("https://", "") }}
+facebook: "{{school_facebook}}"
 
-website:{{school_website| replace("http://", "") | replace("https://", "") }}
-organisation: {{organisation}}
-facebookorg:{{Org_Facebook| replace("http://", "") | replace("https://", "") }}
-websiteorg:{{Org_Website| replace("http://", "") | replace("https://", "") }}
+website: "{{school_website}}"
+organisation: "{{organisation}}"
+facebookorg: "{{org_facebook}}"
+websiteorg: "{{org_website}}"
 UID: "{{schooluid}}"
-cities: "{{city}}"
+cities: ["{{city| replace(',', '","' ) | safe  }}"]
 perioxi: "{{perioxi}}"
 address: "{{address}}"
 
 places: ["{{place| replace(',', '","' ) | safe  }}"]
-categories: ["{{category| replace(',', '","' ) | safe  }}"]
-subcategories: ["{{subcategory| replace(',', '","' ) | safe  }}"]
-categoryNoSLug: ["{{categorynoslug| replace(',', '","' ) | safe  }}"]
-subcategoriesNoSLug: ["{{subcategoriesnoslug| replace(',', '","' ) | safe  }}"]
+categories: ["{{categorynoslug| replace(',', '","' ) | safe  }}"]
+subcategories: ["{{subcategoriesnoslug| replace(',', '","' ) | safe  }}"]
+categoryNoSLug: ["{{category| replace(',', '","' ) | safe  }}"]
+subcategoriesNoSLug: ["{{subcategory| replace(',', '","' ) | safe  }}"]
 
-orgUID: {{organisation_uid}}
+orgUID: "{{organisation_uid}}"
 
-url: "{{schoolTranslit}}/{{cityTranslit}}/{{categories}}/{{ subcategories | replace(',', '","' ) | safe  }}"
+url: "{{schoolTranslit}}/{{cityTranslit}}"
 slug: "{{schoolTranslit}}"
 aliases:
     - /{{schooluid}}

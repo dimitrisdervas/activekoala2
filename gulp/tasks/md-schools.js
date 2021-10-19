@@ -38,58 +38,41 @@ gulp.task('md:schools', function() {
         for(var i = 1; i < (rows.length)-1; i++) {
             var items = rows[i]
          // https://gist.github.com/antonreshetov/c41a13cfb878a3101196c3a62de81778
-            var cityTranslit = translit(items[2], {
+            var cityTranslit = translit(items[10], {
                 lang: 'en'
               })
             var schoolTranslit = translit(items[1], {
                 lang: 'en'
               })
-            var orgTranslit = translit(items[7], {
+            var orgTranslit = translit(items[6], {
                 lang: 'en'
               })
-            var orgURL = items[38] + "-" + orgTranslit
+            var orgURL = items[20] + "-" + orgTranslit
 
 
             var templateData = {
-                school : items[1],
-                cities : items[2],
-                perioxi : items[3],
-                category : items[4],
-                subcategory : items[5],
-                customCategory : items[6],
-                organization : items[7],
-                facebook : items[8],
-                website : items[9],
-                logo : items[10],
-                address : items[11],
-                zipcode : items[12],
-                phone : items[13],
-                email : items[14],
-                courses : items[15],
-                place : items[16],
-                rensponsible : items[17],
-                description : items[18],
-                verified : items[19],
-                mapblock : items[20],
-                yearCreated : items[21],
-                dataOrigin : items[22],
-                mobile : items[23],
-                type : items[24],
-                toPublish : items[25],
-                UID : items[26],
-                facebookID : items[27],
-                profilePhoto : items[28],
-                coverPhoto : items[29],
-                userID : items[30],
-                dateAdded : items[31],
-                slugCategories : items[32],
-                slugSubcategories : items[33],
-                longitude : items[34],
-                latitude : items[35],
-                Fetchrss : items[36],
-                about: items[41],
-                organisationid: items[38],
-                organisation: items[7],
+                schools : items[1],
+                time : items[2],
+                school_facebook : items[3],
+                school_facebook_id : items[4],
+                school_website : items[5],
+                organisation : items[6],
+                org_facebook : items[7],
+                org_website : items[8],
+                schooluid : items[9],
+                city : items[10],
+                perioxi : items[11],
+                address : items[12],
+                create_place : items[13],
+                place : items[14],
+                categorynoslug : items[15],
+                subcategoriesnoslug : items[16],
+                category : items[17],
+                subcategory : items[18],
+                organisationmeselect : items[19],
+                organisation_uid : items[20],
+                courses : items[21],
+                published : items[22],
                 orgurl: orgURL,
                 schoolTranslit : schoolTranslit,
                 cityTranslit : cityTranslit
@@ -103,7 +86,7 @@ gulp.task('md:schools', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: schoolsPath.collection +'/'+ cityTranslit + '/' + items[26] + "-" + schoolTranslit,
+                    dirname: schoolsPath.collection +'/'+ cityTranslit + '/' + items[9] + "-" + schoolTranslit,
                     basename: "index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));

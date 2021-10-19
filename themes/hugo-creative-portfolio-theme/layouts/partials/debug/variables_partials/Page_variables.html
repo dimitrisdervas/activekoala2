@@ -1,0 +1,177 @@
+<div class="flex justify-around flex-wrap">
+<div class="one--liners flex flex-col">
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">Title</h2>
+    <div class="px-2">{{.Title}}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">Kind</h2>
+    <div class="px-2">{{.Kind }}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">Type</h2>
+    <div class="px-2">{{.Type }}</div>
+  </div>
+                  <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">CurrentSection</h2>
+      <div class="px-2">{{.CurrentSection }}</div>
+    </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">IsHome</h2>
+    <div class="px-2">{{.IsHome }}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">IsNode</h2>
+    <div class="px-2">{{.IsNode }}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">IsPage</h2>
+    <div class="px-2">{{.IsPage }}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">IsSection</h2>
+    <div class="px-2">{{.IsSection }}</div>
+  </div>
+  <div class="inline-flex items-center">
+    <h2 class="py-2 bg-gray-100 px-2 bold">Draft</h2>
+    <div class="px-2">{{.Draft }}</div>
+  </div>
+
+    <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">LinkTitle</h2>
+      <div class="px-2">{{.LinkTitle }}</div>
+    </div>
+
+Translations
+<div class="w-full flex flex-wrap ">
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 bold">.Language</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.Language }} </div>
+    </div>
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 bold">.IsTranslated</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.IsTranslated }} </div>
+    </div>
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 bold">.Translations</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.Translations }} </div>
+    </div>
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 bold">.TranslationKey</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.TranslationKey }} </div>
+    </div>
+</div>
+
+PATHS 
+<div class="w-full flex flex-wrap ">
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 bold">.RelPermalink</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.RelPermalink }} </div>
+      {{ partial "debug/strings_in_use/paths.html" .RelPermalink }}
+    </div>
+        <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Permalink</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.Permalink }}</div>
+      {{ partial "debug/strings_in_use/paths.html" .Permalink }}
+    </div>
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Path</h2>
+      <div class="text-sm bg-white h-24 w-full px-1 flex items-center">{{.Path }}</div>
+      {{ partial "debug/strings_in_use/paths.html" .Path }}
+    </div>
+       
+</div>
+
+
+ <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">DIR</h2>
+      {{ with .File }}
+      <div class="px-2">{{.Dir }}</div>
+      {{ end }}
+
+    </div>
+    <div class="flex flex-col flex-1  bg-gray-100 border p-4 items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Aliases</h2>
+      <div class="px-2">{{.Aliases }}</div>
+
+    </div>
+
+
+        <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Next</h2>
+      <div class="px-2">{{.Next }}</div>
+    </div>
+            <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Prev</h2>
+      <div class="px-2">{{.Prev }}</div>
+    </div>
+            <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">PrevInSection</h2>
+      <div class="px-2">{{.PrevInSection }}</div>
+    </div>
+            <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Weight</h2>
+      <div class="px-2">{{.Weight }}</div>
+    </div>
+
+
+            <div class="inline-flex items-center">
+
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Data</h2>
+      <div class="px-2">{{.Data }}</div>
+    </div>
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Resources</h2>
+      <div class="px-2">{{.Resources }}</div>
+    </div>
+                <div class="inline-flex items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">AlternativeOutputFormats</h2>
+      <div class="px-2">{{.AlternativeOutputFormats }}</div>
+    </div>
+
+CONTENTS
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Summary</h2>
+      <div class="px-2">{{.Summary }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">RawContent</h2>
+      <div class="px-2">{{.RawContent }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">ReadingTime</h2>
+      <div class="px-2">{{.ReadingTime }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">FuzzyWordCount</h2>
+      <div class="px-2">{{.FuzzyWordCount }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Content</h2>
+      <div class="px-2">{{.Content }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Description</h2>
+      <div class="px-2">{{.Description }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">Truncated</h2>
+      <div class="px-2">{{.Truncated }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">WordCount</h2>
+      <div class="px-2">{{.WordCount }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">PlainWords</h2>
+      <div class="px-2">{{.PlainWords }}</div>
+    </div>
+                <div class="items-center">
+      <h2 class="py-2 bg-gray-100 px-2 bold">TableOfContents</h2>
+      <div class="px-2">{{.TableOfContents }}</div>
+    </div>
+    </div>
+    {{/* END   ONELINER  */}}
+    </div>
+

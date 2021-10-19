@@ -43,13 +43,12 @@ gulp.task('md:categories', function() {
               })
 
             var templateData = {
-                category: items[1],
-                Courses: items[2],
-                SchoolsUID : items[3],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
-                schoolscount: items[7],
+title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
             };
 
 
@@ -58,7 +57,7 @@ gulp.task('md:categories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: categoriesPath.collection + "/" + templateData.slugCategory,
+                    dirname: categoriesPath.collection + "/" + templateData.slug,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -84,11 +83,12 @@ gulp.task('yml:categories', function() {
               })
 
             var templateData = {
-                category: items[1],
-                subcategory : items[4],
-                slugCategory: items[5],
-                slugSubcategories: items[6],
-                schoolscount: items[7],
+title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
             };
 
 
@@ -98,7 +98,7 @@ gulp.task('yml:categories', function() {
                 }))
                 .pipe(rename({
                     dirname: "data/yml/categories",
-                    basename: templateData.slugCategory,
+                    basename: templateData.slug,
                     extname: ".yml"}))
                 .pipe(gulp.dest('.'));
             }

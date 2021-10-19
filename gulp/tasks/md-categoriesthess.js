@@ -43,14 +43,15 @@ gulp.task('md:thesscategories', function() {
               })
 
             var templateData = {
-                category: items[1],
-                Courses: items[2],
-                slugCategory: items[5],
-                city: items[13],
-                SchoolsUID : items[14],
-                subcategory : items[15],
-                slugSubcategories: items[16],
-                schoolscount: items[17],
+  title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
+thesscity : items[10],
+thessschools : items[11],
+thesscount : items[12],
             };
 
 
@@ -59,7 +60,7 @@ gulp.task('md:thesscategories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: thesscategoriesPath.collection + "/" + templateData.slugCategory,
+                    dirname: thesscategoriesPath.collection + "/" + templateData.slug,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -80,14 +81,15 @@ gulp.task('yml:thesscategories', function() {
             var items = rows[i]
 
             var templateData = {
-                category: items[1],
-                Courses: items[2],
-                slugCategory: items[5],                
-                city: items[13], 
-                SchoolsUID : items[9],
-                subcategory : items[10],                
-                slugSubcategories: items[11],
-                schoolscount: items[12],
+  title : items[1],
+schools : items[2],
+subcategory : items[3],
+slug : items[4],
+slugsubcategory : items[5],
+countschools : items[6],
+thesscity : items[10],
+thessschools : items[11],
+thesscount : items[12],
             };
 
 

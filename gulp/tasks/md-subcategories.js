@@ -44,12 +44,12 @@ gulp.task('md:subcategories', function() {
               })
 
             var templateData = {
-                subcategory : items[1],
-                category: items[2],
-                SchoolsUID: items[3],
-                slugSubcategory:  items[4],
-                slugCategory: items[5],
-                schoolscount: items[6],
+subcategory : items[1],
+categories : items[2],
+schoolsuid : items[3],
+slugsubcategory : items[4],
+slugcategory : items[5],
+countschools : items[6],
             };
 
 
@@ -59,7 +59,7 @@ gulp.task('md:subcategories', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: subcategoriesPath.collection + "/" + templateData.slugSubcategory,
+                    dirname: subcategoriesPath.collection + "/" + templateData.slugsubcategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -85,13 +85,12 @@ gulp.task('md:subcategoryathens', function() {
               })
 
             var templateData = {
-                subcategory : items[1],
-                category: items[2],
-                SchoolsUID: items[8],
-                slugSubcategory:  items[4],
-                slugCategory: items[5],
-                schoolscount: items[9],
-                city: items[7],
+subcategory : items[1],
+categories : items[2],
+schoolsuid : items[3],
+slugsubcategory : items[4],
+slugcategory : items[5],
+countschools : items[6],
             };
 
 
@@ -101,7 +100,7 @@ gulp.task('md:subcategoryathens', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: 'content/subcategoryathens' + "/" + templateData.slugSubcategory,
+                    dirname: 'content/subcategoryathens' + "/" + templateData.slugsubcategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -133,7 +132,6 @@ gulp.task('md:subcategorythessaloniki', function() {
                 slugSubcategory:  items[4],
                 slugCategory: items[5],
                 schoolscount: items[12],
-                city: items[10],
             };
 
 
@@ -143,7 +141,7 @@ gulp.task('md:subcategorythessaloniki', function() {
                   data: templateData
                 }))
                 .pipe(rename({
-                    dirname: 'content/subcategorythessaloniki' + "/" + templateData.slugSubcategory,
+                    dirname: 'content/subcategorythessaloniki' + "/" + templateData.slugsubcategory,
                     basename: "_index",
                     extname: ".md"}))
                 .pipe(gulp.dest('.'));
@@ -169,16 +167,12 @@ gulp.task('yml:subcategories', function() {
               })
 
             var templateData = {
-                subcategory : items[1],
-                category: items[2],
-                slugSubcategory: items[4],
-                slugCategory : items[5],
-                schools: items[3],
-                schoolscount: items[6],
-                athensschools: items[8],
-                athensschoolscount: items[9],
-                thessschools: items[11],
-                thessschoolscount: items[12],
+subcategory : items[1],
+categories : items[2],
+schoolsuid : items[3],
+slugsubcategory : items[4],
+slugcategory : items[5],
+countschools : items[6],
             };
 
             gulp.src(subcategoriesPath.templateyml)
@@ -187,7 +181,7 @@ gulp.task('yml:subcategories', function() {
                 }))
                 .pipe(rename({
                     dirname: "data/yml/subcategories",
-                    basename: templateData.slugSubcategory,
+                    basename: templateData.slugsubcategory,
                     extname: ".yml"}))
                 .pipe(gulp.dest('.'));
             }

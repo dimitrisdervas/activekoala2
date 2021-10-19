@@ -1,0 +1,517 @@
+<div class="flex justify-between flex-wrap">
+<h2 id="-functions-quick-reference-https-gohugo-io-functions-" class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/">Functions Quick Reference</a></h2>
+</div>
+
+<div class="w-1/4 p-4 border">
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="http://donofden.com/blog/2019/09/20/golang-array-slice-map">Array vs Slice vs Map</a> ARRAYS Arrays hold collections of values that all share the same type. Index start with 0 SLICE A slice is like an array which is a container to hold elements of the same data type but slice can vary in size. slice is a composite data type and because it is composed of primitive data type. slice is a reference to an array. (slice when needed to store more data, creates a new array of appropriate length behind the scene to accommodate more data.) MAP We can use any type in map index, Whereas arrays and slices can only use integers as indexes, a map can use any type for a keys (As long as values of that type can be compared using ==). The values &amp; Keys all have to be of same type. But keys and values dont have to be the same type.</p>
+</div>
+
+<div>String TO USE {{ $string :=  .Title }}        
+{{ $stringPlaintext := ".Title" }} {{ $stringPlaintext}} </div>
+
+<div>Path to use {{ $path := .Path }}
+{{ $stringPlainpath := ".Path" }}{{$stringPlainpath}} </div>
+
+<div>Array to use {{ $array := .Path }}
+{{ $PlainArray := ".Pages" }}{{ $PlainArray }} </div>
+
+<div>Map to use {{ $map := .Path }}
+{{ $PlainMap := ".Pages" }}{{ $PlainMap }} </div>
+
+<div>Filename to use {{ $filename := .Filename }}
+{{ $Plainfilename := ".Filename"}}{{$Plainfilename}} </div>
+
+<div class="flex justify-between flex-wrap">
+    
+    <h1 class="w-full" id="strings">Strings Fuctions </h1>
+
+
+    <div class="w-1/4 p-4 border">
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/renderstring/">.RenderString</a>Renders markup to HTML.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.repeat/">strings.Repeat</a>Returns INPUT repeated COUNT times.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/anchorize/">anchorize</a>Takes a string and sanitizes it the same way as Blackfriday does for markdown headers.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="replace">REPLACE</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/replace/">replace</a>Replaces all occurrences of the search string with the replacement string.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; replace {{$stringPlaintext}} "a" "w"&#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ replace $string "a" "w"}} </div>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="split">SPLIT</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/split/">split</a>splits a string into substrings separated by a delimiter</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; split .Path "/" &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ split .Path "/" }} </div>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="slice">Slice</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/slice/">slicestr</a>Creates a slice of a half-open range, including start and end indices.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; split {{$stringPlaintext}} {{$stringPlaintext}} &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ split $string $string }} </div>
+</div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="shuffle">Shuffle</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/shuffle/">shuffle</a>Returns a random permutation of a given array or slice.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="html">HTML</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/plainify/">plainify</a>Strips any HTML and returns the plain text version of the provided string.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="check">Check</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/hasprefix/">hasPrefix</a>Tests whether a string begins with prefix.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; hasPrefix {{$stringPlaintext}} "Ed" &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ hasPrefix $string "Ed" }} </div>
+</div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="count">COUNT</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/countwords/">countwords</a>Counts the number of words in a string.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; countwords {{$stringPlaintext}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ countwords $string  }} </div>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="strings">Strings</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/string/">string</a> Creates a string from the argument passed to the function
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; {{$stringPlaintext}} {{$stringPlaintext}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ string $string  }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.count/">strings.Count</a> Returns the number of non-overlapping instances of a substring within a string.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | strings.Count "e"&#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | strings.Count "e"}} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.hassuffix/">strings.HasSuffix</a> Determine whether or not a given string ends with the provided trailing suffix string.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; strings.HasSuffix .Path  "md"&#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ strings.HasSuffix .Path  "md"}} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.repeat/">strings.Repeat</a> Returns INPUT repeated COUNT times.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; strings.Repeat 3 {{$stringPlaintext}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ strings.Repeat 3 $string  }} </div>
+    </p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="trim">TRIM</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/trim/">trim</a> Returns a slice of a passed string with all leading and trailing characters from cutset removed.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.trimleft/">strings.TrimLeft</a> Returns a slice of a given string with all leading characters contained in the cutset removed.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.trimprefix/">strings.TrimPrefix</a> Returns a given string s without the provided leading prefix string. If s doesn’t start with prefix, s is returned unchanged.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.trimright/">strings.TrimRight</a> Returns a slice of a given string with all trailing characters contained in the cutset removed.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.trimsuffix/">strings.TrimSuffix</a> Returns a given string s without the provided trailing suffix string. If s doesn’t end with suffix, s is returned unchanged.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/substr/">substr</a>Extracts parts of a string from a specified character’s position and returns the specified number of characters.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="text">Text</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/truncate/">truncate</a> Truncates a text to a max length without cutting words or leaving unclosed HTML tags. </p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  $string  | truncate 5 &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | truncate 5 }} </div>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="apperance-uppercase">Apperance uppercase</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/upper/">upper</a> Converts all characters in a string to uppercase
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | upper &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | upper }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/lower/">lower</a> Converts all characters in the provided string to lowercase.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | lower &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | lower }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/pluralize/">pluralize</a>Pluralizes the given word according to a set of common English pluralization rules
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | pluralize &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | pluralize }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/singularize/">singularize</a>Converts a word according to a set of common English singularization rules.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | singularize &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | singularize }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/title/">title</a>Converts all characters in the provided string to title case.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | title &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | title }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/chomp/">chomp</a>Removes any trailing newline characters.
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlaintext}}  | chomp &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $string  | chomp }} </div>
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/markdownify/">markdownify</a>Runs the provided string through the Markdown processor.
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  "**title** testing plain text"  | markdownify &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  "**title** testing plain text"  | markdownify }} </div>
+    
+    </p>
+
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="runes">RUNES</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/strings.runecount/">strings.RuneCount</a> Determines the number of runes in a string. Runes = runic alphabets before latin alphabet</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/countrunes/">countrunes</a>Determines the number of runes in a string excluding any whitespace.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="strings-to-numbers">strings to NUMBERS</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/int/">int - Integer</a> Creates an int from the argument passed into the function.Useful for turning strings into numbers.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/float/">float - FLOAT NUMBER</a>Creates a float from the argument passed into the function. class="flex flex-col" <a class="w-full text-pink-800 " href="https://floating-point-gui.de/formats/fp/">Float numbers</a></p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/numfmt/">lang.NumFmt</a>Formats a number with a given precision using the requested , , and options. The parameter is a string consisting of .</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="create-print-strings">Create - Print Strings</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/print/">print</a>Prints the string variable &#123;&#123;&#125;&#125;f the given arguments using the standard function.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/printf/">printf</a>Formats a string using the standard function.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/println/">println</a>Prints the string variable &#123;&#123;&#125;&#125;f the given argument using the standard function and enforces a linebreak.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 class="py-2 text-2xl bold" id="string-for-url">String for URl</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/querify/">querify</a>Takes a set of key-value pairs and returns a query string to be appended to URLs.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlaintext}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $string }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; querify "q" $string "page" 3 | safeURL &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ querify "q" $string "page" 3 | safeURL }} </div>
+    </div>
+
+</div>
+
+
+
+<div class="flex justify-between flex-wrap">
+    
+    <h1 class="w-full" id="map">MAP</h2>
+    <div class="w-1/4 p-4 border">
+    <h2 id="sort">Sort</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/sort/">sort</a></p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="group">Group</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/group/">group</a>groups a list of pages.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="two-arrays">TWO ARRAYS</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/symdiff/">symdiff - Differences</a>(alias ) returns the symmetric difference of two collections.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/complement/">complement - Values are not in any</a>(alias ) gives the elements of a collection that are not in any of the others.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/merge/">merge - Merge all values</a>deep merges two maps and returns the resulti  {{ $string }}n&#125;&#125;p.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/union/">union - Unite common</a>Given two arrays or slices, returns a new array that contains the elements or objects that belong to either or both arrays/slices.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/uniq/">uniq - UNIQUE</a>Takes in a slice or array and returns a slice with subsequent duplicate elements removed.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/intersect/">intersect - Common Elements</a>Returns the common elements of two arrays or slices.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="apply-fuction">Apply fuction</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/apply/">apply</a>Given a map, array, or slice, returns a new slice with a function applied over it.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="manipulate">Manipulate</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/after/">after</a>slices an array to only the items after the Nth item.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/append/">append</a>appends one or more values to a slice and returns the resulti  {{ $string }}n&#125;&#125;ice.</p>
+    </div>
+
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="iterate">Iterate</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/range/">range</a>Iterates over a map, array, or slice.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/with/">with</a>Rebinds the context (.) within its scope and skips the block if the variable is absent or empty.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/delimit/">delimit - to String</a>Loops through any array, slice, or map and returns a string of all the values separated by a delimiter.</p>
+        <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/first/">first</a>Slices an array to only the first elements.
+
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/last/">last</a>slices an array to only the last Nth elements.
+
+    </p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/slice/">slice</a>Creates a slice (array) of all passed arguments.
+
+    </p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="filters">Filters</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/where/">where</a>Filters an array to only the elements containing a matching value for a given field.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/index-function/">index - Index the keys</a>Looks up the index(es) or key(s) of the data structure passed into it.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="create-map-array">Create MAP ARRAY</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/seq/">seq</a> Creates a sequence of integers.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/transform.unmarshal/">transform.Unmarshal</a>(alias ) parses the input and converts it into a map or an array. Supported formats are JSON, TOML, YAML and CSV.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/dict/">dict - Dictionary</a>Creates a dictionary from a list of key and value pairs.</p>
+    </div>
+
+    <div class="w-1/4 p-4 border">
+    <h2 id="check-values">Check Values</h2>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/reflect.ismap/">reflect.IsMap</a>Reports if a value is a map.</p>
+    <p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/reflect.isslice/">reflect.IsSlice</a>Reports if a value is a slice.</p>
+    </div>
+
+
+
+
+<div class="w-1/4 p-4 border">    
+<h2 class="py-2 text-2xl bold" id="path"> Path</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/path.base/">path.Base</a>Base returns the last element of a path.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlainpath}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; path.Base  {{$stringPlainpath}}   &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  path.Base $path   }} </div>
+    </p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/path.dir/">path.Dir</a>Dir returns all but the last element of a path.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlainpath}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlainpath}}  | path.Dir &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ path.Dir $path }} </div>
+    </p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/path.ext/">path.Ext</a>Ext returns the file name extension of a path.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlainpath}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  {{$stringPlainpath}}  | path.Ext &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{  $path  | path.Ext }} </div>
+    </p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/path.join/">path.Join</a>Join path elements into a single path.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlainpath}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  path.Join {{$stringPlainpath}}  {{$stringPlainpath}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2">{{ path.Join $path  $path }} </div>
+    </p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/path.split/">path.Split</a>Split path immediately following the final slash.</p>
+    <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$stringPlainpath}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123; path.Split {{$stringPlainpath}}&#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2 flex flex-col">
+            <span>$dirFile := path.Split $path {{  $dirFile := path.Split $path  }}</span>
+            <span>$dirFile print  : {{ $dirFile    }}</span>
+            <span>$dirFile.Dir : {{ $dirFile.Dir}}</span>
+            <span>$dirFile.File : {{ $dirFile.File }}</span>
+        </div>
+    </p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="get-params-or-pages">Get Params or Pages</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/get/">.Get</a>Accesses positional and ordered parameters in shortcode declaration.
+ <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$Plainfilename}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  .Get {{$Plainfilename}}  {{$Plainfilename}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2"></div>
+</p>
+
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/getpage/">.GetPage</a>Gets a of a given .
+ <div class="flex flex-wrap py-4 bg-gray-100 px-2 ">
+        <span class="w-full">string variable: &#123;&#123;{{$Plainfilename}}&#125;&#125;</span>
+        <span class="w-full">result: {{ $path }}</span> </div>
+        <div class="bg-gray-200 my-2 py-4 px-2">&#123;&#123;  .GetPage {{$Plainfilename}}  {{$Plainfilename}}  &#125;&#125;</div> 
+        <div class="bg-gray-300 py-4 px-2"></div>
+</p>
+
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="conditionals">Conditionals</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/ge/">ge - great or equal</a>Returns the boolean truth of arg1 &gt;= arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/gt/">gt - greater</a> Returns the boolean truth of arg1 &gt; arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/le/">le - lower or equal</a> Returns the boolean truth of arg1 &lt;= arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/lt/">lt - lower</a>Returns the boolean truth of arg1 &lt; arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/ne/">ne - negative</a>Returns the boolean truth of arg1 != arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/eq/">eq</a>Returns the boolean truth of arg1 == arg2.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/in/">in</a>Checks if an element is in an array or slice–or a substring in a string—and returns a boolean.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/isset/">isset</a>Returns true if the parameter is set.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="variables">Variables</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/param/">.Param</a>Calls page or site variables into your template.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/render/">.Render</a>Takes a view to apply when rendering content.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/scratch/">.Scratch</a>Acts as a “scratchpad” to allow for writable page- or shortcode-scoped variables.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/echoparam/">echoParam</a>Prints a parameter if it is set.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/len/">len</a>Returns the length of a variable according to its type.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="time">Time</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/unix/">.Unix</a>.Unix returns the local Time corresponding to the given Unix time, sec seconds and nsec nanoseconds since January 1, 1970 UTC.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/dateformat/">dateFormat</a>Converts the textual representation of the into the specified format.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/adddate/">.AddDate</a>Returns the time corresponding to adding the given number of years, months, and days passed to the function.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/format/">.Format</a>Formats built-in Hugo dates—, , and —according to Go’s layout string.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/time/">time</a></p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="url">URL</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/abslangurl/">absLangURL</a>Adds the absolute URL with correct language prefix according to site configuration for multilingual.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/absurl/">absURL</a>Creates an absolute URL based on the configured baseURL.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/urls.parse/">urls.Parse</a>Parse parses a given url, which may be relative or absolute, into a URL structure.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/rellangurl/">relLangURL</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/relref/">relref</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/relurl/">relURL</a> urlize class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/urlize/"></a>urls.Parse class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/urls.parse/"></a>absLangURL class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/abslangurl/"></a>absURL class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/absurl/"></a>querif class="flex flex-col"y<a class="w-full text-pink-800 " href="https://gohugo.io/functions/querify/"></a></p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="if">IF</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/findre/">findRE</a>Returns a list of strings that match the regular expression.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="translation">Translation</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/i18n/">i18n</a>Translates a piece of content based on your i18n configuration files.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/lang.merge/">lang.Merge</a>Merge missing translations from other languages.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="images">Images</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/images/">Image Functions</a>The images namespace provides a list of filters and other image related functions.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="text">Text</h2>
+
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="math">Math</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/math/">Math</a>Hugo provides nine mathematical operators in templates.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="time">Time</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/now/">now</a>Returns the current local time</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/partialcached/">partialCached</a>Allows for caching of partials that do not need to be re-rendered on every invocation.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/plainify/">plainify</a>Strips any HTML and returns the plain text version of the provided string.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="directories-files">Directories - FILES</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/readdir/">readDir</a>Gets a directory listing from a directory relative to the current working directory.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/readfile/">readFile</a>Reads a file from disk relative to the current project working directory and returns a string.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/os.stat/">os.Stat</a>Gets a file information of a given path.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/fileexists/">fileExists</a>Checks whether a file exists under the given path.</p>
+<p>findR class="flex flex-col"E<a class="w-full text-pink-800 " href="https://gohugo.io/functions/findre/"></a></p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="links"> MArkdown - References</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/ref/">ref</a>Returns the absolute permalink to a page.
+
+</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/relref/">relref</a>Returns the relative permalink to a page.
+
+</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="replace">Replace</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/replace/">replace</a>Replaces all occurrences of the search string with the replacement string.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/replacere/">replaceRE</a>Replaces all occurrences of a regular expression with the replacement pattern.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="html-css-js-json">HTML,CSS, JS, JSON</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/highlight/">highlight</a>Takes a string of code and language declaration and uses Chroma to return syntax-highlighted HTML.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/htmlescape/">htmlEscape</a>Returns the given string with the reserved HTML codes escaped.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/htmlunescape/">htmlUnescape</a>Returns the given string with HTML escape codes un-escaped.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/humanize/">humanize</a>Returns the humanized version of an argument with the first letter capitalized.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/jsonify/">jsonify</a>Encodes a given object to JSON.</p>
+<p> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/safecss/">safeCSS</a> 
+<p></p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/safehtml/">safeHTML</a> 
+<p></p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/safehtmlattr/">safeHTMLAttr</a> 
+<p></p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/safejs/">safeJS</a>
+<p></p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/safeurl/">safeURL</a></p>
+<p></p></div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="menu">Menu</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/hasmenucurrent/">.HasMenuCurrent</a>.HasMenuCurrent is a method in Page object returning a boolean value. It returns true if the PAGE is the same object as the .Page in one of the children menu entries under MENUENTRY in a given MENU. You can find its example use in menu templates.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/ismenucurrent/">.IsMenuCurrent</a>.IsMenuCurrent is a method in Page object returning a boolean value. It returns true if the PAGE is the same object as the .Page in MENUENTRY in a given MENU. You can find its example use in menu templates.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="partial">Partial</h2>
+<p>partialCache class="flex flex-col"d<a class="w-full text-pink-800 " href="https://gohugo.io/functions/partialcached/"></a></p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="hugo-site">HUGO, SITE</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/getenv/">getenv</a>Returns the value of an environment variable.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/hugo/">hugo</a>The function provides easy access to Hugo-related data.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/site/">site</a>The function provides global access the same data as page method</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/adddate/">.AddDate</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/format/">.Format</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/render/">.Render</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/renderstring/">.RenderString</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/scratch/">.Scratch</a> class="flex flex-col" <a class="w-full text-pink-800 " href="https://gohugo.io/functions/unix/">.Unix</a></p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="security-_-hash">SECURITY _ HASH</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/sha/">sha - Secure Hash Algorithm</a> Hashes the given input and returns either an SHA1 or SHA256 checksum.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/md5/">md5</a>hashes the given input and returns its MD5 checksum.</p>
+</div>
+
+<div class="w-1/4 p-4 border">
+<h2 class="py-2 text-2xl bold" id="to-consider">To CONSIDER</h2>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/templates.exists/">templates.Exists</a>Checks whether a template file exists under the given path relative to the directory.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/errorf/">errorf and warnf</a>Log ERROR or WARNING from the templates.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/cond/">cond</a>Return one of two arguments, depending on the value of a third argument.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/hmac/">hmac</a>Compute the cryptographic checksum of a message.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/base64/">base64</a>and let you easily decode content with a base64 encoding and vice versa through pipes.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/string variable/">string variable</a>Allows setting a string variable &#123;&#123;value that can &#125;&#125;e returned if a first value is not set.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/emojify/">emojify</a>Runs a string through the Emoji emoticons processor.</p>
+<p class="flex flex-col"><a class="w-full text-pink-800 " href="https://gohugo.io/functions/echoparam/">echoParam</a></p>
+</div>
+
+</div>
